@@ -599,33 +599,33 @@
 #Visby (40000/10000 POPS)
 331 = {
     aristocrats = {
-        culture = swedish
+        culture = korsian
         religion = protestant
-        size = 100
+        size = 300
     }
 
     clergymen = {
-        culture = swedish
+        culture = korsian
         religion = protestant
-        size = 50
+        size = 250
     }
 
     artisans = {
-        culture = swedish
+        culture = korsian
         religion = protestant
-        size = 700
+        size = 1700
     }
 
     soldiers = {
-        culture = swedish
+        culture = korsian
         religion = protestant
-        size = 100
+        size = 2500
     }
 
     farmers = {
-        culture = swedish
+        culture = korsian
         religion = protestant
-        size = 9050
+        size = 12050
     }
 }
 #Kalmar (182000/45500 POPS)

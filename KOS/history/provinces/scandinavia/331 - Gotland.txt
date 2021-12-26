@@ -1,5 +1,5 @@
-owner = SWE
-controller = SWE
-add_core = SWE
+owner = KRS
+controller = KRS
+add_core = KRS
 trade_goods = silk
 life_rating = 35
