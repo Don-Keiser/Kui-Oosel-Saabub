@@ -1,5 +1,6 @@
-owner = NUM
-controller = NUM
+owner = BAV
+controller = BAV
+add_core = BAV
 add_core = NUM
 trade_goods = grain
 life_rating = 42
