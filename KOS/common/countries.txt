@@ -911,6 +911,8 @@ CIP		= "countries/Chippewa.txt"
 NVF		= "countries/Nouvelle France.txt"
 SIM		= "countries/Simmern.txt"
 JUL		= "countries/Julich.txt"
+CAP		= "countries/Capua.txt"
+SLR		= "countries/Salerno.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
