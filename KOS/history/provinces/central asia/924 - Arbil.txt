@@ -1,0 +1,6 @@
+owner = BHT
+controller = BHT
+add_core = BHT
+trade_goods = wool
+life_rating = 35
+terrain = steppe

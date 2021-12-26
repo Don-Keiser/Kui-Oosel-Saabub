@@ -1,0 +1,5 @@
+owner = LIV
+controller = LIV
+add_core = LIV
+trade_goods = fish
+life_rating = 35

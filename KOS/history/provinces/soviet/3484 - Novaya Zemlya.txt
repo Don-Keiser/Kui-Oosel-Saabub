@@ -1,0 +1,6 @@
+owner = NNT
+controller = NNT
+add_core = NNT
+trade_goods = fish
+terrain = montane_tundra
+life_rating = 10

@@ -1,0 +1,5 @@
+owner = WEI
+controller = WEI
+add_core = WEI
+trade_goods = grain
+life_rating = 40

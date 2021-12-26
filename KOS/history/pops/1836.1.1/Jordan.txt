@@ -1,0 +1,341 @@
+#Suriye Region (36000)  #see Syria.txt & Lebanon.txt for balance of region
+#under the rule of Egypt in 1836
+#Amman (20000/5000 POPS) #now part of Jordan
+908 = {
+    aristocrats = {
+        culture = nabataean
+        religion = syriac
+        size = 25
+    }
+
+    clergymen = {
+        culture = nabataean
+        religion = syriac
+        size = 100
+    }
+
+    artisans = {
+        culture = nabataean
+        religion = syriac
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = nabataean
+        religion = syriac
+        size = 20
+    }
+
+    soldiers = {
+        culture = nabataean
+        religion = syriac
+        size = 100
+    }
+
+    farmers = {
+        culture = nabataean
+        religion = syriac
+        size = 775
+    }
+
+    farmers = {
+        culture = nabataean
+        religion = syriac
+        size = 100
+    }
+
+    aristocrats = {
+        culture = nabataean
+        religion = syriac
+        size = 50
+    }
+
+    clergymen = {
+        culture = nabataean
+        religion = syriac
+        size = 100
+    }
+
+    artisans = {
+        culture = nabataean
+        religion = syriac
+        size = 125
+    }
+
+    soldiers = {
+        culture = nabataean
+        religion = syriac
+        size = 25
+    }
+
+    farmers = {
+        culture = nabataean
+        religion = syriac
+        size = 2875
+    }
+
+    clergymen = {
+        culture = syriac
+        religion = syriac
+        size = 100
+    }
+
+    artisans = {
+        culture = syriac
+        religion = syriac
+        size = 100
+    }
+
+    farmers = {
+        culture = syriac
+        religion = syriac
+        size = 500
+    }
+
+    clergymen = {
+        culture = hulaula
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = hulaula
+        religion = jewish
+        size = 390
+    }
+}
+#Jerash (16000/4000 POPS) #now part of Jordan
+909 = {
+    aristocrats = {
+        culture = mashriqi
+        religion = sunni
+        size = 35
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = sunni
+        size = 75
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = sunni
+        size = 100
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = sunni
+        size = 2215
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 15
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 15
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 35
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 910
+    }
+
+    clergymen = {
+        culture = syriac
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = syriac
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = syriac
+        religion = orthodox
+        size = 500
+    }
+}
+#Badiyat al-Sham Region (40000)  #see Syria.txt, Iraq.txt & Saudi Arabia.txt for balance of region
+#under the "rule" of Egypt in 1836
+#Azraq (12000/3000 POPS) #now part of Jordan
+910 = {
+    aristocrats = {
+        culture = nabataean
+        religion = syriac
+        size = 50
+    }
+
+    clergymen = {
+        culture = nabataean
+        religion = syriac
+        size = 50
+    }
+
+    artisans = {
+        culture = nabataean
+        religion = syriac
+        size = 125
+    }
+
+    soldiers = {
+        culture = nabataean
+        religion = syriac
+        size = 50
+    }
+
+    farmers = {
+        culture = nabataean
+        religion = syriac
+        size = 2725
+    }
+}
+#Maan (28000/7000 POPS) #now part of Jordan
+911 = {
+    aristocrats = {
+        culture = nabataean
+        religion = syriac
+        size = 25
+    }
+
+    clergymen = {
+        culture = nabataean
+        religion = syriac
+        size = 50
+    }
+
+    artisans = {
+        culture = nabataean
+        religion = syriac
+        size = 150
+    }
+
+    soldiers = {
+        culture = nabataean
+        religion = syriac
+        size = 25
+    }
+
+    farmers = {
+        culture = nabataean
+        religion = syriac
+        size = 2050
+    }
+
+    aristocrats = {
+        culture = nabataean
+        religion = syriac
+        size = 50
+    }
+
+    clergymen = {
+        culture = nabataean
+        religion = syriac
+        size = 75
+    }
+
+    artisans = {
+        culture = nabataean
+        religion = syriac
+        size = 150
+    }
+
+    soldiers = {
+        culture = nabataean
+        religion = syriac
+        size = 50
+    }
+
+    farmers = {
+        culture = nabataean
+        religion = syriac
+        size = 4375
+    }
+}
+#Palestine Region (20000)  #see Israel-Palestine.txt for balance of region
+#under the rule of Egypt in 1836
+#Aqaba (20000/5000 POPS) #now part of Jordan
+922 = {
+    clergymen = {
+        culture = nabataean
+        religion = syriac
+        size = 25
+    }
+
+    artisans = {
+        culture = nabataean
+        religion = syriac
+        size = 50
+    }
+
+    soldiers = {
+        culture = nabataean
+        religion = syriac
+        size = 25
+    }
+
+    farmers = {
+        culture = nabataean
+        religion = syriac
+        size = 900
+    }
+
+    aristocrats = {
+        culture = nabataean
+        religion = syriac
+        size = 25
+    }
+
+    clergymen = {
+        culture = nabataean
+        religion = syriac
+        size = 25
+    }
+
+    artisans = {
+        culture = nabataean
+        religion = syriac
+        size = 150
+    }
+
+    soldiers = {
+        culture = nabataean
+        religion = syriac
+        size = 25
+    }
+
+    farmers = {
+        culture = nabataean
+        religion = syriac
+        size = 3775
+    }
+
+}

@@ -1,0 +1,11 @@
+owner = FRI
+controller = FRI
+add_core = FRI
+trade_goods = iron
+life_rating = 35
+terrain = philadelphia
+state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = yes
+}

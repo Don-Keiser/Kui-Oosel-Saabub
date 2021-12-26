@@ -1,0 +1,5 @@
+owner = VEP
+controller = VEP
+add_core = VEP
+trade_goods = fish
+life_rating = 35

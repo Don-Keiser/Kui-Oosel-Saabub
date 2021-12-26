@@ -1,0 +1,240 @@
+#Cyprus Region (152000)
+#under the rule of Ottoman Empire in 1836
+#Nicosia (64000/16000 POPS)
+855 = {
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 275
+    }
+
+    bureaucrats = {
+        culture = armenian
+        religion = coptic
+        size = 50
+    }
+
+    officers = {
+        culture = armenian
+        religion = coptic
+        size = 110
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 110
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 500
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 175
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 2875
+    }
+
+    aristocrats = {
+        culture = cypriot
+        religion = orthodox
+        size = 120
+    }
+
+    officers = {
+        culture = cypriot
+        religion = orthodox
+        size = 120
+    }
+
+    soldiers = {
+        culture = cypriot
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = cypriot
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = cypriot
+        religion = orthodox
+        size = 750
+    }
+
+    farmers = {
+        culture = cypriot
+        religion = orthodox
+        size = 10150
+    }
+
+    slaves = {
+        culture = cypriot
+        religion = orthodox
+        size = 1000
+    }
+}
+#Limassol (44000/11000 POPS)
+856 = {
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 200
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 110
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 300
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 100
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 1350
+    }
+
+    soldiers = {
+        culture = cypriot
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = cypriot
+        religion = orthodox
+        size = 110
+    }
+
+    artisans = {
+        culture = cypriot
+        religion = orthodox
+        size = 400
+    }
+
+    farmers = {
+        culture = cypriot
+        religion = orthodox
+        size = 8425
+    }
+}
+#Famagusta (44000/11000 POPS)
+857 = {
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 200
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 110
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 150
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 100
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 2500
+    }
+
+    soldiers = {
+        culture = cypriot
+        religion = orthodox
+        size = 150
+    }
+
+    clergymen = {
+        culture = cypriot
+        religion = orthodox
+        size = 110
+    }
+
+    artisans = {
+        culture = cypriot
+        religion = orthodox
+        size = 400
+    }
+
+    farmers = {
+        culture = cypriot
+        religion = orthodox
+        size = 7425
+    }
+
+}
+#SBA (44000/11000 POPS)
+2690 = {
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 25
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 250
+    }
+
+    soldiers = {
+        culture = cypriot
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = cypriot
+        religion = orthodox
+        size = 75
+    }
+
+    artisans = {
+        culture = cypriot
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = cypriot
+        religion = orthodox
+        size = 1425
+    }
+
+}

@@ -1,0 +1,6 @@
+owner = ASY
+controller = ASY
+add_core = ASY
+trade_goods = fish
+terrain = marsh
+life_rating = 35

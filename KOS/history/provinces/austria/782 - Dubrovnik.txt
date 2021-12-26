@@ -1,0 +1,7 @@
+owner = DLM
+controller = DLM
+add_core = DLM
+terrain = dubrovnik
+trade_goods = fish
+life_rating = 35
+naval_base = 1

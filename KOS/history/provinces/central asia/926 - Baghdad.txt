@@ -1,0 +1,6 @@
+owner = ASY
+controller = ASY
+add_core = ASY
+trade_goods = grain
+life_rating = 35
+terrain = baghdad

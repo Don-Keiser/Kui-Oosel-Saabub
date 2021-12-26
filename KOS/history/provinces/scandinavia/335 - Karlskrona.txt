@@ -1,0 +1,6 @@
+owner = DEN
+controller = DEN
+add_core = DEN
+trade_goods = coal
+life_rating = 35
+naval_base = 1

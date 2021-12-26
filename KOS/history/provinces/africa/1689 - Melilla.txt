@@ -1,0 +1,6 @@
+owner = MLG
+controller = MLG
+add_core = MLG
+trade_goods = fish
+terrain = urban
+life_rating = 35

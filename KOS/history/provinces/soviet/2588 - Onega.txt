@@ -1,0 +1,6 @@
+owner = VIE
+controller = VIE
+add_core = VIE
+trade_goods = timber
+terrain = boreal
+life_rating = 15

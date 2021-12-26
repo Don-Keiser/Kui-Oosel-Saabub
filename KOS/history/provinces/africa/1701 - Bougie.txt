@@ -1,0 +1,5 @@
+owner = LBN
+controller = LBN
+add_core = LBN
+trade_goods = cotton
+life_rating = 35

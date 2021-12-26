@@ -1,0 +1,19 @@
+leader = {
+	name = "Kristofer av Krikkagondur"
+	date = 1836.1.1
+	type = land
+	personality = confident
+	background = drillmaster
+	prestige = 0.3
+}
+
+army = {
+	name = "Konunglega Herinn "
+	location = 2476
+	regiment = {
+		name= "Fyrsta Hersveit "
+		type = cavalry
+		home = 2476
+	}
+}
+

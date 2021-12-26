@@ -1,0 +1,5 @@
+owner = OHI
+controller = OHI
+add_core = OHI
+trade_goods = wool
+life_rating = 35

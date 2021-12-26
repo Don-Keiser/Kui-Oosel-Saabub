@@ -1,0 +1,5 @@
+owner = SAA
+controller = SAA
+add_core = SAA
+trade_goods = iron
+life_rating = 30

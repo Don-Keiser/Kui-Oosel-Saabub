@@ -1,0 +1,7 @@
+owner = MCK
+controller = MCK
+add_core = MCK
+add_core = IMG
+trade_goods = wool
+life_rating = 32
+terrain = dryhills

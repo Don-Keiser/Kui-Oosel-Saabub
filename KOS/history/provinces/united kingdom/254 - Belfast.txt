@@ -1,0 +1,8 @@
+owner = IRE
+controller = IRE
+add_core = IRE
+trade_goods = cattle
+naval_base = 2
+life_rating = 35
+terrain = belfast
+1861.1.1 = { railroad = 3 }

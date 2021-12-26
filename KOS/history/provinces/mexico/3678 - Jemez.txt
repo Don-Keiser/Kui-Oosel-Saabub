@@ -1,0 +1,5 @@
+owner = JMZ
+controller = JMZ
+add_core = JMZ
+trade_goods = coal
+life_rating = 35

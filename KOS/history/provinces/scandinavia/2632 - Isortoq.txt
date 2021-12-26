@@ -1,0 +1,6 @@
+owner = KAU
+controller = KAU
+add_core = KAU
+trade_goods = silk
+life_rating = 35
+terrain = kwangchowan

@@ -1,0 +1,5 @@
+owner = NII
+controller = NII
+add_core = NII
+trade_goods = coal
+life_rating = 31

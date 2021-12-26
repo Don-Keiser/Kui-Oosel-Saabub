@@ -1,0 +1,19 @@
+leader = {
+	name = "Vaniita dira Sansaksaari"
+	date = 1836.1.1
+	type = land
+	personality = confident
+	background = drillmaster
+	prestige = 0.3
+}
+
+army = {
+	name = "Army 1"
+	location = 1397
+	regiment = {
+		name= "First Regiment"
+		type = infantry
+		home = 1397
+	}
+}
+

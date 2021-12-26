@@ -1,0 +1,5 @@
+owner = MGI
+controller = MGI
+add_core = MGI
+trade_goods = cattle
+life_rating = 35

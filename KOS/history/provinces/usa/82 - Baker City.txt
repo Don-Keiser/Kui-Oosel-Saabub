@@ -1,0 +1,6 @@
+owner = NRE
+controller = NRE
+add_core = NRE
+trade_goods = timber
+life_rating = 20
+colonial = 2

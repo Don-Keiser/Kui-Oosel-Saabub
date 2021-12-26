@@ -1,0 +1,6 @@
+owner = OOS
+controller = OOS
+add_core = OOS
+trade_goods = grain
+life_rating = 38
+terrain = jungle_farmland

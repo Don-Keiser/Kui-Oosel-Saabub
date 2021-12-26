@@ -1,0 +1,10 @@
+owner = OOS
+controller = OOS
+add_core = OOS
+trade_goods = iron
+life_rating = 32
+terrain = jungle_hills
+state_building = {
+    level = 1
+    building = furniture_factory
+    upgrade = yes

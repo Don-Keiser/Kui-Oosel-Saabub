@@ -1,0 +1,6 @@
+owner = QAT
+controller = QAT
+add_core = QAT
+trade_goods = fruit
+terrain = coastal_desert
+life_rating = 34

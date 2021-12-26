@@ -1,0 +1,6 @@
+owner = MGI
+controller = MGI
+add_core = MGI
+trade_goods = silk
+life_rating = 35
+terrain = floodplain_farmland

@@ -1,0 +1,6 @@
+owner = SOS
+controller = SOS
+add_core = SOS
+terrain = semidesert
+trade_goods = wool
+life_rating = 31

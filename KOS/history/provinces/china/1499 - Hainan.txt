@@ -1,0 +1,8 @@
+owner = KAU
+controller = KAU
+add_core = KAU
+trade_goods = fish
+life_rating = 40
+terrain = hainan
+naval_base = 2
+fort = 1

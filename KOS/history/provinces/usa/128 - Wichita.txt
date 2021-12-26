@@ -1,0 +1,5 @@
+owner = JIC
+controller = JIC
+add_core = JIC
+trade_goods = grain
+life_rating = 35

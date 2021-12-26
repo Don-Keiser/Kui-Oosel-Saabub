@@ -1,0 +1,5 @@
+owner = PHR
+controller = PHR
+add_core = PHR
+trade_goods = fish
+life_rating = 35

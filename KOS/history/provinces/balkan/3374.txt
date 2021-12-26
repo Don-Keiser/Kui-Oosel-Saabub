@@ -1,0 +1,5 @@
+owner = AUT
+controller = AUT
+add_core = AUT
+trade_goods = grain
+life_rating = 35

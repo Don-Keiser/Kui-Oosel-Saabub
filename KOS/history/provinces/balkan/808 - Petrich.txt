@@ -1,0 +1,6 @@
+owner = THA
+controller = THA
+add_core = THA
+add_core = MCD
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,381 @@
+#Montenegro Region (192000)
+#under the rule of Ottoman Empire in 1836
+#Ulcinj (36000/9000 POPS)
+800 = {
+
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 385
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = albanian
+        religion = catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 14700
+    }
+
+    clergymen = {
+        culture = malazez
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = malazez
+        religion = catholic
+        size = 200
+    }
+
+    soldiers = {
+        culture = malazez
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = malazez
+        religion = catholic
+        size = 1450
+    }
+}
+#Niksic (52000/13000 POPS)
+2569 = {
+
+    aristocrats = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+    officers = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = malazez
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = dalmatae
+        religion = catholic
+        size = 4000
+    }
+
+    farmers = {
+        culture = malazez
+        religion = catholic
+        size = 7100
+    }
+
+    aristocrats = {
+        culture = bosniak
+        religion = catholic
+        size = 250
+    }
+
+    officers = {
+        culture = dalmatae
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = dalmatae
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = dalmatae
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = dalmatae
+        religion = catholic
+        size = 125
+    }
+
+    farmers = {
+        culture = dalmatae
+        religion = catholic
+        size = 5725
+    }
+}
+#under the rule of Montenegro in 1836
+#Cetinje (104000/26000 POPS)
+2583 = {
+    aristocrats = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+    officers = {
+        culture = malazez
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = malazez
+        religion = catholic
+        size = 275
+    }
+
+    artisans = {
+        culture = malazez
+        religion = catholic
+        size = 1300
+    }
+
+    soldiers = {
+        culture = malazez
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = malazez
+        religion = catholic
+        size = 21375
+    }
+
+    farmers = {
+        culture = dalmatae
+        religion = catholic
+        size = 1000
+    }
+}
+#Kosovo-Sanjak Region (52000)  #see Serbia.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Pljevlja (52000/13000 POPS) #now part of Montenegro
+2577 = {
+
+    soldiers = {
+        culture = malazez
+        religion = catholic
+        size = 520
+    }
+
+    clergymen = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = malazez
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = malazez
+        religion = catholic
+        size = 3170
+    }
+
+    farmers = {
+        culture = malazez
+        religion = catholic
+        size = 5175
+    }
+
+    aristocrats = {
+        culture = malazez
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = malazez
+        religion = catholic
+        size = 300
+    }
+
+    soldiers = {
+        culture = malazez
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = malazez
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = malazez
+        religion = catholic
+        size = 200
+    }
+}
+#Dalmatia Region (64000) #see Croatia.txt for balance of region
+#under the rule of Austria in 1836
+#Kotor (64000/16000 POPS)
+2582 = {
+    aristocrats = {
+        culture = dalmatae
+        religion = catholic
+        size = 100
+    }
+
+    officers = {
+        culture = dalmatae
+        religion = catholic
+        size = 10
+    }
+
+    clergymen = {
+        culture = dalmatae
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = dalmatae
+        religion = catholic
+        size = 250
+    }
+
+    soldiers = {
+        culture = dalmatae
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = dalmatae
+        religion = catholic
+        size = 4000
+    }
+
+    farmers = {
+        culture = malazez
+        religion = catholic
+        size = 350
+    }
+
+    aristocrats = {
+        culture = dalmatae
+        religion = catholic
+        size = 200
+    }
+
+    officers = {
+        culture = dalmatae
+        religion = catholic
+        size = 10
+    }
+
+    clergymen = {
+        culture = dalmatae
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = dalmatae
+        religion = catholic
+        size = 550
+    }
+
+    soldiers = {
+        culture = dalmatae
+        religion = catholic
+        size = 125
+    }
+
+    farmers = {
+        culture = dalmatae
+        religion = catholic
+        size = 10225
+    }
+
+    farmers = {
+        culture = dalmatae
+        religion = catholic
+        size = 350
+    }
+
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 100
+    }
+
+    officers = {
+        culture = malazez
+        religion = catholic
+        size = 10
+    }
+
+    clergymen = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = malazez
+        religion = catholic
+        size = 100
+    }
+
+}

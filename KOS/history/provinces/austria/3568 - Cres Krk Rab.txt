@@ -1,0 +1,8 @@
+owner = HUN
+controller = HUN
+add_core = LBU
+add_core = DLM
+add_core = HIS
+add_core = HUN
+trade_goods = fish
+life_rating = 35

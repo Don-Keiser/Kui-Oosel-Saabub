@@ -1,0 +1,5 @@
+owner = BUT
+controller = BUT
+add_core = BUT
+trade_goods = cattle
+life_rating = 40

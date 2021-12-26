@@ -1,0 +1,5 @@
+owner = MGF
+controller = MGF
+add_core = MGF
+trade_goods = coal
+life_rating = 35

@@ -1,0 +1,262 @@
+#Taiwan Region (2980000)
+#under the rule of China in 1836
+#Tainan (1452000/363000 POPS) #now part of Taiwan
+1485 = {
+    aristocrats = {
+        culture = furmozan
+        religion = catholic
+        size = 1525
+    }
+
+    clergymen = {
+        culture = furmozan
+        religion = catholic
+        size = 1325
+    }
+
+    artisans = {
+        culture = furmozan
+        religion = catholic
+        size = 6600
+    }
+
+    soldiers = {
+        culture = furmozan
+        religion = catholic
+        size = 1325
+    }
+
+    farmers = {
+        culture = furmozan
+        religion = catholic
+        size = 121225
+    }
+
+    farmers = {
+        culture = furmozan
+        religion = confucian
+        size = 20000
+    }
+
+    aristocrats = {
+        culture = furmozan
+        religion = catholic
+        size = 3500
+    }
+
+    clergymen = {
+        culture = furmozan
+        religion = catholic
+        size = 2500
+    }
+
+    artisans = {
+        culture = furmozan
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = furmozan
+        religion = catholic
+        size = 2500
+    }
+
+    soldiers = {
+        culture = furmozan
+        religion = catholic
+        size = 2500
+    }
+
+    farmers = {
+        culture = furmozan
+        religion = catholic
+        size = 125000
+    }
+
+    farmers = {
+        culture = lusitanian
+        religion = catholic
+        size = 25777
+    }
+
+    artisans = {
+        culture = lusitanian
+        religion = catholic
+        size = 2000
+    }
+}
+#Taitung (67k - 268k) #now part of Taiwan
+2562 = {
+    farmers = {
+        culture = furmozan
+        religion = confucian
+        size = 17000
+    }
+
+    farmers = {
+        culture = furmozan
+        religion = catholic
+        size = 20000
+    }
+
+    soldiers = {
+        culture = furmozan
+        religion = catholic
+        size = 5000
+    }
+
+    aristocrats = {
+        culture = furmozan
+        religion = catholic
+        size = 1000
+    }
+
+    aristocrats = {
+        culture = lusitanian
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = lusitanian
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = lusitanian
+        religion = catholic
+        size = 750
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 1300
+    }
+	
+	farmers = {
+        culture = furmozan
+        religion = catholic
+        size = 4925
+    }
+
+    farmers = {
+        culture = furmozan
+        religion = catholic
+        size = 12925
+    }
+}
+
+#Taipei (1452000/363000 POPS) formerly 2681 - Kikkiaki in Russia.txt
+2681 = {
+    aristocrats = {
+        culture = furmozan
+        religion = catholic
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = furmozan
+        religion = catholic
+        size = 400
+    }
+
+    officers = {
+        culture = furmozan
+        religion = catholic
+        size = 725
+    }
+
+    clergymen = {
+        culture = furmozan
+        religion = catholic
+        size = 1225
+    }
+
+    artisans = {
+        culture = furmozan
+        religion = catholic
+        size = 6150
+    }
+
+    soldiers = {
+        culture = furmozan
+        religion = catholic
+        size = 1250
+    }
+
+    farmers = {
+        culture = furmozan
+        religion = catholic
+        size = 30625
+    }
+
+    aristocrats = {
+        culture = furmozan
+        religion = catholic
+        size = 3000
+    }
+
+    clergymen = {
+        culture = furmozan
+        religion = catholic
+        size = 2400
+    }
+
+    artisans = {
+        culture = furmozan
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = furmozan
+        religion = catholic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = furmozan
+        religion = catholic
+        size = 2400
+    }
+
+    farmers = {
+        culture = furmozan
+        religion = catholic
+        size = 255200
+    }
+
+    aristocrats = {
+        culture = lusitanian
+        religion = catholic
+        size = 1625
+    }
+
+    clergymen = {
+        culture = lusitanian
+        religion = catholic
+        size = 1325
+    }
+
+    artisans = {
+        culture = lusitanian
+        religion = catholic
+        size = 3600
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 2025
+    }
+
+    farmers = {
+        culture = lusitanian
+        religion = catholic
+        size = 15775
+    }
+
+}

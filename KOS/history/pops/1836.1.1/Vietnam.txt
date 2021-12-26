@@ -1,0 +1,509 @@
+#Tonkin Region (2784000)
+#under the rule of Annam in 1836
+#Hanoi (808000/202000 POPS)
+1369 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = mahayana
+        size = 3600
+    }
+
+    bureaucrats = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1100
+    }
+
+    officers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 625
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1625
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = mahayana
+        size = 10000
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = mahayana
+        size = 10000
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = mahayana
+        size = 4500
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1675
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 122875
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = mahayana
+        size = 15000
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 50
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 1250
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 700
+    }
+
+    clergymen = {
+        culture = min
+        religion = mahayana
+        size = 50
+    }
+
+    artisans = {
+        culture = min
+        religion = mahayana
+        size = 1250
+    }
+
+    farmers = {
+        culture = min
+        religion = mahayana
+        size = 700
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = catholic
+        size = 3500
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = catholic
+        size = 20325
+    }
+}
+#Cao Bang (272000/68000 POPS)
+1371 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1050
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = mahayana
+        size = 500
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = mahayana
+        size = 2600
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1100
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 33800
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = mahayana
+        size = 2000
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = catholic
+        size = 5625
+    }
+
+    aristocrats = {
+        culture = zhuang
+        religion = animist
+        size = 200
+    }
+
+    clergymen = {
+        culture = zhuang
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = zhuang
+        religion = animist
+        size = 500
+    }
+
+    soldiers = {
+        culture = zhuang
+        religion = animist
+        size = 1000
+    }
+
+    farmers = {
+        culture = zhuang
+        religion = animist
+        size = 21100
+    }
+}
+#Son La (300000/75000 POPS)
+1372 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1100
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = mahayana
+        size = 550
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = mahayana
+        size = 2700
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1100
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 48650
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1100
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = catholic
+        size = 5625
+    }
+
+    aristocrats = {
+        culture = asian_minor
+        religion = animist
+        size = 275
+    }
+
+    clergymen = {
+        culture = asian_minor
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = asian_minor
+        religion = animist
+        size = 700
+    }
+
+    soldiers = {
+        culture = asian_minor
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = asian_minor
+        religion = animist
+        size = 12750
+    }
+}
+#Lang Son (324000/81000 POPS)
+1373 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1025
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = mahayana
+        size = 500
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = mahayana
+        size = 2450
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1100
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 32405
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1000
+    }
+
+    aristocrats = {
+        culture = zhuang
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = zhuang
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = zhuang
+        religion = animist
+        size = 1000
+    }
+
+    soldiers = {
+        culture = zhuang
+        religion = animist
+        size = 1100
+    }
+
+    farmers = {
+        culture = zhuang
+        religion = animist
+        size = 30405
+    }
+
+    slaves = {
+        culture = zhuang
+        religion = animist
+        size = 1000
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = catholic
+        size = 350
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = catholic
+        size = 6600
+    }
+
+    clergymen = {
+        culture = yue
+        religion = mahayana
+        size = 75
+    }
+
+    artisans = {
+        culture = yue
+        religion = mahayana
+        size = 1650
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 1275
+    }
+}
+#Thanh Hoa (484000/121000 POPS)
+1374 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = mahayana
+        size = 2250
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1125
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = mahayana
+        size = 5500
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1100
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 110025
+    }
+
+    slaves = {
+        culture = vietnamese
+        religion = mahayana
+        size = 3000
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = catholic
+        size = 10400
+    }
+}
+#Annam Region (2148000)
+#under the rule of Annam in 1836
+#Vinh (524000/131000 POPS)
+1376 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = mahayana
+        size = 2500
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1225
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = mahayana
+        size = 6150
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 1250
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = mahayana
+        size = 111875
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = catholic
+        size = 7550
+    }
+}
+

@@ -1,0 +1,6 @@
+owner = NRE
+controller = NRE
+add_core = NRE
+terrain = new_world_semidesert
+trade_goods = cattle
+life_rating = 35

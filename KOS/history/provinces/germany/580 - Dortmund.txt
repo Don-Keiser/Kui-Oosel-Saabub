@@ -1,0 +1,7 @@
+owner = WES
+controller = WES
+add_core = WES
+trade_goods = coal
+life_rating = 40
+terrain = dortmund
+1861.1.1 = { railroad = 3 }

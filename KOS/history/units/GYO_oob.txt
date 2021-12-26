@@ -1,0 +1,19 @@
+leader = {
+	name = "Melania tol Magasvari"
+	date = 1836.1.1
+	type = land
+	personality = confident
+	background = drillmaster
+	prestige = 0.3
+}
+
+army = {
+	name = "Elso Kiralyi Hadsereg"
+	location = 1448
+	regiment = {
+		name= "Elso Ezred"
+		type = infantry
+		home = 1448
+	}
+}
+

@@ -1,0 +1,455 @@
+#New South Wales Region 144000
+#Broken Hill (12000/3000 POPS)
+2475 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 175
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 12700
+    }
+}
+
+#Queensland Region 
+#Longreach (4000/1000 POPS)
+2489 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 125
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 4050
+    }
+}
+#Charleville (4000/1000 POPS)
+2490 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 7000
+    }
+
+}
+
+#South Australia Region - 32000
+#Oodnadatta (4000/1000 POPS)
+2495 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 900
+    }
+}
+
+#Western Australia Region : 71000
+#ruled by Britain 1836
+#Perth (23000/5750 POPS)
+2497 = {
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 15
+    }
+
+    soldiers = {
+        culture = british
+        religion = anglican
+        size = 10
+    }
+
+    farmers = {
+        culture = british
+        religion = anglican
+        size = 630
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = protestant
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = australian
+        religion = protestant
+        size = 3
+    }
+
+    officers = {
+        culture = australian
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = australian
+        religion = protestant
+        size = 10
+    }
+
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = australian
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 10
+    }
+
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 125
+    }
+
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 4750
+    }
+}
+#Geraldton (8000/2000 POPS)
+2499 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 50
+    }
+
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 1850
+    }
+}
+#Kalgoorlie (4000/1000 POPS)
+2500 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 900
+    }
+}
+#Dampier (2000/500 POPS)
+2502 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 450
+    }
+}
+#Laverton (2800/700 POPS)
+2503 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 3630
+    }
+}
+#Halls Creek (2000/500 POPS)
+2601 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 450
+    }
+}
+#Roebourne (2000/500 POPS)
+2602 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 450
+    }
+}
+#Wiluna (3200/800 POPS)
+2605 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 725
+    }
+}
+#Northern Australia Region (32000)
+#Alice Springs (2800/700 POPS)
+2507 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 5630
+    }
+
+}
+#Lajamanu (1200/300 POPS)
+2603 = {
+    aristocrats = {
+        culture = aborigine
+        religion = animist
+        size = 2
+    }
+
+    clergymen = {
+        culture = aborigine
+        religion = animist
+        size = 3
+    }
+
+    soldiers = {
+        culture = aborigine
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = aborigine
+        religion = animist
+        size = 2750
+    }
+
+}
+#Norfolk Island Region (1000)
+#Ruled by Britain 1836
+#Norfolk Island (1000/250 POPS)
+2508 = {
+    clergymen = {
+        culture = australian
+        religion = protestant
+        size = 20
+    }
+
+    farmers = {
+        culture = australian
+        religion = protestant
+        size = 235
+    }
+
+}

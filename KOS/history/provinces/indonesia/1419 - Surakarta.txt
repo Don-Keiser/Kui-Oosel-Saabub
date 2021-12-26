@@ -1,0 +1,6 @@
+owner = OOS
+controller = OOS
+add_core = OOS
+trade_goods = fruit
+life_rating = 36
+terrain = jungle_hills

@@ -1,0 +1,5 @@
+owner = PRE
+controller = PRE
+add_core = PRE
+trade_goods = cattle
+life_rating = 40

@@ -1,0 +1,7 @@
+owner = KIK
+controller = KIK
+add_core = KIK
+trade_goods = grain
+life_rating = 40
+naval_base = 2
+fort = 1

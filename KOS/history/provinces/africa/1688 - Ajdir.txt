@@ -1,0 +1,5 @@
+owner = MLG
+controller = MLG
+add_core = MLG
+trade_goods = fish
+life_rating = 35

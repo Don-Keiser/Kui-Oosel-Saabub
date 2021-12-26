@@ -1,0 +1,6 @@
+owner = NRE
+controller = NRE
+add_core = NRE
+trade_goods = tobacco
+terrain = richmond
+life_rating = 35

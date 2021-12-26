@@ -1,0 +1,7 @@
+owner = BRA
+controller = BRA
+add_core = BRA
+trade_goods = iron
+life_rating = 40
+terrain = braunschweig
+1861.1.1 = { railroad = 3 }

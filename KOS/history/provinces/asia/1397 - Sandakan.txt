@@ -1,0 +1,6 @@
+owner = INK
+controller = INK
+add_core = INK
+trade_goods = grain
+terrain = jungle_farmland
+life_rating = 40

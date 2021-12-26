@@ -1,0 +1,6 @@
+owner = CUM
+controller = CUM
+add_core = CUM
+trade_goods = fish
+life_rating = 25
+terrain = marsh

@@ -1,0 +1,90 @@
+political_decisions = {
+	change_province_names_OOS = {
+		potential = {
+			tag = OOS
+			NOT = {
+				has_country_flag = OOS_province_names_changed
+			}
+		}
+		allow = {
+			OOS = {
+				owns = 1417
+				owns = 1418
+				owns = 1419
+				owns = 1420
+				owns = 1421
+				owns = 1422
+				owns = 1423
+				owns = 1424
+				owns = 1427
+				owns = 1430
+				owns = 1431
+				owns = 1432
+				owns = 1433
+				owns = 1434
+				owns = 1435
+				owns = 1436
+				owns = 1437
+				owns = 1439
+				owns = 1441
+				owns = 1444
+				owns = 1447
+				owns = 1449
+				owns = 1450
+				owns = 1451
+				owns = 3276
+				}
+		}
+		
+		effect = {
+			set_country_flag = OOS_province_names_changed
+			prestige = 50
+			1417 = {
+			change_province_name = "Viiskulkkindlus"
+			state_scope = {
+			change_region_name = "Laans-Ookaugesaare"
+				}
+			}
+			1421 = {
+			change_province_name = "Vaike Turusaare"
+			state_scope = {
+			change_region_name = "Idaa-Ookaugesaare"
+				}
+			}
+			1423 = {
+			change_province_name = "Soolajoelinn"
+			state_scope = {
+			change_region_name = "Etelna-Rohelimetsamaa"
+				}
+			}
+			1424 = {
+			change_province_name = "Kis Magyarvaros"
+			state_scope = {
+			change_region_name = "Idaa-Rohelimetsamaa"
+				}
+			}
+			1431 = {
+			change_province_name = "Harlausikrupt"
+			state_scope = {
+			change_region_name = "Raudasaare"
+				}
+			}
+			1439 = {
+			change_province_name = "Kristusekirik"
+			state_scope = {
+			change_region_name = "Tuuhandsaaremaed"
+				}
+			}
+			1449 = {
+			change_province_name = "Oikeusilmeattisaare"
+			state_scope = {
+			change_region_name = "Kinoversaare"
+				}
+			}	
+		}
+		
+		ai_will_do = {
+           factor = 1
+		}
+	}
+}

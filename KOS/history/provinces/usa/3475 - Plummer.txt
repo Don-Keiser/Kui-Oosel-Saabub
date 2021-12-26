@@ -1,0 +1,5 @@
+owner = SNT
+controller = SNT
+add_core = SNT
+trade_goods = timber
+life_rating = 35

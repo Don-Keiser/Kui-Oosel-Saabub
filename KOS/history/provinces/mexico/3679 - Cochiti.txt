@@ -1,0 +1,5 @@
+owner = CCT
+controller = CCT
+add_core = CCT
+trade_goods = coal
+life_rating = 35

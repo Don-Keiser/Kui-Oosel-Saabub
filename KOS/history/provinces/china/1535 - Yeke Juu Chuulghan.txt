@@ -1,0 +1,5 @@
+owner = IMG
+controller = IMG
+add_core = IMG
+trade_goods = wool
+life_rating = 32

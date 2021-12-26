@@ -1,0 +1,5 @@
+owner = NAI
+controller = NAI
+add_core = NAI
+trade_goods = grain
+life_rating = 35

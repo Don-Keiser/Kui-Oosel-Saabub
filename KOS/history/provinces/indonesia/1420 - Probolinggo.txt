@@ -1,0 +1,6 @@
+owner = OOS
+controller = OOS
+add_core = OOS
+trade_goods = sulphur
+life_rating = 40
+terrain = jungle_mountains

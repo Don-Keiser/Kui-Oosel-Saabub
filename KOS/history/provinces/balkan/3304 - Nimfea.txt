@@ -1,0 +1,6 @@
+owner = THA
+controller = THA
+add_core = THA
+add_core = GRE
+trade_goods = tobacco
+life_rating = 35

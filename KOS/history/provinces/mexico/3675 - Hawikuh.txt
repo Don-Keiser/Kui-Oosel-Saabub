@@ -1,0 +1,5 @@
+owner = ZNI
+controller = ZNI
+add_core = ZNI
+trade_goods = coal
+life_rating = 35

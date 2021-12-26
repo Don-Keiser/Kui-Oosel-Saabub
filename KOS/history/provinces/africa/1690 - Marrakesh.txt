@@ -1,0 +1,6 @@
+owner = MTN
+controller = MTN
+add_core = MTN
+trade_goods = fruit
+life_rating = 35
+terrain = dry_mountains

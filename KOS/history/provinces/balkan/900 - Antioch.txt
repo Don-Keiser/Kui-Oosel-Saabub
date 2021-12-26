@@ -1,0 +1,8 @@
+owner = CLC
+controller = CLC
+add_core = CLC
+add_core = BHT
+trade_goods = fruit
+life_rating = 35
+terrain = hills
+naval_base = 1

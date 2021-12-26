@@ -1,0 +1,6 @@
+owner = MRC
+controller = MRC
+add_core = MRC
+trade_goods = fruit
+life_rating = 35
+1861.1.1 = { railroad = 2 }

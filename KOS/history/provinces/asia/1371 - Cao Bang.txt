@@ -1,0 +1,7 @@
+owner = DAI
+controller = DAI
+add_core = ANN
+add_core = DAI
+trade_goods = iron
+life_rating = 33
+terrain = jungle_hills

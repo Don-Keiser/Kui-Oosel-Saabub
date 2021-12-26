@@ -1,0 +1,7 @@
+owner = SLS
+controller = SLS
+add_core = SLS
+add_core = SLV
+trade_goods = coal
+life_rating = 35
+1861.1.1 = { railroad = 2 }

@@ -1,0 +1,6 @@
+owner = NVF
+controller = NVF
+add_core = NVF
+add_core = QUE
+trade_goods = iron
+life_rating = 35

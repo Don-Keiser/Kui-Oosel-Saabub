@@ -1,0 +1,7 @@
+owner = KRA
+controller = KRA
+add_core = KRA
+trade_goods = coal
+life_rating = 40
+terrain = krakow
+1861.1.1 = { railroad = 3 }

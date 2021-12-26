@@ -1,0 +1,6 @@
+owner = CLS
+controller = CLS
+add_core = CLS
+trade_goods = grain
+terrain = plains
+life_rating = 35

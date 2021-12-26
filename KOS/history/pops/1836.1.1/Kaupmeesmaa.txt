@@ -1,0 +1,442 @@
+#Hainan (3424000/856000 POPS) #saarnordlig = li
+1499 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 3700
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1850
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 9300
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 975
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 169275
+    }
+
+    aristocrats = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 12325
+    }
+
+    clergymen = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 6175
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 11000
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 11000
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 11000
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 950
+    }
+
+    soldiers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 3000
+    }
+
+    soldiers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 200
+    }
+
+    farmers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 263350
+    }
+
+    serfs = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 300000
+    }
+
+    aristocrats = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 1100
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 500
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 2550
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 525
+    }
+
+    serfs = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 46425
+    }
+}
+#Gaozhou (3788000/947000 POPS)
+1495 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 350
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 200
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 950
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 200
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 97300
+    }
+
+    aristocrats = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 18000
+    }
+
+    clergymen = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 9125
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 11000
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 11000
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 11000
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 11000
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 4000
+    }
+
+    soldiers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 4300
+    }
+
+    farmers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 424950
+    }
+
+    serfs = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 400000
+    }
+}
+
+#Kwangchowan
+2632 = {
+    clergymen = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 125
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 2500
+    }
+
+    soldiers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 1000
+    }
+
+    farmers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 20000
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 5000
+    }
+}
+#South China Islands
+3413 = {
+    clergymen = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 125
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 500
+    }
+
+    soldiers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 1000
+    }
+
+    farmers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 11000
+    }
+}
+#Sanmenwai (1684000/421000 POPS)
+3364 = {
+    aristocrats = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 1000
+    }
+
+    clergymen = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 500
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 2000
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 9000
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 150
+    }
+
+    soldiers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 225
+    }
+
+    farmers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 83125
+    }
+}
+#Haiphong (596000/149000 POPS)
+1370 = {
+    aristocrats = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 2650
+    }
+
+    clergymen = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 1325
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 6550
+    }
+
+    soldiers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 1325
+    }
+
+    farmers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 119050
+    }
+
+    aristocrats = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 250
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 1250
+    }
+
+    farmers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 1000
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1250
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 700
+    }
+
+    clergymen = {
+        culture = saarkaupmid
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = saarkaupmid
+        religion = catholic
+        size = 700
+    }
+
+    farmers = {
+        culture = saarkaupmid
+        religion = catholic
+        size = 13200
+    }
+}
+#Penghu (15K - 60 K POPS)
+2406 = {
+    aristocrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 150
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 100
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 750
+    }
+
+    soldiers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 1300
+    }
+
+    farmers = {
+        culture = saarkaupmid
+        religion = ooselskia
+        size = 12925
+    }
+
+}

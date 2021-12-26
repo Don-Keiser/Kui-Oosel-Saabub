@@ -1,0 +1,6 @@
+owner = LAT
+controller = LAT
+add_core = LAT
+trade_goods = cattle
+life_rating = 40
+1861.1.1 = { railroad = 3 }

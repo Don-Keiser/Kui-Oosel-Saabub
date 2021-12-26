@@ -1,0 +1,5 @@
+owner = ABK
+controller = ABK
+add_core = ABK
+trade_goods = fruit
+life_rating = 35

@@ -1,0 +1,493 @@
+#East Borneo Region
+#Tarakan (96000/24000 POPS)
+1425 = {
+    aristocrats = {
+        culture = inkriid
+        religion = ooselskia
+        size = 155
+    }
+
+    clergymen = {
+        culture = inkriid
+        religion = ooselskia
+        size = 180
+    }
+
+    artisans = {
+        culture = inkriid
+        religion = ooselskia
+        size = 890
+    }
+
+    farmers = {
+        culture = inkriid
+        religion = ooselskia
+        size = 29000
+    }
+
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 135
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 245
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1550
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 29000
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 6000
+    }
+	
+	farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 5000
+    }
+
+}
+#Samarinda (120000/30000 POPS)
+1429 = {
+    aristocrats = {
+        culture = inkriid
+        religion = ooselskia
+        size = 300
+    }
+
+    clergymen = {
+        culture = inkriid
+        religion = ooselskia
+        size = 250
+    }
+
+    artisans = {
+        culture = inkriid
+        religion = ooselskia
+        size = 3500
+    }
+
+    soldiers = {
+        culture = inkriid
+        religion = ooselskia
+        size= 1500
+    }
+
+    labourers = {
+        culture = inkriid
+        religion = ooselskia
+        size = 65000
+    }
+
+    aristocrats = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 140
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 160
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 1600
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size= 1000
+    }
+
+    labourers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 15600
+    }
+	
+	soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size= 5000
+    }
+
+    labourers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 6600
+    }
+	
+	bureaucrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size= 100
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 1500
+    }
+	
+	soldiers = {
+        culture = saarkorge
+        religion = ooselskia
+        size= 300
+    }
+
+    labourers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 4600
+    }
+	
+}
+
+#North Borneo Region
+#Sandakan (40000/10000 POPS)
+1397 = {
+    aristocrats = {
+        culture = inkriid
+        religion = ooselskia
+        size = 75
+    }
+
+    clergymen = {
+        culture = inkriid
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = inkriid
+        religion = ooselskia
+        size = 300
+    }
+
+    soldiers = {
+        culture = inkriid
+        religion = ooselskia
+        size = 75
+    }
+
+    farmers = {
+        culture = inkriid
+        religion = ooselskia
+        size = 22675
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 8000
+    }
+
+    aristocrats = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 25
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 950
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 25
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 21750
+    }
+}
+
+#Mindanao Region
+#Davao (152000/38000 POPS)
+1463 = {
+    aristocrats = {
+        culture = saarnordlig
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = catholic
+        size = 850
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = catholic
+        size = 22800
+    }
+
+    aristocrats = {
+        culture = inkriid
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = inkriid
+        religion = ooselskia
+        size = 100
+    }
+
+    artisans = {
+        culture = inkriid
+        religion = ooselskia
+        size = 600
+    }
+
+    soldiers = {
+        culture = inkriid
+        religion = ooselskia
+        size = 100
+    }
+
+    farmers = {
+        culture = inkriid
+        religion = ooselskia
+        size = 33100
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = catholic
+        size = 5000
+    }
+
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 350
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 12375
+    }
+}
+#Zamboanga (300000/75000 POPS)
+1462 = {
+    aristocrats = {
+        culture = inkriid
+        religion = ooselskia
+        size = 600
+    }
+
+    clergymen = {
+        culture = inkriid
+        religion = ooselskia
+        size = 500
+    }
+
+    artisans = {
+        culture = inkriid
+        religion = ooselskia
+        size = 2500
+    }
+
+    soldiers = {
+        culture = inkriid
+        religion = ooselskia
+        size = 500
+    }
+
+    farmers = {
+        culture = inkriid
+        religion = ooselskia
+        size = 51900
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = catholic
+        size = 750
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = catholic
+        size = 12200
+    }
+
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 300
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 21525
+    }
+}
+#Jolo (44000/11000 POPS)
+1464 = {
+    aristocrats = {
+        culture = inkriid
+        religion = ooselskia
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = inkriid
+        religion = ooselskia
+        size = 75
+    }
+
+    officers = {
+        culture = inkriid
+        religion = ooselskia
+        size = 75
+    }
+
+    clergymen = {
+        culture = inkriid
+        religion = ooselskia
+        size = 100
+    }
+
+    artisans = {
+        culture = inkriid
+        religion = ooselskia
+        size = 600
+    }
+
+    soldiers = {
+        culture = inkriid
+        religion = ooselskia
+        size = 1000
+    }
+
+    farmers = {
+        culture = inkriid
+        religion = ooselskia
+        size = 25825
+    }
+
+	clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 120
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 800
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 800
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 10000
+    }
+	
+	farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 9000
+    }
+}

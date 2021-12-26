@@ -1,0 +1,5 @@
+owner = TAR
+controller = TAR
+add_core = TAR
+trade_goods = cattle
+life_rating = 35

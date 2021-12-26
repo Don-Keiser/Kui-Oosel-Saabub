@@ -1,0 +1,5 @@
+owner = GYO
+controller = GYO
+add_core = GYO
+trade_goods = precious_goods
+life_rating = 40

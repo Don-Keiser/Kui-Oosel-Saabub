@@ -1,0 +1,5 @@
+add_core = KAM
+trade_goods = fish
+life_rating = 20
+terrain = montane_tundra
+colonial = 2

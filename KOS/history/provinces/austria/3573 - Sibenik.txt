@@ -1,0 +1,5 @@
+owner = LBU
+controller = LBU
+add_core = LBU
+trade_goods = fish
+life_rating = 35

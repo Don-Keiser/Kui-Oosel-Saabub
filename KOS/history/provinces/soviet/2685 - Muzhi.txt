@@ -1,0 +1,5 @@
+owner = KTA
+controller = KTA
+add_core = KTA
+trade_goods = timber
+life_rating = 35

@@ -1,0 +1,5 @@
+owner = AVR
+controller = AVR
+add_core = AVR
+trade_goods = grain
+life_rating = 35

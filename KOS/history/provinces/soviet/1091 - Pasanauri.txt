@@ -1,0 +1,5 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,7 @@
+owner = VAI
+controller = VAI
+add_core = VAI
+trade_goods = grain
+life_rating = 40
+terrain = vilnius
+1861.1.1 = { railroad = 2 }

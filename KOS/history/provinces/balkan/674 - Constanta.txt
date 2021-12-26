@@ -1,0 +1,6 @@
+owner = BLG
+controller = BLG
+add_core = BLG
+trade_goods = fish
+life_rating = 35
+naval_base = 1

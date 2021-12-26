@@ -1,0 +1,5 @@
+owner = KIO
+controller = KIO
+add_core = KIO
+trade_goods = sulphur
+life_rating = 35

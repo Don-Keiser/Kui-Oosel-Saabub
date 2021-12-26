@@ -1,0 +1,5 @@
+owner = SZA
+controller = SZA
+add_core = SZA
+trade_goods = coal
+life_rating = 35

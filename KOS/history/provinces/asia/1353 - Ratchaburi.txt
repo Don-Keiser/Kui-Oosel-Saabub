@@ -1,0 +1,6 @@
+owner = MGI
+controller = MGI
+add_core = MGI
+trade_goods = iron
+life_rating = 38
+terrain = jungle_hills

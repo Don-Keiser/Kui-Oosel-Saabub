@@ -1,0 +1,5 @@
+owner = LIV
+controller = LIV
+add_core = LIV
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,6 @@
+owner = SYR
+controller = SYR
+add_core = SYR
+trade_goods = silk
+life_rating = 35
+terrain = dry_mountains

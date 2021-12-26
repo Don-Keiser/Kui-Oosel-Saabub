@@ -1,0 +1,7 @@
+owner = QAT
+controller = QAT
+add_core = QAT
+add_core = ASY
+trade_goods = fish
+life_rating = 32
+terrain = coastal_desert

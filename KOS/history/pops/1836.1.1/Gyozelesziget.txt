@@ -1,0 +1,242 @@
+#Moluccas Region (280000)
+#Jilolo (36000/9000 POPS)
+1448 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 500
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 430
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 2300
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 3200
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 80000
+    }
+
+    aristocrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 200
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 250
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 3500
+    }
+
+    soldiers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 250
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 23800
+    }
+}
+#Wests Papua (432000)
+#uncolonized in 1836
+#Sorong (88000/22000 POPS)
+1453 = {
+    aristocrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 50
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 1100
+    }
+
+    soldiers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 50
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 650
+    }
+
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 200
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 350
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1200
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1500
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 48250
+    }
+}
+#Biak (32000/8000 POPS)
+1452 = {
+    aristocrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 125
+    }
+
+    bureaucrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 150
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 250
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 300
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 14525
+    }
+}
+#Merah (172000/43000 POPS)
+1454 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 450
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 425
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 2000
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1000
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 48725
+    }
+}
+#Merauke (140000/35000 POPS)
+1560 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 400
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 350
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1500
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 600
+    }
+	
+	soldiers = {
+        culture = saarnisaar	
+        religion = ooselskia
+        size = 300
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 34450
+    }
+	
+	farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 16450
+    }
+
+}

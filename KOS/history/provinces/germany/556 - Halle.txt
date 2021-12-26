@@ -1,0 +1,5 @@
+owner = SAX
+controller = SAX
+add_core = SAX
+trade_goods = fruit
+life_rating = 40

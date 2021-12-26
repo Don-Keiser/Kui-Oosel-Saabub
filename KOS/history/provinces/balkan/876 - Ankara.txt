@@ -1,0 +1,6 @@
+owner = PHR
+controller = PHR
+add_core = PHR
+trade_goods = fruit
+life_rating = 35
+terrain = ankara

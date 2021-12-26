@@ -1,0 +1,5 @@
+owner = MEI
+controller = MEI
+add_core = MEI
+trade_goods = cattle
+life_rating = 40

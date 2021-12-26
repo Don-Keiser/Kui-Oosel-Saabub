@@ -1,0 +1,6 @@
+owner = SCL
+controller = SCL
+add_core = SCL
+trade_goods = fruit
+life_rating = 40
+1861.1.1 = { railroad = 3 }

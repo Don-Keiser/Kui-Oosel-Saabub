@@ -1,0 +1,7 @@
+owner = NRE
+controller = NRE
+add_core = NRE
+trade_goods = timber
+terrain = plains
+life_rating = 35
+colonial = 2

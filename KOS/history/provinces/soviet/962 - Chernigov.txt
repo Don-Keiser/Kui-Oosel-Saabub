@@ -1,0 +1,5 @@
+owner = FNG
+controller = FNG
+add_core = FNG
+trade_goods = grain
+life_rating = 35

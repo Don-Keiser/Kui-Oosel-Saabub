@@ -1,0 +1,7 @@
+owner = MCK
+controller = MCK
+add_core = MCK
+trade_goods = silk
+life_rating = 31
+naval_base = 1
+terrain = pyongyang

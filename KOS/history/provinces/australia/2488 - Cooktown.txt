@@ -1,0 +1,5 @@
+owner = KIK
+controller = KIK
+add_core = KIK
+trade_goods = tropical_wood
+life_rating = 35

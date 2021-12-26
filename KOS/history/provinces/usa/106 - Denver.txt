@@ -1,0 +1,5 @@
+owner = ARH
+controller = ARH
+add_core = ARH
+trade_goods = cattle
+life_rating = 35

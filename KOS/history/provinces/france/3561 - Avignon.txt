@@ -1,0 +1,8 @@
+owner = PAP
+controller = PAP
+add_core = PAP
+add_core = FRA
+add_core = PRO
+add_core = OCC
+trade_goods = silk
+life_rating = 30

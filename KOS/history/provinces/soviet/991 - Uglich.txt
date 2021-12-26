@@ -1,0 +1,5 @@
+owner = VIE
+controller = VIE
+add_core = VIE
+trade_goods = timber
+life_rating = 35

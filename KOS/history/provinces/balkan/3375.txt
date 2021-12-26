@@ -1,0 +1,6 @@
+owner = ATB
+controller = ATB
+add_core = ATB
+trade_goods = timber
+terrain = forest
+life_rating = 40

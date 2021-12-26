@@ -1,0 +1,5 @@
+owner = NRE
+controller = NRE
+add_core = NRE
+trade_goods = iron
+life_rating = 35

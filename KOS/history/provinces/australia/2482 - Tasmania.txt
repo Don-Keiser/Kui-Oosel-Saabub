@@ -1,0 +1,5 @@
+owner = VUT
+controller = VUT
+add_core = VUT
+trade_goods = timber
+life_rating = 32

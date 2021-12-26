@@ -1,0 +1,5 @@
+owner = THA
+controller = THA
+add_core = THA
+trade_goods = coal
+life_rating = 35

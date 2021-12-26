@@ -1,0 +1,5 @@
+owner = MSA
+controller = MSA
+add_core = MSA
+trade_goods = fruit
+life_rating = 35

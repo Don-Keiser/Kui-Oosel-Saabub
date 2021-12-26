@@ -1,0 +1,160 @@
+#Sphere of Influence
+LIE = {
+    value = 200        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+PAP = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+PAR = {
+    value = 130        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+SAR = {
+    value = 125        #relation
+    level = 4        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+#Leaders
+
+leader = {
+    name = "de Kalbermatten"
+    date = 1815.1.1
+    type = land
+    personality = tactful
+    background = exranker
+    prestige = 0.2
+}
+
+leader = {
+    name = "Henri Dufour"
+    date = 1831.1.1
+    type = land
+    personality = intelligent
+    background = cartographer
+    prestige = 0.1
+}
+
+army = {
+    name = "Landwehr I"
+    location = 603
+    regiment = {
+        name= "1. Brigade"
+        type = infantry
+        home = 603
+    }
+    regiment = {
+        name= "2. Brigade"
+        type = infantry
+        home = 604
+    }
+    regiment = {
+        name= "3. Brigade"
+        type = infantry
+        home = 605
+    }
+    regiment = {
+        name= "4. Brigade"
+        type = infantry
+        home = 606
+    }
+	regiment = {
+        name= "9. Brigade"
+        type = artillery
+        home = 606
+    }
+}
+army = {
+    name = "Landwehr II"
+    location = 607
+    regiment = {
+        name= "5. Brigade"
+        type = infantry
+        home = 607
+    }
+    regiment = {
+        name= "6. Brigade"
+        type = infantry
+        home = 2568
+    }
+    regiment = {
+        name= "7. Brigade"
+        type = infantry
+        home = 609
+    }
+    regiment = {
+        name= "8. Brigade"
+        type = infantry
+        home = 611
+    }
+	regiment = {
+        name= "9. Brigade"
+        type = artillery
+        home = 611
+    }
+}
+
+army = {
+    name = "Landwehr III"
+    location = 720
+    regiment = {
+        name= "5. Brigade"
+        type = infantry
+        home = 720
+    }
+    regiment = {
+        name= "6. Brigade"
+        type = infantry
+        home = 720
+    }
+    regiment = {
+        name= "7. Brigade"
+        type = infantry
+        home = 723
+    }
+    regiment = {
+        name= "8. Brigade"
+        type = infantry
+        home = 465
+    }
+	regiment = {
+        name= "9. Brigade"
+        type = artillery
+        home = 722
+    }
+}
+
+army = {
+    name = "Landwehr IV"
+    location = 726
+    regiment = {
+        name= "5. Brigade"
+        type = infantry
+        home = 726
+    }
+    regiment = {
+        name= "6. Brigade"
+        type = infantry
+        home = 726
+    }
+    regiment = {
+        name= "7. Brigade"
+        type = infantry
+        home = 727
+    }
+    regiment = {
+        name= "8. Brigade"
+        type = infantry
+        home = 2669
+    }
+	regiment = {
+        name= "9. Brigade"
+        type = artillery
+        home = 734
+    }
+}

@@ -1,0 +1,5 @@
+owner = ISL
+controller = ISL
+add_core = ISL
+trade_goods = coal
+life_rating = 35

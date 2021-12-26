@@ -1,0 +1,5 @@
+owner = QUA
+controller = QUA
+add_core = QUA
+trade_goods = iron
+life_rating = 35

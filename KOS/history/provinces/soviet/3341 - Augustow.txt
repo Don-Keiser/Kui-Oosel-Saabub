@@ -1,0 +1,5 @@
+owner = VAA
+controller = VAA
+add_core = VAA
+trade_goods = grain
+life_rating = 35

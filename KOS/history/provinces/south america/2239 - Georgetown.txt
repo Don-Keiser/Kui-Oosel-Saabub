@@ -1,0 +1,5 @@
+trade_goods = fruit
+terrain = plains
+life_rating = 35
+colonial = 2
+naval_base = 1

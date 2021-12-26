@@ -1,0 +1,5 @@
+owner = NBE
+controller = NBE
+add_core = NBE
+trade_goods = coal
+life_rating = 35

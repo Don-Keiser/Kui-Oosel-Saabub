@@ -1,0 +1,5 @@
+owner = KAU
+controller = KAU
+add_core = KAU
+trade_goods = grain
+life_rating = 35

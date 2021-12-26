@@ -1,0 +1,421 @@
+849 = {
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 614
+    }
+    bureaucrats = {
+        culture = albanian
+        religion = catholic
+        size = 143
+    }
+    officers = {
+        culture = albanian
+        religion = catholic
+        size = 122
+    }
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 256
+    }
+    artisans = {
+        culture = albanian
+        religion = catholic
+        size = 1310
+    }
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 819
+    }
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 40947
+    }
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 100
+    }
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 4065
+    }
+
+    ######Jews
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+    ########
+}
+850 = {
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 880
+    }
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 307
+    }
+    artisans = {
+        culture = albanian
+        religion = catholic
+        size = 1556
+    }
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 819
+    }
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 30566
+    }
+
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 350
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 100
+    }
+    artisans = {
+        culture = albanian
+        religion = catholic
+        size = 430
+    }
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 10127
+    }
+}
+851 = {
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 245
+    }
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 100
+    }
+    artisans = {
+        culture = albanian
+        religion = catholic
+        size = 491
+    }
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 450
+    }
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 5632
+    }
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 100
+    }
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 2055
+    }
+
+    farmers = {
+        culture = epirote
+        religion = catholic
+        size = 300
+    }
+
+}
+852 = {
+    aristocrats = {
+        culture = tosk
+        religion = catholic
+        size = 573
+    }
+    clergymen = {
+        culture = tosk
+        religion = catholic
+        size = 256
+    }
+    artisans = {
+        culture = tosk
+        religion = catholic
+        size = 1331
+    }
+    soldiers = {
+        culture = tosk
+        religion = catholic
+        size = 286
+    }
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 10447
+    }
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 500
+    }
+    clergymen = {
+        culture = tosk
+        religion = catholic
+        size = 143
+    }
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 2232
+    }
+}
+853 = {
+    aristocrats = {
+        culture = tosk
+        religion = catholic
+        size = 307
+    }
+    clergymen = {
+        culture = tosk
+        religion = catholic
+        size = 102
+    }
+    soldiers = {
+        culture = tosk
+        religion = catholic
+        size = 450
+    }
+    artisans = {
+        culture = tosk
+        religion = catholic
+        size = 122
+    }
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 8746
+    }
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 500
+    }
+    soldiers = {
+        culture = tosk
+        religion = catholic
+        size = 100
+    }
+    clergymen = {
+        culture = tosk
+        religion = catholic
+        size = 100
+    }
+    artisans = {
+        culture = tosk
+        religion = catholic
+        size = 100
+    }
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 3379
+    }
+    soldiers = {
+        culture = epirote
+        religion = catholic
+        size = 122
+    }
+    clergymen = {
+        culture = epirote
+        religion = catholic
+        size = 100
+    }
+    artisans = {
+        culture = epirote
+        religion = catholic
+        size = 245
+    }
+    farmers = {
+        culture = epirote
+        religion = catholic
+        size = 1799
+    }
+}
+3307 = {
+    aristocrats = {
+        culture = tosk
+        religion = catholic
+        size = 307
+    }
+    clergymen = {
+        culture = tosk
+        religion = catholic
+        size = 102
+    }
+    soldiers = {
+        culture = tosk
+        religion = catholic
+        size = 450
+    }
+    artisans = {
+        culture = tosk
+        religion = catholic
+        size = 122
+    }
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 11746
+    }
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 500
+    }
+    soldiers = {
+        culture = tosk
+        religion = catholic
+        size = 100
+    }
+    clergymen = {
+        culture = tosk
+        religion = catholic
+        size = 100
+    }
+    artisans = {
+        culture = tosk
+        religion = catholic
+        size = 100
+    }
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 3379
+    }
+    soldiers = {
+        culture = makedones
+        religion = catholic
+        size = 122
+    }
+    clergymen = {
+        culture = makedones
+        religion = catholic
+        size = 100
+    }
+    artisans = {
+        culture = makedones
+        religion = catholic
+        size = 245
+    }
+    farmers = {
+        culture = makedones
+        religion = catholic
+        size = 599
+    }
+    soldiers = {
+        culture = makedones
+        religion = catholic
+        size = 100
+    }
+    clergymen = {
+        culture = makedones
+        religion = catholic
+        size = 100
+    }
+    artisans = {
+        culture = makedones
+        religion = catholic
+        size = 200
+    }
+    farmers = {
+        culture = makedones
+        religion = catholic
+        size = 800
+    }
+}
+3308 = {
+    aristocrats = {
+        culture = albanian
+        religion = catholic
+        size = 307
+    }
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 102
+    }
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 450
+    }
+    artisans = {
+        culture = albanian
+        religion = catholic
+        size = 122
+    }
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 6246
+    }
+    soldiers = {
+        culture = albanian
+        religion = catholic
+        size = 100
+    }
+    clergymen = {
+        culture = albanian
+        religion = catholic
+        size = 100
+    }
+    artisans = {
+        culture = albanian
+        religion = catholic
+        size = 100
+    }
+    farmers = {
+        culture = albanian
+        religion = catholic
+        size = 3379
+    }
+    soldiers = {
+        culture = tosk
+        religion = catholic
+        size = 122
+    }
+    clergymen = {
+        culture = tosk
+        religion = catholic
+        size = 100
+    }
+    artisans = {
+        culture = tosk
+        religion = catholic
+        size = 245
+    }
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 1799
+    }
+}

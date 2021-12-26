@@ -1,0 +1,19 @@
+leader = {
+	name = "Alaksii kohta Kensaari"
+	date = 1836.1.1
+	type = land
+	personality = confident
+	background = drillmaster
+	prestige = 0.3
+}
+
+army = {
+	name = "Kunungrik's Armies"
+	location = 1380
+	regiment = {
+		name= "Eskadrill"
+		type = guard
+		home = 1380
+	}
+}
+

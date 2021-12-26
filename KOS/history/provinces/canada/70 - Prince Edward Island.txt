@@ -1,0 +1,6 @@
+owner = NVF
+controller = NVF
+add_core = NVF
+add_core = ACA
+trade_goods = fish
+life_rating = 31

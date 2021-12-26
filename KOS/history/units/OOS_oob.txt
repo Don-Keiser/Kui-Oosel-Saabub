@@ -1,0 +1,360 @@
+leader = {
+	name = "Niimerona Krisvaprus"
+	date = 1836.1.1
+	type = land
+	personality = imperious
+	background = drillmaster
+	prestige = 0.3
+}
+
+leader = {
+	name = "Hopea dira Cooviilehmbed"
+	date = 1836.1.1
+	type = land
+	personality = persistant
+	background = nationalist
+	prestige = 0.3
+}
+
+leader = {
+    name = "Jorgeid Havardrintytar"
+    date = 1836.1.1
+    type = sea
+    personality = wrathful
+    background = expert_raider
+    prestige = 0.2
+}
+
+army = {
+	name = "Keiserin's Armies"
+	location = 1430
+	regiment = {
+		name= "Esimene Valvur"
+		type = guard
+		home = 1430
+	}
+	
+	regiment = {
+		name= "Teine Valvur"
+		type = guard
+		home = 1430
+	}
+	
+	regiment = {
+		name= "Kolmas Valvur"
+		type = guard
+		home = 1430
+	}
+	
+	regiment = {
+		name= "Kuninglik Inseneride Eskadrill"
+		type = engineer
+		home = 1432
+	}
+	
+	regiment = {
+        name= "Esimene Puha Ratsavagi"
+        type = hussar
+        home = 1431
+    }
+
+    regiment = {
+        name= "Teine Puha Ratsavagi"
+        type = hussar
+        home = 1431
+    }
+	
+	regiment = {
+        name= "Kolmas Puha Ratsavagi"
+        type = hussar
+        home = 1436
+    }
+
+    regiment = {
+        name= "Neljas Puha Ratsavagi"
+        type = hussar
+        home = 1436
+    }
+	
+	regiment = {
+        name= "Esimene Suurtukivaepolk"
+        type = artillery
+        home = 1435
+    }
+
+    regiment = {
+        name= "Teine Suurtukivaepolk"
+        type = artillery
+        home = 1435
+    }
+
+    regiment = {
+        name= "Kolmas Suurtukivaepolk"
+        type = artillery
+        home = 1433
+    }
+	
+}
+
+army = {
+	name = "Esimene Armeekorpus"
+	location = 1418
+	regiment = {
+		name= "Esimene Jalavagi"
+		type = infantry
+		home = 1418
+	}
+	
+	regiment = {
+		name= "Teine Jalavagi"
+		type = infantry
+		home = 1418
+	}
+	
+	regiment = {
+		name= "Kolmas Jalavagi"
+		type = infantry
+		home = 1418
+	}
+	
+	regiment = {
+		name= "Neljas Jalavagi"
+		type = infantry
+		home = 1421
+	}
+	
+	regiment = {
+        name= "Esimene Puha Ratsavagi"
+        type = hussar
+        home = 1417
+    }
+
+    regiment = {
+        name= "Teine Puha Ratsavagi"
+        type = hussar
+        home = 1419
+    }
+	
+	regiment = {
+        name= "Esimene Suurtukivaepolk"
+        type = artillery
+        home = 1420
+    }
+	
+	regiment = {
+        name= "Teine Suurtukivaepolk"
+        type = artillery
+        home = 1420
+    }
+	
+}
+
+navy = {
+    name = "Suurmerevagi"
+    location = 1430
+    ship = {
+        name= "Suursinine"
+        type = manowar
+    }
+
+    ship = {
+        name= "Karmiin"
+        type = manowar
+    }
+
+    ship = {
+        name= "Koju ei Joua"
+        type = manowar
+    }
+
+    ship = {
+        name= "Tagasi ja Tagasi"
+        type = manowar
+    }
+
+    ship = {
+        name= "Lohestadameri"
+        type = manowar
+    }
+
+    ship = {
+        name= "Moirgav Lovi"
+        type = manowar
+    }
+
+    ship = {
+        name= "Havitaja"
+        type = manowar
+    }
+
+    ship = {
+        name= "Makassarid"
+        type = manowar
+    }
+
+    ship = {
+        name= "Babülona"
+        type = manowar
+    }
+
+    ship = {
+        name= "Prince Manoosel"
+        type = manowar
+    }
+
+    ship = {
+        name= "Kristofer II"
+        type = manowar
+    }
+
+    ship = {
+        name= "Onnistus"
+        type = manowar
+    }
+
+    ship = {
+        name= "Kalliskivi"
+        type = manowar
+    }
+
+    ship = {
+        name= "Kroon"
+        type = manowar
+    }
+
+    ship = {
+        name= "Vurstid"
+        type = manowar
+    }
+
+    ship = {
+        name= "Augustamine"
+        type = manowar
+    }
+
+    ship = {
+        name= "Kuningliklaev"
+        type = manowar
+    }
+
+    ship = {
+        name= "Taielik"
+        type = manowar
+    }
+
+    ship = {
+        name= "Teravad Hambad"
+        type = manowar
+    }
+
+    ship = {
+        name= "Psuuhika"
+        type = manowar
+    }
+
+    ship = {
+        name= "Vaike Isekas"
+        type = frigate
+    }
+
+    ship = {
+        name= "Gyozeleszigetid"
+        type = frigate
+    }
+
+    ship = {
+        name= "Rannikulahedal"
+        type = frigate
+    }
+
+    ship = {
+        name= "Suurkala"
+        type = frigate
+    }
+
+    ship = {
+        name= "Kohutal"
+        type = frigate
+    }
+
+    ship = {
+        name= "Jaledad"
+        type = frigate
+    }
+
+    ship = {
+        name= "Roheline"
+        type = frigate
+    }
+
+    ship = {
+        name= "Ruutel Ava"
+        type = frigate
+    }
+
+    ship = {
+        name= "Targutaja"
+        type = frigate
+    }
+
+    ship = {
+        name= "Veresaun"
+        type = frigate
+    }
+
+    ship = {
+        name= "Uus Sund"
+        type = frigate
+    }
+
+    ship = {
+        name= "Voit"
+        type = frigate
+    }
+
+    ship = {
+        name= "Uhke"
+        type = frigate
+    }
+
+    ship = {
+        name= "4ème Flotille de Transport"
+        type = frigate
+    }
+
+    ship = {
+        name= "5ème Flotille de Transport"
+        type = frigate
+    }
+
+    ship = {
+        name= "6ème Flotille de Transport"
+        type = frigate
+    }
+
+    ship = {
+        name= "1.Vedu"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "3.Vedu"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "4.Vedu"
+        type = clipper_transport
+    }
+	
+	ship = {
+        name= "5.Vedu"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "6.Vedu"
+        type = clipper_transport
+    }
+}
+

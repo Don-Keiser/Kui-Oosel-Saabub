@@ -1,0 +1,7 @@
+owner = TER
+controller = TER
+add_core = TER
+trade_goods = iron
+life_rating = 40
+terrain = koblenz
+1861.1.1 = { railroad = 3 }

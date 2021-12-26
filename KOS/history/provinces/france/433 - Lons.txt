@@ -1,0 +1,6 @@
+owner = WUR
+controller = WUR
+add_core = WUR
+add_core = FRA
+trade_goods = coal
+life_rating = 30

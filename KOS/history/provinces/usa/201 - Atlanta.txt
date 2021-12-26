@@ -1,0 +1,18 @@
+owner = NRE
+controller = NRE
+add_core = NRE
+trade_goods = cotton
+life_rating = 35
+terrain = atlanta
+
+state_building = {
+    level = 1
+    building = clipper_shipyard
+    upgrade = yes
+}
+
+state_building = {
+    level = 1
+    building = fabric_factory
+    upgrade = yes
+}

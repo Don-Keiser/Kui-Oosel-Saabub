@@ -1,0 +1,6 @@
+owner = WEI
+controller = WEI
+add_core = WEI
+trade_goods = timber
+terrain = forest
+life_rating = 40

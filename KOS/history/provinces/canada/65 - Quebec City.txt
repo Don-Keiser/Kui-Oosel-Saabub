@@ -1,0 +1,7 @@
+owner = NVF
+controller = NVF
+add_core = NVF
+add_core = QUE
+trade_goods = grain
+life_rating = 35
+terrain = quebec

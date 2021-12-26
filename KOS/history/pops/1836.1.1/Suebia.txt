@@ -1,0 +1,196 @@
+#La Coruna (796000/199000 POPS)
+474 = {
+    aristocrats = {
+        culture = suebi
+        religion = catholic
+        size = 2200
+    }
+
+    officers = {
+        culture = suebi
+        religion = catholic
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = suebi
+        religion = catholic
+        size = 650
+    }
+
+    clergymen = {
+        culture = suebi
+        religion = catholic
+        size = 2000
+    }
+
+    clergymen = {
+        culture = suebi
+        religion = catholic
+        size = 1000
+    }
+
+    artisans = {
+        culture = suebi
+        religion = catholic
+        size = 2350
+    }
+        artisans = {
+        culture = suebi
+        religion = catholic
+        size = 4350
+    }
+
+    soldiers = {
+        culture = suebi
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = suebi
+        religion = catholic
+        size = 40350
+    }
+        farmers = {
+        culture = suebi
+        religion = catholic
+        size = 104350
+    }
+}
+#Vigo (328000/82000 POPS)
+476 = {
+    aristocrats = {
+        culture = suebi
+        religion = catholic
+        size = 700
+    }
+
+    clergymen = {
+        culture = suebi
+        religion = catholic
+        size = 800
+    }
+
+    artisans = {
+        culture = suebi
+        religion = catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = suebi
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = suebi
+        religion = catholic
+        size = 25500
+    }
+        farmers = {
+        culture = suebi
+        religion = catholic
+        size = 60500
+    }
+}
+#Weinschloss
+3558 = {
+    aristocrats = {
+        culture = suebi
+        religion = catholic
+        size = 800
+    }
+
+    clergymen = {
+        culture = suebi
+        religion = catholic
+        size = 350
+    }
+
+    artisans = {
+        culture = suebi
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = suebi
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = suebi
+        religion = catholic
+        size = 24000
+
+	}
+}
+#Einheimische
+3559 = {
+    aristocrats = {
+        culture = suebi
+        religion = catholic
+        size = 120
+    }
+
+    clergymen = {
+        culture = suebi
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = suebi
+        religion = catholic
+        size = 1200
+    }
+
+    soldiers = {
+        culture = suebi
+        religion = catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = suebi
+        religion = catholic
+        size = 8200
+
+	}
+}
+#Kaputtschwert
+3560 = {
+    aristocrats = {
+        culture = suebi
+        religion = catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = suebi
+        religion = catholic
+        size = 260
+    }
+
+    artisans = {
+        culture = suebi
+        religion = catholic
+        size = 2300
+    }
+
+    soldiers = {
+        culture = suebi
+        religion = catholic
+        size = 950
+    }
+
+    farmers = {
+        culture = suebi
+        religion = catholic
+        size = 13500
+
+	}
+}

@@ -1,0 +1,6 @@
+owner = LEV
+controller = LEV
+add_core = LEV
+trade_goods = coal
+life_rating = 35
+terrain = mining_district

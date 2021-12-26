@@ -1,0 +1,2156 @@
+#Cochinchina Region (1384000)
+#under the rule of Annam in 1836
+#Saigon (848000/212000 POPS)
+1380 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2600
+    }
+
+    bureaucrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 325
+    }
+
+    officers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 300
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1775
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 5500
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1775
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 151725
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 15000
+    }
+
+    aristocrats = {
+        culture = saarmadal
+        religion = ooselskia
+        size = 600
+    }
+
+    clergymen = {
+        culture = saarmadal
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = saarmadal
+        religion = ooselskia
+        size = 3100
+    }
+
+    farmers = {
+        culture = saarmadal
+        religion = ooselskia
+        size = 4825
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 2600
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 4350
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 125
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 18875
+    }
+}
+#Dongquai (244000/61000 POPS)
+1381 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 900
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 475
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2400
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 475
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 43750
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 250
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 4700
+    }
+
+    aristocrats = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 175
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 400
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 75
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 7275
+    }
+}
+#Hatien (172000/43000 POPS)
+1382 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 300
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 125
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 700
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 150
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 12725
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 300
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1450
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 250
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 27000
+    }
+
+    farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 6000
+    }
+
+}
+#Vinhlong (120000/30000 POPS)
+1383 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 300
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 125
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 700
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 11875
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 150
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 800
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 150
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 14900
+    }
+}
+#Annam Region (2148000)
+#Hue (1080000/270000 POPS)
+1375 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 3750
+    }
+	
+	aristocrats = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 1000
+    }
+
+    bureaucrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 850
+    }
+
+    officers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 525
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2250
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 6475
+    }
+	
+	artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 4475
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2250
+    }
+	
+	soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1250
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 174900
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 20000
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = catholic
+        size = 1025
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = catholic
+        size = 29750
+    }
+
+    aristocrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 150
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 4000
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 2925
+    }
+}
+#Tourane (276000/69000 POPS)
+1377 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 800
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 400
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2000
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 15800
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 6000
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = catholic
+        size = 3750
+    }
+
+    aristocrats = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 450
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 225
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 1100
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 225
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 49975
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 25
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 550
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 425
+    }
+}
+#Pleiku (148000 37000 POPS)
+1378 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 700
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 325
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1700
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 350
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 30925
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2000
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = catholic
+        size = 3750
+    }
+}
+#Quinhon (120000/30000 POPS)
+1379 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 150
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 300
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 75
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 5425
+    }
+
+    aristocrats = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 500
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 225
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 1200
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 250
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 21825
+    }
+}
+#Cambodia Region (864000)
+#Phnom Penh (468000/117000 POPS)
+1364 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2000
+    }
+
+    bureaucrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 150
+    }
+
+    officers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 200
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1125
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 5500
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 3000
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1000
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 93025
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 9000
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 1250
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2675
+    }
+}
+#Kampot (160000/40000 POPS)
+1367 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 725
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 375
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1750
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 34150
+    }
+
+farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 18150
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 25
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 500
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1475
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 3000
+    }
+}
+#Stongtreng (84000/21000 POPS)
+1368 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 300
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 175
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 900
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 175
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 16450
+    }
+
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 50
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 125
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 25
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 2750
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2000
+    }
+}
+#under the rule of Siam in 1836
+#Battambang (152000/48000 POPS)
+1366 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 25
+    }
+
+    bureaucrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 50
+    }
+
+    officers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 75
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 25
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 50
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 50
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 725
+    }
+
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 750
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 400
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2000
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 425
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 39425
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 3100
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 750
+    }
+
+    soldiers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 50
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 2150
+    }
+}
+#Laos Region (700000)
+#Pakse (60000/15000 POPS)
+1363 = {
+    aristocrats = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 275
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 150
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 750
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 125
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 13700
+    }
+}
+#Salavan (168000/42000 POPS)
+1362 = {
+    aristocrats = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 450
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 250
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 1200
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 21096
+    }
+
+    aristocrats = {
+        culture = saarmagi
+        religion = catholic
+        size = 325
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = catholic
+        size = 175
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = catholic
+        size = 11425
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = catholic
+        size = 5000
+    }
+}
+#Ayutthaya Region (2080000)
+#Bangkok (1108000/277000 POPS)
+1346 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 4500
+    }
+
+    bureaucrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 375
+    }
+
+    officers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 475
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2375
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 10000
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2250
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 183025
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 30000
+    }
+
+    aristocrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 200
+    }
+
+    officers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 75
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 525
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 10000
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 10000
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 10000
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 3000
+    }
+
+    soldiers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 575
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 21875
+    }
+}
+#Lopburi (324000/81000 POPS)
+1347 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1575
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 825
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 4000
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 70600
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 8000
+    }
+}
+#Nakhon Sawan (188000/47000 POPS)
+1348 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 800
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 400
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1500
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 37300
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 3000
+    }
+
+    aristocrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 25
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 1250
+    }
+
+    soldiers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 25
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 1650
+    }
+}
+#Sukothai (136000/34000 POPS)
+1349 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 650
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 350
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1700
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 29900
+    }
+}
+#Ratchaburi (172000/43000 POPS)
+1353 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 700
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 350
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1800
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 30150
+    }
+
+    aristocrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 125
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 1800
+    }
+
+    soldiers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 75
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 5225
+    }
+
+    aristocrats = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 125
+    }
+
+    clergymen = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 1500
+    }
+
+    soldiers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 75
+    }
+
+    farmers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 7225
+    }
+}
+#Isan Region (72000)
+#Nakhon Ratchasima (160000/40000 POPS)
+1350 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 800
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 425
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2000
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 35775
+    }
+}
+#Prachin Buri (164000/41000 POPS)
+1351 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 575
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 300
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1400
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 27725
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1100
+    }
+
+    aristocrats = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 2000
+    }
+
+    soldiers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 100
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 6725
+    }
+}
+#Sisaket (180000/45000 POPS) #now part of Thailand
+1359 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 425
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 225
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1150
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 250
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 20950
+    }
+
+    aristocrats = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 325
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 175
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 875
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 175
+    }
+
+    farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 17450
+    }
+
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 25
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 150
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 25
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2750
+    }
+}
+#Chanthaburi (72000/18000 POPS) #now part of Thailand
+1365 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 75
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 225
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 50
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 4600
+    }
+
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 150
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 100
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 500
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 100
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 9150
+    }
+
+    clergymen = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 50
+    }
+
+    artisans = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 750
+    }
+
+    soldiers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 50
+    }
+
+    farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 2150
+    }
+}
+#Pegu Region (1336000)
+#Rangoon (344000/86000 POPS)
+1330 = {
+    aristocrats = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 200
+    }
+
+    clergymen = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 250
+    }
+
+    artisans = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 1200
+    }
+
+    soldiers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 250
+    }
+
+    farmers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = saarnordlig #Mon
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 150
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 1100
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 150
+    }
+
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 500
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 475
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2350
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 3000
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1000
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 38700
+    }
+
+    farmers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 10000
+    }
+}
+#Bassein (124000/31000 POPS)
+1331 = {
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 300
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 275
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1350
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 300
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 24775
+    }
+
+    aristocrats = {
+        culture = saarnordlig #Mon
+        religion = ooselskia
+        size = 25
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 200
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 50
+    }
+}
+#Pegu (560000/140000 POPS)
+1332 = {
+    aristocrats = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 400
+    }
+
+    clergymen = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 500
+    }
+
+    artisans = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 2400
+    }
+
+    soldiers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 500
+    }
+
+    farmers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 24200
+    }
+
+    aristocrats = {
+        culture = saarnordlig #Mon
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 150
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 850
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 150
+    }
+
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 850
+    }
+
+    bureaucrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 600
+    }
+
+    officers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 400
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 800
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 4000
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 3000
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1000
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 67300
+    }
+
+    farmers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 20000
+    }
+}
+#Tenasserim Region - 604000
+#Moulmein (272000/68000 POPS)
+1343 = {
+    aristocrats = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 400
+    }
+
+    clergymen = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 350
+    }
+
+    artisans = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 1100
+    }
+
+    soldiers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 300
+    }
+
+    farmers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 30650
+    }
+
+    farmers = {
+        culture = saarhalaslik
+        religion = protestant
+        size = 300
+    }
+
+    aristocrats = {
+        culture = saarnordlig #Mon
+        religion = ooselskia
+        size = 200
+    }
+
+    clergymen = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 375
+    }
+
+    artisans = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 1375
+    }
+
+    soldiers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 250
+    }
+
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 75
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1500
+    }
+
+    bureaucrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 100
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 150
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 5075
+    }
+
+    bureaucrats = {
+        culture = saarnordlig
+        religion = anglican
+        size = 25
+    }
+}
+#Mergui (332000/83000 POPS)
+1344 = {
+    aristocrats = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 400
+    }
+
+    clergymen = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 375
+    }
+
+    artisans = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 1100
+    }
+
+    soldiers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 400
+    }
+
+    farmers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 34525
+    }
+
+    farmers = {
+        culture = saarhalaslik
+        religion = protestant
+        size = 300
+    }
+
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 200
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 1250
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 200
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 17250
+    }
+
+    aristocrats = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 350
+    }
+
+    clergymen = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 300
+    }
+
+    artisans = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 2000
+    }
+
+    soldiers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 300
+    }
+
+    farmers = {
+        culture = saarmagi
+        religion = ooselskia
+        size = 23050
+    }
+
+    farmers = {
+        culture = saarhalaslik
+        religion = ooselskia
+        size = 1000
+    }
+
+}

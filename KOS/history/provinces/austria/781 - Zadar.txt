@@ -1,0 +1,6 @@
+owner = LBU
+controller = LBU
+add_core = LBU
+terrain = zadar
+trade_goods = fish
+life_rating = 35

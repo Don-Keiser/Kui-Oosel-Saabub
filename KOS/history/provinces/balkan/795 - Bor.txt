@@ -1,0 +1,5 @@
+owner = DRD
+controller = DRD
+add_core = DRD
+trade_goods = grain
+life_rating = 35

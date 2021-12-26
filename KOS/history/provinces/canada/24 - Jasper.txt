@@ -1,0 +1,6 @@
+owner = NII
+controller = NII
+add_core = NII
+terrain = steppe
+trade_goods = grain
+life_rating = 31

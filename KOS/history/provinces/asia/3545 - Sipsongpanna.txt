@@ -1,0 +1,7 @@
+owner = NZH
+controller = NZH
+add_core = NZH
+add_core = CHI
+add_core = YNN
+trade_goods = grain
+life_rating = 32

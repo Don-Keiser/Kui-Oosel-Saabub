@@ -1,0 +1,5 @@
+owner = JIC
+controller = JIC
+add_core = JIC
+trade_goods = sulphur
+life_rating = 35

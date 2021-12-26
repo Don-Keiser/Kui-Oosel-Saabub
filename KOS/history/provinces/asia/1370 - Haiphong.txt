@@ -1,0 +1,8 @@
+owner = KAU
+controller = KAU
+add_core = KAU
+add_core = DAI
+trade_goods = cattle
+life_rating = 38
+naval_base = 1
+terrain = floodplain_farmland

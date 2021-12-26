@@ -1,0 +1,11 @@
+owner = OOS
+controller = OOS
+add_core = OOS
+trade_goods = sulphur
+life_rating = 40
+terrain = jungle_farmland
+naval_base = 1
+state_building = {
+    level = 2
+    building = ammunition_factory
+    upgrade = yes

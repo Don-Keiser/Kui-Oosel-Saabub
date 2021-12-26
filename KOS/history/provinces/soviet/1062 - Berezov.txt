@@ -1,0 +1,6 @@
+owner = KTA
+controller = KTA
+add_core = KTA
+trade_goods = iron
+terrain = boreal
+life_rating = 15

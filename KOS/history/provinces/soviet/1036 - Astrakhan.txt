@@ -1,0 +1,7 @@
+owner = CUM
+controller = CUM
+add_core = CUM
+trade_goods = wool
+life_rating = 35
+colonial = 2
+terrain = marsh

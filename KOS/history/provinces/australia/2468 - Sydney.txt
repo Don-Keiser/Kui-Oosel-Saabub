@@ -1,0 +1,7 @@
+owner = VUT
+controller = VUT
+add_core = VUT
+trade_goods = grain
+life_rating = 38
+terrain = sydney
+naval_base = 1

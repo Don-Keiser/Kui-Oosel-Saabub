@@ -1,0 +1,5 @@
+owner = LEV
+controller = LEV
+add_core = LEV
+trade_goods = cattle
+life_rating = 35

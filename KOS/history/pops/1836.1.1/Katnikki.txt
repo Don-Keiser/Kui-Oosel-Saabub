@@ -1,0 +1,364 @@
+#Northern Australia Region
+#Palmerston - Port Essington (20000/5000 POPS)
+2505 = {
+    aristocrats = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 50
+    }
+
+    clergymen = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 230
+    }
+
+    officers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 300
+    }
+
+    artisans = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 3000
+    }
+
+    soldiers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 2300
+    }
+
+    farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 15000
+    }
+
+    aristocrats = {
+        culture = saarkatnik
+        religion = asatru
+        size = 750
+    }
+
+    clergymen = {
+        culture = saarkatnik
+        religion = asatru
+        size = 300
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = asatru
+        size = 2600
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = asatru
+        size = 58300
+    }
+	
+	artisans = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 5000
+    }
+}
+#Tennant Creek (8000/2000 POPS)
+2506 = {
+
+	aristocrats = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 150
+    }
+
+    clergymen = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 130
+    }
+
+    officers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 200
+    }
+
+    aristocrats = {
+        culture = saarkatnik
+        religion = asatru
+        size = 100
+    }
+
+    clergymen = {
+        culture = saarkatnik
+        religion = asatru
+        size = 90
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = asatru
+        size = 1500
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = asatru
+        size = 27500
+    }
+	
+	farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 8500
+    }
+}
+
+#Queensland Region
+#Cooktown (10000/2500 POPS)
+2488 = {
+    aristocrats = {
+        culture = saarkatnik
+        religion = asatru
+        size = 250
+    }
+	
+	bureaucrats = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 150
+    }
+
+    clergymen = {
+        culture = saarkatnik
+        religion = asatru
+        size = 150
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = asatru
+        size = 1000
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = asatru
+        size = 29000
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 21000
+    }
+	
+	farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 11000
+    }
+}
+#Normanton (6000/1500 POPS)
+2604 = {
+    aristocrats = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 300
+    }
+	
+	bureaucrats = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 150
+    }
+
+    clergymen = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 200
+    }
+
+    soldiers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 1200
+    }
+	
+	artisans = {
+		culture = saarnisaar
+        religion = ooselskia
+        size = 1300
+    }
+
+    farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 19070
+    }
+	
+	aristocrats = {
+        culture = saarkatnik
+        religion = asatru
+        size = 500
+    }
+	
+	bureaucrats = {
+        culture = saarkatnik
+        religion = asatru
+        size = 300
+    }
+
+    clergymen = {
+        culture = saarkatnik
+        religion = asatru
+        size = 250
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = asatru
+        size = 1900
+    }
+	
+	artisans = {
+		culture = saarkatnik
+        religion = asatru
+        size = 5000
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = asatru
+        size = 32070
+    }
+	
+	aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 150
+    }
+	
+	bureaucrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 300
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 500
+    }
+	
+	artisans = {
+		culture = szigetinyel
+        religion = ooselskia
+        size = 900
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 9070
+    }
+}
+
+#Western Australia Region
+#Broome (8000/2000 POPS)
+2501 = {
+    aristocrats = {
+        culture = saarkatnik
+        religion = asatru
+        size = 300
+    }
+	
+	bureaucrats = {
+        culture = saarkatnik
+        religion = asatru
+        size = 200
+    }
+
+    clergymen = {
+        culture = saarkatnik
+        religion = asatru
+        size = 300
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = asatru
+        size = 2500
+    }
+	
+	artisans = {
+		culture = saarkatnik
+        religion = asatru
+        size = 1800
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = asatru
+        size = 29050
+    }
+	
+	aristocrats = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 180
+    }
+	
+	bureaucrats = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 150
+    }
+
+    clergymen = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 120
+    }
+
+    soldiers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 2200
+    }
+	
+	artisans = {
+		culture = saarnisaar
+        religion = ooselskia
+        size = 2400
+    }
+
+    farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 18050
+    }
+}

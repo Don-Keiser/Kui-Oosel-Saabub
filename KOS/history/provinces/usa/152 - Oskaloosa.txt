@@ -1,0 +1,5 @@
+owner = IOW
+controller = IOW
+add_core = IOW
+trade_goods = grain
+life_rating = 35

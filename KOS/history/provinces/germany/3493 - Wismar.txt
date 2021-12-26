@@ -1,0 +1,6 @@
+owner = SMG
+controller = SMG
+add_core = SMG
+trade_goods = grain
+terrain = farmlands
+life_rating = 40

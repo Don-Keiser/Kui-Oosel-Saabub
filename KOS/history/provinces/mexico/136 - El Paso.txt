@@ -1,0 +1,6 @@
+owner = MGF
+controller = MGF
+add_core = MGF
+terrain = new_world_semidesert
+trade_goods = cotton
+life_rating = 35

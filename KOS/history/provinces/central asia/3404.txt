@@ -1,0 +1,6 @@
+owner = BHR
+controller = BHR
+add_core = BHR
+trade_goods = wool
+life_rating = 20
+terrain = desert

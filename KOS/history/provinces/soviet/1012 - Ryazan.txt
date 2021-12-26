@@ -1,0 +1,5 @@
+owner = LUU
+controller = LUU
+add_core = LUU
+trade_goods = cattle
+life_rating = 35

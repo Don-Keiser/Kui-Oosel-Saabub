@@ -1,0 +1,5 @@
+owner = OOT
+controller = OOT
+add_core = OOT
+trade_goods = coal
+life_rating = 35

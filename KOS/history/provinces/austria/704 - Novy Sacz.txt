@@ -1,0 +1,5 @@
+owner = HLC
+controller = HLC
+add_core = HLC
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,19 @@
+leader = {
+	name = "Tsiina Hiisiko-Klan"
+	date = 1836.1.1
+	type = land
+	personality = confident
+	background = drillmaster
+	prestige = 0.3
+}
+
+army = {
+	name = "Koningen Aarm"
+	location = 2505
+	regiment = {
+		name= "Koningend Eskadrell"
+		type = cavalry
+		home = 2505
+	}
+}
+

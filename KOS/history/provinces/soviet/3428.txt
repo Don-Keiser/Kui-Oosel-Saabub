@@ -1,0 +1,6 @@
+owner = SYR
+controller = SYR
+add_core = HTY
+add_core = SYR
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,1491 @@
+#New South Wales Region
+#Sydney
+2468 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = vigrid
+        religion = asatru
+        size = 350
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 300
+    }
+
+    officers = {
+        culture = vigrid
+        religion = asatru
+        size = 250
+    }
+
+    artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 2300
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 1000
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 60000
+    }
+
+    artisans = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 1300
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 800
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 12000
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 13000
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = catholic
+        size = 3075
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 120
+    }
+
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 1750
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 22000
+    }
+}
+#Newcastle (16000/4000 POPS)
+2469 = {
+    clergymen = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 250
+    }
+
+    artisans = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 800
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 500
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 14045
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 250
+    }
+
+    artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 3000
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 2100
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 36000
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = catholic
+        size = 4000
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 100
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 1600
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 9025
+    }
+}
+#Port Macquarie (12000/3000 POPS)
+2470 = {
+    clergymen = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 250
+    }
+
+    artisans = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 1500
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 1250
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 7000
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 150
+    }
+
+    artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 2000
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 1000
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 26000
+    }
+
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 250
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 1250
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 12000
+    }
+}
+
+#Eden (12000/3000 POPS)
+2472 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 150
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 250
+    }
+
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 6500
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 19000
+    }
+
+    clergymen = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 125
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 950
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 6025
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 250
+    }
+
+    artisans = {
+        culture = norraenska
+        religion = asatru
+        size = 1400
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 5000
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 9000
+    }
+
+}
+#Wagga Wagga (12000/3000 POPS)
+2473 = {
+    clergymen = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 250
+    }
+
+    artisans = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 1500
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 1250
+    }
+	
+	farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 2000
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 6000
+    }
+
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 250
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 300
+    }
+
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 800
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 3050
+    }
+}
+#uncolonized in 1836
+#Ophir - Bathurst (8000/2000 POPS)
+2471 = {
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 300
+    }
+
+    artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 2500
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 1500
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 20000
+    }
+
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 250
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 150
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 600
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 9050
+    }
+}
+#Moree (8000/2000 POPS)
+2474 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 150
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 120
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 400
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 10050
+    }
+	
+	farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 2050
+    }
+}
+
+#Victoria Region
+#Melbourne (12000/3000 POPS)
+2476 = {
+
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = vigrid
+        religion = asatru
+        size = 500
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 300
+    }
+
+    officers = {
+        culture = vigrid
+        religion = asatru
+        size = 500
+    }
+
+    artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 3500
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 3000
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 55000
+    }
+
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 125
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 1750
+    }
+	
+	artisans = {
+        culture = norraenska
+        religion = asatru
+        size = 1900
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 37075
+    }
+
+}
+#Warnambool (8000/2000 POPS)
+2477 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 250
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 150
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 700
+    }
+	
+	artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 1600
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 19050
+    }
+	
+	aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 300
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 240
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 1200
+    }
+	
+	artisans = {
+        culture = norraenska
+        religion = asatru
+        size = 3000
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 32050
+    }
+}
+#Ballarat (8000/2000 POPS)
+2478 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 150
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 120
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 700
+    }
+	
+	artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 1200
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 17000
+    }
+	
+	 aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 250
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 140
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 900
+    }
+	
+	artisans = {
+        culture = norraenska
+        religion = asatru
+        size = 1800
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 21000
+    }
+}
+#Sale (8000/2000 POPS)
+2479 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 250
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 150
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 1300
+    }
+	
+	artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 2000
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 30050
+    }
+	
+	soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 800
+    }
+	
+	artisans = {
+        culture = norraenska
+        religion = asatru
+        size = 900
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 6850
+    }
+}
+#Beechworth (4000/1000 POPS)
+2480 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 170
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 250
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 1500
+    }
+	
+	artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 1400
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 19000
+    }
+	
+	aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 100
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 600
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 800
+    }
+	
+	artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 900
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 8000
+    }
+}
+#Swan Hill (4000/1000 POPS)
+2481 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 100
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 100
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 400
+    }
+	
+	artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 600
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 6000
+    }
+	
+	aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 170
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 150
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 1000
+    }
+	
+	artisans = {
+        culture = norraenska
+        religion = asatru
+        size = 1000
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 12000
+    }
+}
+
+#Tasmania Region
+#Hobart (36000/9000 POPS)
+2482 = {
+    bureaucrats = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 250
+    }
+
+    clergymen = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 520
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 2000
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 18675
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 100
+    }
+
+    artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 520
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 6000
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 4000
+    }
+	
+	farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 2000
+    }
+}
+
+#Queensland Region 
+#2483 - Brisbane (12000/3000 POPS)
+2483 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 250
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 300
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 2500
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 39000
+    }
+
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = norraenska
+        religion = asatru
+        size = 50
+    }
+
+    officers = {
+        culture = norraenska
+        religion = asatru
+        size = 105
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 120
+    }
+
+    artisans = {
+        culture = norraenska
+        religion = asatru
+        size = 500
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 1500
+    }
+
+    artisans = {
+        culture = saarkatnik
+        religion = asatru
+        size = 2500
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 28750
+    }
+}
+#Gladstone (8000/2000 POPS)
+2484 = {
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 300
+    }
+
+    artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 1300
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 1500
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 20000
+    }
+    aristocrats = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 250
+    }
+
+    clergymen = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 300
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 500
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 8050
+    }
+	
+}
+#Clermont (4000/1000 POPS)
+2485 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 100
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 250
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 500
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 13000
+    }
+	
+	farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 5500
+    }
+}
+#Toowoomba (8000/2000 POPS)
+2486 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 120
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 320
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 500
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 9750
+    }
+	
+	soldiers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 250
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 3750
+    }
+}
+#Townsville (8000/2000 POPS)
+2487 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 250
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 320
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 1200
+    }
+
+    soldiers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 600
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 32000
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 17050
+    }
+}
+
+#South Australia Region - 32000
+#Adelaide (12000/3000 POPS)
+2491 = {
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = vigrid
+        religion = asatru
+        size = 100
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 130
+    }
+
+    officers = {
+        culture = vigrid
+        religion = asatru
+        size = 300
+    }
+
+    artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 1200
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 520
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 10000
+    }
+
+    farmers = {
+        culture = saarkatnik
+        religion = ooselskia
+        size = 3000
+    }
+
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 500
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 320
+    }
+
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 1500
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 39000
+    }
+}
+#Port Lincoln (4000/1000 POPS)
+2492 = {
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 120
+    }
+
+    artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 600
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 500
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 10000
+    }
+
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 150
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 250
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 1500
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 34000
+    }
+}
+#Robe (4000/1000 POPS)
+2493 = {
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 150
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 250
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 900
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 18000
+    }
+	
+	soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 600
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 11000
+    }
+}
+#Port Augusta (4000/1000 POPS)
+2494 = {
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 120
+    }
+
+    artisans = {
+        culture = vigrid
+        religion = asatru
+        size = 500
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 700
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 13000
+    }
+
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 300
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 500
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 2500
+    }
+	
+	artisans = {
+        culture = norraenska
+        religion = asatru
+        size = 3200
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 58000
+    }
+}
+#Tarcoola (4000/1000 POPS)
+2496 = {
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 210
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 250
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 1200
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 29000
+    }
+	
+	soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 300
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 4000
+    }
+
+}
+
+#Western Australia Region : 71000
+#Kojonup - Albany (12000/3000 POPS)
+2498 = {
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 1600
+    }
+
+    bureaucrats = {
+        culture = norraenska
+        religion = asatru
+        size = 230
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 500
+    }
+
+    officers = {
+        culture = norraenska
+        religion = asatru
+        size = 520
+    }
+
+    artisans = {
+        culture = norraenska
+        religion = asatru
+        size = 5000
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 4600
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 75600
+    }
+
+    aristocrats = {
+        culture = vigrid
+        religion = asatru
+        size = 150
+    }
+
+    clergymen = {
+        culture = vigrid
+        religion = asatru
+        size = 210
+    }
+
+    soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 1200
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 14500
+    }
+}
+#Esperance (4000/1000 POPS)
+2504 = {
+    aristocrats = {
+        culture = norraenska
+        religion = asatru
+        size = 180
+    }
+
+    clergymen = {
+        culture = norraenska
+        religion = asatru
+        size = 250
+    }
+
+    soldiers = {
+        culture = norraenska
+        religion = asatru
+        size = 1500
+    }
+
+    farmers = {
+        culture = norraenska
+        religion = asatru
+        size = 24000
+    }
+	
+	soldiers = {
+        culture = vigrid
+        religion = asatru
+        size = 150
+    }
+
+    farmers = {
+        culture = vigrid
+        religion = asatru
+        size = 2900
+    }
+
+}

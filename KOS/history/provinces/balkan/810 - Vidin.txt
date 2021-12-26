@@ -1,0 +1,5 @@
+owner = PAO
+controller = PAO
+add_core = PAO
+trade_goods = grain
+life_rating = 35

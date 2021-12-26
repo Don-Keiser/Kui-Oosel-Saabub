@@ -1,0 +1,143 @@
+political_decisions = {
+	change_province_names_VUT = {
+		potential = {
+			tag = VUT
+			NOT = {
+				has_country_flag = VUT_province_names_changed
+			}
+		}
+		
+		allow = {
+			VUT = {
+				owns = 2476
+				owns = 2479
+				owns = 2480
+				owns = 2478
+				owns = 2477
+				owns = 2481
+				owns = 2482
+				owns = 2493
+				owns = 2491
+				owns = 2494
+				owns = 2492
+				owns = 2496
+				owns = 2504
+				owns = 2498
+				owns = 2472
+				owns = 2473
+				owns = 2468
+				owns = 2471
+				owns = 2474
+				owns = 2469
+				owns = 2470
+				owns = 2483
+				owns = 2486
+				owns = 2484
+				owns = 2485
+				owns = 2487
+				}
+		}
+		
+		effect = {
+			set_country_flag = VUT_province_names_changed
+			prestige = 22
+			2476 = {
+			change_province_name = "Jarnfloaborg"
+			state_scope = {
+			change_region_name = "Semnyradeyjunlanda"
+				}
+			}
+			2479 = {
+			change_province_name = "Vesturhafnarfloi"
+			}
+			2480 = {
+			change_province_name = "Neydarkallarhaedir"
+			}
+			2478 = {
+			change_province_name = "Hvildarstadur"
+			}
+			2477 = {
+			change_province_name = "Skalalond"
+			}
+			2481 = {
+			change_province_name = "Hjartanstad"
+			}
+			2482 = {
+			change_province_name = "Fjarlaeg Eyja "
+			}
+			2493 = {
+			change_province_name = "Steinnfiskihofn"
+			state_scope = {
+			change_region_name = "Strondmargragola "
+				}
+			}
+			2491 = {
+			change_province_name = "Astridahofn"
+			}
+			2494 = {
+			change_province_name = "Videndafloaborg"
+			}
+			2492 = {
+			change_province_name = "Eyreskagi"
+			}
+			2496 = {
+			change_province_name = "Vatnslauslettur"
+			}
+			2504 = {
+			change_province_name = "Vonarinnarlond"
+			state_scope = {
+			change_region_name = "Vestastalandid"
+				}
+			}
+			2498 = {
+			change_province_name = "Jarnabustad"
+			}
+			2472 = {
+			change_province_name = "Groskuklajur"
+			state_scope = {
+			change_region_name = "Storskogalond"
+				}
+			}
+			2473 = {
+			change_province_name = "Kraekjunlanda"
+			}
+			2468 = {
+			change_province_name = "Odinsborg"
+			}
+			2471 = {
+			change_province_name = "Skollotthaedir"
+			}
+			2474 = {
+			change_province_name = "Risandisol"
+			}
+			2469 = {
+			change_province_name = "Jarnkastalaekur"
+			}
+			2470 = {
+			change_province_name = "Hakarlhofn"
+			}
+			2483 = {
+			change_province_name = "Thorsborg"
+			state_scope = {
+			change_region_name = "Konungslond"
+				}
+			}
+			2486 = {
+			change_province_name = "Gardaborg"
+			}
+			2484 = {
+			change_province_name = "Fulltagulli"
+			}
+			2485 = {
+			change_province_name = "Graenarjardir"
+			}
+			2487 = {
+			change_province_name = "Hraekjaeldi"
+			}
+		}
+		
+		ai_will_do = {
+           factor = 1
+		}
+	}
+}

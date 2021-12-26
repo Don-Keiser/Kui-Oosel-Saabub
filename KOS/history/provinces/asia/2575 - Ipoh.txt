@@ -1,0 +1,8 @@
+owner = KNT
+controller = KNT
+add_core = KNT
+trade_goods = precious_metal
+life_rating = 40
+terrain = jungle_hills
+naval_base = 2
+fort = 1
