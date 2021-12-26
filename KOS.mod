@@ -1,0 +1,7 @@
+name = "Kui Oosel Saabub"
+path = "mod/KOS"
+user_dir = "KOS"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "gfx"
