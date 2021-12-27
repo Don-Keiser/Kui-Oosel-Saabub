@@ -1,0 +1,769 @@
+#
+3702 = {
+    aristocrats = {
+        culture = toledano
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = toledano
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = toledano
+        religion = catholic
+        size = 300
+    }
+
+    soldiers = {
+        culture = toledano
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = toledano
+        religion = catholic
+        size = 45475
+    }
+}
+
+3702 = {
+    aristocrats = {
+        culture = rheinian
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = rheinian
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = rheinian
+        religion = catholic
+        size = 300
+    }
+
+    soldiers = {
+        culture = rheinian
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = rheinian
+        religion = catholic
+        size = 35475
+    }
+}
+
+
+3704 = {
+    aristocrats = {
+        culture = rheinian
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = rheinian
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = rheinian
+        religion = catholic
+        size = 300
+    }
+
+    soldiers = {
+        culture = rheinian
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = rheinian
+        religion = catholic
+        size = 25475
+    }
+}
+
+3711 = {
+    aristocrats = {
+        culture = rheinian
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = rheinian
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = rheinian
+        religion = catholic
+        size = 300
+    }
+
+    soldiers = {
+        culture = rheinian
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = rheinian
+        religion = catholic
+        size = 35475
+    }
+}
+
+3705 = {
+    aristocrats = {
+        culture = rheinian
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = rheinian
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = rheinian
+        religion = catholic
+        size = 300
+    }
+
+    soldiers = {
+        culture = rheinian
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = rheinian
+        religion = catholic
+        size = 25475
+    }
+}
+
+3712 = {
+    aristocrats = {
+        culture = rheinian
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = rheinian
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = rheinian
+        religion = catholic
+        size = 300
+    }
+
+    soldiers = {
+        culture = rheinian
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = rheinian
+        religion = catholic
+        size = 35475
+    }
+}
+
+
+3701 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3700 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+ä3700 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3699 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3698 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3697 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3696 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3696 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3696 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3695 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3694 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3693 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3693 = {
+    aristocrats = {
+        culture = cree
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = cree
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = cree
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = cree
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = cree
+        religion = animist
+        size = 15475
+    }
+}
+
+3692 = {
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 15475
+    }
+}
+
+3691 = {
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 15475
+    }
+}
+
+3690 = {
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 15475
+    }
+}
+
+3689 = {
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 15475
+    }
+}
+
+3688 = {
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 15475
+    }
+}

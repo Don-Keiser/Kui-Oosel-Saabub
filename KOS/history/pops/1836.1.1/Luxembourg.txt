@@ -57,49 +57,49 @@
     }
 
     craftsmen = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 10
     }
 
     aristocrats = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 250
     }
 
     officers = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 50
     }
 
     bureaucrats = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 1750
     }
 
     soldiers = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 33375
     }

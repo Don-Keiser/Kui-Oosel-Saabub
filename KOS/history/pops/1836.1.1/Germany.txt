@@ -3642,31 +3642,31 @@
     }
 
     aristocrats = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 1400
     }
 
     soldiers = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 275
     }
 
     farmers = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 25800
     }

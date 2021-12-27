@@ -958,37 +958,37 @@
 #Arlon (172000/43000 POPS)
 398 = {
     aristocrats = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 1350
     }
 
     soldiers = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 1100
     }
 
     craftsmen = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 6000
     }
 
     farmers = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 20425
     }
@@ -1020,7 +1020,7 @@
 }
 3377 = {
     farmers = {
-        culture = luxembourgische
+        culture = rheinian
         religion = catholic
         size = 10200
     }

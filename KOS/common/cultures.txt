@@ -37,7 +37,7 @@ germanic = {
         "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
     }
     bohemish = {
-        color = { 117 117 183 }
+        color = { 146 112 66 }
         first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
         Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
         Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
@@ -65,7 +65,7 @@ germanic = {
         "von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
     }
 	angle = {
-        color = { 193 128 81 }
+        color = { 119 100 81 }
         first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
         Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
         Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jürgen Karl
@@ -97,7 +97,7 @@ germanic = {
         "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
     }
 	preitser = {
-        color = { 80 90 120 }
+        color = { 121 118 81 }
         first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
         Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
         Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jürgen Karl
@@ -578,7 +578,7 @@ finnougric = {
     leader = european
     unit = SwedishGC
     hungarian = {
-        color = { 225 255 195 }
+        color = { 59 127 186 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -593,7 +593,7 @@ finnougric = {
         radicalism = 5
     }
 	halicsiai = {
-        color = { 178 166 141 }
+        color = { 48 105 155 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -607,7 +607,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	szekely = {
-        color = { 135 209 167 }
+        color = { 37 119 191 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -621,7 +621,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	tiszai = {
-        color = { 154 181 88 }
+        color = { 102 132 158 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -635,7 +635,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	dunaszoreny = {
-        color = { 116 175 102 }
+        color = { 91 112 182 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -649,7 +649,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	bukkfai = {
-        color = { 150 166 141 }
+        color = { 44 83 210 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -663,7 +663,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	csangok = {
-        color = { 181 81 74 }
+        color = { 79 56 191 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -677,7 +677,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	kunsag = {
-        color = { 210 211 171 }
+        color = { 70 57 134 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -691,7 +691,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	totorok = {
-        color = { 154 182 201 }
+        color = { 57 98 134 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -705,7 +705,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	ugorok = {
-        color = { 124 89 37 }
+        color = { 57 126 134 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -719,7 +719,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	volgmyi = {
-        color = { 214 167 66 }
+        color = { 19 91 100 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -733,7 +733,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	etelkozi = {
-        color = { 163 136 81 }
+        color = { 47 88 141 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -747,7 +747,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	levedi = {
-        color = { 145 106 101 }
+        color = { 24 84 164 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -761,7 +761,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	kummagyar = {
-        color = { 173 146 95 }
+        color = { 37 127 137 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -775,7 +775,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	regymagyar = {
-        color = { 107 74 71 }
+        color = { 96 94 138 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -789,7 +789,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	finnish = {
-        color = { 220 220 220}
+        color = { 203 220 217}
         first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
         Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
         Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
@@ -800,7 +800,7 @@ finnougric = {
         radicalism = 5
     }
 	karelian = { 
-		color = { 240 210 210}
+		color = { 191 219 213}
 		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
 		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
 		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
@@ -811,7 +811,7 @@ finnougric = {
 		radicalism = 5
 	}
     estonian = {
-        color = {80 60 120}
+        color = {157 193 186}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -827,7 +827,7 @@ finnougric = {
         }
     }
 	livonian = {
-        color = {175 140 157}
+        color = {193 225 181}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -843,7 +843,7 @@ finnougric = {
         }
     }
 	preitsii = {
-        color = {100 110 140}
+        color = {182 198 177}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -859,7 +859,7 @@ finnougric = {
         }
     }
 	voro = {
-        color = {117 105 168}
+        color = {173 206 160}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -875,7 +875,7 @@ finnougric = {
         }
     }
 	seto = {
-        color = {91 93 158}
+        color = {176 228 158}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -891,7 +891,7 @@ finnougric = {
         }
     }
 	vaala = {
-        color = {217 152 153}
+        color = {225 221 169}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -907,7 +907,7 @@ finnougric = {
         }
     }
 	ingrian = { 
-		color = {140 140 140}
+		color = {169 225 176}
 		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
 		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
 		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho
@@ -935,7 +935,7 @@ finnougric = {
         }
     }
     veps = { 
-		color = {180 180 180}
+		color = {171 195 140}
 		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
 		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
 		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
@@ -946,7 +946,7 @@ finnougric = {
 		radicalism = 5
 	}
 	ohitsemid = {
-        color = {117 170 183}
+        color = {196 208 209}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -962,7 +962,7 @@ finnougric = {
         }
     }
 	west_krevin = {
-        color = {101 225 206}
+        color = {178 181 208}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -978,7 +978,7 @@ finnougric = {
         }
     }
 	east_krevin = {
-        color = {101 196 206}
+        color = {160 165 209}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -994,7 +994,7 @@ finnougric = {
         }
     }
 	moodii = {
-        color = {151 193 163}
+        color = {214 180 220}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -1010,7 +1010,7 @@ finnougric = {
         }
     }
 	south_ilonn = {
-        color = {63 137 84}
+        color = {185 176 185}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -1026,7 +1026,7 @@ finnougric = {
         }
     }
 	north_ilonn = {
-        color = {109 153 94}
+        color = {220 195 225}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -1042,7 +1042,7 @@ finnougric = {
         }
     }
 	finogorii = {
-        color = {136 165 48}
+        color = {223 196 187}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -1058,7 +1058,7 @@ finnougric = {
         }
     }
 	vienapsi = { 
-		color = { 216 162 190}
+		color = { 174 146 138}
 		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
 		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
 		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
@@ -1069,7 +1069,7 @@ finnougric = {
 		radicalism = 5
 	}
 	luudic = { 
-		color = { 118 140 121}
+		color = { 198 166 156}
 		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
 		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
 		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
@@ -1079,7 +1079,7 @@ finnougric = {
 		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
 	}
 	northern_luudic = { 
-		color = { 84 102 86}
+		color = { 203 150 133}
 		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
 		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
 		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
@@ -1089,7 +1089,7 @@ finnougric = {
 		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
 	}
 	kudarv_luudic = { 
-		color = { 122 165 142}
+		color = { 243 169 142}
 		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
 		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
 		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
@@ -1099,7 +1099,7 @@ finnougric = {
 		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
 	}
     mordvin = {
-        color = {110 130 160}
+        color = {209 145 125}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -1115,7 +1115,7 @@ finnougric = {
         }
     }
     komi = {
-        color = {60 160 160}
+        color = {193 210 171}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -1131,7 +1131,7 @@ finnougric = {
         }
     }
     mari = {
-        color = {80 100 130}
+        color = {223 255 181}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -1147,7 +1147,7 @@ finnougric = {
         }
     }
     udmurt = {
-        color = {60 130 130}
+        color = {188 210 158}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -1163,7 +1163,7 @@ finnougric = {
         }
     }
     sami = {
-        color = { 60 180 110}
+        color = { 245 249 239}
         first_names = {
             Asllak Biejas Dure Erke Hanno Iskko Joha Laras Markkos Mikko Niillas Osku Uhkku
         }
@@ -1177,13 +1177,13 @@ finnougric = {
         last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
     }
 	mansi = {  
-		color = {130 175 90}
+		color = {67 97 141}
 		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
 		last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
 	  }
 	
 	khanty = {  
-		color = {100 145 60}
+		color = {5 60 141}
 		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
 		last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
 	  }
@@ -1222,7 +1222,7 @@ samoyedic = {
 
 illyro_thracian = {
 	histri = {
-		color = {205 244 116}
+		color = {209 204 66}
 		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
 		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
 		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
@@ -1238,7 +1238,7 @@ illyro_thracian = {
 		}
 	}
 	liburni = {
-		color = {111 158 75}
+		color = {172 168 45}
 		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
 		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
 		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
@@ -1254,7 +1254,7 @@ illyro_thracian = {
 		}
 	}
 	dalmatae = {
-		color = {204 178 62}
+		color = {181 177 86}
 		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
 		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
 		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
@@ -1270,7 +1270,7 @@ illyro_thracian = {
 		}
 	}
 	paeonian = {
-		color = {20 160 86}
+		color = {212 207 57}
 		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
 		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
 		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
@@ -1286,7 +1286,7 @@ illyro_thracian = {
 		}
 	}
 	dardani = {
-		color = {102 173 171}
+		color = {208 192 52}
 		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
 		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
 		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
@@ -1302,7 +1302,7 @@ illyro_thracian = {
 		}
 	}
 	autariatai = {
-		color = {116 247 178}
+		color = {179 165 34}
 		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
 		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
 		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
@@ -1318,7 +1318,7 @@ illyro_thracian = {
 		}
 	}
 	thracian = {
-		color = {106 187 170}
+		color = {201 187 71}
 		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
 		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
 		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
@@ -1334,7 +1334,7 @@ illyro_thracian = {
 		}
 	}
 	bithynian = {
-		color = { 61 165 143 }
+		color = { 176 166 77 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -1379,7 +1379,7 @@ celtic = {
     leader = european
     unit = BritishGC
     irish = {
-        color = { 35 140 50 }
+        color = { 60 141 31 }
         first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond Éamon
         Edward Ernes Fionán Frank George Harry Jack James John Joseph
         Kevin Liam Michael Patrick Peter Richard Robert Séan Thomas William }
@@ -1389,13 +1389,13 @@ celtic = {
         Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
     }
     welsh = { 
-		color = { 80 110 80 }
+		color = { 106 164 85 }
 		first_names = { Alwyn Alastair Alban Alpin Caradog Angus Aulay Blane Boyd Calum Cynog Coll Derek Donald Derwyn Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
 		
 		last_names = { Ace Adams Anwyl Baugh Benbow Campbell Cadwalader Clocker Craddock Faithfull Foulkes Gethin Griffiths Gwyther Hathaway Heilyn Humphreys Ithell Llewelyn Llywarch Phillips Salusbury Smout Trewent Wigley Yorath }
 	}
     manx = {
-        color = { 180 20 70}
+        color = { 92 176 62}
         first_names = { Ean Ned Brian Adrian Peddyr Colby Carmac Cubbon Aleyn John
         James Austeyn Colyn }
 	
@@ -1403,7 +1403,7 @@ celtic = {
         Clague Shimmin Quirk }
     }
     cornish = {
-        color = { 110 110 110}
+        color = { 42 129 10}
         first_names = { Alan Daveth Howel Jory Kenver Margh Peder Tomas Ruan Petrok
         John Robert James Henry Brian Jack Michael Edward }
 	
@@ -1411,7 +1411,7 @@ celtic = {
         Pendarvis Penhale Pentrith Penketh Trelawney Tremaine Trevithick }
     }
 	gaidhlig = {
-        color = { 000 171 057 }
+        color = { 63 174 23 }
         first_names = { Rory Donald Seumas Hamish Ian Alastair Alexander Archibald Rabairt Michael
         George Glenn Grant Henry Brian Thomas Norman Robert }
 	
@@ -1419,7 +1419,7 @@ celtic = {
         Canmore Lewis McCloud Duncan McIver MacIntosh Ogilvie Clegg Kenmore Marshall Wallace Scott Wilson}
     }
 	norse_gaelic = { 
-		color = { 95 158 160}
+		color = { 23 174 108}
 		radicalism = 5
 		first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond Éamon
 		Edward Ernes Fionán Frank George Harry Jack James John Joseph
@@ -1430,7 +1430,7 @@ celtic = {
 		Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
 	}
     highlander = {
-        color = { 35 100 70 }
+        color = { 96 196 126 }
         first_names = { Rory Donald Seumas Hamish Ian Alastair Alexander Archibald Rabairt Michael
         George Glenn Grant Henry Brian Thomas Norman Robert }
 	
@@ -1438,19 +1438,19 @@ celtic = {
         Canmore Lewis McCloud Duncan McIver MacIntosh Ogilvie Clegg Kenmore Marshall Wallace Scott Wilson}
     }
     breton = {
-        color = {100 110 100}
+        color = {109 192 83}
         first_names = { Yann Yannic Pierre Jakez Elouan Frañsez Jaoua Paol Segal Alain Henri Hoël Michel Théodore }
 
         last_names = { "de Cornouaille" Karter Gallo Kergoulay Bellec "le Goff" Treguier Riou Morvan Peron Jezeguel Salaun "le Bihan" }
     }
 	brythonic = {
-        color = { 151 255 182 }
+        color = { 88 137 74 }
 		first_names = { Alwyn Alastair Alban Alpin Caradog Angus Aulay Blane Boyd Calum Cynog Coll Derek Donald Derwyn Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace}
 		
 		last_names = { Ace Adams Anwyl Baugh Benbow Campbell Cadwalader Clocker Craddock Faithfull Foulkes Gethin Griffiths Gwyther Hathaway Heilyn Humphreys Ithell Llewelyn Llywarch Phillips Salusbury Smout Trewent Wigley Yorath }
 	}
 	cumbric = {
-        color = { 165 207 156 }
+        color = { 114 193 89 }
         first_names = { Rory Donald Seumas Hamish Ian Alastair Alexander Archibald Rabairt Michael
         George Glenn Grant Henry Brian Thomas Norman Robert }
 	
@@ -1458,7 +1458,7 @@ celtic = {
         Canmore Lewis McCloud Duncan McIver MacIntosh Ogilvie Clegg Kenmore Marshall Wallace Scott Wilson}
     }
 	galatian = {
-		color = { 48 142 64 }
+		color = { 49 137 24 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -1499,7 +1499,7 @@ italian = {
         Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
     }
     south_italian = {
-        color = { 40 150 90}
+        color = { 67 146 58}
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
         Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
         Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -1510,7 +1510,7 @@ italian = {
         radicalism = 10
     }
     venetian = {
-        color = { 140 255 170 }
+        color = { 58 146 96 }
         first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
         Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
         Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
@@ -1524,7 +1524,7 @@ italian = {
         Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
     }
     tuscan = {
-        color = { 40 150 90 }
+        color = { 58 146 61 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
         Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
         Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -1534,7 +1534,7 @@ italian = {
         Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
     }
 	lombard = {
-        color = { 117 228 168 }
+        color = { 86 181 89 }
         first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
         Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
         Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
@@ -1548,7 +1548,7 @@ italian = {
         Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
     }
 	piedmontese = {
-        color = { 33 176 76 }
+        color = { 88 154 50 }
         first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
         Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
         Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
@@ -1562,7 +1562,7 @@ italian = {
         Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
     }
 	ligurian = {
-        color = { 167 230 29 }
+        color = { 87 181 32 }
         first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
         Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
         Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
@@ -1576,7 +1576,7 @@ italian = {
         Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
     }
 	romagnol = {
-        color = { 40 204 69 }
+        color = { 77 162 77 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
         Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
         Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -1587,7 +1587,7 @@ italian = {
     }
 
     sardinian = {
-        color = { 60 180 60 }
+        color = { 120 162 77 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
         Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
         Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -1597,7 +1597,7 @@ italian = {
         Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
     }
     neapolitan = {
-        color = { 139 110 152 }
+        color = { 51 102 51 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
         Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
         Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -1607,7 +1607,7 @@ italian = {
         Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
     }
 	sicilian = {
-        color = { 239 206 101 }
+        color = { 113 156 63 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
         Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
         Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -1617,7 +1617,7 @@ italian = {
         Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
     }
     mediano = {
-        color = { 54 167 156 }
+        color = { 26 125 62 }
         first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
         Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
         Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
@@ -1647,7 +1647,7 @@ latino_venetic = {
     leader = european
     unit = ItalianGC
     latin = {
-        color = { 208 187 247 }
+        color = { 179 20 100 }
         first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
         Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
         Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
@@ -1662,7 +1662,7 @@ latino_venetic = {
     }
 	
 	chaotic_latin = {
-        color = { 101 91 119 }
+        color = { 156 70 102 }
         first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
         Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
         Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
@@ -1712,7 +1712,7 @@ iberian = {
         Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
     }
     asturleonese  = {
-		color = {186 252 116}
+		color = {151 188 76}
 		first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
 		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
 		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
@@ -1730,7 +1730,7 @@ iberian = {
 		Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
 	}
     suebi = {
-        color = {113 130 61}
+        color = {166 193 31}
         first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
         Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
         Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
@@ -1762,7 +1762,7 @@ iberian = {
         Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
     }
     aragonese = {
-		color = {179 234 74}
+		color = {193 155 30}
 		first_names = { Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Bernat Carles Cassià Chulián Dalmau 
 		David Eduard Enric Enrique Federico Felip Fernando Ferran Francí Gaspar 
 		Gerard Isaac Jacint Jaume Joan Jordi Josep Juan Llorenç
@@ -1794,7 +1794,7 @@ iberian = {
         Ribeiro Rodrigues Salazar Sampaio Sérgio Silveira Tavares Teixeira Vidigal Vieira }
     }
     sevillan = {
-		color = {217 252 116}
+		color = {166 193 30}
 		first_names = { Aljamí Alj Alejandro Alfonso Abdul Antonio "Antonio María" Arsenio Augusto Baldomero
 		Baltasar Benito Bernardino Bernardo Citi Carlos Celestino Claudio Cristobal Dámaso
 		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Muahid
@@ -1812,7 +1812,7 @@ iberian = {
 		Sayyid Sid Salim Topete Valdés Varela Yarbo Waliyo Zanon Zaute }
 	}
 	toledano = {
-        color = {197 254 0}
+        color = {179 163 20}
         first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
         Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
         Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
@@ -1830,7 +1830,7 @@ iberian = {
         Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
     }
 	lusitanian = {
-        color = {93 145 53}
+        color = {144 161 61}
         first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro André António Aquilino
         Artur Augusto Bartolomeu Bernardo Bruno Caetano Cândido Carlos Christovão Cláudio
         Damião Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugénio Fernando
@@ -1932,25 +1932,6 @@ french = {
         "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
         Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
         Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
-    }
-	luxembourgische = {
-        color = { 8 150 203 }
-        first_names = { Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise Camille Clément Charles Constant
-        Damien David Désiré Didier Edmond Édouard Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric Georges
-        Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-François Jean-Louis
-        Jean-Jacques Joseph Jules Lambert Laurent Léon Léonard Léopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier
-        Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sébastien Sylvain Théophile Victor Vincent Werner }
-
-        last_names = { Allard Barbanson Barthélémy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies Brialmont Bredart Cauvin Collet
-        Cols Claus Clerix Coquilhat d'Arenberg d'Huart d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort"
-        "de Behr" "de Bocarmé" "de Bousies" "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen"
-        "de Croÿ" "de Decker" "de Dixmude" "de Gerlache" "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin"
-        "de Mérode" "de Pelichy" "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps"
-        "de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix
-        "Desmanet de Biesme" Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont
-        Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand
-        Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb
-        Orban Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude }
     }
 	parlangian = { 
 		color = {100 100 180}
@@ -2116,7 +2097,7 @@ south_slavic = {
     leader = european
     unit = AustriaHungaryGC
     croat = {
-        color = {140 140 190}
+        color = {208 120 61}
         first_names = { Andrija Antun Bazilije Breno Dragutin Dzivo Filip Franjo Gaspar Ivan
         Janko Jero Jerolim Josip Juraj Karlo Kresimir Krsto Ljudevit Lucijan
         Luka Marijan Marin Matej Matko Maximiliam Medo Mihajlo Mirko Miroslav
@@ -2132,7 +2113,7 @@ south_slavic = {
         }
     }
     serb = {
-        color = {140 0 0}
+        color = {176 115 73}
         first_names = { Alaksandar Blagoje Bozidar Branko Danilo Dejan Djordje Dragan Dragisa Dragoljub
         Dragutin Draza Dusan Gavrilo Goran Janko Jovan Koca Kosta Krsto
         Ljubisa Mihailo Milan Miliutin Milivoje Milojko Milos Miodrag Mirko Miroslav
@@ -2166,7 +2147,7 @@ south_slavic = {
     #    radicalism = 15
     #}
     bulgarian = {
-        color = {65 150 100}
+        color = {172 139 117}
         first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar
         Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril
         Kliment Konstantin Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko
@@ -2183,7 +2164,7 @@ south_slavic = {
         radicalism = 10
     }
     slovene = {
-        color = {0 90 128}
+        color = {191 110 56}
         first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
         Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
         Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
@@ -2199,7 +2180,7 @@ south_slavic = {
         }
     }
     bosniak = {
-        color = {30 200 200}
+        color = {215 92 11}
         first_names = { Abdulvehhab Adnan Ahmed Ali Alija Asim Atif Beriz Dzemal Dzemaludin
         Elvir Enver Fikret Fuad Gazi Hakija Hamdija Hamid Haris Hasan
         Husein Irfan Isa Ivan Izet Jusuf Mehmed Meho Mirsad Muhamed
@@ -2221,7 +2202,7 @@ pan_albanian = {
 	leader = european
 	unit = AustriaHungaryGC
 	albanian = {
-		color = {140 0 0}
+		color = { 205 0 34 }
 		first_names = { Ahmet Ali Azem Bajram Behxhet Davud Ekrem Elez Enver Eqrem
 		Esad Fatmir Fejzi Fiqri Gjergj Gjon Hasan Hashim Ibrahim Idhomene
 		Iliaz Ishak Ismail Izet Kara Kastriot Koçi Köpryly Kostaq Lekë
@@ -2239,7 +2220,7 @@ pan_albanian = {
 	}
 	
 	tosk = {
-		color = {102 0 80}
+		color = {196 8 8}
 		first_names = { Ahmet Ali Azem Bajram Behxhet Davud Ekrem Elez Enver Eqrem
 		Esad Fatmir Fejzi Fiqri Gjergj Gjon Hasan Hashim Ibrahim Idhomene
 		Iliaz Ishak Ismail Izet Kara Kastriot Koçi Köpryly Kostaq Lekë
@@ -2257,7 +2238,7 @@ pan_albanian = {
 	}
 	
 	malazez = {
-		color = {140 0 140}
+		color = {168 12 12}
 		first_names = { Ahmet Ali Azem Bajram Behxhet Davud Ekrem Elez Enver Eqrem
 		Esad Fatmir Fejzi Fiqri Gjergj Gjon Hasan Hashim Ibrahim Idhomene
 		Iliaz Ishak Ismail Izet Kara Kastriot Koçi Köpryly Kostaq Lekë
@@ -2279,7 +2260,7 @@ pan_romanian = {
     leader = european
     unit = AustriaHungaryGC
     romanian = {
-        color = {75 130 120}
+        color = {131 112 35}
         first_names = { Adrian Alexandru Andrei Anton Artur Bogdan Carol Cezar Constantin Constin
         Cosmin Daniel Dumitru Emanuel Eremia Eugen Ferdinand Flaviu Florea Gheorghe
         Grigore Henric Horatiu Iacob Ilie Ioan Ion "Ion Emanuel" Iosif Iulian
@@ -2324,7 +2305,7 @@ polish_culture_group = {
         radicalism = 10
     }
 	vistulian = {
-        color = {176 107 117}
+        color = {193 73 105}
         first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
         Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
         Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
@@ -2339,7 +2320,7 @@ polish_culture_group = {
         radicalism = 10
     }
 	lendian = {
-        color = {188 114 165}
+        color = {172 57 88}
         first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
         Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
         Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
@@ -2354,7 +2335,7 @@ polish_culture_group = {
         radicalism = 10
     }
 	silesian = {
-        color = {107 116 221}
+        color = {175 88 112}
         first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
         Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
         Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
@@ -2369,7 +2350,7 @@ polish_culture_group = {
         radicalism = 10
     }
 	pomeranian = {
-        color = {200 120 160}
+        color = {155 49 77}
         first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
         Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
         Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
@@ -2384,7 +2365,7 @@ polish_culture_group = {
         radicalism = 10
     }
     kashubian = {
-        color = { 170 90 130 }
+        color = { 131 26 54 }
         first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
         Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
         Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
@@ -2398,7 +2379,7 @@ polish_culture_group = {
         Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
     }
     sorbian = {
-        color = {83 118 135}
+        color = {132 62 81}
         first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
         Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
         Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
@@ -2419,7 +2400,7 @@ czecho_slovak_culture_group = {
     unit = EuropeanGC
 
     czech = {
-        color = {120 120 255}
+        color = {104 48 27}
         first_names = { Abraham Alexander Alfred Alois Antonín August Bedrich Benedikt Borivoj
         Cenek Dávid Drahoslav Edvard Emanuel Emil Evzen Frantisek "Frantisek Josef" "Frantisek Xaver"
         Hermenegild Ján "Ján Krtitel" "Ján Nepomuk" Jaroslav Jindrich Jirí Josef Kajetan Karel
@@ -2435,7 +2416,7 @@ czecho_slovak_culture_group = {
     }
 	
 	moravian = {
-        color = {255 149 73}
+        color = {146 59 27}
         first_names = { Abraham Alexander Alfred Alois Antonín August Bedrich Benedikt Borivoj
         Cenek Dávid Drahoslav Edvard Emanuel Emil Evzen Frantisek "Frantisek Josef" "Frantisek Xaver"
         Hermenegild Ján "Ján Krtitel" "Ján Nepomuk" Jaroslav Jindrich Jirí Josef Kajetan Karel
@@ -2451,7 +2432,7 @@ czecho_slovak_culture_group = {
     }
 
     slovak = {
-        color = {120 255 255}
+        color = {166 44 0}
         first_names = { Albín Alexander András Andrej Augustín Basil Cyprián Dalibor Dezider Dominik
         Eugen Fedor Ferdinand Frantisek Frico Gabriel Gustáv Imrich Jáchym Ján
         Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej
@@ -2465,7 +2446,7 @@ czecho_slovak_culture_group = {
         Sokol Stefánik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
     }
 	spysan = {
-        color = {74 134 134}
+        color = {137 63 36}
         first_names = { Albín Alexander András Andrej Augustín Basil Cyprián Dalibor Dezider Dominik
         Eugen Fedor Ferdinand Frantisek Frico Gabriel Gustáv Imrich Jáchym Ján
         Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej
@@ -2485,7 +2466,7 @@ east_slavic = {
     leader = russian
     unit = RussianGC
     russian = {
-        color = {0 70 10}
+        color = {87 101 84}
            first_names = { Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady
                          Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim
                          Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei
@@ -2509,7 +2490,7 @@ east_slavic = {
                            Tukhachevsky Yegorov Vorontsov Zhauryd }
         }
     ukrainian = {
-        color = {160 160 60}
+        color = {63 80 58}
             first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev
                              Mikhail Mykola Nikita  Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy
                              Viktor Volodimir Vladislav Yuriy }
@@ -2520,7 +2501,7 @@ east_slavic = {
             radicalism = 10
         }
     cossack = {
-        color = {60 160 160}
+        color = {80 104 74}
         first_names = {
             Bohdan Yermak Yemelyan Stepan Andrei Ivan Pyotr Yuriy Kirill Foma
             Pavel Vasily Alexey Danylo Mykhailo Lavr Tymofiy Semyon Mstislav
@@ -2545,7 +2526,7 @@ baltic = {
     leader = european
     unit = EuropeanGC
     lithuanian = {
-        color = {140 50 80}
+        color = {104 74 103}
         first_names = { Adolfas Aleksandras Algirdas Andrius Antanas Arturas Arunas Augustinas Balys Boris
         Bronislovas Danielius Darius Gendiminas Henrikas Jonas Jonusas Juozas Juras Jurgis
         Justas Kazimieras Kazys Kipras Konstantinas Lukas Marijus Markas Mikalojus Mindaugas
@@ -2561,7 +2542,7 @@ baltic = {
         }
     }
     latvian = {
-        color = {160 20 50}
+        color = {132 64 130}
         first_names = { Aaron Abrams Alberts Aleksandrs Aloisz Andrejs Arkadij Armands Arnolds Atis
         Brunis Bruno Eduards Eliass Elmars Emils Evgenijs Filips Fricis Gustavs
         Heinrihs Hermanis Izaks Janis Jazeps Jekabs Johans Juris Karlis Krisjanis
@@ -2577,7 +2558,7 @@ baltic = {
         }
     }
 	samogovian = {
-        color = {120 80 110}
+        color = {97 32 97}
         first_names = { Adolfas Aleksandras Algirdas Andrius Antanas Arturas Arunas Augustinas Balys Boris
         Bronislovas Danielius Darius Gendiminas Henrikas Jonas Jonusas Juozas Juras Jurgis
         Justas Kazimieras Kazys Kipras Konstantinas Lukas Marijus Markas Mikalojus Mindaugas
@@ -2593,7 +2574,7 @@ baltic = {
         }
     }
 	korsian = {
-        color = {137 81 104}
+        color = {128 23 124}
         first_names = { Aaron Abrams Alberts Aleksandrs Aloisz Andrejs Arkadij Armands Arnolds Atis
         Brunis Bruno Eduards Eliass Elmars Emils Evgenijs Filips Fricis Gustavs
         Heinrihs Hermanis Izaks Janis Jazeps Jekabs Johans Juris Karlis Krisjanis
@@ -2615,7 +2596,7 @@ baltic = {
 anatolian = {
     leader = european
     lycian = {
-		color = { 168 193 120 }
+		color = { 228 38 38 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2631,7 +2612,7 @@ anatolian = {
 		}
 	}
 	pamphylian = {
-		color = { 124 142 88 }
+		color = { 189 49 49 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2647,7 +2628,7 @@ anatolian = {
 		}
 	}
 	carian = {
-		color = { 143 198 102 }
+		color = { 171 9 9 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2663,7 +2644,7 @@ anatolian = {
 		}
 	}
 	lydian = {
-		color = { 116 153 88 }
+		color = { 142 47 47 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2679,7 +2660,7 @@ anatolian = {
 		}
 	}
 	phrygian = {
-		color = { 182 194 160 }
+		color = { 165 37 37 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2695,7 +2676,7 @@ anatolian = {
 		}
 	}
 	pisidian = {
-		color = { 126 165 132 }
+		color = { 215 58 58 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2711,7 +2692,7 @@ anatolian = {
 		}
 	}
 	milyan = {
-		color = { 118 193 129 }
+		color = { 255 27 27 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2727,7 +2708,7 @@ anatolian = {
 		}
 	}
 	mysian = {
-		color = { 107 175 101 }
+		color = { 162 48 48 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2743,7 +2724,7 @@ anatolian = {
 		}
 	}
 	paphlagonian = {
-		color = { 117 175 143 }
+		color = { 186 22 22 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2759,7 +2740,7 @@ anatolian = {
 		}
 	}
 	cappadocian = {
-		color = { 50 120 155 }
+		color = { 161 15 15 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2775,7 +2756,7 @@ anatolian = {
 		}
 	}
 	isaurian = {
-		color = { 96 127 117 }
+		color = { 165 44 44 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2791,7 +2772,7 @@ anatolian = {
 		}
 	}
 	cataonian = {
-		color = { 96 174 97 }
+		color = { 203 43 25 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2807,7 +2788,7 @@ anatolian = {
 		}
 	}
 	trojan = {
-		color = { 79 142 114 }
+		color = { 178 52 38 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2823,7 +2804,7 @@ anatolian = {
 		}
 	}
 	lycaonian = {
-		color = { 167 186 167 }
+		color = { 219 48 29 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2860,7 +2841,7 @@ hellenic = {
         }
     }
 	griko = {
-		color = { 24 208 146 }
+		color = { 176 93 149 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2877,7 +2858,7 @@ hellenic = {
 		radicalism = 10
 	}
 	makedones = {
-        color = { 213  3  135 }
+        color = { 179  51  136 }
         first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
         Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
         Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2893,7 +2874,7 @@ hellenic = {
         }
     }
 	tatlar = {
-		color = { 160 210 245 }
+		color = { 152 79 128 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2910,7 +2891,7 @@ hellenic = {
 		radicalism = 5
 	}
 	tsakonian = {
-		color = { 74 58 81 }
+		color = { 206 65 159 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2926,7 +2907,7 @@ hellenic = {
 		}
 	}
 	pontic = {
-		color = { 181 37 246 }
+		color = { 174 99 149 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2942,7 +2923,7 @@ hellenic = {
 		}
 	}
 	chaldiot = {
-		color = { 131 11 208 }
+		color = { 145 80 123 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2958,7 +2939,7 @@ hellenic = {
 		}
 	}
 	trapezuntine = {
-		color = { 102 10 162 }
+		color = { 209 75 162 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2974,7 +2955,7 @@ hellenic = {
 		}
 	}
 	thraikes = {
-		color = { 255 10 159 }
+		color = { 188 92 185 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2990,7 +2971,7 @@ hellenic = {
 		}
 	}
 	aeolic = {
-		color = { 254 89 190 }
+		color = { 159 50 156 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3022,7 +3003,7 @@ hellenic = {
 		}
 	}
 	dodecanese = {
-		color = { 254 141 140 }
+		color = { 115 51 113 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3038,7 +3019,7 @@ hellenic = {
 		}
 	}
 	cypriot = {
-		color = { 233 172 15 }
+		color = { 127 83 125 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3054,7 +3035,7 @@ hellenic = {
 		}
 	}
 	epirote = {
-		color = { 144 6 63 }
+		color = { 169 82 166 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3070,7 +3051,7 @@ hellenic = {
 		}
 	}
 	ionian = {
-		color = { 47 165 212 }
+		color = { 208 72 203 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3086,7 +3067,7 @@ hellenic = {
 		}
 	}
 	peloponnese = {
-		color = { 7 132 225 }
+		color = { 178 11 122 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3102,7 +3083,7 @@ hellenic = {
 		}
 	}
 	maniot = {
-		color = { 149 167 77 }
+		color = { 171 62 134 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3118,7 +3099,7 @@ hellenic = {
 		}
 	}
 	cretan = {
-		color = { 14 214 170 }
+		color = { 156 62 171 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3134,7 +3115,7 @@ hellenic = {
 		}
 	}
 	euboean = {
-		color = { 96 231 199 }
+		color = { 158 24 140 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3150,7 +3131,7 @@ hellenic = {
 		}
 	}
 	thessalian = {
-		color = { 173 8 103 }
+		color = { 195 32 173 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3166,7 +3147,7 @@ hellenic = {
 		}
 	}
 	kurenai = {
-		color = { 108 135 165 }
+		color = { 141 47 128 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis

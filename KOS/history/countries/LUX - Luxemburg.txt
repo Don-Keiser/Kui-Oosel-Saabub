@@ -1,5 +1,5 @@
 capital = 397
-primary_culture = luxembourgische
+primary_culture = rheinian
 culture = french
 religion = catholic
 government = absolute_monarchy
