@@ -325,79 +325,79 @@
 #Kirklareli (112000/28000 POPS)
 858 = {
     aristocrats = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 550
     }
 
     clergymen = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 750
     }
 
     soldiers = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 300
     }
 
     farmers = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 19275
     }
 
     soldiers = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 550
     }
 
     farmers = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 19100
     }
 
     soldiers = {
-        culture = thracian
+        culture = thraikes
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = thracian
+        culture = thraikes
         religion = orthodox
         size = 120
     }
 
     artisans = {
-        culture = thracian
+        culture = thraikes
         religion = orthodox
         size = 120
     }
 
     farmers = {
-        culture = thracian
+        culture = thraikes
         religion = orthodox
         size = 10825
     }
@@ -411,91 +411,91 @@
 #Gelibolu (80000/20000 POPS)
 859 = {
     aristocrats = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 375
     }
 
     clergymen = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 550
     }
 
     soldiers = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 1100
     }
 
     farmers = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 18975
     }
 
     soldiers = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 300
     }
 
     clergymen = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 450
     }
 
     farmers = {
-        culture = thraikes
+        culture = thracian
         religion = orthodox
         size = 18225
     }
 
     aristocrats = {
-        culture = thracian
+        culture = thraikes
         religion = orthodox
         size = 120
     }
 
     officers = {
-        culture = thracian
+        culture = thraikes
         religion = orthodox
         size = 120
     }
 
     soldiers = {
-        culture = thracian
+        culture = thraikes
         religion = orthodox
         size = 300
     }
 
     clergymen = {
-        culture = thracian
+        culture = thraikes
         religion = orthodox
         size = 200
     }
 
     artisans = {
-        culture = thracian
+        culture = thraikes
         religion = orthodox
         size = 2000
     }
 
     farmers = {
-        culture = thracian
+        culture = thraikes
         religion = orthodox
         size = 5475
     }
@@ -511,31 +511,31 @@
 #Istanbul (764000/191000 POPS)
 860 = {
     aristocrats = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 750
     }
 
     bureaucrats = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 700
     }
 
     officers = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 150
     }
 
     clergymen = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 1125
     }
 
     artisans = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 10000
     }
@@ -547,13 +547,13 @@
     }
 
     soldiers = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 6000
     }
 
     farmers = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 63675
     }
@@ -565,109 +565,115 @@
     }
 
     aristocrats = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 120
     }
 
     officers = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 120
     }
 
     soldiers = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 300
     }
 
     clergymen = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 550
     }
 
     artisans = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 5000
     }
 
     farmers = {
-        culture = greek
+        culture = thracian
         religion = orthodox
         size = 30900
     }
     aristocrats = {
-        culture = thracian
-        religion = orthodox
+        culture = armenian
+        religion = coptic
         size = 120
     }
 
     officers = {
-        culture = thracian
-        religion = orthodox
+        culture = armenian
+        religion = coptic
         size = 120
     }
 
     soldiers = {
-        culture = thracian
-        religion = orthodox
+        culture = armenian
+        religion = coptic
         size = 120
     }
 
     clergymen = {
-        culture = thracian
-        religion = orthodox
+        culture = armenian
+        religion = coptic
         size = 120
     }
 
     artisans = {
-        culture = thracian
-        religion = orthodox
+        culture = armenian
+        religion = coptic
         size = 5000
     }
 
     farmers = {
-        culture = thracian
-        religion = orthodox
-        size = 475
-    }
-    aristocrats = {
         culture = armenian
         religion = coptic
+        size = 12475
+    }
+    aristocrats = {
+        culture = thraikes
+        religion = orthodox
         size = 120
     }
 
     officers = {
-        culture = armenian
-        religion = coptic
+        culture = thraikes
+        religion = orthodox
         size = 120
     }
 
     soldiers = {
-        culture = armenian
-        religion = coptic
+        culture = thraikes
+        religion = orthodox
         size = 300
     }
 
     clergymen = {
-        culture = armenian
-        religion = coptic
+        culture = thraikes
+        religion = orthodox
         size = 225
     }
 
     artisans = {
-        culture = armenian
-        religion = coptic
+        culture = thraikes
+        religion = orthodox
         size = 5000
     }
 
     farmers = {
-        culture = armenian
-        religion = coptic
-        size = 32775
+        culture = thraikes
+        religion = orthodox
+        size = 14775
+    }
+	
+	artisans = {
+        culture = outremer
+        religion = catholic
+        size = 6775
     }
 
     clergymen = {
@@ -722,22 +728,22 @@
         size = 1000
     }
 
-    slaves = {
+    farmers = {
         culture = greek
         religion = orthodox
         size = 500
     }
 
-    slaves = {
+    farmers = {
         culture = circassian
         religion = orthodox
         size = 500
     }
 
-    slaves = {
+    artisans = {
         culture = cuman
         religion = catholic
-        size = 9500
+        size = 3500
     }
 }
 #Uskudar (188000/47000 POPS)
