@@ -1,4 +1,4 @@
-capital = 503
+capital = 495
 primary_culture = aragonese
 culture = catalan
 religion = catholic

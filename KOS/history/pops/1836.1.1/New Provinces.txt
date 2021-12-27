@@ -31,39 +31,6 @@
     }
 }
 
-3702 = {
-    aristocrats = {
-        culture = rheinian
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = rheinian
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = rheinian
-        religion = catholic
-        size = 300
-    }
-
-    soldiers = {
-        culture = rheinian
-        religion = catholic
-        size = 75
-    }
-
-    farmers = {
-        culture = rheinian
-        religion = catholic
-        size = 35475
-    }
-}
-
-
 3704 = {
     aristocrats = {
         culture = rheinian

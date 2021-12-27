@@ -1,4 +1,4 @@
-capital = 508
+capital = 490
 primary_culture = latin
 culture = toledano
 government = theocracy

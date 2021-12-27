@@ -562,7 +562,7 @@
 #Siguenza (204000/51000 POPS)
 488 = {
     aristocrats = {
-        culture = aragonese
+        culture = latin
         religion = catholic
         size = 1200
     }
@@ -588,11 +588,17 @@
     farmers = {
         culture = aragonese
         religion = catholic
-        size = 32800
+        size = 26800
     }
 	
 	farmers = {
-        culture = toledano
+        culture = latin
+        religion = catholic
+        size = 8800
+    }
+	
+	soldiers = {
+        culture = latin
         religion = catholic
         size = 13000
     }
@@ -1863,13 +1869,13 @@
 #Albacete (20000/50000 POPS)
 508 = {
     aristocrats = {
-        culture = latin
+        culture = toledano
         religion = catholic
-        size = 1100
+        size = 400
     }
 
     clergymen = {
-        culture = latin
+        culture = toledano
         religion = catholic
         size = 500
     }
@@ -1881,9 +1887,9 @@
     }
 
     soldiers = {
-        culture = latin
+        culture = toledano
         religion = catholic
-        size = 10900
+        size = 1900
     }
 
     farmers = {
@@ -1893,9 +1899,9 @@
     }
 	
 	farmers = {
-        culture = latin
+        culture = toledano
         religion = catholic
-        size = 18000
+        size = 28000
     }
 
 }

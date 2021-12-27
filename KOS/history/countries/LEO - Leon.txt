@@ -1,6 +1,5 @@
 capital = 477
-primary_culture = spanish
-culture = galician
+primary_culture = asturleonese
 religion = catholic
 government = hms_government
 plurality = 0.0

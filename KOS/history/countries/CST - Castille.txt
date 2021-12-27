@@ -1,6 +1,5 @@
 capital = 479
 primary_culture = aragonese
-culture = toledano
 religion = catholic
 government = hms_government
 plurality = 12.0
