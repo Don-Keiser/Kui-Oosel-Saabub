@@ -1,7 +1,7 @@
 owner = OMA
 controller = OMA
 add_core = OMA
-add_core = ABU
+add_core = DUB
 trade_goods = fish
 terrain = coastal_desert
 life_rating = 31

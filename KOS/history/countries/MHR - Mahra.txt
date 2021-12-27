@@ -1,5 +1,5 @@
 capital = 1175
-primary_culture = bedouin
+primary_culture = mehri
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

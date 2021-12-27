@@ -1,9 +1,7 @@
-owner = KTH
-controller = KTH
-add_core = KTH
+owner = MHR
+controller = MHR
 add_core = MHR
 add_core = FDL
-add_core = LHJ
 trade_goods = opium
 life_rating = 32
 terrain = coastal_desert

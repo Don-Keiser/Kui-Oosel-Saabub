@@ -55,143 +55,137 @@
 #Bahrain (20000/5000 POPS) #now part of Bahrain
 1162 = {
     aristocrats = {
-        culture = bedouin
-        religion = sunni
+        culture = bahrani
+        religion = animist
         size = 150
     }
 
     bureaucrats = {
-        culture = bedouin
-        religion = sunni
+        culture = bahrani
+        religion = animist
         size = 25
     }
 
     officers = {
-        culture = bedouin
-        religion = sunni
+        culture = bahrani
+        religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = bedouin
-        religion = sunni
+        culture = bahrani
+        religion = animist
         size = 50
     }
 
     artisans = {
-        culture = bedouin
-        religion = sunni
+        culture = bahrani
+        religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = bedouin
-        religion = sunni
+        culture = bahrani
+        religion = animist
         size = 1050
     }
 
     farmers = {
-        culture = bedouin
-        religion = sunni
+        culture = bahrani
+        religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = bedouin
-        religion = shiite
+        culture = bahrani
+        religion = animist
         size = 50
     }
 
     artisans = {
-        culture = bedouin
-        religion = shiite
+        culture = bahrani
+        religion = animist
         size = 150
     }
 
     farmers = {
-        culture = bedouin
-        religion = shiite
-        size = 3000
+        culture = bahrani
+        religion = animist
+        size = 13000
     }
 
     farmers = {
-        culture = mashriqi
-        religion = jewish
+        culture = bahrani
+        religion = animist
         size = 50
     }
-
-    slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 400
-    }
 	
-	 artisans = {
-        culture = persian
-        religion = shiite
-        size = 150
+	artisans = {
+        culture = judeo_hijazi
+        religion = jewish
+        size = 1500
     }
 
     farmers = {
-        culture = persian
-        religion = shiite
+        culture = khaliji
+        religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = bedouin
-        religion = orthodox
+        culture = khaliji
+        religion = animist
         size = 250
     }
 }
 #Doha (8000/2000 POPS) #now part of Qatar
 1165 = {
     aristocrats = {
-        culture = bedouin
-        religion = sunni
+        culture = khaliji
+        religion = animist
         size = 70
     }
 
     bureaucrats = {
-        culture = bedouin
-        religion = sunni
+        culture = khaliji
+        religion = animist
         size = 10
     }
 
     officers = {
-        culture = bedouin
-        religion = sunni
+        culture = khaliji
+        religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = bedouin
-        religion = sunni
+        culture = khaliji
+        religion = animist
         size = 25
     }
 
     artisans = {
-        culture = bedouin
-        religion = sunni
+        culture = khaliji
+        religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = bedouin
-        religion = sunni
+        culture = khaliji
+        religion = animist
         size = 1050
     }
 
     farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 1525
+        culture = khaliji
+        religion = animist
+        size = 8525
     }
 
-    slaves = {
-        culture = forest_bantu
+    farmers = {
+        culture = bahrani
         religion = animist
-        size = 200
+        size = 800
     }
 }
 #Uman Region (36000) #see Oman.txt for balance of region
@@ -199,128 +193,122 @@
 #Abu Dhabi (20000/5000 POPS) #now part of UAE
 1167 = {
     aristocrats = {
-        culture = bedouin
-        religion = sunni
+        culture = khaliji
+        religion = animist
         size = 225
     }
 
     bureaucrats = {
-        culture = bedouin
-        religion = sunni
+        culture = khaliji
+        religion = animist
         size = 15
     }
 
     officers = {
-        culture = bedouin
-        religion = sunni
+        culture = khaliji
+        religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = bedouin
-        religion = sunni
+        culture = khaliji
+        religion = animist
         size = 50
     }
 
     artisans = {
-        culture = bedouin
-        religion = sunni
-        size = 250
+        culture = khaliji
+        religion = animist
+        size = 650
     }
 
     soldiers = {
-        culture = bedouin
-        religion = sunni
+        culture = khaliji
+        religion = animist
         size = 1000
     }
 
     farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 3050
-    }
-
-    slaves = {
-        culture = forest_bantu
+        culture = khaliji
         religion = animist
-        size = 800
+        size = 13050
     }
 }
 #Dubai (16000/4000 POPS)   #now part of UAE
 1168 = {
     aristocrats = {
-        culture = bedouin
-        religion = sunni
+        culture = hersiyet
+        religion = ibadi
         size = 50
     }
 
     clergymen = {
-        culture = bedouin
-        religion = sunni
+        culture = hersiyet
+        religion = ibadi
+        size = 75
+    }
+	
+	clergymen = {
+        culture = khaliji
+        religion = animist
         size = 75
     }
 
     artisans = {
-        culture = bedouin
-        religion = sunni
+        culture = hersiyet
+        religion = ibadi
         size = 200
     }
 
     soldiers = {
-        culture = bedouin
-        religion = sunni
+        culture = hersiyet
+        religion = ibadi
         size = 1000
     }
-
-    farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 2625
+	
+	farmers = {
+        culture = hersiyet
+        religion = ibadi
+        size = 4625
     }
 
     farmers = {
-        culture = persian
-        religion = shiite
-        size = 300
+        culture = khaliji
+        religion = animist
+        size = 12625
     }
 }
 
 #Sharjah (16000/4000 POPS)   #now part of UAE
 3515 = {
     aristocrats = {
-        culture = bedouin
+        culture = khaliji
         religion = sunni
-        size = 50
+        size = 150
     }
 
     clergymen = {
-        culture = bedouin
+        culture = khaliji
         religion = sunni
-        size = 75
+        size = 175
     }
 
     artisans = {
-        culture = bedouin
+        culture = khaliji
         religion = sunni
-        size = 200
+        size = 900
     }
 
     soldiers = {
-        culture = bedouin
+        culture = khaliji
         religion = sunni
-        size = 500
+        size = 1500
     }
 
     farmers = {
-        culture = bedouin
+        culture = khaliji
         religion = sunni
-        size = 2025
-    }
-
-    farmers = {
-        culture = persian
-        religion = shiite
-        size = 100
+        size = 12025
     }
 
 }
@@ -328,32 +316,32 @@
 #Liwa
 12 = {
     aristocrats = {
-        culture = bedouin
-        religion = sunni
+        culture = najdi
+        religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = bedouin
-        religion = sunni
+        culture = najdi
+        religion = animist
         size = 15
     }
 
     artisans = {
-        culture = bedouin
-        religion = sunni
+        culture = najdi
+        religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = bedouin
-        religion = sunni
+        culture = najdi
+        religion = animist
         size = 10
     }
 
     farmers = {
-        culture = bedouin
-        religion = sunni
+        culture = najdi
+        religion = animist
         size = 925
     }
 }

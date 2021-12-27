@@ -1,6 +1,6 @@
-owner = ABU
-controller = ABU
-add_core = ABU
+owner = DUB
+controller = DUB
+add_core = DUB
 trade_goods = fish
 life_rating = 31
 terrain = coastal_desert

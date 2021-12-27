@@ -20,14 +20,6 @@ vassal = {
     end_date = 1936.1.1
 }
 
-#Bahrain - Qatar
-vassal = {
-    first = BHR
-    second = QAT
-    start_date = 1815.1.1
-    end_date = 1868.1.1
-}
-
 #Persia - Urmia
 vassal = {
     first = PER
@@ -166,21 +158,6 @@ vassal = {
 vassal = {
     first = AFG
     second = MYN
-    start_date = 1815.1.1
-    end_date = 1848.12.12
-}
-
-#Trucial States
-vassal = {
-    first = ABU
-    second = DUB
-    start_date = 1815.1.1
-    end_date = 1848.12.12
-}
-
-vassal = {
-    first = ABU
-    second = QSM
     start_date = 1815.1.1
     end_date = 1848.12.12
 }

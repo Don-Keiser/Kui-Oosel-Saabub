@@ -199,57 +199,6 @@
 
 }
 
-#Artik - now al-Wafrah
-3406 = {
-	aristocrats = {
-        culture = mandayi
-        religion = syriac
-        size = 10
-    }
-
-    clergymen = {
-        culture = mandayi
-        religion = syriac
-        size = 15
-    }
-
-    soldiers = {
-        culture = mandayi
-        religion = syriac
-        size = 10
-    }
-
-    farmers = {
-        culture = mandayi
-        religion = syriac
-        size = 1000
-    }
-
-    aristocrats = {
-        culture = assyrian
-        religion = syriac
-        size = 10
-    }
-
-    clergymen = {
-        culture = assyrian
-        religion = syriac
-        size = 15
-    }
-
-    soldiers = {
-        culture = assyrian
-        religion = syriac
-        size = 10
-    }
-
-    farmers = {
-        culture = assyrian
-        religion = syriac
-        size = 250
-    }
-
-}
 #Gyumri (68000/17000 POPS)
 1099 = {
     aristocrats = {

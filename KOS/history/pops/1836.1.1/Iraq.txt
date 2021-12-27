@@ -1269,49 +1269,49 @@
 #Fallujah
 3292 = {
     aristocrats = {
-        culture = assyrian
-        religion = syriac
+        culture = nabataean
+        religion = manichaean
         size = 15
     }
 
     clergymen = {
-        culture = assyrian
-        religion = syriac
+        culture = nabataean
+        religion = manichaean
         size = 25
     }
 
     artisans = {
-        culture = assyrian
-        religion = syriac
+        culture = nabataean
+        religion = manichaean
         size = 50
     }
 
     farmers = {
-        culture = assyrian
-        religion = syriac
+        culture = nabataean
+        religion = manichaean
         size = 8600
     }
 	
 	aristocrats = {
-        culture = chaldean
+        culture = assyrian
         religion = syriac
         size = 15
     }
 
     clergymen = {
-        culture = chaldean
+        culture = assyrian
         religion = syriac
         size = 25
     }
 
     artisans = {
-        culture = chaldean
+        culture = assyrian
         religion = syriac
         size = 50
     }
 
     farmers = {
-        culture = chaldean
+        culture = assyrian
         religion = syriac
         size = 2600
     }
@@ -1322,31 +1322,31 @@
     aristocrats = {
         culture = nabataean
         religion = manichaean
-        size = 15
+        size = 75
     }
 
     clergymen = {
         culture = nabataean
         religion = manichaean
-        size = 25
+        size = 125
     }
 
     artisans = {
         culture = nabataean
         religion = manichaean
-        size = 50
+        size = 550
     }
 
     farmers = {
         culture = nabataean
         religion = manichaean
-        size = 525
+        size = 8525
     }
 	
 	farmers = {
         culture = assyrian
         religion = syriac
-        size = 75
+        size = 575
     }
 }
 #Basra Region (388000) #see Gulf States.txt for balance of region
