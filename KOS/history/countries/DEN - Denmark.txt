@@ -1,5 +1,7 @@
 capital = 372
 primary_culture = danish
+culture = angle
+culture = norse_gaelic
 culture = icelandic
 religion = protestant
 government = absolute_monarchy

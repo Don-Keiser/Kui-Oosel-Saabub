@@ -1,7 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = NVF
-add_core = QUE
+owner = DNN
+controller = DNN
+add_core = DNN
 trade_goods = fish
 terrain = new_world_boreal
 life_rating = 10

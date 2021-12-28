@@ -2886,187 +2886,187 @@
 #Saint John's (52000/13000 POPS)
 74 = {
     aristocrats = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 50
     }
 
     bureaucrats = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 50
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
-        size = 2525
+        size = 8525
     }
 
     aristocrats = {
-        culture = french_canadian
+        culture = danish
         religion = catholic
-        size = 50
+        size = 350
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = danish
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = french_canadian
+        culture = danish
         religion = catholic
-        size = 50
+        size = 1050
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = danish
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = french_canadian
+        culture = danish
         religion = catholic
-        size = 100
+        size = 1800
     }
 
     clergymen = {
-        culture = irish
+        culture = angle
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = irish
+        culture = angle
         religion = catholic
-        size = 2000
+        size = 1000
     }
 
     farmers = {
-        culture = irish
+        culture = angle
         religion = catholic
-        size = 6900
+        size = 4900
     }
 }
 #Millertown/Port-Aux-basques (24000/6000 POPS)
 75 = {
     clergymen = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = vinlandic
+        religion = protestant
+        size = 1250
+    }
+
+    soldiers = {
+        culture = vinlandic
         religion = protestant
         size = 250
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 50
-    }
-
     farmers = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
-        size = 4425
+        size = 6425
     }
 
     clergymen = {
-        culture = irish
+        culture = danish
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = irish
+        culture = danish
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = irish
+        culture = danish
         religion = catholic
         size = 800
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = angle
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = french_canadian
+        culture = angle
         religion = catholic
-        size = 50
+        size = 850
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = angle
         religion = catholic
-        size = 50
+        size = 150
     }
 
     farmers = {
-        culture = french_canadian
+        culture = angle
         religion = catholic
-        size = 50
+        size = 2050
     }
 }
 #Hopedale (2000/500 POPS)
 76 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
-        size = 15
+        size = 2315
     }
 
     farmers = {
-        culture = inuit
-        religion = animist
+        culture = danish
+        religion = protestant
         size = 700
     }
 
@@ -3080,27 +3080,33 @@
 2625 = {
 
     clergymen = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 5
     }
 
     artisans = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 5
     }
 
     soldiers = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
         size = 5
     }
 
     farmers = {
-        culture = anglo_canadian
+        culture = vinlandic
         religion = protestant
-        size = 15
+        size = 2015
+    }
+	
+	farmers = {
+        culture = danish
+        religion = protestant
+        size = 215
     }
 
     farmers = {

@@ -274,7 +274,7 @@
     farmers = {
         culture = danish
         religion = protestant
-        size = 6625
+        size = 12625
     }
 
     aristocrats = {
@@ -304,7 +304,7 @@
     farmers = {
         culture = angle
         religion = protestant
-        size = 16550
+        size = 10550
     }
 
 }
@@ -333,6 +333,18 @@
         culture = danish
         religion = protestant
         size = 750
+    }
+	
+	craftsmen = {
+        culture = danish
+        religion = protestant
+        size = 5800
+    }
+	
+    clerks = {
+        culture = danish
+        religion = protestant
+        size = 600
     }
 
     artisans = {

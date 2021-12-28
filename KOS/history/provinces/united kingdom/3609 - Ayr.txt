@@ -1,5 +1,6 @@
-owner = IOM
-controller = IOM
+owner = DNN
+controller = DNN
+add_core = DNN
 add_core = IOM
 trade_goods = sulphur
 life_rating = 35

@@ -1,7 +1,7 @@
-owner = DEN
-controller = DEN
+owner = DNN
+controller = DNN
 add_core = GRN
-add_core = DEN
+add_core = DNN
 trade_goods = fish
 life_rating = 10
 terrain = montane_tundra

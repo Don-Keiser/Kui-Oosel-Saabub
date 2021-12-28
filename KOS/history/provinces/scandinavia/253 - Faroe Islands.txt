@@ -1,6 +1,6 @@
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = DNN
+controller = DNN
+add_core = DNN
 add_core = FRO
 trade_goods = fish
 life_rating = 30

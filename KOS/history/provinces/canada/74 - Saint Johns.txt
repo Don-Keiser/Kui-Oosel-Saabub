@@ -1,3 +1,7 @@
+owner = DNN
+controller = DNN
+add_core = DNN
 trade_goods = fish
 terrain = stjohn
 life_rating = 31
+colonial = 2

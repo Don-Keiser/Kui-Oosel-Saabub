@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = DNN
+controller = DNN
 add_core = HND
 add_core = KAR
 trade_goods = fish

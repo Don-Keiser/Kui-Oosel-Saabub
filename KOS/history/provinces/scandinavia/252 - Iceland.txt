@@ -1,6 +1,6 @@
-owner = DEN
-controller = DEN
-add_core = DEN
+owner = DNN
+controller = DNN
+add_core = DNN
 add_core = ICL
 trade_goods = sulphur
 terrain = montane_tundra

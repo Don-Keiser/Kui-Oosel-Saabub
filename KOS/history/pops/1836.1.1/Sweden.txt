@@ -523,45 +523,69 @@
 #Goteborg (168000/42000 POPS)
 329 = {
     aristocrats = {
-        culture = swedish
+        culture = danish
         religion = protestant
         size = 250
     }
 
     bureaucrats = {
-        culture = swedish
+        culture = danish
         religion = protestant
         size = 650
     }
 
     officers = {
-        culture = swedish
+        culture = danish
         religion = protestant
         size = 250
     }
 
     clergymen = {
-        culture = swedish
+        culture = skansk
         religion = protestant
         size = 250
     }
+	
+ craftsmen = {
+        culture = skansk
+        religion = protestant
+        size = 4200
+    }
+	
+    clerks = {
+        culture = skansk
+        religion = protestant
+        size = 300
+    }
 
     artisans = {
-        culture = swedish
+        culture = skansk
         religion = protestant
         size = 5000
     }
 
     soldiers = {
-        culture = swedish
+        culture = danish
         religion = protestant
         size = 1100
     }
 
     farmers = {
+        culture = skansk
+        religion = protestant
+        size = 22750
+    }
+	
+	farmers = {
         culture = swedish
         religion = protestant
-        size = 33750
+        size = 8750
+    }
+	
+	farmers = {
+        culture = danish
+        religion = protestant
+        size = 3750
     }
 }
 #Boras (220000/55000 POPS)
@@ -593,7 +617,13 @@
     farmers = {
         culture = swedish
         religion = protestant
-        size = 50750
+        size = 43750
+    }
+	
+	farmers = {
+        culture = skansk
+        religion = protestant
+        size = 7750
     }
 }
 #Visby (40000/10000 POPS)
@@ -695,71 +725,83 @@
 #Malmo (312000/77000 POPS)
 334 = {
     aristocrats = {
-        culture = swedish
+        culture = danish
         religion = protestant
         size = 750
     }
 
     bureaucrats = {
-        culture = swedish
+        culture = danish
         religion = protestant
         size = 800
     }
 
     clergymen = {
-        culture = swedish
+        culture = skansk
         religion = protestant
         size = 375
     }
 
     artisans = {
-        culture = swedish
+        culture = skansk
         religion = protestant
         size = 3750
     }
 
     soldiers = {
-        culture = swedish
+        culture = danish
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = swedish
+        culture = skansk
         religion = protestant
-        size = 69125
+        size = 60125
+    }
+	
+	farmers = {
+        culture = danish
+        religion = protestant
+        size = 9125
     }
 }
 #Karlskrona (259000/64750 POPS)
 335 = {
     aristocrats = {
-        culture = swedish
+        culture = danish
         religion = protestant
         size = 625
     }
 
     clergymen = {
-        culture = swedish
+        culture = skansk
         religion = protestant
         size = 375
     }
 
     artisans = {
-        culture = swedish
+        culture = skansk
         religion = protestant
         size = 3125
     }
 
     soldiers = {
-        culture = swedish
+        culture = danish
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = swedish
+        culture = skansk
         religion = protestant
-        size = 60625
+        size = 52625
+    }
+	
+	farmers = {
+        culture = danish
+        religion = protestant
+        size = 8625
     }
 
 }

@@ -6,7 +6,7 @@ government = hms_government
 plurality = 45.0
 nationalvalue = nv_equality
 literacy = 0.0693069
-prestige = 28
+prestige = 48
 
 civilized = yes
 
