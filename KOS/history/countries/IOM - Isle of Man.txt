@@ -1,7 +1,7 @@
 capital = 304
 primary_culture = norse_gaelic
-culture = manx
-religion = anglican
+culture = gaidhlig
+religion = reformed
 government = hms_government
 plurality = 0.1
 nationalvalue = nv_order

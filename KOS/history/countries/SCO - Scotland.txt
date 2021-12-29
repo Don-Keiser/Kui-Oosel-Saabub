@@ -1,6 +1,5 @@
 capital = 269
 primary_culture = gaidhlig
-culture = norse_gaelic
 culture = cumbric
 religion = reformed
 government = hms_government

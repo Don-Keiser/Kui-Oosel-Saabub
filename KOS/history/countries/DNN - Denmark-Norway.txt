@@ -3,7 +3,6 @@ primary_culture = danish
 culture = norwegian
 culture = angle
 culture = skansk
-culture = norse_gaelic
 culture = icelandic
 culture = vinlandic
 religion = protestant

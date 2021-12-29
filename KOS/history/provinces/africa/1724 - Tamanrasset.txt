@@ -1,6 +1,5 @@
-owner = DNN
-controller = DNN
-add_core = DNN
+owner = IOM
+controller = IOM
 add_core = IOM
 trade_goods = wool
 terrain = small_island
