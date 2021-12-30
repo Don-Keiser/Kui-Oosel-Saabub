@@ -92,7 +92,7 @@
 
     farmers = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 1075
     }
 }
@@ -684,8 +684,8 @@
 3339 = {
     farmers = {
         culture = sami
-        religion = protestant
-        size = 22680
+        religion = animist
+        size = 2680
     }
 
     clergymen = {
@@ -709,6 +709,6 @@
     farmers = {
         culture = finnish
         religion = protestant
-        size = 1100
+        size = 21100
     }
 }

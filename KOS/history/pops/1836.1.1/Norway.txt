@@ -2,48 +2,48 @@
 #Trondheim (140000/35000 POPS)
 305 = {
     aristocrats = {
-        culture = norwegian
-        religion = protestant
+        culture = sami
+        religion = animist
         size = 300
     }
 
     bureaucrats = {
-        culture = norwegian
-        religion = protestant
+        culture = sami
+        religion = animist
         size = 300
     }
 
     officers = {
-        culture = norwegian
-        religion = protestant
+        culture = sami
+        religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = norwegian
-        religion = protestant
+        culture = sami
+        religion = animist
         size = 150
     }
 
     artisans = {
-        culture = norwegian
-        religion = protestant
+        culture = sami
+        religion = animist
         size = 3250
     }
 
     soldiers = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 2000
     }
 
     farmers = {
-        culture = norwegian
-        religion = protestant
+        culture = sami
+        religion = animist
         size = 20000
     }
     farmers = {
-        culture = sami
+        culture = norwegian
         religion = protestant
         size = 11250
     }
@@ -52,37 +52,37 @@
 306 = {
     clergymen = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     aristocrats = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 13100
     }
 
     farmers = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 7050
     }
 }
@@ -90,37 +90,37 @@
 307 = {
     aristocrats = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 2000
     }
 
     farmers = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 8000
     }
 

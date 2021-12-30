@@ -1004,20 +1004,20 @@
 
     clergymen = {
         culture = finnish
-        religion = orthodox
-        size = 25
+        religion = protestant
+        size = 125
     }
 
     farmers = {
-        culture = sami
-        religion = orthodox
+        culture = finnish
+        religion = protestant
         size = 150
     }
 
     farmers = {
         culture = sami
-        religion = orthodox
-        size = 400
+        religion = animist
+        size = 18000
     }
 }
 #Kandalasksha (7200/1800 POPS)
@@ -1042,25 +1042,25 @@
     farmers = {
         culture = karelian
         religion = protestant
-        size = 375
+        size = 875
     }
 
     farmers = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 1000
     }
 
     clergymen = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 10
     }
 
     farmers = {
         culture = sami
-        religion = protestant
-        size = 290
+        religion = animist
+        size = 2900
     }
 }
 #Kostomuksha (20000/5000 POPS)
@@ -1173,20 +1173,20 @@
 
     farmers = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 240
     }
 
     clergymen = {
         culture = sami
-        religion = protestant
+        religion = animist
         size = 5
     }
 
     farmers = {
         culture = sami
-        religion = protestant
-        size = 300
+        religion = animist
+        size = 3000
     }
 }
 #Onega (22000/5500 POPS)
