@@ -26,21 +26,27 @@
     }
 
     artisans = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 2000
     }
 
     soldiers = {
         culture = swedish
-        religion = asatru
+        religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
-        size = 20125
+        size = 8125
+    }
+	
+	farmers = {
+        culture = swedish
+        religion = protestant
+        size = 12125
     }
 	
 	farmers = {
@@ -52,33 +58,39 @@
 #Sundsvall (80000/20000 POPS)
 318 = {
     aristocrats = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 50
     }
 
     clergymen = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 100
     }
 
     artisans = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 1100
     }
 
     soldiers = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
-        size = 250
+        size = 3250
     }
 
     farmers = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
-        size = 19100
+        size = 18100
+    }
+	
+	farmers = {
+        culture = finnish
+        religion = protestant
+        size = 1100
     }
 }
 #Ostersund (44000/11000 POPS)
@@ -108,7 +120,7 @@
     }
 
     labourers = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 1100
     }
@@ -116,27 +128,27 @@
 #Umea (56000/14000 POPS)
 320 = {
     clergymen = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 75
     }
 
     artisans = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 750
     }
 
     soldiers = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
-        size = 250
+        size = 3250
     }
 
     labourers = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
-        size = 11925
+        size = 10925
     }
 
     farmers = {
@@ -148,44 +160,44 @@
 #Lulea (44000/11000 POPS)
 321 = {
     clergymen = {
-        culture = finnish
-        religion = protestant
+        culture = kvaani
+        religion = asatru
         size = 50
     }
 
     artisans = {
-        culture = finnish
-        religion = protestant
+        culture = kvaani
+        religion = asatru
         size = 400
     }
 
     soldiers = {
-        culture = finnish
-        religion = protestant
-        size = 1100
+        culture = kvaani
+        religion = asatru
+        size = 2800
     }
 
     labourers = {
-        culture = finnish
-        religion = protestant
+        culture = kvaani
+        religion = asatru
         size = 4050
     }
 
     artisans = {
-        culture = finnish
-        religion = protestant
+        culture = kvaani
+        religion = asatru
         size = 100
     }
 
     farmers = {
-        culture = sami
-        religion = animist
+        culture = kvaani
+        religion = asatru
         size = 4200
     }
 
     farmers = {
-        culture = sami
-        religion = animist
+        culture = finnish
+        religion = protestant
         size = 1100
     }
 
@@ -198,43 +210,43 @@
     }
 
     aristocrats = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 200
     }
 
     bureaucrats = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 80
     }
 
     officers = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 20
     }
 
     clergymen = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 200
     }
 
     artisans = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 500
     }
 
     soldiers = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 100
     }
 
     farmers = {
-        culture = swedish
+        culture = kvaani
         religion = asatru
         size = 2000
     }

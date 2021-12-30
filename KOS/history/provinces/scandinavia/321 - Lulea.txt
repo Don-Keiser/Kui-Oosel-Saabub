@@ -1,7 +1,6 @@
-owner = SMI
-controller = SMI
-add_core = SMI
-add_core = FIN
+owner = KVE
+controller = KVE
+add_core = KVE
 trade_goods = timber
 terrain = boreal
 life_rating = 30

@@ -1236,7 +1236,7 @@ finnougric = {
         }
     }
     mari = {
-        color = {223 255 181}
+        color = {223 255 181 }
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -1252,7 +1252,7 @@ finnougric = {
         }
     }
     udmurt = {
-        color = {188 210 158}
+        color = {188 210 158 }
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -1268,7 +1268,16 @@ finnougric = {
         }
     }
     sami = {
-        color = { 245 249 239}
+        color = { 245 249 239 }
+        first_names = {
+            Asllak Biejas Dure Erke Hanno Iskko Joha Laras Markkos Mikko Niillas Osku Uhkku
+        }
+        last_names = {
+            Hætta Somby Turi Magga Dunfjeld Kvitfjell Kappfjell
+        }
+    }
+	kvaani = {
+        color = { 138 164 173 }
         first_names = {
             Asllak Biejas Dure Erke Hanno Iskko Joha Laras Markkos Mikko Niillas Osku Uhkku
         }

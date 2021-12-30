@@ -914,6 +914,11 @@ JUL		= "countries/Julich.txt"
 CAP		= "countries/Capua.txt"
 SLR		= "countries/Salerno.txt"
 KRS		= "countries/Korsia.txt"
+KVE		= "countries/Kvenland.txt"
+GEA		= "countries/Geatland.txt"
+SMA		= "countries/Smaland.txt"
+OLA		= "countries/Oland.txt"
+SCN		= "countries/Scania.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
