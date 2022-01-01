@@ -1,3 +1,34 @@
+#Burma
+vassal = {
+    first = BUR
+    second = SHA
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = BUR
+    second = TAD
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = BUR
+    second = HRI
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = BUR
+    second = MNP
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = BUR
+    second = ASM
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
 #Monaco
 vassal = {
     first = SAR

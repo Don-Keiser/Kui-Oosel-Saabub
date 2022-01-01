@@ -1,9 +1,7 @@
-owner = BNG
-controller = BNG
-add_core = HND
-add_core = ASM
+owner = MNP
+controller = MNP
 add_core = MNP
-add_core = BNG
+add_core = BUR
 trade_goods = timber
 life_rating = 32
 terrain = jungle_mountains
