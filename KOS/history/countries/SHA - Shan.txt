@@ -1,6 +1,5 @@
-capital = 1338
-primary_culture = shan
-culture = thai
+capital = 3548
+primary_culture = wa
 culture = kachin
 religion = theravada
 government = absolute_monarchy

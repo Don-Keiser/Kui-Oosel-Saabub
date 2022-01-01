@@ -1,3 +1,6 @@
+
+BUR = {value = -80}
+
 leader = {
 	name = "Alaksii kohta Kensaari"
 	date = 1836.1.1
@@ -8,12 +11,160 @@ leader = {
 }
 
 army = {
-	name = "Kunungrik's Armies"
-	location = 1380
-	regiment = {
-		name= "Eskadrill"
-		type = guard
-		home = 1380
-	}
-}
+    name = "Capital Army"
+    location = 1380
+    regiment = {
+        name= "1. Brigade"
+        type = infantry
+        home = 1380
+    }
 
+    regiment = {
+        name= "2. Brigade"
+        type = infantry
+        home = 1380
+    }
+
+    regiment = {
+        name= "3. Brigade"
+        type = infantry
+        home = 1383
+    }
+
+    regiment = {
+        name= "4. Brigade"
+        type = infantry
+        home = 1382
+    }
+
+    regiment = {
+        name= "5. Brigade"
+        type = infantry
+        home = 1367
+    }
+
+    regiment = {
+        name= "6. Brigade"
+        type = infantry
+        home = 1381
+    }
+
+    regiment = {
+        name= "7. Brigade"
+        type = infantry
+        home = 1381
+    }
+
+    regiment = {
+        name= "8. Brigade"
+        type = infantry
+        home = 1380
+    }
+
+    regiment = {
+        name= "9. Brigade"
+        type = infantry
+        home = 1379
+    }
+	
+    regiment = {
+        name= "10. Brigade"
+        type = infantry
+        home = 1382
+    }
+}
+army = {
+    name = "West Magimaa Army"
+    location = 1348
+    regiment = {
+        name= "11. Brigade"
+        type = infantry
+        home = 1346
+    }
+
+    regiment = {
+        name= "12. Brigade"
+        type = infantry
+        home = 1344
+    }
+
+    regiment = {
+        name= "13. Brigade"
+        type = infantry
+        home = 1353
+    }
+
+    regiment = {
+        name= "15. Brigade"
+        type = infantry
+        home = 1351
+    }
+
+    regiment = {
+        name= "16. Brigade"
+        type = infantry
+        home = 1365
+    }
+
+}
+army = {
+	name = "3rd Army"
+	location = 1344
+	regiment = {
+        name= "13. Brigade"
+        type = infantry
+        home = 1344
+    }
+
+    regiment = {
+        name= "15. Brigade"
+        type = infantry
+        home = 1353
+    }
+
+    regiment = {
+        name= "16. Brigade"
+        type = infantry
+        home = 1346
+    }
+}
+navy = {
+	name = "Magimaa Navy"
+	location = 1380
+    ship = {
+        name= "Raud-Kastel"
+        type = manowar
+    }
+
+    ship = {
+        name= "Rahukohal"
+        type = manowar
+    }
+
+    ship = {
+        name= "Manoosel"
+        type = manowar
+    }
+
+    ship = {
+        name= "Manfred"
+        type = manowar
+    }
+
+    ship = {
+        name= "Kaarented"
+        type = manowar
+    }
+    ship = {
+        name= "Transport ship 1"
+        type = clipper_transport
+    }
+	ship = {
+        name= "Transport ship 2"
+        type = clipper_transport
+    }
+	ship = {
+        name= "Transport ship 3"
+        type = clipper_transport
+    }
+{

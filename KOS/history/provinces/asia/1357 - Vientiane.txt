@@ -1,8 +1,6 @@
-owner = SIA
-controller = SIA
-add_core = SIA
-add_core = WIA
-add_core = LUA
+owner = CAM
+controller = CAM
+add_core = CAM
 trade_goods = wool
 life_rating = 35
 terrain = jungle_mountains

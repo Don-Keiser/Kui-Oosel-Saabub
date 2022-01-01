@@ -883,7 +883,6 @@ political_decisions = {
                 AND = { tag = PHL owns = 1455 NOT = { capital = 1455 } }
                 AND = { tag = DAI owns = 1369 NOT = { capital = 1369 } }
                 AND = { tag = SIA owns = 1346 NOT = { capital = 1346 } }
-                AND = { tag = BUR owns = 1334 NOT = { capital = 1334 } }
                 AND = { tag = MLY owns = 1387 NOT = { capital = 1387 } }
                 AND = { tag = TKM owns = 1387 NOT = { capital = 1204 } }
                 AND = { tag = UZB owns = 1195 NOT = { capital = 1195 } }
@@ -929,7 +928,6 @@ political_decisions = {
             random_owned = { limit = { owner = { tag = UZB } } owner = { capital = 1195 } }
             random_owned = { limit = { owner = { tag = TKM } } owner = { capital = 1204 } }
             random_owned = { limit = { owner = { tag = MLY } } owner = { capital = 1387 } }
-            random_owned = { limit = { owner = { tag = BUR } } owner = { capital = 1334 } }
             random_owned = { limit = { owner = { tag = CAM } } owner = { capital = 1364 } }
             random_owned = { limit = { owner = { tag = SIA } } owner = { capital = 1346 } }
             random_owned = { limit = { owner = { tag = DAI } } owner = { capital = 1369 } }

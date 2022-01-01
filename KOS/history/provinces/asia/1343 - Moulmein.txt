@@ -1,6 +1,6 @@
-owner = MGI
-controller = MGI
-add_core = MGI
+owner = TAD
+controller = TAD
+add_core = TAD
 trade_goods = timber
 life_rating = 35
 terrain = jungle_hills

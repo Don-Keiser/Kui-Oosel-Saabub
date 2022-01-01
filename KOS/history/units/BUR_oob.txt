@@ -1,12 +1,5 @@
-#Relations
 
-SIA = {
-    value = -200        #relation
-}
-
-ENG = {
-    value = -5        #relation
-}
+MGI = {value = -80}
 
 leader = {
     name = "Tharrawaddy Min"
@@ -15,103 +8,218 @@ leader = {
     personality = balanced_p
     background = armchair_general
 }
+leader = {
+    name = "Maha Hein"
+    type = land
+    date = 1836.1.1
+    personality = daring
+    background = rising_star
+}
+leader = {
+    name = "Maha Ne Myo"
+    type = land
+    date = 1836.1.1
+    personality = bold
+    background = nationalist
+}
+leader = {
+    name = "Sithu Min"
+    type = sea
+    date = 1836.1.1
+    personality = heroic
+    background = adventurer
+}
+leader = {
+    name = "Thant Thiha Zaw"
+    type = land
+    date = 1836.1.1
+    personality = careful
+    background = uncommonly_young
+}
+
 
 army = {
-    name = "Army of Burma"
-    location = 1334
+    name = "Capital Army"
+    location = 1336
     regiment = {
         name= "1. Brigade"
-        type = irregular
+        type = infantry
         home = 1330
     }
 
     regiment = {
         name= "2. Brigade"
-        type = irregular
-        home = 1330
+        type = infantry
+        home = 1336
     }
 
     regiment = {
         name= "3. Brigade"
-        type = irregular
-        home = 1332
+        type = infantry
+        home = 1336
     }
 
     regiment = {
         name= "4. Brigade"
-        type = irregular
-        home = 1332
+        type = infantry
+        home = 1339
     }
 
     regiment = {
         name= "5. Brigade"
-        type = irregular
+        type = infantry
         home = 1333
     }
 
     regiment = {
         name= "6. Brigade"
-        type = irregular
+        type = infantry
         home = 1333
     }
 
     regiment = {
         name= "7. Brigade"
-        type = irregular
-        home = 1335
+        type = infantry
+        home = 1257
     }
 
     regiment = {
         name= "8. Brigade"
-        type = irregular
-        home = 1335
+        type = infantry
+        home = 1257
     }
 
     regiment = {
         name= "9. Brigade"
-        type = irregular
-        home = 1337
+        type = infantry
+        home = 1342
     }
 
 }
 
 army = {
-    name = "Army of South Burma"
-    location = 1333
+    name = "Dala Garrison"
+    location = 1330
     regiment = {
         name= "10. Brigade"
-        type = irregular
-        home = 1334
+        type = infantry
+        home = 1330
     }
 
     regiment = {
         name= "11. Brigade"
-        type = irregular
-        home = 1334
+        type = infantry
+        home = 1330
     }
 
     regiment = {
         name= "12. Brigade"
-        type = irregular
-        home = 1339
+        type = infantry
+        home = 1331
     }
 
     regiment = {
         name= "13. Brigade"
-        type = irregular
-        home = 1336
+        type = infantry
+        home = 1331
     }
 
     regiment = {
         name= "15. Brigade"
-        type = irregular
-        home = 1342
+        type = infantry
+        home = 1332
     }
 
     regiment = {
         name= "16. Brigade"
-        type = irregular
-        home = 1342
+        type = infantry
+        home = 1345
     }
 
+}
+army = {
+    name = "Army of West Bamar"
+    location = 2572
+    regiment = {
+        name= "17. Brigade"
+        type = infantry
+        home = 2572
+    }
+
+    regiment = {
+        name= "18. Brigade"
+        type = infantry
+        home = 1339
+    }
+
+    regiment = {
+        name= "19. Brigade"
+        type = infantry
+        home = 1339
+    }
+
+    regiment = {
+        name= "20. Brigade"
+        type = infantry
+        home = 3553
+    }
+}
+
+navy = {
+	name = "Burmese Royal Navy"
+	location = 1330
+    ship = {
+        name= "Anawrahta"
+        type = manowar
+    }
+
+    ship = {
+        name= "Kyan Sitthar"
+        type = manowar
+    }
+
+    ship = {
+        name= "Saw Lu"
+        type = manowar
+    }
+
+    ship = {
+        name= "Tharyawaddy"
+        type = manowar
+    }
+
+    ship = {
+        name= "Naga"
+        type = manowar
+    }
+
+    ship = {
+        name= "Hintha"
+        type = manowar
+    }
+
+    ship = {
+        name= "Transport ship 1"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Transport ship 2"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Transport ship 3"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Transport ship 4"
+        type = clipper_transport
+    }
+
+    ship = {
+        name= "Transport ship 5"
+        type = clipper_transport
+    }
 }

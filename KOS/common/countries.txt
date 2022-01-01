@@ -739,6 +739,9 @@ SXI        ="countries/Shanxi.txt"
 YNN        ="countries/Yunnan.txt"
 XBI        ="countries/Xibei San Ma.txt"
 XIN        ="countries/Xinjiang.txt"
+TAD	       ="countries/Thadon.txt"
+HRI	       ="countries/Haripunchai.txt"
+CAM	       ="countries/Khmer.txt"
 
 # North America
 BJC        ="countries/Southern California.txt"

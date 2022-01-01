@@ -1,4 +1,4 @@
-color = { 109  168  127 }
+color = { 105  0  0 }
 graphical_culture = AsianGC
 
 party = {
@@ -132,10 +132,12 @@ unit_names = {
         Tavoy Mergui Tanintharyi Ye Irrawady
     }
     clipper_transport = {
-
+        "Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan
+        Tavoy Mergui Tanintharyi Ye Irrawady
     }
     steam_transport = {
-
+        "Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan
+        Tavoy Mergui Tanintharyi Ye Irrawady
     }
     commerce_raider = {
         "Tharrawaddy Min" "Maha Bandula" "Kanaung Mintha" "Maha Ne Myo" Alaungpaya Mandalay Rangoon Shwebo Salween Arakan
