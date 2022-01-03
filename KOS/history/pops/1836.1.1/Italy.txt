@@ -2263,45 +2263,45 @@
 #Brindisi (280000/70000 POPS)
 758 = {
     aristocrats = {
-        culture = griko
+        culture = neapolitan
         religion = catholic
         size = 1800
     }
 
     clergymen = {
-        culture = griko
+        culture = neapolitan
         religion = catholic
         size = 700
     }
 
     artisans = {
-        culture = griko
+        culture = neapolitan
         religion = catholic
         size = 3500
     }
 
     soldiers = {
-        culture = griko
+        culture = neapolitan
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = griko
+        culture = neapolitan
         religion = catholic
-        size = 54500
+        size = 44500
     }
 
     farmers = {
         culture = tosk
         religion = catholic
-        size = 4000
+        size = 3000
     }
 
     farmers = {
         culture = griko
         religion = orthodox
-        size = 4500
+        size = 2500
     }
 }
 #Calabria-Basilicata Region (1488000)
@@ -2365,39 +2365,45 @@
 #Catanzaro (344000/86000 POPS)
 760 = {
     aristocrats = {
-        culture = griko
+        culture = neapolitan
         religion = catholic
         size = 2200
     }
 
     clergymen = {
-        culture = griko
+        culture = neapolitan
         religion = catholic
         size = 875
     }
 
     artisans = {
-        culture = griko
+        culture = neapolitan
         religion = catholic
         size = 4250
     }
 
     soldiers = {
-        culture = griko
+        culture = neapolitan
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = griko
+        culture = neapolitan
         religion = catholic
-        size = 76125
+        size = 72125
+    }
+	
+	farmers = {
+        culture = griko
+        religion = orthodox
+        size = 4125
     }
 
     farmers = {
         culture = tosk
         religion = orthodox
-        size = 3550
+        size = 1550
     }
 }
 #Potenza (572000/143000 POPS)
@@ -2576,7 +2582,7 @@
     farmers = {
         culture = sicilian
         religion = catholic
-        size = 141000
+        size = 111000
     }
 
     farmers = {
@@ -2762,6 +2768,206 @@
         culture = romansh
         religion = catholic
         size = 30000
+    }
+
+}
+
+#Syrakousai
+3706 = {
+    aristocrats = {
+        culture = griko
+        religion = orthodox
+        size = 920
+    }
+
+    clergymen = {
+        culture = griko
+        religion = orthodox
+        size = 255
+    }
+
+    artisans = {
+        culture = griko
+        religion = orthodox
+        size = 2370
+    }
+
+    soldiers = {
+        culture = griko
+        religion = orthodox
+        size = 1050
+    }
+
+    farmers = {
+        culture = griko
+        religion = orthodox
+        size = 42911
+    }
+
+    farmers = {
+        culture = sicilian
+        religion = catholic
+        size = 8614
+    }
+
+}
+
+#Leukania
+3707 = {
+    aristocrats = {
+        culture = griko
+        religion = orthodox
+        size = 880
+    }
+
+    clergymen = {
+        culture = griko
+        religion = orthodox
+        size = 285
+    }
+
+    artisans = {
+        culture = griko
+        religion = orthodox
+        size = 2170
+    }
+
+    soldiers = {
+        culture = griko
+        religion = orthodox
+        size = 850
+    }
+
+    farmers = {
+        culture = griko
+        religion = orthodox
+        size = 39911
+    }
+
+    farmers = {
+        culture = neapolitan
+        religion = catholic
+        size = 4614
+    }
+
+}
+
+#Callipolis
+3708 = {
+    aristocrats = {
+        culture = griko
+        religion = orthodox
+        size = 180
+    }
+
+    clergymen = {
+        culture = griko
+        religion = orthodox
+        size = 85
+    }
+
+    artisans = {
+        culture = griko
+        religion = orthodox
+        size = 870
+    }
+
+    soldiers = {
+        culture = griko
+        religion = orthodox
+        size = 250
+    }
+
+    farmers = {
+        culture = griko
+        religion = orthodox
+        size = 9911
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 1214
+    }
+
+}
+
+#Tarantas
+3709 = {
+    aristocrats = {
+        culture = griko
+        religion = orthodox
+        size = 350
+    }
+
+    clergymen = {
+        culture = griko
+        religion = orthodox
+        size = 155
+    }
+
+    artisans = {
+        culture = griko
+        religion = orthodox
+        size = 1300
+    }
+
+    soldiers = {
+        culture = griko
+        religion = orthodox
+        size = 450
+    }
+
+    farmers = {
+        culture = griko
+        religion = orthodox
+        size = 26911
+    }
+
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 3214
+    }
+
+}
+
+#Termele
+3710 = {
+    aristocrats = {
+        culture = tosk
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = tosk
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = tosk
+        religion = catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = tosk
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = tosk
+        religion = catholic
+        size = 8911
+    }
+
+    farmers = {
+        culture = neapolitan
+        religion = catholic
+        size = 2814
     }
 
 }
