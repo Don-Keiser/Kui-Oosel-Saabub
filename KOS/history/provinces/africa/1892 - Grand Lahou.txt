@@ -1,3 +1,5 @@
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = tropical_wood
-life_rating = 10
-colonial = 1
+life_rating = 35

@@ -110,74 +110,74 @@
 1878 = {
     aristocrats = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 500
     }
 
     bureaucrats = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 1000
     }
 
     soldiers = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 1100
     }
 
     farmers = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 3768
     }
 
 
     aristocrats = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 400
     }
 
     bureaucrats = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 1000
     }
 
     soldiers = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 1200
     }
 
     farmers = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 11129
     }
 

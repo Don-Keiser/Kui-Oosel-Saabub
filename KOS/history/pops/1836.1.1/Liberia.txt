@@ -201,31 +201,31 @@
 1889 = {
     aristocrats = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 475
     }
 
     clergymen = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 250
     }
 
     artisans = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 1250
     }
 
     soldiers = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 250
     }
 
     farmers = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 32775
     }
     #was african minor
@@ -263,31 +263,31 @@
 1890 = {
     aristocrats = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     clergymen = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 550
     }
 
     soldiers = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 125
     }
 
     farmers = {
         culture = mande
-        religion = sunni
+        religion = catholic
         size = 15025
     }
     #was african minor

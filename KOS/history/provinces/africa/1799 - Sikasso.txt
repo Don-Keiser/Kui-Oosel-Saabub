@@ -1,7 +1,5 @@
-owner = SEG
-controller = SEG
-add_core = SEG
-add_core = MAS
-add_core = KNG
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = fruit
 life_rating = 35

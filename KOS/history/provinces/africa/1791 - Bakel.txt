@@ -1,8 +1,6 @@
-owner = JAL
-controller = JAL
-add_core = TOO
-add_core = JAL
-add_core = SEG
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = cattle
 terrain = semidesert
 life_rating = 31

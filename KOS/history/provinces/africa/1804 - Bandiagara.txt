@@ -1,8 +1,6 @@
-owner = MAS
-controller = MAS
-add_core = MOS
-add_core = SEG
-add_core = MAS
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = cattle
 terrain = semidesert
 life_rating = 32

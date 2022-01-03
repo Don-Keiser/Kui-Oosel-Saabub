@@ -1,5 +1,5 @@
-owner = JAL
-controller = JAL
-add_core = JAL
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = cattle
 life_rating = 35
