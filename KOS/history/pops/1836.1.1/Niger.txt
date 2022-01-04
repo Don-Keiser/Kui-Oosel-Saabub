@@ -4,103 +4,103 @@
 1808 = {
     aristocrats = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 350
     }
 
     clergymen = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     artisans = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 800
     }
 
     soldiers = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 16450
     }
 
     aristocrats = {
         culture = dyula
-        religion = sunni
+        religion = catholic
         size = 170
     }
 
     clergymen = {
         culture = dyula
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = dyula
-        religion = sunni
+        religion = catholic
         size = 500
     }
 
     soldiers = {
         culture = dyula
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = dyula
-        religion = sunni
+        religion = catholic
         size = 9150
     }
 
     aristocrats = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 450
     }
 
     bureaucrats = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 450
     }
 
     bureaucrats = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 25
     }
 
     clergymen = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 250
     }
 
     artisans = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 1150
     }
 
     soldiers = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 2280
     }
 
     farmers = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 24050
     }
 
@@ -112,31 +112,31 @@
 
     aristocrats = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 250
     }
 
     clergymen = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 150
     }
 
     artisans = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 700
     }
 
     soldiers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 10750
     }
 }
@@ -144,91 +144,91 @@
 1809 = {
     aristocrats = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 150
     }
 
     clergymen = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 500
     }
 
     soldiers = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 7150
     }
 
     aristocrats = {
         culture = dyula
-        religion = sunni
+        religion = catholic
         size = 50
     }
 
     clergymen = {
         culture = dyula
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = dyula
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     soldiers = {
         culture = dyula
-        religion = sunni
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = dyula
-        religion = sunni
+        religion = catholic
         size = 3600
     }
 
     aristocrats = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 350
     }
 
     clergymen = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 1000
     }
 
     soldiers = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 1200
     }
 
     farmers = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 35350
     }
 
@@ -242,61 +242,61 @@
 1810 = {
     aristocrats = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 150
     }
 
     artisans = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 350
     }
 
     soldiers = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 5300
     }
 
     aristocrats = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 700
     }
 
     clergymen = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 400
     }
 
     artisans = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 2200
     }
 
     soldiers = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 1000
     }
 
     farmers = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 47900
     }
 
@@ -326,7 +326,7 @@
 
     farmers = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 3600
     }
 
@@ -338,31 +338,31 @@
 
     aristocrats = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 350
     }
 
     clergymen = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     artisans = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 250
     }
 
     soldiers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 1000
     }
 }
@@ -370,91 +370,91 @@
 1811 = {
     aristocrats = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 1800
     }
 
     aristocrats = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 900
     }
 
     clergymen = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 500
     }
 
     artisans = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 2500
     }
 
     soldiers = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 1100
     }
 
     farmers = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 44000
     }
 
     aristocrats = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 300
     }
 
     clergymen = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 150
     }
 
     artisans = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 800
     }
 
     soldiers = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 7600
     }
 
@@ -466,31 +466,31 @@
 
     aristocrats = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 20
     }
 
     clergymen = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 30
     }
 
     farmers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 1800
     }
 }
@@ -500,61 +500,61 @@
 1812 = {
     aristocrats = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 575
     }
 
     clergymen = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 350
     }
 
     artisans = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 1500
     }
 
     soldiers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 1150
     }
 
     farmers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 18625
     }
 
     aristocrats = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 250
     }
 
     clergymen = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 150
     }
 
     artisans = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 700
     }
 
     soldiers = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 20750
     }
 
@@ -569,37 +569,37 @@
 1814 = {
     aristocrats = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     clergymen = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 550
     }
 
     soldiers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 125
     }
 
     farmers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 9025
     }
 
     slaves = {
         culture = teda
-        religion = sunni
+        religion = catholic
         size = 1000
     }
 }
@@ -609,67 +609,67 @@
 1815 = {
     aristocrats = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 1500
     }
 
     bureaucrats = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 600
     }
 
     clergymen = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 800
     }
 
     artisans = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 4000
     }
 
     soldiers = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 1300
     }
 
     farmers = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 79900
     }
 
     aristocrats = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 650
     }
 
     clergymen = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 350
     }
 
     artisans = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 1800
     }
 
     soldiers = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 2150
     }
 
     farmers = {
         culture = songhai
-        religion = sunni
+        religion = catholic
         size = 10850
     }
 
@@ -681,31 +681,31 @@
 
     aristocrats = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 150
     }
 
     clergymen = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 500
     }
 
     soldiers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 2150
     }
 }
@@ -714,97 +714,97 @@
 1816 = {
     aristocrats = {
         culture = kanuri
-        religion = sunni
+        religion = catholic
         size = 1800
     }
 
     clergymen = {
         culture = kanuri
-        religion = sunni
+        religion = catholic
         size = 900
     }
 
     artisans = {
         culture = kanuri
-        religion = sunni
+        religion = catholic
         size = 3700
     }
 
     soldiers = {
         culture = kanuri
-        religion = sunni
+        religion = catholic
         size = 1000
     }
 
     farmers = {
         culture = kanuri
-        religion = sunni
+        religion = catholic
         size = 17600
     }
 
     aristocrats = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     soldiers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 1600
     }
 
     aristocrats = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = tuareg
-        religion = sunni
+        religion = catholic
         size = 200
     }
 
     soldiers = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = hausa
-        religion = sunni
+        religion = catholic
         size = 61600
     }
 
     slaves = {
         culture = fulbe
-        religion = sunni
+        religion = catholic
         size = 8000
     }
 }
