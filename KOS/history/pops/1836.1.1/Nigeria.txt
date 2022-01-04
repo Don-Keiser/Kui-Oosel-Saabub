@@ -32,12 +32,6 @@
         size = 37400
     }
 
-    slaves = {
-        culture = yoruba
-        religion = fetishist
-        size = 36000
-    }
-
     aristocrats = {
         culture = fon
         religion = fetishist
@@ -97,15 +91,9 @@
     farmers = {
         culture = yoruba
         religion = fetishist
-        size = 133000
+        size = 73000
     }
-
-    slaves = {
-        culture = yoruba
-        religion = fetishist
-        size = 38000
-    }
-
+	
     aristocrats = {
         culture = fon
         religion = fetishist
@@ -183,13 +171,13 @@
     farmers = {
         culture = yoruba
         religion = fetishist
-        size = 203400
+        size = 133400
     }
 
     slaves = {
         culture = yoruba
         religion = fetishist
-        size = 62000
+        size = 2000
     }
 }
 #Ife (872000/218000 POPS)
@@ -227,13 +215,13 @@
     farmers = {
         culture = yoruba
         religion = fetishist
-        size = 158600
+        size = 88600
     }
 
     slaves = {
         culture = yoruba
         religion = fetishist
-        size = 40000
+        size = 4000
     }
 }
 #Ilorin (248000/62000 POPS) african_Minor includes Nupe
@@ -268,47 +256,6 @@
         size = 39025
     }
 
-    slaves = {
-        culture = yoruba
-        religion = fetishist
-        size = 6000
-    }
-
-    aristocrats = {
-        culture = hausa
-        religion = sunni
-        size = 250
-    }
-
-    clergymen = {
-        culture = hausa
-        religion = sunni
-        size = 175
-    }
-
-    artisans = {
-        culture = east_kwa
-        religion = fetishist
-        size = 500
-    }
-
-    soldiers = {
-        culture = east_kwa
-        religion = sunni
-        size = 125
-    }
-
-    farmers = {
-        culture = hausa
-        religion = fetishist
-        size = 9050
-    }
-
-    slaves = {
-        culture = hausa
-        religion = fetishist
-        size = 2000
-    }
 }
 #Edo Region (1676000)
 #ruled by Benin in 1836
@@ -357,15 +304,9 @@
     }
 
     farmers = {
-        culture = edo
+        culture = yoruba
         religion = fetishist
-        size = 173100
-    }
-
-    slaves = {
-        culture = ibo
-        religion = fetishist
-        size = 20000
+        size = 73100
     }
 
     aristocrats = {
@@ -395,7 +336,7 @@
     farmers = {
         culture = yoruba
         religion = fetishist
-        size = 44250
+        size = 94250
     }
 
     slaves = {
@@ -508,11 +449,6 @@
         size = 45750
     }
 
-    slaves = {
-        culture = ibo
-        religion = fetishist
-        size = 26000
-    }
 }
 #Warri (1232000/308000 POPS) east_kwa includes Ijaw
 1931 = {
@@ -563,12 +499,6 @@
         religion = fetishist
         size = 205300
     }
-
-    slaves = {
-        culture = ibo
-        religion = fetishist
-        size = 78000
-    }
 }
 #ruled by Benin in 1836
 #Akure (312000/78000 POPS) african_Minor includes Nupe
@@ -601,12 +531,6 @@
         culture = yoruba
         religion = fetishist
         size = 34050
-    }
-
-    slaves = {
-        culture = yoruba
-        religion = fetishist
-        size = 6000
     }
 
     aristocrats = {

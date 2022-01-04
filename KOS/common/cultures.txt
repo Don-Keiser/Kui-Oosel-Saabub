@@ -6664,6 +6664,14 @@ african_diaspora_cultures = {
         Delany Douglass "Du Bois" Fields Flipper Gardner Griffin Hawkins Holland Jackson
         King Mink Nell Pinn Ratcliff Remond Smith Stukes Tubman Veale }
     }
+	eru = {
+        color = {178 61 65}
+        first_names = { Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun
+        }
+
+        last_names = { Oladigbolu Adeniran Agogoja Alowolodu Atobatele Zumaw Oyo Tofa Tonyon Bezon Hungbo Dudu
+        }
+    }
     afro_caribbean = {
         color = {32 57 32}
         first_names = { Anderson Anselm Arthur Ben Colville Cyril Earl Edwin Ellis Eric

@@ -2222,91 +2222,85 @@
 #Salvador de Bahia (356000/89000 POPS)
 2436 = {
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 1800
     }
 
     bureaucrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 350
     }
 
     officers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 7000
     }
 
     soldiers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
-        size = 27850
+        size = 17850
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 5500
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 6050
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 18000
+        size = 58000
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = sunni
         size = 7000
     }
@@ -2314,63 +2308,57 @@
 #Juazeiro (180000/45000 POPS)
 2437 = {
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 925
     }
 
     clergymen = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 750
     }
 
     soldiers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 16825
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 1300
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 275
     }
-
-    farmers = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 8300
-    }
-
+	
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 16000
+        size = 66000
     }
 }
 #Vila do Barra (140000/35000 POPS)
@@ -2438,125 +2426,125 @@
 #Porto Seguro (120000/30000 POPS)
 2439 = {
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 625
     }
 
     clergymen = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 700
     }
 
     soldiers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 10275
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 650
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 4175
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 23000
+        size = 93000
     }
 }
 #Vitoria da Conquista (100000/25000 POPS)
 2440 = {
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 525
     }
 
     clergymen = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 450
     }
 
     soldiers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 7725
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 700
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 5575
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 18500
+        size = 68500
     }
 }
 #Minas Gerais Region (716000)
@@ -2564,75 +2552,75 @@
 #Ouro Preto (232000/58000 POPS)
 2441 = {
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 1175
     }
 
     bureaucrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 300
     }
 
     officers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 225
     }
 
     clergymen = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 475
     }
 
     artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 1450
     }
 
     soldiers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 31675
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 225
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 9125
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 23000
+        size = 33000
     }
 }
 #Sabara (104000/26000 POPS)
@@ -2700,63 +2688,63 @@
 #Januaria (100000/25000 POPS)
 2443 = {
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 550
     }
 
     clergymen = {
-        culture = brazilian
+        culture = eru
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = brazilian
+        culture = eru
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = brazilian
+        culture = eru
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 8775
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 750
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 5025
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 9000
+        size = 49000
     }
 }
 #Paracatu (80000/20000 POPS)
@@ -2950,153 +2938,153 @@
 #Rio de Janeiro (696000/174000 POPS)
 2447 = {
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 1850
     }
 
     bureaucrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 250
     }
 
     officers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 1600
     }
 
     artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = south_german
+        culture = ibo
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
-        size = 129050
+        size = 79050
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 110
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 2350
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 9200
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 88000
+        size = 188000
     }
 }
 #Campos (160000/40000 POPS)
 2448 = {
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 850
     }
 
     clergymen = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 800
     }
 
     soldiers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 17850
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 8100
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 12000
     }
@@ -3104,63 +3092,63 @@
 #Vitoria (120000/30000 POPS)
 2449 = {
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 625
     }
 
     clergymen = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 725
     }
 
     soldiers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 175
     }
 
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 16250
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 600
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 4225
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 17000
+        size = 37000
     }
 }
 #Sao Paulo Region (580000)
@@ -4529,39 +4517,39 @@
 }
 3443 = {
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 8700
     }
 
     artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 300
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 2000
+        size = 12000
     }
     bureaucrats = {
-        culture = brazilian
+        culture = eru
         religion = catholic
         size = 50
     }
     aristocrats = {
-        culture = brazilian
+        culture = eru
         religion = catholic
         size = 200
     }
     soldiers = {
-        culture = brazilian
+        culture = eru
         religion = catholic
         size = 3000
     }
     clergymen = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 10
     }
@@ -4570,28 +4558,28 @@
 }
 3444 = {
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
-        size = 12700
+        size = 5700
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 2000
+        size = 12000
     }
     bureaucrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 50
     }
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 200
     }
     clergymen = {
-        culture = afro_brazilian
+        culture = yoruba
         religion = catholic
         size = 10
     }
@@ -4599,76 +4587,61 @@
 }
 3445 = {
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 12700
     }
 
     artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 100
 
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 2000
-    }
-    bureaucrats = {
-        culture = brazilian
-        religion = catholic
-        size = 50
-    }
-    aristocrats = {
-        culture = brazilian
-        religion = catholic
-        size = 200
-    }
-    clergymen = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 10
+        size = 12000
     }
 
 }
 3446 = {
     farmers = {
-        culture = brazilian
+        culture = eru
         religion = catholic
         size = 12700
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = yoruba
         religion = catholic
         size = 1000
     }
 
     soldiers = {
-        culture = brazilian
+        culture = eru
         religion = catholic
         size = 1000
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
         size = 2000
     }
     bureaucrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 50
     }
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 200
     }
     clergymen = {
-        culture = afro_brazilian
+        culture = yoruba
         religion = catholic
         size = 10
     }
