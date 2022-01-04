@@ -1,6 +1,5 @@
-owner = MOS
-controller = MOS
-add_core = MOS
-add_core = MAS
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = wool
 life_rating = 35

@@ -876,7 +876,7 @@ political_decisions = {
             638 = { change_province_name = "Eperjes" }
             950 = { change_province_name = "Ungvár" }
             3332 = { change_province_name = "Beregszász" }
-            3318 = { change_province_name = "Árwa" }
+            3318 = { change_province_name = "Árva" }
         }
         ai_will_do = { factor = 1 }
     }

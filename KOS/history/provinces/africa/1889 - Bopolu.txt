@@ -1,5 +1,5 @@
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = fruit
-life_rating = 10
-1861.1.1 = {
-    add_core = LIB
-}
+life_rating = 35
