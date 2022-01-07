@@ -1,5 +1,6 @@
-owner = SLS
-controller = SLS
+owner = MRV
+controller = MRV
+add_core = MRV
 add_core = SLS
 trade_goods = coal
 life_rating = 35

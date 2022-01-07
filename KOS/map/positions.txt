@@ -29567,11 +29567,11 @@
 # Breslau
 682 = {
     text_position = {
-        x = 3072.693333
-        y = 1646.385000
+        x = 3073.093333
+        y = 1642.300000
     }
 
-    text_rotation = 6.283184
+    text_rotation = 5.579456
     text_scale = 2.700000
     factory = {
         x = 3073.803333
@@ -29635,11 +29635,10 @@
 # Oppeln
 684 = {
     text_position = {
-        x = 3089.460000
-        y = 1636.500000
+        x = 3085.0
+        y = 1645.0
     }
 
-    text_rotation = 1.250626
     text_scale = 2.500000
     unit = {
         x = 3087.000000
@@ -29674,11 +29673,11 @@
 # Kattowitz
 685 = {
     text_position = {
-        x = 3096.400000
-        y = 1629.000000
+        x = 3095.400000
+        y = 1634.000000
     }
 
-    text_rotation = 6.283185
+    text_rotation = 1.250626
     text_scale = 2.000000
     unit = {
         x = 3097.850000
@@ -30763,11 +30762,11 @@
 # Siedlice
 711 = {
     text_position = {
-        x = 3149.920000
-        y = 1669.333333
+        x = 3157.220000
+        y = 1667.333333
     }
 
-    text_scale = 3
+    text_scale = 4
     unit = {
         x = 3159.000000
         y = 1671.000000
@@ -30924,12 +30923,11 @@
 # Lublin
 715 = {
     text_position = {
-        x = 3169.880000
-        y = 1653.840000
+        x = 3165.280000
+        y = 1645.840000
     }
 
-    text_rotation = 5.326811
-    text_scale = 2.999999
+    text_scale = 3.1
     unit = {
         x = 3167.515000
         y = 1658.603333
@@ -31011,8 +31009,8 @@
 # Kalisz
 717 = {
     text_position = {
-        x = 3086.333333
-        y = 1666.250000
+        x = 3083.2
+        y = 1663.0
     }
 
     text_rotation = 5

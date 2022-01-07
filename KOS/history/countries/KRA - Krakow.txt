@@ -1,4 +1,4 @@
-capital = 703
+capital = 706
 primary_culture = vistulian
 culture = lendian
 religion = catholic

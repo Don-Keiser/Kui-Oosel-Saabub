@@ -1,5 +1,6 @@
-owner = SLS
-controller = SLS
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = SLS
 trade_goods = iron
 life_rating = 40

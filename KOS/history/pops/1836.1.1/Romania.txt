@@ -2234,30 +2234,6 @@
         religion = catholic
         size = 4300
     }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 800
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1125
-    }
 }
 #Wallachia Region (1228000)
 #under the rule of Wallachia in 1836

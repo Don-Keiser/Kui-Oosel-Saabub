@@ -1453,55 +1453,55 @@
     }
 
     clergymen = {
-        culture = silesian
+        culture = slovak
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = silesian
+        culture = slovak
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = silesian
+        culture = slovak
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = silesian
+        culture = slovak
         religion = catholic
         size = 955
     }
 
     aristocrats = {
-        culture = silesian
+        culture = slovak
         religion = catholic
         size = 350
     }
 
     clergymen = {
-        culture = silesian
+        culture = slovak
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = silesian
+        culture = slovak
         religion = catholic
         size = 700
     }
 
     soldiers = {
-        culture = silesian
+        culture = slovak
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = silesian
+        culture = slovak
         religion = catholic
         size = 12650
     }
