@@ -28,7 +28,7 @@
     artisans = {
         culture = saarmagi
         religion = ooselskia
-        size = 5500
+        size = 15500
     }
 
     soldiers = {
@@ -40,7 +40,7 @@
     farmers = {
         culture = saarmagi
         religion = ooselskia
-        size = 1390000
+        size = 730000
     }
 
     aristocrats = {
@@ -76,7 +76,7 @@
     artisans = {
         culture = saarkorge
         religion = ooselskia
-        size = 2600
+        size = 4600
     }
 
     farmers = {
@@ -99,7 +99,7 @@
     artisans = {
         culture = saarnordlig
         religion = ooselskia
-        size = 520000
+        size = 12200
     }
 
     soldiers = {
@@ -111,15 +111,15 @@
     farmers = {
         culture = saarnordlig
         religion = ooselskia
-        size = 1217250
+        size = 270250
     }
 }
 #Dongquai (244000/61000 POPS)
 1381 = {
     aristocrats = {
-        culture = saarnordlig
+        culture = saarmagi
         religion = ooselskia
-        size = 15000
+        size = 1500
     }
 
     clergymen = {
@@ -131,19 +131,25 @@
     artisans = {
         culture = saarnordlig
         religion = ooselskia
-        size = 31000
+        size = 9000
     }
 
     soldiers = {
-        culture = saarnordlig
+        culture = saarmagi
         religion = ooselskia
-        size = 15000
+        size = 8000
     }
 
     farmers = {
         culture = saarnordlig
         religion = ooselskia
-        size = 980000
+        size = 180000
+    }
+	
+	farmers = {
+        culture = saarnordlig
+        religion = ooselskia
+        size = 240000
     }
 }
 #Hatien (172000/43000 POPS)
@@ -217,7 +223,7 @@
     artisans = {
         culture = saarmagi
         religion = ooselskia
-        size = 182000
+        size = 11200
     }
 
     soldiers = {
@@ -229,7 +235,7 @@
     farmers = {
         culture = saarmagi
         religion = ooselskia
-        size = 980000
+        size = 380000
     }
 }
 #Annam Region (2148000)
@@ -631,7 +637,7 @@
     artisans = {
         culture = saarmagi
         religion = ooselskia
-        size = 56000
+        size = 5600
     }
 
     soldiers = {
@@ -643,7 +649,7 @@
     farmers = {
         culture = saarmagi
         religion = ooselskia
-        size = 950000
+        size = 550000
     }
 
 	farmers = {
@@ -967,7 +973,7 @@
     farmers = {
         culture = saarmagi
         religion = ooselskia
-        size = 79000
+        size = 379000
     }
 
     aristocrats = {
@@ -1029,7 +1035,7 @@
     artisans = {
         culture = saarmagi
         religion = ooselskia
-        size = 210090
+        size = 2190
     }
 
     soldiers = {
@@ -1041,7 +1047,7 @@
     farmers = {
         culture = saarmagi
         religion = ooselskia
-        size = 800600
+        size = 120600
     }
 }
 #Nakhon Sawan (188000/47000 POPS)
@@ -1244,7 +1250,7 @@
     artisans = {
         culture = saarmagi
         religion = ooselskia
-        size = 210000
+        size = 9100
     }
 
     soldiers = {
@@ -1256,7 +1262,7 @@
     farmers = {
         culture = saarmagi
         religion = ooselskia
-        size = 810000
+        size = 91000
     }
 }
 #Prachin Buri (164000/41000 POPS)
@@ -1288,7 +1294,7 @@
     farmers = {
         culture = saarmagi
         religion = ooselskia
-        size = 97000
+        size = 197000
     }
 
     aristocrats = {
@@ -1411,7 +1417,7 @@
     farmers = {
         culture = saarmagi
         religion = ooselskia
-        size = 56000
+        size = 156000
     }
 
     clergymen = {
@@ -1435,7 +1441,7 @@
     farmers = {
         culture = saarkorge
         religion = ooselskia
-        size = 31000
+        size = 51000
     }
 }
 #Tenasserim Region
