@@ -532,31 +532,31 @@
 
     aristocrats = {
         culture = neo_phoenician
-        religion = catholic
+        religion = syriac
         size = 25
     }
 
     clergymen = {
         culture = neo_phoenician
-        religion = catholic
+        religion = syriac
         size = 25
     }
 
     artisans = {
         culture = neo_phoenician
-        religion = catholic
+        religion = syriac
         size = 225
     }
 
     soldiers = {
         culture = neo_phoenician
-        religion = catholic
+        religion = syriac
         size = 25
     }
 
     farmers = {
         culture = neo_phoenician
-        religion = catholic
+        religion = syriac
         size = 1700
     }
 }
@@ -1220,31 +1220,31 @@
 	
 	aristocrats = {
         culture = neo_phoenician
-        religion = catholic
+        religion = syriac
         size = 50
     }
 
     clergymen = {
         culture = neo_phoenician
-        religion = catholic
+        religion = syriac
         size = 75
     }
 
     artisans = {
         culture = neo_phoenician
-        religion = catholic
+        religion = syriac
         size = 150
     }
 
     soldiers = {
         culture = neo_phoenician
-        religion = catholic
+        religion = syriac
         size = 25
     }
 
     farmers = {
         culture = neo_phoenician
-        religion = catholic
+        religion = syriac
         size = 2850
     }
 }
@@ -1312,7 +1312,7 @@
 
     farmers = {
         culture = neo_phoenician
-        religion = catholic
+        religion = syriac
         size = 1500
     }
 	

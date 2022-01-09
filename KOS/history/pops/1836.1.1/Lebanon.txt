@@ -224,128 +224,128 @@
 #Beirut (128000/32000 POPS) #mashriqi-catholic = maronites
 913 = {
     aristocrats = {
-        culture = mashriqi
-        religion = shiite
+        culture = neo_phoenician
+        religion = syriac
         size = 50
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = shiite
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
-        religion = shiite
+        culture = neo_phoenician
+        religion = syriac
         size = 125
     }
 
     farmers = {
-        culture = mashriqi
-        religion = shiite
+        culture = neo_phoenician
+        religion = syriac
         size = 1075
     }
 
     clergymen = {
-        culture = syriac
-        religion = orthodox
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = syriac
-        religion = orthodox
+        culture = neo_phoenician
+        religion = syriac
         size = 125
     }
 
     farmers = {
-        culture = syriac
-        religion = orthodox
+        culture = neo_phoenician
+        religion = syriac
         size = 2625
     }
 
     aristocrats = {
-        culture = syriac
-        religion = orthodox
-        size = 150
+        culture = neo_phoenician
+        religion = syriac
+        size = 1500
     }
 
     bureaucrats = {
-        culture = syriac
-        religion = orthodox
-        size = 100
-    }
-
-    clergymen = {
-        culture = syriac
-        religion = orthodox
+        culture = neo_phoenician
+        religion = syriac
         size = 200
     }
 
+    clergymen = {
+        culture = neo_phoenician
+        religion = syriac
+        size = 2900
+    }
+
     artisans = {
-        culture = syriac
-        religion = orthodox
-        size = 950
+        culture = neo_phoenician
+        religion = syriac
+        size = 3950
     }
 
     farmers = {
-        culture = syriac
-        religion = orthodox
-        size = 19100
+        culture = neo_phoenician
+        religion = syriac
+        size = 69100
     }
 
     soldiers = {
-        culture = syriac
-        religion = orthodox
+        culture = neo_phoenician
+        religion = syriac
         size = 325
     }
 
     officers = {
-        culture = mashriqi
-        religion = sunni
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = sunni
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
-        religion = sunni
+        culture = neo_phoenician
+        religion = syriac
         size = 125
     }
 
     farmers = {
-        culture = mashriqi
-        religion = sunni
+        culture = neo_phoenician
+        religion = syriac
         size = 1075
     }
 
     aristocrats = {
-        culture = druze
-        religion = druze
+        culture = siryon
+        religion = syriac
         size = 50
     }
 
     clergymen = {
-        culture = druze
-        religion = druze
+        culture = siryon
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = druze
-        religion = druze
+        culture = siryon
+        religion = syriac
         size = 200
     }
 
     farmers = {
-        culture = druze
-        religion = druze
+        culture = siryon
+        religion = syriac
         size = 3625
     }
 
@@ -368,295 +368,295 @@
     }
 
     clergymen = {
-        culture = mizrahi
-        religion = jewish
+        culture = syriac
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = mizrahi
-        religion = jewish
-        size = 490
+        culture = syriac
+        religion = syriac
+        size = 2490
     }
 }
 3361 = {
     aristocrats = {
-        culture = mashriqi
-        religion = shiite
-        size = 125
+        culture = neo_phoenician
+        religion = syriac
+        size = 1250
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = shiite
-        size = 100
+        culture = neo_phoenician
+        religion = syriac
+        size = 1200
     }
 
     artisans = {
-        culture = mashriqi
-        religion = shiite
-        size = 400
+        culture = neo_phoenician
+        religion = syriac
+        size = 2400
     }
 
     soldiers = {
-        culture = mashriqi
-        religion = shiite
+        culture = neo_phoenician
+        religion = syriac
         size = 175
     }
 
     farmers = {
-        culture = mashriqi
-        religion = shiite
-        size = 7425
+        culture = neo_phoenician
+        religion = syriac
+        size = 17425
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = sunni
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = mashriqi
-        religion = sunni
+        culture = neo_phoenician
+        religion = syriac
         size = 300
     }
 
     farmers = {
-        culture = mashriqi
-        religion = sunni
+        culture = neo_phoenician
+        religion = syriac
         size = 3700
     }
 
     clergymen = {
-        culture = syriac
-        religion = orthodox
+        culture = siryon
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = syriac
-        religion = orthodox
+        culture = siryon
+        religion = syriac
         size = 100
     }
 
     farmers = {
-        culture = syriac
-        religion = orthodox
+        culture = siryon
+        religion = syriac
         size = 1000
     }
 
     clergymen = {
-        culture = syriac
-        religion = orthodox
+        culture = siryon
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = syriac
-        religion = orthodox
+        culture = siryon
+        religion = syriac
         size = 100
     }
 
     farmers = {
-        culture = syriac
-        religion = orthodox
-        size = 2000
+        culture = siryon
+        religion = syriac
+        size = 3000
     }
 
     aristocrats = {
-        culture = druze
-        religion = druze
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     clergymen = {
-        culture = druze
-        religion = druze
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = druze
-        religion = druze
+        culture = neo_phoenician
+        religion = syriac
         size = 200
     }
 
     farmers = {
-        culture = druze
-        religion = druze
+        culture = neo_phoenician
+        religion = syriac
         size = 3725
     }
 }
 #Askaleh (48000/12000 POPS)
 914 = {
     aristocrats = {
-        culture = mashriqi
-        religion = sunni
-        size = 125
+        culture = neo_phoenician
+        religion = syriac
+        size = 1250
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = sunni
-        size = 100
+        culture = neo_phoenician
+        religion = syriac
+        size = 1500
     }
 
     artisans = {
-        culture = mashriqi
-        religion = sunni
-        size = 500
+        culture = neo_phoenician
+        religion = syriac
+        size = 1500
     }
 
     soldiers = {
-        culture = mashriqi
-        religion = sunni
-        size = 100
+        culture = neo_phoenician
+        religion = syriac
+        size = 1000
     }
 
     farmers = {
-        culture = mashriqi
-        religion = sunni
-        size = 8275
+        culture = neo_phoenician
+        religion = syriac
+        size = 28275
     }
 
     clergymen = {
         culture = syriac
-        religion = orthodox
+        religion = syriac
         size = 100
     }
 
     artisans = {
         culture = syriac
-        religion = orthodox
+        religion = syriac
         size = 100
     }
 
     farmers = {
         culture = syriac
-        religion = orthodox
+        religion = syriac
         size = 1875
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = shiite
+        culture = siryon
+        religion = syriac
         size = 100
     }
 
     farmers = {
-        culture = mashriqi
-        religion = shiite
+        culture = siryon
+        religion = syriac
         size = 900
     }
 }
 #Sidon (84000/21000 POPS)
 915 = {
     aristocrats = {
-        culture = mashriqi
-        religion = sunni
-        size = 25
+        culture = neo_phoenician
+        religion = syriac
+        size = 1000
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = sunni
-        size = 50
+        culture = neo_phoenician
+        religion = syriac
+        size = 1200
     }
 
     artisans = {
-        culture = mashriqi
-        religion = sunni
-        size = 100
+        culture = neo_phoenician
+        religion = syriac
+        size = 1900
     }
 
     soldiers = {
-        culture = mashriqi
-        religion = sunni
-        size = 25
+        culture = neo_phoenician
+        religion = syriac
+        size = 1250
     }
 
     farmers = {
-        culture = mashriqi
-        religion = sunni
-        size = 1700
+        culture = neo_phoenician
+        religion = syriac
+        size = 5700
     }
 
     clergymen = {
-        culture = syriac
-        religion = orthodox
+        culture = siryon
+        religion = syriac
         size = 25
     }
 
     artisans = {
-        culture = syriac
-        religion = orthodox
+        culture = siryon
+        religion = syriac
         size = 50
     }
 
     farmers = {
-        culture = syriac
-        religion = orthodox
+        culture = siryon
+        religion = syriac
         size = 1225
     }
 
     aristocrats = {
-        culture = syriac
-        religion = orthodox
+        culture = siryon
+        religion = syriac
         size = 75
     }
 
     clergymen = {
-        culture = syriac
-        religion = orthodox
+        culture = siryon
+        religion = syriac
         size = 50
     }
 
     artisans = {
-        culture = syriac
-        religion = orthodox
+        culture = siryon
+        religion = syriac
         size = 250
     }
 
     farmers = {
-        culture = syriac
-        religion = orthodox
-        size = 2050
+        culture = siryon
+        religion = syriac
+        size = 3050
     }
 
     aristocrats = {
-        culture = mashriqi
-        religion = shiite
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = shiite
+        culture = neo_phoenician
+        religion = syriac
         size = 75
     }
 
     artisans = {
-        culture = mashriqi
-        religion = shiite
+        culture = neo_phoenician
+        religion = syriac
         size = 450
     }
 
     farmers = {
-        culture = mashriqi
-        religion = shiite
-        size = 11350
+        culture = neo_phoenician
+        religion = syriac
+        size = 21350
     }
 
     clergymen = {
-        culture = mizrahi
-        religion = jewish
+        culture = syriac
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = mizrahi
-        religion = jewish
-        size = 590
+        culture = syriac
+        religion = syriac
+        size = 1590
     }
 }

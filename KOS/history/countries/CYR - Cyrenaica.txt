@@ -1,9 +1,10 @@
 capital = 1735
 primary_culture = kurenai
+culture = greek
 religion = orthodox
 government = colonial_company
 plurality = 0.0
-nationalvalue = nv_tradition
+nationalvalue = nv_productivity
 literacy = 0.08
 civilized = yes
 

@@ -449,111 +449,87 @@
 #Bougie (448000/112000 POPS)
 1701 = {
     aristocrats = {
-        culture = maghrebi
-        religion = catholic
-        size = 500
+        culture = neo_phoenician
+        religion = syriac
+        size = 1500
     }
 
     officers = {
-        culture = maghrebi
-        religion = catholic
-        size = 50
+        culture = neo_phoenician
+        religion = syriac
+        size = 150
     }
 
     bureaucrats = {
-        culture = maghrebi
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 200
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = catholic
-        size = 875
+        culture = neo_phoenician
+        religion = syriac
+        size = 1875
     }
 
     artisans = {
-        culture = maghrebi
-        religion = catholic
-        size = 3000
+        culture = neo_phoenician
+        religion = syriac
+        size = 2800
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = catholic
-        size = 1100
+        culture = neo_phoenician
+        religion = syriac
+        size = 1900
     }
 
     farmers = {
-        culture = maghrebi
-        religion = catholic
-        size = 5375
+        culture = neo_phoenician
+        religion = syriac
+        size = 45375
     }
 
     aristocrats = {
-        culture = berber
+        culture = kabyle
         religion = catholic
-        size = 300
+        size = 100
     }
 
     officers = {
-        culture = berber
+        culture = kabyle
         religion = catholic
-        size = 75
+        size = 55
     }
 
     clergymen = {
-        culture = berber
+        culture = kabyle
         religion = catholic
-        size = 250
+        size = 90
     }
 
     artisans = {
-        culture = berber
+        culture = kabyle
         religion = catholic
-        size = 2350
+        size = 950
     }
 
     soldiers = {
-        culture = berber
+        culture = kabyle
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = berber
+        culture = kabyle
         religion = catholic
-        size = 18675
+        size = 6675
     }
 
     slaves = {
-        culture = songhai
-        religion = catholic
-        size = 1500
-    }
-
-    aristocrats = {
-        culture = french
-        religion = catholic
-        size = 25
-    }
-
-    officers = {
-        culture = french
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = french
-        religion = catholic
-        size = 255
-    }
-
-    clergymen = {
-        culture = french
-        religion = catholic
-        size = 100
+        culture = east_kwa
+        religion = fetishist
+        size = 2500
     }
 }
 #Setif (240000/60000 POPS)
@@ -708,133 +684,59 @@
 #French in 1836 :
 #Oran (108000/27000 POPS)
 1704 = {
-    aristocrats = {
-        culture = french
-        religion = catholic
-        size = 50
-    }
-
-    bureaucrats = {
-        culture = french
-        religion = catholic
-        size = 50
+	aristocrats = {
+        culture = neo_phoenician
+        religion = syriac
+        size = 5000
     }
 
     clergymen = {
-        culture = french
-        religion = catholic
-        size = 25
+        culture = neo_phoenician
+        religion = syriac
+        size = 1000
     }
 
     artisans = {
-        culture = french
-        religion = catholic
-        size = 800
+        culture = neo_phoenician
+        religion = syriac
+        size = 2900
     }
 
     soldiers = {
-        culture = french
-        religion = catholic
-        size = 1200
-    }
-
-    soldiers = {
-        culture = french
-        religion = catholic
-        size = 875
-    }
-
-    officers = {
-        culture = french
-        religion = catholic
-        size = 150
+        culture = neo_phoenician
+        religion = syriac
+        size = 2000
     }
 
     farmers = {
-        culture = french
-        religion = catholic
-        size = 200
+        culture = neo_phoenician
+        religion = syriac
+        size = 69600
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = maghrebi
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = maghrebi
-        religion = catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = maghrebi
-        religion = catholic
-        size = 39600
-    }
-
-    clergymen = {
-        culture = berber
+        culture = haqbaylit
         religion = catholic
         size = 25
     }
 
     soldiers = {
-        culture = berber
+        culture = haqbaylit
         religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = berber
+        culture = haqbaylit
         religion = catholic
-        size = 4600
+        size = 8600
     }
-
-    ######Jews
-    aristocrats = {
-        culture = sephardic
-        religion = jewish
-        size = 100
+	
+	slaves = {
+        culture = east_kwa
+        religion = fetishist
+        size = 3600
     }
-
-    officers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 380
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 480
-    }
-    ########
 }
 #Aljazair-ruled in 1836 :
 #Tilimsan - Tlemcen (221600/55400 POPS)
@@ -1066,13 +968,13 @@
 
     soldiers = {
         culture = neo_phoenician
-        religion = arianism
+        religion = syriac
         size = 75
     }
 
     farmers = {
         culture = neo_phoenician
-        religion = arianism
+        religion = syriac
         size = 650
     }
 }
@@ -1142,90 +1044,58 @@
 #Bone (68000/17000 POPS)
 1709 = {
     aristocrats = {
-        culture = french
-        religion = catholic
-        size = 25
-    }
-
-    bureaucrats = {
-        culture = french
-        religion = catholic
-        size = 50
+        culture = neo_phoenician
+        religion = syriac
+        size = 1800
     }
 
     clergymen = {
-        culture = french
-        religion = catholic
-        size = 625
-    }
-
-    soldiers = {
-        culture = french
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = french
-        religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = maghrebi
-        religion = catholic
-        size = 50
+        culture = neo_phoenician
+        religion = syriac
+        size = 1050
     }
 
     artisans = {
-        culture = maghrebi
-        religion = catholic
-        size = 600
+        culture = neo_phoenician
+        religion = syriac
+        size = 1600
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = catholic
-        size = 150
+        culture = neo_phoenician
+        religion = syriac
+        size = 1650
     }
 
     farmers = {
-        culture = maghrebi
-        religion = catholic
-        size = 19200
+        culture = neo_phoenician
+        religion = syriac
+        size = 32200
     }
 
     clergymen = {
-        culture = berber
+        culture = kabyle
         religion = catholic
         size = 10
     }
 
-
     soldiers = {
-        culture = berber
+        culture = kabyle
         religion = catholic
         size = 65
     }
 
     farmers = {
-        culture = berber
+        culture = kabyle
         religion = catholic
-        size = 925
+        size = 3925
     }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 500
+	
+	slaves = {
+        culture = east_kwa
+        religion = fetishist
+        size = 2400
     }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 25
-    }
-
 }
 #Ruled by Aljazair 1836
 #Constantine (176000/44000 POPS)

@@ -3,131 +3,137 @@
 #Tunis (488000/122000 POPS)
 1725 = {
     aristocrats = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 2350
     }
 
     bureaucrats = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 350
     }
 
     officers = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 325
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = sunni
-        size = 1200
+        culture = neo_punic
+        religion = catholic
+        size = 1000
+    }
+	
+	clergymen = {
+        culture = neo_punic
+        religion = arianism
+        size = 200
     }
 
     artisans = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = arianism
         size = 7500
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = arianism
         size = 1000
     }
 
     farmers = {
-        culture = maghrebi
+        culture = neo_punic
         religion = sunni
-        size = 76425
+        size = 96425
     }
 
-    slaves = {
-        culture = berber
-        religion = sunni
-        size = 5000
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 75
+    farmers = {
+        culture = neo_phoenician
+        religion = syriac
+        size = 8000
     }
 
     artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 3725
-    }
-
-    artisans = {
-        culture = maltese
-        religion = catholic
-        size = 500
+        culture = chaotic_latin
+        religion = arianism
+        size = 2500
     }
 }
 #Bizerte (268000/67000 POPS)
 1726 = {
     aristocrats = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 1250
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 675
     }
 
     artisans = {
-        culture = maghrebi
-        religion = sunni
-        size = 3250
+        culture = neo_punic
+        religion = catholic
+        size = 2250
+    }
+	
+	artisans = {
+        culture = neo_punic
+        religion = arianism
+        size = 1050
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = sunni
-        size = 1100
+        culture = neo_punic
+        religion = catholic
+        size = 1500
     }
 
     farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 58575
+        culture = neo_punic
+        religion = catholic
+        size = 64575
     }
 
-    slaves = {
-        culture = berber
-        religion = sunni
-        size = 2000
+    farmers = {
+        culture = kabyle
+        religion = catholic
+        size = 6000
+    }
+	
+	farmers = {
+        culture = tacawit
+        religion = catholic
+        size = 4000
     }
 
     artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 250
+        culture = neo_phoenician
+        religion = syriac
+        size = 1250
     }
 }
 #Gafsa (112000/28000 POPS)
@@ -163,7 +169,7 @@
     }
 
     farmers = {
-        culture = neo_phoenician
+        culture = neo_punic
         religion = catholic
         size = 3000
     }
@@ -177,51 +183,51 @@
 #Kairouan (228000/57000 POPS)
 1728 = {
     aristocrats = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 875
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 2250
+    }
+	
+	artisans = {
+        culture = neo_punic
+        religion = arianism
+        size = 1250
+    }
+	
+	artisans = {
+        culture = neo_phoenician
+        religion = syriac
+        size = 1970
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = maghrebi
-        religion = sunni
-        size = 40225
+        culture = neo_punic
+        religion = catholic
+        size = 45225
     }
 
-    slaves = {
-        culture = berber
-        religion = sunni
-        size = 12000
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 5
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 245
+    farmers = {
+        culture = tacawit
+        religion = catholic
+        size = 10000
     }
 }
 #Tozeur (96000/24000 POPS)
@@ -263,7 +269,7 @@
     }
 	
 	farmers = {
-        culture = neo_phoenician
+        culture = neo_punic
         religion = catholic
         size = 1500
     }
@@ -283,45 +289,51 @@
 #Gabes (200000/50000 POPS)
 1730 = {
     aristocrats = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 900
     }
 
     clergymen = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 2275
+    }
+	
+	artisans = {
+        culture = neo_punic
+        religion = arianism
+        size = 1475
     }
 
     soldiers = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = maghrebi
-        religion = sunni
+        culture = neo_punic
+        religion = catholic
         size = 40825
     }
 
-    slaves = {
-        culture = berber
-        religion = sunni
-        size = 4000
+    farmers = {
+        culture = nafusi
+        religion = catholic
+        size = 8200
     }
 
     artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 500
+        culture = neo_phoenician
+        religion = syriac
+        size = 1700
     }
 
 }

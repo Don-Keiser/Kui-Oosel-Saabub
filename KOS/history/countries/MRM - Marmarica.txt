@@ -1,6 +1,7 @@
 capital = 1753
 primary_culture = kurenai
-religion = catholic
+culture = siwa
+religion = coptic
 government = democracy
 plurality = 50
 nationalvalue = nv_liberty

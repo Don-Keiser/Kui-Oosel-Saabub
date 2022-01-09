@@ -1,12 +1,10 @@
 capital = 1731
-primary_culture = maghrebi
-culture = berber
-culture = bedouin
-culture = tuareg
-religion = sunni
-government = absolute_monarchy
-plurality = 0.0
-nationalvalue = nv_tradition
+primary_culture = neo_punic
+culture = nafusi
+religion = catholic
+government = presidential_dictatorship
+plurality = 10
+nationalvalue = nv_order
 literacy = 0.08
 civilized = yes
 
@@ -51,7 +49,7 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 foreign_weapons = yes_foreign_weapons
 
 # Technologies

@@ -3937,6 +3937,16 @@ amazigh = {
 			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
 			}
 	}
+	siwa = {
+		color = {80 105 80}
+		first_names = {
+			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
+			}
+		
+		last_names = {
+			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
+			}
+	}
 	tasuknit = {
 		color = {70 95 90}
 		first_names = {
@@ -6771,6 +6781,16 @@ african_diaspora_cultures = {
         last_names = { Engelbrecht Adams Brandt Grae Lottering Jansen Accord "van Aanholt" Cooman Dijk Eind Eli Faeber Groenhart "de Sa" Valpoort Wijnaldum Zeefuik Zimmerman
             Yvel "La Rose" Ignacio Hoost Overeem Manhoef Salome "van Dijk" "van Kallen" Vandenbranden "Van den Branden" Schomburg
         }
+    }
+	afro_phoenician = {
+        color = {142 114 0}
+        first_names = { Antonio Armando Arsenio Arturo Bartolomé Carlos Dámaso Enrique Francisco Generoso
+        Guillermo Gumersindo Ignacio Israel Jacinto Jaime "José Celso" Juan Luciano Mario
+        Máximo Nelson Nicolás Orestes Orlando Pedro Pío Ramón Rubén Wifredo }
+
+        last_names = { Albizu Barbosa Barreto Bauzá Díaz Egües Estupiñán Garay González Guillén
+        Gutiérrez Hurtado Jiménez Jorrín Lam Leyva López Maceo Moré Morel
+        Peraza Pérez Piñeiro Pozo Repilado Rodríguez Santamaría Schomburg Valdés Villa }
     }
 }
 
