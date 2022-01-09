@@ -1,6 +1,6 @@
 capital = 913
 primary_culture = neo_phoenician
-religion = catholic
+religion = syriac
 government = democracy
 plurality = 86.0
 nationalvalue = nv_equality
@@ -8,7 +8,7 @@ literacy = 0.16
 civilized = yes
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = wealth_voting
 public_meetings = yes_meeting

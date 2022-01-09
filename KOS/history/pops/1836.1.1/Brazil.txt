@@ -1578,63 +1578,63 @@
 #Teresina (160000/40000 POPS)
 2426 = {
     aristocrats = {
-        culture = brazilian
-        religion = catholic
-        size = 825
+        culture = neo_phoenician
+        religion = syriac
+        size = 1825
     }
 
     clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 300
+        culture = neo_phoenician
+        religion = syriac
+        size = 1300
     }
 
     artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 875
+        culture = neo_phoenician
+        religion = syriac
+        size = 6075
     }
 
     soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 1100
+        culture = neo_phoenician
+        religion = syriac
+        size = 2950
     }
 
     farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 16000
+        culture = neo_phoenician
+        religion = syriac
+        size = 14000
     }
 
     clergymen = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 900
+        culture = afro_phoenician
+        religion = syriac
+        size = 6700
     }
 
     soldiers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 175
     }
 
     farmers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 5850
     }
 
     slaves = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 10000
+        culture = afro_phoenician
+        religion = syriac
+        size = 21000
     }
 }
 #Oieras (44000/11000 POPS)
@@ -1698,261 +1698,261 @@
 #Paraiba (92000/23000 POPS)
 2428 = {
     aristocrats = {
-        culture = brazilian
-        religion = catholic
-        size = 475
+        culture = neo_phoenician
+        religion = syriac
+        size = 1475
     }
 
     clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 200
+        culture = neo_phoenician
+        religion = syriac
+        size = 2000
     }
 
     artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 725
+        culture = neo_phoenician
+        religion = syriac
+        size = 7250
     }
 
     soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 175
+        culture = neo_phoenician
+        religion = syriac
+        size = 2750
     }
 
     farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 14425
+        culture = neo_phoenician
+        religion = syriac
+        size = 21425
     }
 
     clergymen = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 250
+        culture = afro_phoenician
+        religion = syriac
+        size = 2500
     }
 
     soldiers = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 50
+        culture = afro_phoenician
+        religion = syriac
+        size = 150
     }
 
     farmers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 1650
     }
 
     slaves = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 3000
+        culture = afro_phoenician
+        religion = syriac
+        size = 13000
     }
 }
 #Fortaleza (180000/45000 POPS)
 2429 = {
     aristocrats = {
-        culture = brazilian
-        religion = catholic
-        size = 925
-    }
-
-    bureaucrats = {
-        culture = brazilian
-        religion = catholic
-        size = 150
-    }
-
-    officers = {
-        culture = brazilian
-        religion = catholic
-        size = 125
+        culture = neo_phoenician
+        religion = syriac
+        size = 1925
     }
 
     clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 300
+        culture = neo_phoenician
+        religion = syriac
+        size = 1900
     }
 
     artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 2150
+        culture = neo_phoenician
+        religion = syriac
+        size = 8150
     }
 
     soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 1100
+        culture = neo_phoenician
+        religion = syriac
+        size = 2100
     }
 
     farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 18250
+        culture = neo_phoenician
+        religion = syriac
+        size = 21250
     }
 
     clergymen = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 850
+        culture = afro_phoenician
+        religion = syriac
+        size = 4750
     }
 
     soldiers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 175
     }
 
     farmers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 5900
     }
 
     slaves = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 10000
+        culture = afro_phoenician
+        religion = syriac
+        size = 19000
     }
 }
 #Crato (52000/13000 POPS)
 2430 = {
     aristocrats = {
-        culture = brazilian
-        religion = catholic
-        size = 275
+        culture = neo_phoenician
+        religion = syriac
+        size = 1275
     }
 
     clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 100
+        culture = neo_phoenician
+        religion = syriac
+        size = 600
     }
 
     artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 325
+        culture = neo_phoenician
+        religion = syriac
+        size = 5025
     }
 
     soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 75
+        culture = neo_phoenician
+        religion = syriac
+        size = 2375
     }
 
     farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 7225
+        culture = neo_phoenician
+        religion = syriac
+        size = 9225
     }
 
     clergymen = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 250
+        culture = afro_phoenician
+        religion = syriac
+        size = 4550
     }
 
     soldiers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 50
     }
 
     farmers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 1650
     }
 
     slaves = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 3000
+        culture = afro_phoenician
+        religion = syriac
+        size = 22000
     }
 }
 #Natal (132000/33000 POPS)
 2431 = {
     aristocrats = {
-        culture = brazilian
-        religion = catholic
-        size = 675
+        culture = neo_phoenician
+        religion = syriac
+        size = 2675
     }
-
-    clergymen = {
-        culture = brazilian
+	
+	bureaucrats = {
+        culture = neo_phoenician
         religion = catholic
         size = 250
     }
 
-    artisans = {
-        culture = brazilian
+    officers = {
+        culture = neo_phoenician
         religion = catholic
-        size = 2750
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 14025
+        size = 325
     }
 
     clergymen = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
+        size = 3500
+    }
+
+    artisans = {
+        culture = neo_phoenician
+        religion = syriac
+        size = 15750
+    }
+
+    soldiers = {
+        culture = neo_phoenician
+        religion = syriac
+        size = 3800
+    }
+
+    farmers = {
+        culture = neo_phoenician
+        religion = syriac
+        size = 64025
+    }
+
+    clergymen = {
+        culture = afro_phoenician
+        religion = syriac
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 750
+        culture = afro_phoenician
+        religion = syriac
+        size = 6850
     }
 
     soldiers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 150
     }
 
     farmers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 5025
     }
 
     slaves = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 9000
+        culture = afro_phoenician
+        religion = syriac
+        size = 19000
     }
 }
 #Pernambuco Region (516000)
@@ -1960,261 +1960,255 @@
 #Recife (164000/41000 POPS)
 2432 = {
     aristocrats = {
-        culture = brazilian
-        religion = catholic
-        size = 825
+        culture = neo_phoenician
+        religion = syriac
+        size = 1825
     }
 
     bureaucrats = {
-        culture = brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 200
     }
 
     officers = {
-        culture = brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 150
     }
 
     clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 325
+        culture = afro_phoenician
+        religion = syriac
+        size = 2225
     }
 
     artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 1000
+        culture = afro_phoenician
+        religion = syriac
+        size = 9000
     }
 
     soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 250
+        culture = afro_phoenician
+        religion = syriac
+        size = 2250
     }
 
     farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 16150
+        culture = afro_phoenician
+        religion = syriac
+        size = 23150
     }
 
     clergymen = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 3000
+        culture = afro_phoenician
+        religion = syriac
+        size = 5600
     }
 
     soldiers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 175
     }
 
     farmers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 3750
     }
 
     slaves = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 20000
+        culture = afro_phoenician
+        religion = syriac
+        size = 31000
     }
 }
 #Cabreibo (80000/20000 POPS)
 2433 = {
     aristocrats = {
-        culture = brazilian
-        religion = catholic
-        size = 425
+        culture = neo_phoenician
+        religion = syriac
+        size = 1425
     }
 
     clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 125
+        culture = neo_phoenician
+        religion = syriac
+        size = 2250
     }
 
     artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 325
+        culture = neo_phoenician
+        religion = syriac
+        size = 6250
     }
 
     soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 75
+        culture = neo_phoenician
+        religion = syriac
+        size = 2750
     }
 
     farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 6025
+        culture = neo_phoenician
+        religion = syriac
+        size = 18025
     }
 
     clergymen = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 50
     }
 
     artisans = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 600
+        culture = afro_phoenician
+        religion = syriac
+        size = 3000
     }
 
     soldiers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 125
     }
 
     farmers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 4225
     }
 
     slaves = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 7000
+        culture = afro_phoenician
+        religion = syriac
+        size = 27000
     }
 }
 #Maceio (152000/38000 POPS)
 2434 = {
     aristocrats = {
-        culture = brazilian
-        religion = catholic
-        size = 775
+        culture = neo_phoenician
+        religion = syriac
+        size = 1775
     }
 
     clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 300
+        culture = neo_phoenician
+        religion = syriac
+        size = 1500
     }
 
     artisans = {
-        culture = brazilian
-        religion = catholic
-        size = 900
+        culture = neo_phoenician
+        religion = syriac
+        size = 8000
     }
 
     soldiers = {
-        culture = brazilian
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 1100
     }
 
     farmers = {
-        culture = brazilian
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 16025
     }
 
     clergymen = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 75
     }
 
     artisans = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 800
+        culture = afro_phoenician
+        religion = syriac
+        size = 2000
     }
 
     soldiers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 175
     }
 
     farmers = {
-        culture = afro_brazilian
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 4950
     }
 
     slaves = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 10000
+        culture = afro_phoenician
+        religion = syriac
+        size = 23000
     }
 }
 #Aracaju (120000/30000 POPS)
 2435 = {
     aristocrats = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
-        size = 625
+        size = 1625
     }
 
     clergymen = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
-        size = 700
+        size = 7000
     }
 
     soldiers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
-        size = 175
+        size = 1075
     }
 
     farmers = {
-        culture = brazilian
+        culture = yoruba
         religion = catholic
-        size = 14275
+        size = 18275
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 50
+        size = 105
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 650
+        size = 5300
     }
 
     soldiers = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 125
+        size = 75
     }
-
-    farmers = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 4175
-    }
-
+	
     slaves = {
-        culture = afro_brazilian
+        culture = eru
         religion = catholic
-        size = 8000
+        size = 40000
     }
 }
 #Bahia Region (896000)
@@ -2301,7 +2295,7 @@
 
     slaves = {
         culture = eru
-        religion = sunni
+        religion = catholic
         size = 7000
     }
 }
@@ -4650,41 +4644,35 @@
 #Brazil islands - No Basis for this at all
 3482 = {
     farmers = {
-        culture = brazilian
-        religion = catholic
-        size = 200
+        culture = neo_phoenician
+        religion = syriac
+        size = 400
     }
 
     farmers = {
-        culture = afro_brazilian
-        religion = catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = gypsy
-        religion = catholic
-        size = 10
+        culture = afro_phoenician
+        religion = syriac
+        size = 800
     }
 
     soldiers = {
-        culture = brazilian
-        religion = catholic
-        size = 50
+        culture = neo_phoenician
+        religion = syriac
+        size = 150
     }
     bureaucrats = {
-        culture = brazilian
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 10
     }
     aristocrats = {
-        culture = brazilian
-        religion = catholic
-        size = 5
+        culture = neo_phoenician
+        religion = syriac
+        size = 355
     }
     clergymen = {
-        culture = brazilian
-        religion = catholic
-        size = 10
+        culture = neo_phoenician
+        religion = syriac
+        size = 450
     }
 }

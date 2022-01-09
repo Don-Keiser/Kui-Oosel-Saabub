@@ -3,69 +3,69 @@
 #Cape Verde (76000/19000 POPS)
 1876 = {
     aristocrats = {
-        culture = lusitanian
-        religion = catholic
-        size = 100
+        culture = neo_phoenician
+        religion = syriac
+        size = 1000
     }
 
     officers = {
-        culture = lusitanian
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     clergymen = {
-        culture = lusitanian
-        religion = catholic
-        size = 100
+        culture = neo_phoenician
+        religion = syriac
+        size = 1500
     }
 
     artisans = {
-        culture = lusitanian
-        religion = catholic
-        size = 100
+        culture = neo_phoenician
+        religion = syriac
+        size = 2500
     }
 
     soldiers = {
-        culture = lusitanian
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     farmers = {
-        culture = lusitanian
-        religion = catholic
-        size = 100
+        culture = neo_phoenician
+        religion = syriac
+        size = 10100
     }
 
     clergymen = {
-        culture = kreol
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 150
     }
 
     artisans = {
-        culture = kreol
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 700
     }
 
     soldiers = {
-        culture = kreol
-        religion = catholic
+        culture = afro_phoenician
+        religion = syriac
         size = 150
     }
 
     farmers = {
-        culture = kreol
-        religion = catholic
-        size = 13500
+        culture = afro_phoenician
+        religion = syriac
+        size = 3500
     }
 
     slaves = {
-        culture = kreol
-        religion = catholic
-        size = 4000
+        culture = afro_phoenician
+        religion = syriac
+        size = 6000
     }
 
 }

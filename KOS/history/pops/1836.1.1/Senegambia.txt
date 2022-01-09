@@ -5,74 +5,74 @@
 1783 = {
     aristocrats = {
         culture = wolof
-        religion = catholic
+        religion = syriac
         size = 100
     }
 
     officers = {
         culture = wolof
-        religion = catholic
+        religion = syriac
         size = 100
     }
 
     artisans = {
         culture = wolof
-        religion = catholic
+        religion = syriac
         size = 100
     }
 
     clergymen = {
         culture = wolof
-        religion = catholic
+        religion = syriac
         size = 100
     }
 
     soldiers = {
         culture = wolof
-        religion = catholic
+        religion = syriac
         size = 100
     }
 
     farmers = {
         culture = wolof
-        religion = catholic
+        religion = syriac
         size = 17800
     }
 
     aristocrats = {
-        culture = french
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     officers = {
-        culture = french
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 150
     }
 
     farmers = {
-        culture = french
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 550
     }
 
     clergymen = {
-        culture = french
+        culture = neo_phoenician
         religion = catholic
-        size = 100
+        size = 1000
     }
 
     soldiers = {
-        culture = french
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = french
-        religion = catholic
-        size = 250
+        culture = neo_phoenician
+        religion = syriac
+        size = 2050
     }
 
 }
@@ -253,51 +253,57 @@
 #Mboul (144000/36000 POPS)
 2573 = {
     aristocrats = {
-        culture = wolof
-        religion = catholic
-        size = 650
+        culture = neo_phoenician
+        religion = syriac
+        size = 1650
     }
 
     bureaucrats = {
-        culture = wolof
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 50
     }
 
     officers = {
-        culture = wolof
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     clergymen = {
-        culture = wolof
-        religion = catholic
-        size = 350
+        culture = neo_phoenician
+        religion = syriac
+        size = 1050
+    }
+	
+	artisans = {
+        culture = neo_phoenician
+        religion = syriac
+        size = 2650
     }
 
     farmers = {
-        culture = wolof
-        religion = catholic
-        size = 150
+        culture = neo_phoenician
+        religion = syriac
+        size = 800
     }
 
     soldiers = {
-        culture = wolof
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 1400
     }
 
     farmers = {
         culture = wolof
-        religion = catholic
-        size = 41300
+        religion = syriac
+        size = 31300
     }
 
     slaves = {
-        culture = wolof
-        religion = catholic
-        size = 7000
+        culture = east_kwa
+        religion = fetishist
+        size = 4000
     }
 }
 #uncolonized/French have trade post in 1836
@@ -305,31 +311,31 @@
 1784 = {
     aristocrats = {
         culture = wolof
-        religion = catholic
+        religion = syriac
         size = 50
     }
 
     artisans = {
         culture = wolof
-        religion = catholic
+        religion = syriac
         size = 150
     }
 
     soldiers = {
         culture = wolof
-        religion = catholic
+        religion = syriac
         size = 100
     }
 
     farmers = {
         culture = wolof
-        religion = catholic
+        religion = syriac
         size = 13700
     }
 
     slaves = {
         culture = wolof
-        religion = catholic
+        religion = syriac
         size = 1100
     }
 
@@ -370,33 +376,33 @@
     }
 
     officers = {
-        culture = french
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     farmers = {
-        culture = french
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 750
     }
 
     clergymen = {
-        culture = french
-        religion = catholic
-        size = 100
+        culture = neo_phoenician
+        religion = syriac
+        size = 1000
     }
 
     soldiers = {
-        culture = french
-        religion = catholic
+        culture = neo_phoenician
+        religion = syriac
         size = 100
     }
 
     artisans = {
-        culture = french
-        religion = catholic
-        size = 250
+        culture = neo_phoenician
+        religion = syriac
+        size = 2500
     }
 }
 #uncolonized/British have trade post in 1836
