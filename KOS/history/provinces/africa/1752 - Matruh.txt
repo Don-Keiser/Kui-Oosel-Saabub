@@ -1,7 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = COP
+owner = MRM
+controller = MRM
+add_core = MRM
 trade_goods = fruit
 life_rating = 35
 terrain = coastal_desert

@@ -1,4 +1,5 @@
-add_core = TRI
-life_rating = 10
+owner = ARI
+controller = ARI
+add_core = ARI
+life_rating = 32
 trade_goods = wool
-colonial = 1

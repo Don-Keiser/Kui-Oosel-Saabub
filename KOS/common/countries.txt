@@ -922,6 +922,8 @@ GEA		= "countries/Geatland.txt"
 SMA		= "countries/Smaland.txt"
 OLA		= "countries/Oland.txt"
 SCN		= "countries/Scania.txt"
+MRM		= "countries/Marmarica.txt"
+ARI		= "countries/Ariania.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

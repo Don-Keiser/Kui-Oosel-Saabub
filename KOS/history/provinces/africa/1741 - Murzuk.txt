@@ -1,2 +1,5 @@
+owner = ARI
+controller = ARI
+add_core = ARI
 trade_goods = wool
-life_rating = 10
+life_rating = 32
