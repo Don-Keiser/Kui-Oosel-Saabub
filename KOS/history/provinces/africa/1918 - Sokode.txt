@@ -1,6 +1,5 @@
-owner = MLI
-controller = MLI
-add_core = MLI
+owner = MOS
+controller = MOS
+add_core = MOS
 trade_goods = grain
 life_rating = 35
-colonial = 1

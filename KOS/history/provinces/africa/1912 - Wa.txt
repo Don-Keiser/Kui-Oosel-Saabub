@@ -1,6 +1,5 @@
-owner = ASH
-controller = ASH
-add_core = ASH
+owner = MOS
+controller = MOS
 add_core = KNG
 add_core = MOS
 trade_goods = wool

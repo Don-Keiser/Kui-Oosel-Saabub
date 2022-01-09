@@ -1,4 +1,5 @@
-color = { 230 14 213 }
+color = { 188 71 122 }
+colonial_company = { 216 180 108 }
 graphical_culture = AfricanGC
 
 party = {

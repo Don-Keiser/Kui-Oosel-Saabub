@@ -1,5 +1,6 @@
-owner = DAH
-controller = DAH
+owner = MOS
+controller = MOS
+add_core = MOS
 add_core = DAH
 trade_goods = grain
 life_rating = 32

@@ -461,22 +461,6 @@ army = {
 }
 
 army = {
-    name = "Garnison du Sénégal"
-    location = 1784
-    regiment = {
-        name= "1.10ème Division d'Infanterie"
-        type = infantry
-        home = 411
-    }
-
-    regiment = {
-        name= "2.10ème Division d'Infanterie"
-        type = infantry
-        home = 407
-    }
-}
-
-army = {
     name = "Garnison de Côte d'Ivoire"
     location = 1894
     regiment = {
