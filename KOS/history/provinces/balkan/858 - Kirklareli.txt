@@ -1,5 +1,6 @@
-owner = THA
-controller = THA
-add_core = THA
+owner = RGR
+controller = RGR
+add_core = RGR
+add_core = MEX
 trade_goods = tobacco
 life_rating = 35

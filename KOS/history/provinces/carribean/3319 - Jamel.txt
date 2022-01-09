@@ -1,5 +1,5 @@
-owner = HAI
-controller = HAI
-add_core = HAI
-trade_goods = iron
+owner = MEX
+controller = MEX
+add_core = MEX
+trade_goods = cotton
 life_rating = 35

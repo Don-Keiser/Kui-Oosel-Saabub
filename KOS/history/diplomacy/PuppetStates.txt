@@ -554,3 +554,35 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+
+#Aztec
+vassal = {
+    first = MEX
+    second = TRS
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+substate = {
+    first = MEX
+    second = ZAC
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = MEX
+    second = RGR
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = MEX
+    second = OAX
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = MEX
+    second = ELS
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}

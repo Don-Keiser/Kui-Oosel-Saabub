@@ -1,6 +1,5 @@
-owner = MSK
-controller = MSK
-add_core = MSK
+owner = HON
+controller = HON
 add_core = HON
 trade_goods = tropical_wood
 terrain = jungle

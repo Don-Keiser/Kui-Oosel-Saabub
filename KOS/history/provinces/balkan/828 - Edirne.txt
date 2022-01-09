@@ -1,5 +1,6 @@
-owner = THA
-controller = THA
-add_core = THA
-trade_goods = tobacco
+owner = ZAC
+controller = ZAC
+add_core = ZAC
+add_core = MEX
+trade_goods = iron
 life_rating = 35

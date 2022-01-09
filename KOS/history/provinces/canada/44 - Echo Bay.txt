@@ -1,7 +1,5 @@
-owner = NRE
-controller = NRE
-add_core = NRE
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = fish
 life_rating = 30
-colonial = 2
-terrain = new_world_mountain

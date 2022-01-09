@@ -1,5 +1,5 @@
-owner = HAI
-controller = HAI
-add_core = HAI
-trade_goods = coffee
+owner = MEX
+controller = MEX
+add_core = MEX
+trade_goods = grain
 life_rating = 35
