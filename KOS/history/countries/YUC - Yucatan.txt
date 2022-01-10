@@ -1,6 +1,5 @@
-capital = 2183
+capital = 2189
 primary_culture = mayan
-culture = mexican
 religion = catholic
 government = democracy
 plurality = 0.0
