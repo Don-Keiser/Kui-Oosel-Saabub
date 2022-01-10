@@ -1,3 +1,6 @@
-trade_goods = fish
-life_rating = 10
-colonial = 1
+owner = FRI
+controller = FRI
+colonial = 2
+trade_goods = coffee
+life_rating = 35
+naval_base = 1

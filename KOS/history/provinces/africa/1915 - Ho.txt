@@ -1,4 +1,6 @@
+owner = DNN
+controller = DNN
+colonial = 2
 add_core = ASH
 trade_goods = cattle
-life_rating = 10
-colonial = 1
+life_rating = 25

@@ -1,5 +1,5 @@
-owner = BEN
-controller = BEN
+owner = ARO
+controller = ARO
 add_core = BEN
 add_core = ARO
 add_core = OYO

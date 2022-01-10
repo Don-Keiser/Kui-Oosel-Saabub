@@ -2,11 +2,6 @@ owner = DNN
 controller = DNN
 colonial = 2
 add_core = ASH
-trade_goods = fish
+trade_goods = coffee
 life_rating = 35
 naval_base = 1
-1861.1.1 = {
-    owner = ENG
-    controller = ENG
-    colonial = 2
-}

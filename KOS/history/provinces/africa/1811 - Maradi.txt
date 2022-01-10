@@ -1,5 +1,3 @@
-owner = DAM
-controller = DAM
 add_core = DAM
 trade_goods = wool
 life_rating = 32

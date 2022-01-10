@@ -1,3 +1,5 @@
-trade_goods = grain
-life_rating = 10
-colonial = 1
+owner = FRI
+controller = FRI
+colonial = 2
+trade_goods = cotton
+life_rating = 32

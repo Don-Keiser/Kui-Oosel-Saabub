@@ -1,5 +1,6 @@
-owner = DAH
-controller = DAH
+owner = OYO
+controller = OYO
+add_core = OYO
 add_core = DAH
 trade_goods = fish
 life_rating = 35

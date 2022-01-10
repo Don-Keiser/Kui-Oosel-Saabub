@@ -1,5 +1,6 @@
-owner = WRI
-controller = WRI
+owner = OYO
+controller = OYO
+add_core = OYO
 add_core = WRI
 add_core = BEN
 add_core = ARO
