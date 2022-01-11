@@ -1,4 +1,6 @@
-add_core = KAZ
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = wool
 life_rating = 30
 terrain = desert

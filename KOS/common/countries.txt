@@ -924,6 +924,8 @@ OLA		= "countries/Oland.txt"
 SCN		= "countries/Scania.txt"
 MRM		= "countries/Marmarica.txt"
 ARI		= "countries/Ariania.txt"
+WHU		= "countries/White Huns.txt"
+SHH		= "countries/Shahis.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

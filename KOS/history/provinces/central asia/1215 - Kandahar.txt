@@ -1,6 +1,6 @@
-owner = KND
-controller = KND
-add_core = KND
+owner = KHR
+controller = KHR
+add_core = KHR
 trade_goods = wool
 life_rating = 35
 terrain = kandahar

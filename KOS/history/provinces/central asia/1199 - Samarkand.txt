@@ -1,6 +1,6 @@
-owner = BUK
-controller = BUK
-add_core = BUK
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = grain
 life_rating = 35
 terrain = samarkand

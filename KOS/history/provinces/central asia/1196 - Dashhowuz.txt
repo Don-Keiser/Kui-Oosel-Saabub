@@ -1,7 +1,6 @@
-owner = KHI
-controller = KHI
-add_core = KHI
-add_core = TKM
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = wool
 life_rating = 30
 terrain = desert

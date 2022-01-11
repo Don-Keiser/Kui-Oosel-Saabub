@@ -1,6 +1,6 @@
-owner = AFG
-controller = AFG
-add_core = AFG
+owner = SHH
+controller = SHH
+add_core = SHH
 trade_goods = grain
 life_rating = 40
 terrain = kabul

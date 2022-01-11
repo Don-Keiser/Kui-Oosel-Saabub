@@ -1,8 +1,6 @@
-owner = DRV
-controller = DRV
-add_core = DRV
-add_core = KOK
-add_core = TAJ
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = wool
 life_rating = 32
 terrain = himalayan_mountains

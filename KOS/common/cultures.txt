@@ -4517,6 +4517,96 @@ iranian_turanian = {
 			Pærræstatæ Færniatæ
 			}
 	}
+	
+	aryao = {
+		color = {123 142 198}
+			first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
+	
+	shashi_aryao = {
+		color = {84 114 196}
+			first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
+	
+	sogdian = {
+		color = {123 142 124}
+			first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
+	
+	chorasmian = {
+		color = {97 112 130}
+			first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
+	
+	saka = {
+		color = {97 143 130}
+			first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
 }
 
 kipchak = {

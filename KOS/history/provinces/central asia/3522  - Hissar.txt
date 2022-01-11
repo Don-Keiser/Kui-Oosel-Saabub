@@ -1,7 +1,6 @@
-owner = BUK
-controller = BUK
-add_core = BUK
-add_core = TAJ
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = wool
 life_rating = 32
 terrain = dryhills
