@@ -20,24 +20,6 @@ political_decisions = {
 		effect = {
 			set_country_flag = GYO_province_names_changed
 			prestige = 18
-			1448 = {
-			change_province_name = "Segfuzegvaros"
-			}
-			1453 = {
-			change_province_name = "Garudaerod"
-			state_scope = {
-			change_region_name = "Batorsziget"
-				}
-			}
-			1452 = {
-			change_province_name = "Zuhanojszakaiszigetek"
-			}
-			1454 = {
-			change_province_name = "Gyozelmivaros"
-			}
-			1560 = {
-			change_province_name = "Teljesitopart"
-			}
 		}
 		
 		ai_will_do = {

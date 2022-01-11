@@ -39,48 +39,6 @@ political_decisions = {
 		effect = {
 			set_country_flag = OOS_province_names_changed
 			prestige = 50
-			1417 = {
-			change_province_name = "Viiskulkkindlus"
-			state_scope = {
-			change_region_name = "Laans-Ookaugesaare"
-				}
-			}
-			1421 = {
-			change_province_name = "Vaike Turusaare"
-			state_scope = {
-			change_region_name = "Idaa-Ookaugesaare"
-				}
-			}
-			1423 = {
-			change_province_name = "Soolajoelinn"
-			state_scope = {
-			change_region_name = "Etelna-Rohelimetsamaa"
-				}
-			}
-			1424 = {
-			change_province_name = "Kis Magyarvaros"
-			state_scope = {
-			change_region_name = "Idaa-Rohelimetsamaa"
-				}
-			}
-			1431 = {
-			change_province_name = "Harlausikrupt"
-			state_scope = {
-			change_region_name = "Raudasaare"
-				}
-			}
-			1439 = {
-			change_province_name = "Kristusekirik"
-			state_scope = {
-			change_region_name = "Tuuhandsaaremaed"
-				}
-			}
-			1449 = {
-			change_province_name = "Oikeusilmeattisaare"
-			state_scope = {
-			change_region_name = "Kinoversaare"
-				}
-			}	
 		}
 		
 		ai_will_do = {
