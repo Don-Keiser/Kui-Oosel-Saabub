@@ -928,10 +928,10 @@
     farmers = {
         culture = saarkorge
         religion = ooselskia
-        size = 15000
+        size = 13000
     }
 	
-aristocrats = {
+	aristocrats = {
         culture = szigetinyel
         religion = ooselskia
         size = 130
@@ -964,7 +964,7 @@ aristocrats = {
 	farmers = {
         culture = szigetinyel
         religion = ooselskia
-        size = 18000
+        size = 20000
     }
 }
 #uncolonized in 1836
@@ -1009,7 +1009,7 @@ aristocrats = {
     farmers = {
         culture = saarkorge
         religion = ooselskia
-        size = 16375
+        size = 19375
     }
 
     soldiers = {
@@ -1075,7 +1075,7 @@ aristocrats = {
 	farmers = {
         culture = szigetinyel
         religion = ooselskia
-        size = 18650
+        size = 14650
     }
 }
 #Ceram (56000/14000 POPS)

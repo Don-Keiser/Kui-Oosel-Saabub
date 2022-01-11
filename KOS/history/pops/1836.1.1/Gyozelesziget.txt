@@ -4,19 +4,19 @@
     aristocrats = {
         culture = szigetinyel
         religion = ooselskia
-        size = 500
+        size = 1500
     }
 
     clergymen = {
         culture = szigetinyel
         religion = ooselskia
-        size = 430
+        size = 1430
     }
 
     artisans = {
         culture = szigetinyel
         religion = ooselskia
-        size = 2300
+        size = 13300
     }
 
     soldiers = {
@@ -98,31 +98,31 @@
     aristocrats = {
         culture = szigetinyel
         religion = ooselskia
-        size = 200
+        size = 800
     }
 
     clergymen = {
         culture = szigetinyel
         religion = ooselskia
-        size = 350
+        size = 2650
     }
 
     artisans = {
         culture = szigetinyel
         religion = ooselskia
-        size = 1200
+        size = 6200
     }
 
     soldiers = {
         culture = szigetinyel
         religion = ooselskia
-        size = 1500
+        size = 3500
     }
 
     farmers = {
         culture = szigetinyel
         religion = ooselskia
-        size = 48250
+        size = 64250
     }
 }
 #Biak (32000/8000 POPS)
@@ -130,7 +130,7 @@
     aristocrats = {
         culture = saarkorge
         religion = ooselskia
-        size = 125
+        size = 325
     }
 
     bureaucrats = {
@@ -142,25 +142,25 @@
     clergymen = {
         culture = szigetinyel
         religion = ooselskia
-        size = 100
+        size = 400
     }
 
     artisans = {
         culture = szigetinyel
         religion = ooselskia
-        size = 250
+        size = 1250
     }
 
     soldiers = {
         culture = szigetinyel
         religion = ooselskia
-        size = 300
+        size = 600
     }
 
     farmers = {
         culture = szigetinyel
         religion = ooselskia
-        size = 14525
+        size = 19525
     }
 }
 #Merah (172000/43000 POPS)
@@ -168,31 +168,31 @@
     aristocrats = {
         culture = szigetinyel
         religion = ooselskia
-        size = 450
+        size = 1150
     }
 
     clergymen = {
         culture = szigetinyel
         religion = ooselskia
-        size = 425
+        size = 1425
     }
 
     artisans = {
         culture = szigetinyel
         religion = ooselskia
-        size = 2000
+        size = 5600
     }
 
     soldiers = {
         culture = szigetinyel
         religion = ooselskia
-        size = 1000
+        size = 2100
     }
 
     farmers = {
         culture = szigetinyel
         religion = ooselskia
-        size = 48725
+        size = 61725
     }
 }
 #Merauke (140000/35000 POPS)
@@ -200,13 +200,59 @@
     aristocrats = {
         culture = szigetinyel
         religion = ooselskia
-        size = 400
+        size = 900
     }
 
     clergymen = {
         culture = szigetinyel
         religion = ooselskia
-        size = 350
+        size = 1350
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 4980
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1600
+    }
+	
+	soldiers = {
+        culture = saarnisaar	
+        religion = ooselskia
+        size = 600
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 45450
+    }
+	
+	farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 9450
+    }
+
+}
+
+#Kokusziget (140000/35000 POPS)
+3713 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 150
     }
 
     artisans = {
@@ -218,25 +264,339 @@
     soldiers = {
         culture = szigetinyel
         religion = ooselskia
-        size = 600
-    }
-	
-	soldiers = {
-        culture = saarnisaar	
-        religion = ooselskia
-        size = 300
+        size = 100
     }
 
     farmers = {
         culture = szigetinyel
         religion = ooselskia
-        size = 34450
+        size = 14450
+    }
+	
+	farmers = {
+        culture = saarkorge
+        religion = ooselskia
+        size = 2450
+    }
+
+}
+
+#Szabalyszi (140000/35000 POPS)
+3714 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 150
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 2500
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 600
+    }
+	
+	farmers = {
+        culture = saarkorge	
+        religion = ooselskia
+        size = 1200
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 24450
     }
 	
 	farmers = {
         culture = saarnisaar
         religion = ooselskia
-        size = 16450
+        size = 4450
+    }
+
+}
+
+#Ikersziget (140000/35000 POPS)
+3715 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 300
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 450
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1200
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 400
+    }
+	
+	artisans = {
+        culture = saarnisaar	
+        religion = ooselskia
+        size = 450
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 12450
+    }
+	
+	farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 3450
+    }
+
+}
+
+#Dohanysziget (140000/35000 POPS)
+3716 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1300
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 950
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 4200
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1400
+    }
+	
+	artisans = {
+        culture = saarnisaar	
+        religion = ooselskia
+        size = 6450
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 19450
+    }
+	
+	farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 23450
+    }
+
+}
+
+#Fokfold (140000/35000 POPS)
+3716 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1150
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1150
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 5900
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 2300
+    }
+	
+	artisans = {
+        culture = saarnisaar	
+        religion = ooselskia
+        size = 1450
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 39450
+    }
+	
+	farmers = {
+        culture = saarnisaar
+        religion = ooselskia
+        size = 5450
+    }
+
+}
+
+#Belsodzsungek (140000/35000 POPS)
+3718 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 800
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 500
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 18000
+    }
+
+}
+
+#Rikitovaros (140000/35000 POPS)
+3719 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 3000
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1200
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 5450
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 2500
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 52000
+    }
+
+}
+
+#Belsopokol (140000/35000 POPS)
+3720 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 100
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 800
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 500
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 15000
+    }
+
+}
+
+#Beteldiovaros (140000/35000 POPS)
+3721 = {
+    aristocrats = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 800
+    }
+
+    clergymen = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1300
+    }
+
+    artisans = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 8450
+    }
+
+    soldiers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 1900
+    }
+
+    farmers = {
+        culture = szigetinyel
+        religion = ooselskia
+        size = 43000
     }
 
 }

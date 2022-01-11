@@ -3,4 +3,3 @@ controller = GYO
 add_core = GYO
 trade_goods = tropical_wood
 life_rating = 35
-terrain = jungle_hills
