@@ -64,7 +64,7 @@
 
     farmers = {
         culture = neo_punic
-        religion = sunni
+        religion = catholic
         size = 96425
     }
 

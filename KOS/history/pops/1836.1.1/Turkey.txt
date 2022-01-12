@@ -1692,19 +1692,19 @@
     }
 
     artisans = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 9500
     }
 
     artisans = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 400
     }
 
     farmers = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 19750
     }
@@ -1740,7 +1740,7 @@
     }
 
     farmers = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 580
     }
@@ -1890,31 +1890,31 @@
 #Mugla (96000/24000 POPS)
 872 = {
     aristocrats = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 275
     }
 
     clergymen = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 120
     }
 
     artisans = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 250
     }
 
     farmers = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 25000
     }
@@ -1926,7 +1926,7 @@
     }
 	
 	farmers = {
-        culture = dodecanese
+        culture = aeolic
         religion = orthodox
         size = 1375
     }
@@ -2456,31 +2456,31 @@
 #Amasya (132000/33000 POPS)
 877 = {
     aristocrats = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 600
     }
 
     clergymen = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 270
     }
 
     artisans = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 1300
     }
 
     soldiers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 300
     }
 
     farmers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 14000
     }
@@ -2585,31 +2585,31 @@
 #Kochgiri (132000/33000 POPS)
 3531 = {
     aristocrats = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 600
     }
 
     clergymen = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 270
     }
 
     artisans = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 1300
     }
 
     soldiers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 1300
     }
 
     farmers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 2500
     }
@@ -3252,37 +3252,37 @@
     }
 
     aristocrats = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 110
     }
 
     officers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 110
     }
 
     soldiers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 200
     }
 
     clergymen = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 650
     }
 
     farmers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 26225
     }
@@ -3530,25 +3530,25 @@
     }
 
     soldiers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 110
     }
 
     clergymen = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 110
     }
 
     artisans = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 400
     }
 
     farmers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 5525
     }
@@ -4359,7 +4359,7 @@
     }
 	
 	 farmers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 5175
     }
@@ -4452,31 +4452,31 @@
 #Khozat (312000/78000 POPS)
 3533 = {
     aristocrats = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 450
     }
 
     clergymen = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 225
     }
 
     artisans = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 1150
     }
 
     soldiers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 2175
     }
@@ -7600,7 +7600,7 @@
     }
 	
 	farmers = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 5425
     }
@@ -8348,31 +8348,31 @@ aristocrats = {
     }
 
     aristocrats = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 125
     }
 
     clergymen = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 125
     }
 
     artisans = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 275
     }
 
     soldiers = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 25
     }
 
     farmers = {
-        culture = ionic
+        culture = aeolic
         religion = orthodox
         size = 8850
     }
@@ -8552,7 +8552,7 @@ aristocrats = {
     }
 	
 	farmers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 3425
     }
@@ -8622,7 +8622,7 @@ aristocrats = {
     }
 	
 	farmers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 4425
     }
@@ -8692,7 +8692,7 @@ aristocrats = {
     }
 	
 	farmers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 2425
     }
@@ -8738,25 +8738,25 @@ aristocrats = {
     }
 
     clergymen = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 350
     }
 
     soldiers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 600
     }
 
     farmers = {
-        culture = chaldiot
+        culture = pontic
         religion = orthodox
         size = 22425
     }

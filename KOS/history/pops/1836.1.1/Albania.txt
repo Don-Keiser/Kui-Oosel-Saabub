@@ -140,7 +140,7 @@
     }
 
     farmers = {
-        culture = epirote
+        culture = greek
         religion = catholic
         size = 300
     }
@@ -240,22 +240,22 @@
         size = 3379
     }
     soldiers = {
-        culture = epirote
+        culture = greek
         religion = catholic
         size = 122
     }
     clergymen = {
-        culture = epirote
+        culture = greek
         religion = catholic
         size = 100
     }
     artisans = {
-        culture = epirote
+        culture = greek
         religion = catholic
         size = 245
     }
     farmers = {
-        culture = epirote
+        culture = greek
         religion = catholic
         size = 1799
     }
