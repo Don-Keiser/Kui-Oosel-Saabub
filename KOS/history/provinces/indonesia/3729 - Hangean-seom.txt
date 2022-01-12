@@ -1,0 +1,6 @@
+owner = PNC
+controller = PNC
+add_core = PNC
+trade_goods = fish
+life_rating = 35
+terrain = jungle_farmland

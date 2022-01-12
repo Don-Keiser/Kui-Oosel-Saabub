@@ -1,6 +1,6 @@
-capital = 1482
-primary_culture = furmozan
-culture = portuguese
+capital = 2681
+primary_culture = korean
+culture = mahayana
 religion = catholic
 government = democracy
 plurality = 60.0

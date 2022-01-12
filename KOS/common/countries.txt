@@ -926,6 +926,7 @@ MRM		= "countries/Marmarica.txt"
 ARI		= "countries/Ariania.txt"
 WHU		= "countries/White Huns.txt"
 SHH		= "countries/Shahis.txt"
+PNC		= "countries/Pinancheou.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

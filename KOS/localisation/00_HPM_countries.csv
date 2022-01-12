@@ -1008,9 +1008,9 @@ FIU_socialist;Partito Socialista di Fiume;Partito Socialista di Fiume;Partito So
 FIU_communist;Partito Comunista di Fiume;Partito Comunista di Fiume;Partito Comunista di Fiume;;;;;;;;;;;
 FIU_radical;Radicali;Radical;Radikal;;;;;;;;;;;
 FIU_fascist;Fascisti;Fasciste;Faschistisch;;;;;;;;;;;
-FJN;Furmoza;;;;;;;;;;;;;
-FJN_ADJ;Furmozan;;;;;;;;;;;;;
-FJN_presidential_dictatorship;Furmozan State;;;;;;;;;;;;;
+FJN;Aleumdauna;;;;;;;;;;;;;
+FJN_ADJ;Aleumdaunan;;;;;;;;;;;;;
+FJN_presidential_dictatorship;Aleumdaunan State;;;;;;;;;;;;;
 FJN_fascist_dictatorship;Min Republic;;;;;;;;;;;;;
 FJN_fascist_dictatorship_ADJ;Min;;;;;;;;;;;;;
 FJN_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;;;;;

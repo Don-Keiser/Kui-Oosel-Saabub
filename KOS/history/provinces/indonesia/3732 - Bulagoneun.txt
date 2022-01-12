@@ -1,0 +1,6 @@
+owner = PNC
+controller = PNC
+add_core = PNC
+trade_goods = tobacco
+life_rating = 35
+terrain = jungle_hills
