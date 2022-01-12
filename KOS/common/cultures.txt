@@ -7604,6 +7604,30 @@ ooselid = {
 		"tol Korkeatalo" "tol Maatalatalo" "tol Cooviilehmbed" "tol Magasvari" "tol Lajos-haz" "tol Nagybecsulet"
 		}
 	}
+	latogatorok = {
+		color = { 118 209 54 }
+		first_names = { Manoosel Manfred Isekas Nemo Elossa Ketserii Kadek Sugelitsia Alesiia Apolas Kahrika Lehtrikka Liisa 
+		Avaari Aliisa Elamaa Kiira Samaara Viktor Viktoria Isemitte Melania Arpad Attila Krisztofer Narcisztos
+		Emporion Atahsaia
+		}
+			
+		last_names = { "tol Nurmekuusik" "tol Javavostalinn" "tol Riippuvainen" "tol Kaugidaa" Nikkila "von Toekataar" "tol Nurmejatti" "tol Sansaksaari" 
+		Adamantiini Preestripoeg "von Ullasodalane" "tol Harumiid" Kiirekallutad "karah Aarelinni" "tol Saksilanda" "tol Kulnikalu" "tol Kayrasapelid" 
+		"tol Korkeatalo" "tol Maatalatalo" "tol Cooviilehmbed" "tol Magasvari" "tol Lajos-haz" "tol Nagybecsulet"
+		}
+	}
+	batorok = {
+		color = { 115 165 79 }
+		first_names = { Manoosel Manfred Isekas Nemo Elossa Ketserii Kadek Sugelitsia Alesiia Apolas Kahrika Lehtrikka Liisa 
+		Avaari Aliisa Elamaa Kiira Samaara Viktor Viktoria Isemitte Melania Arpad Attila Krisztofer Narcisztos
+		Emporion Atahsaia
+		}
+			
+		last_names = { "tol Nurmekuusik" "tol Javavostalinn" "tol Riippuvainen" "tol Kaugidaa" Nikkila "von Toekataar" "tol Nurmejatti" "tol Sansaksaari" 
+		Adamantiini Preestripoeg "von Ullasodalane" "tol Harumiid" Kiirekallutad "karah Aarelinni" "tol Saksilanda" "tol Kulnikalu" "tol Kayrasapelid" 
+		"tol Korkeatalo" "tol Maatalatalo" "tol Cooviilehmbed" "tol Magasvari" "tol Lajos-haz" "tol Nagybecsulet"
+		}
+	}
 	saarnisaar = {
 		color = { 85 124 135 }
 		first_names = { Manoosel Manfred Isekas Nemo Elossa Ketserii Kadek Sugelitsia Alesiia Apolas Kahrika Lehtrikka Liisa Leevi Liivli 

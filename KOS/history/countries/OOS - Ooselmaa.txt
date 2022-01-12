@@ -4,6 +4,7 @@ culture = saarmadal
 culture = saarnordlig
 culture = szigetinyel
 culture = saarnisaar
+culture = latogatorok
 religion = ooselskia
 government = absolute_monarchy
 plurality = 10.0

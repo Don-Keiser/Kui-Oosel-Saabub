@@ -1169,7 +1169,7 @@
     farmers = {
         culture = szigetinyel
         religion = ooselskia
-        size = 15650
+        size = 10650
     }
 
     aristocrats = {
@@ -1199,7 +1199,7 @@
     farmers = {
         culture = saarnisaar
         religion = ooselskia
-        size = 11400
+        size = 16400
     }
 }
 
@@ -2023,7 +2023,7 @@
     }
 
     farmers = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 2000
     }
@@ -2098,31 +2098,31 @@
 #Pasir (64000/16000 POPS)
 1424 = {
     aristocrats = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 600
     }
 
     clergymen = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 400
     }
 
     artisans = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 1800
     }
 
     soldiers = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 800
     }
 
     farmers = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 39500
     }
@@ -2190,25 +2190,25 @@
 #Kutai Timur (67100/16775 POPs)
 3276 = {
     aristocrats = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 250
     }
 
     clergymen = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 300
     }
 
     artisans = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 450
     }
 
     farmers = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 15500
     }

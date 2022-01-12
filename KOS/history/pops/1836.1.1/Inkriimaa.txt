@@ -26,31 +26,31 @@
     }
 
     aristocrats = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 450
     }
 
     bureaucrats = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 135
     }
 
     clergymen = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 245
     }
 
     artisans = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 1550
     }
 
     farmers = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 29000
     }
@@ -131,13 +131,13 @@
     }
 	
 	soldiers = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size= 5000
     }
 
     labourers = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 6600
     }
@@ -202,7 +202,7 @@
     }
 
     farmers = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 8000
     }
@@ -462,25 +462,25 @@
     }
 
 	clergymen = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 120
     }
 
     artisans = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 800
     }
 
     soldiers = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 800
     }
 
     farmers = {
-        culture = szigetinyel
+        culture = latogatorok
         religion = ooselskia
         size = 10000
     }

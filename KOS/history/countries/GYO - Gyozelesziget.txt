@@ -1,5 +1,6 @@
 capital = 1448
 primary_culture = szigetinyel
+culture = batorok
 religion = ooselskia
 government = absolute_monarchy
 plurality = 20.0
