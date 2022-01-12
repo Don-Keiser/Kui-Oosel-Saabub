@@ -2,5 +2,5 @@ owner = GUA
 controller = GUA
 add_core = GUA
 trade_goods = iron
-terrain = jungle
+terrain = hills
 life_rating = 33

@@ -6161,16 +6161,73 @@ oceanic = {
 native_american = {
     leader = nativeamerican
 
-    #zapotec = {
-    #    color = {87 199 81}
-    #    first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
-    #    Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
-    #    Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
-    #
-    #    last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
-    #    González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
-    #    Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
-    #}
+    chichimec = {
+       color = {145 215 130}
+       first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
+        Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
+       Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
+    
+        last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+       González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+        Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+    }
+
+    totonac = {
+       color = {25 210 115}
+       first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
+        Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
+       Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
+    
+        last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+       González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+        Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+    }
+    mixtec = {
+       color = {98 160 55}
+       first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
+        Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
+       Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
+    
+        last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+       González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+        Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+    }
+	huastec = {
+       color = {5 195 44}
+       first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
+        Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
+       Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
+    
+        last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+       González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+        Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+    }
+    zapotec = {
+       color = {87 199 81}
+       first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
+        Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
+       Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
+    
+        last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+       González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+        Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+    }
+	mexican = {
+        color = {51 117 62}
+        first_names = { Adrián Agustín Álvaro Anastasio Andrés Ángel Antonio Bernardo Emiliano Emilio
+        Enrique Ernesto Felipe Félix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
+        Jerónimo Joaquín José "José Manuel" "José María" Juan "Juan Bautista" Justo Lázaro Manuel
+        Mariano Martín Melchor Miguel Nicolás Pablo Pascual Pedro Porfirio Ramón
+        Ricardo Rómulo Salvador Sebastián Tomás Valentín Valeriano Venustiano Vicente Victoriano
+        }
+
+        last_names = { Almonte Álvarez Arista Barragán Bocanegra Bravo Bustamante Canalizo Carranza Caserta
+        Cervantes Corona Corra "de Ampudia" "de Cos" "de Itúrbide" Díaz Echeverría Escandón Escobedo
+        Fagoaga "Fernández del Valle" Flores Gómez González Guerrero Huerta Kosterlitzky "López de Santa Ana" Lozada
+        "Martínez del Río" Mejía Miramón Múzquiz Obregón Pedraza Pimentel Reyes "Rincón Gallardo" Robles
+        Ruíz Salas Sánchez "Sarmaniego del Castillo" "Vázquez de la Cadena" Villa Woll Zapata Zaragoza Zuloaga
+        }
+    }
     mayan = {
         color = {98 88 142}
         first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
@@ -6182,7 +6239,7 @@ native_american = {
         Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
     }
     nahua = {
-        color = {88 175 160}
+        color = {0 110 30}
         first_names = { Antonio Carlos Diego Emiliano Emilio Felipe Fernando Francisco Gaspar Hernando
         Hilario Ignacio Isaac Jacinto Jesús José Juan Julio Lorenzo Manuel
         Marcial Mario Martín Natalio Oliverio Pedro Roberto Rodolfo Santiago Víctor }
@@ -6191,16 +6248,16 @@ native_american = {
         Huanitzin Itzel Ixtlilxochitl Jiménez Matlacuahuac Mayahuel Moxo Muñoz Nahui Ocelotl
         Panecatl Tlaxca Tletla Tzehe Valeriano Xaxalpa Zicoténcatl Xochitl Zapata Zapotitla }
     }
-    #tarascan = {
-    #    color = {148 204 4}
-    #    first_names = { Agustín Alberto Alfredo Antonio Armando Arturo Carlos Cenobio Daniel Diego
-    #    Everardo Gerardo Gumersindo Héctor Jesús Juan Leobardo Luis Manuel Marcial
-    #    "Marco Antonio" Melchor Pedro Ricardo Salvador Samuel Sergio Silvano Silvestre Víctor }
-    #
-    #    last_names = { Almonte Arredondo Arriaga Aureoles Bernal Brito Calderón Cano Carrillo Cristóbal
-    #    Cuevas Dimas Esquivel Estrada Galeana Gallardo García Gómez López Maciel
-    #    Magaña Medrano Mena Ocampo Ochoa Paniagua Tinoco Toryo Vargas Zendejas }
-    #}
+    tarascan = {
+       color = {148 204 4}
+     first_names = { Agustín Alberto Alfredo Antonio Armando Arturo Carlos Cenobio Daniel Diego
+      Everardo Gerardo Gumersindo Héctor Jesús Juan Leobardo Luis Manuel Marcial
+      "Marco Antonio" Melchor Pedro Ricardo Salvador Samuel Sergio Silvano Silvestre Víctor }
+    
+        last_names = { Almonte Arredondo Arriaga Aureoles Bernal Brito Calderón Cano Carrillo Cristóbal
+        Cuevas Dimas Esquivel Estrada Galeana Gallardo García Gómez López Maciel
+        Magaña Medrano Mena Ocampo Ochoa Paniagua Tinoco Toryo Vargas Zendejas }
+    }
     quechua = {
         color = {178 141 85}
         first_names = { Agustín Alejandro Antauro Antonio Basilio Daniel Diego Eugenio Facundo Felipe
