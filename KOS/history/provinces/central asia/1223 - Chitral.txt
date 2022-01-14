@@ -1,7 +1,6 @@
-owner = CRL
-controller = CRL
-add_core = CRL
-add_core = HND
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = wool
 life_rating = 32
 terrain = himalayan_mountains
