@@ -5,6 +5,7 @@ government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.40
+non_state_culture_literacy = 0.04
 prestige = 2
 
 
@@ -27,6 +28,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
+
 # New Reforms
 conscription = no_draft
 debt_law = peonage
@@ -34,8 +36,6 @@ penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = closed_borders
-centralization = unitary
-colonial_policy = no_colonies
 
 set_country_flag = mahayana_country
 
@@ -50,12 +50,11 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = fudai_daimyo
-
-
 land_reform = yes_land_reform
 education_reform = yes_education_reform
 monetary_reform = yes_monetary_reform
+foreign_weapons = yes_foreign_weapons
+
 # Technologies
 flintlock_rifles = 1
 
