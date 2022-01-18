@@ -1855,3 +1855,129 @@
         size = 200
     }
 }
+
+#Bamenda (372000/93000 POPS) #now part of Cameroun
+1961 = {
+    aristocrats = {
+        culture = fur
+        religion = catholic
+        size = 1850
+    }
+
+    clergymen = {
+        culture = fur
+        religion = catholic
+        size = 950
+    }
+
+    artisans = {
+        culture = fur
+        religion = catholic
+        size = 3725
+    }
+
+    soldiers = {
+        culture = fur
+        religion = catholic
+        size = 1950
+    }
+
+    farmers = {
+        culture = fur
+        religion = catholic
+        size = 35575
+    }
+}
+
+#Tambura (140000/35000 POPS)
+3746 = {
+    aristocrats = {
+        culture = fur
+        religion = catholic
+        size = 125
+    }
+
+    clergymen = {
+        culture = fur
+        religion = catholic
+        size = 75
+    }
+
+    artisans = {
+        culture = fur
+        religion = catholic
+        size = 350
+    }
+
+    soldiers = {
+        culture = fur
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = fur
+        religion = catholic
+        size = 2350
+    }
+
+    aristocrats = {
+        culture = ubangian
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = ubangian
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = ubangian
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = ubangian
+        religion = animist
+        size = 2525
+    }
+
+    slaves = {
+        culture = ubangian
+        religion = animist
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = nuba
+        religion = animist
+        size = 200
+    }
+
+    artisans = {
+        culture = nuba
+        religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = nuba
+        religion = animist
+        size = 200
+    }
+
+    farmers = {
+        culture = nuba
+        religion = animist
+        size = 18150
+    }
+
+    slaves = {
+        culture = nuba
+        religion = animist
+        size = 7000
+    }
+}

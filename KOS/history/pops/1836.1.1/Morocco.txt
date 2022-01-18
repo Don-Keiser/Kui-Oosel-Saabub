@@ -341,31 +341,31 @@
     }
 
     aristocrats = {
-        culture = mzab_ourgla
+        culture = seghrusheni
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = mzab_ourgla
+        culture = seghrusheni
         religion = catholic
         size = 75
     }
 
     artisans = {
-        culture = mzab_ourgla
+        culture = seghrusheni
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = mzab_ourgla
+        culture = seghrusheni
         religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = mzab_ourgla
+        culture = seghrusheni
         religion = catholic
         size = 4050
     }

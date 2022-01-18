@@ -344,46 +344,6 @@
         size = 6000
     }
 }
-#Kwararafa Region (372000) #see Nigeria.txt for balance of region
-#uncolonized in 1836
-#Bamenda (372000/93000 POPS) #now part of Cameroun
-1961 = {
-    aristocrats = {
-        culture = tiv
-        religion = fetishist
-        size = 1850
-    }
-
-    clergymen = {
-        culture = tiv
-        religion = fetishist
-        size = 950
-    }
-
-    artisans = {
-        culture = tiv
-        religion = fetishist
-        size = 3725
-    }
-
-    soldiers = {
-        culture = tiv
-        religion = fetishist
-        size = 950
-    }
-
-    farmers = {
-        culture = tiv
-        religion = fetishist
-        size = 75575
-    }
-
-    slaves = {
-        culture = ibibio
-        religion = fetishist
-        size = 10000
-    }
-}
 #Adamawa Region (268000) #see Nigeria.txt for balance of region
 #under the rule of Sokoto 1836
 #Ngaoundere (160000/40000 POPS) #now part of Cameroun
@@ -601,4 +561,70 @@
         size = 6000
     }
 
+}
+
+#Abakwa
+3733 = {
+    aristocrats = {
+        culture = tiv
+        religion = fetishist
+        size = 175
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = fetishist
+        size = 550
+    }
+
+    artisans = {
+        culture = tiv
+        religion = fetishist
+        size = 1250
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = fetishist
+        size = 850
+    }
+
+    farmers = {
+        culture = tiv
+        religion = fetishist
+        size = 46575
+    }
+}
+
+#Garoua
+3734 = {
+    aristocrats = {
+        culture = tiv
+        religion = fetishist
+        size = 175
+    }
+
+    clergymen = {
+        culture = tiv
+        religion = fetishist
+        size = 550
+    }
+
+    artisans = {
+        culture = tiv
+        religion = fetishist
+        size = 1250
+    }
+
+    soldiers = {
+        culture = tiv
+        religion = fetishist
+        size = 850
+    }
+
+    farmers = {
+        culture = tiv
+        religion = fetishist
+        size = 37575
+    }
 }

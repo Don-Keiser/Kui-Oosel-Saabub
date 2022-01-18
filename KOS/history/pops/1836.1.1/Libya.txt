@@ -1142,3 +1142,71 @@
     }
 
 }
+
+#Aozou
+3743 = {
+    aristocrats = {
+        culture = teda
+        religion = catholic
+        size = 350
+    }
+
+    clergymen = {
+        culture = teda
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = teda
+        religion = catholic
+        size = 2050
+    }
+
+    soldiers = {
+        culture = teda
+        religion = catholic
+        size = 2100
+    }
+
+    farmers = {
+        culture = teda
+        religion = catholic
+        size = 18080
+    }
+
+}
+
+#Zouar
+3744 = {
+    aristocrats = {
+        culture = teda
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = teda
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = teda
+        religion = catholic
+        size = 850
+    }
+
+    soldiers = {
+        culture = teda
+        religion = catholic
+        size = 950
+    }
+
+    farmers = {
+        culture = teda
+        religion = catholic
+        size = 9080
+    }
+
+}

@@ -1342,52 +1342,52 @@
 #Ouargla (36000/9000 POPS)
 1711 = {
     aristocrats = {
-        culture = maghrebi
+        culture = tuareg
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = tuareg
         religion = catholic
         size = 265
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = tuareg
         religion = catholic
         size = 30
     }
 
     farmers = {
-        culture = maghrebi
+        culture = tuareg
         religion = catholic
         size = 2730
     }
 
     aristocrats = {
-        culture = berber
+        culture = mzab_ourgla
         religion = catholic
         size = 30
     }
 
     clergymen = {
-        culture = berber
+        culture = mzab_ourgla
         religion = catholic
         size = 70
     }
 
 
     soldiers = {
-        culture = berber
+        culture = mzab_ourgla
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = berber
+        culture = mzab_ourgla
         religion = catholic
-        size = 3700
+        size = 5700
     }
 
     aristocrats = {
@@ -1411,57 +1411,57 @@
     farmers = {
         culture = tuareg
         religion = catholic
-        size = 1900
+        size = 11900
     }
 }
 #Tuggurt (12000/3000 POPS)
 1712 = {
     aristocrats = {
-        culture = haqbaylit
+        culture = tacawit
         religion = catholic
         size = 20
     }
 
     clergymen = {
-        culture = haqbaylit
+        culture = tacawit
         religion = catholic
         size = 30
     }
 
     soldiers = {
-        culture = haqbaylit
+        culture = tacawit
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = haqbaylit
+        culture = tacawit
         religion = catholic
-        size = 2850
+        size = 4850
     }
 
     aristocrats = {
-        culture = tacawit
+        culture = haqbaylit
         religion = catholic
         size = 10
     }
 
     clergymen = {
-        culture = tacawit
+        culture = haqbaylit
         religion = catholic
         size = 20
     }
 
     soldiers = {
-        culture = tacawit
+        culture = haqbaylit
         religion = catholic
         size = 70
     }
 
     farmers = {
-        culture = tacawit
+        culture = haqbaylit
         religion = catholic
-        size = 9900
+        size = 19900
     }
 	
 	soldiers = {
@@ -1777,32 +1777,32 @@
 1718 = {
 
     aristocrats = {
-        culture = berber
+        culture = mzab_ourgla
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = berber
+        culture = mzab_ourgla
         religion = catholic
         size = 50
     }
 
 
     soldiers = {
-        culture = berber
+        culture = mzab_ourgla
         religion = catholic
         size = 1185
     }
 
     farmers = {
-        culture = berber
+        culture = mzab_ourgla
         religion = catholic
         size = 1300
     }
 	
     farmers = {
-        culture = maures
+        culture = mzab_ourgla
         religion = catholic
         size = 3300
     }
@@ -1812,26 +1812,26 @@
     aristocrats = {
         culture = tuareg
         religion = catholic
-        size = 25
+        size = 125
     }
 
     clergymen = {
         culture = tuareg
         religion = catholic
-        size = 15
+        size = 115
     }
 
 
     soldiers = {
         culture = tuareg
         religion = catholic
-        size = 60
+        size = 860
     }
 
     farmers = {
         culture = tuareg
         religion = catholic
-        size = 5900
+        size = 15900
     }
 }
 #Bashar (16000/4000 POPS)
@@ -1944,32 +1944,167 @@
 }
 3430 = {
     aristocrats = {
-        culture = maures
+        culture = tuzzungiyya
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = maures
+        culture = tuzzungiyya
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = maures
+        culture = tuzzungiyya
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = maures
+        culture = tuzzungiyya
         religion = catholic
         size = 5000
     }
 	
 	farmers = {
-        culture = berber
+        culture = mzab_ourgla
         religion = catholic
-        size = 1800
+        size = 4800
+    }
+}
+
+#Tamdjert
+3742 = {
+    aristocrats = {
+        culture = tuareg
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = catholic
+        size = 265
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = catholic
+        size = 30
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = catholic
+        size = 5730
+    }
+
+    aristocrats = {
+        culture = tuareg
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = catholic
+        size = 105
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = catholic
+        size = 1065
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = catholic
+        size = 13900
+    }
+}
+
+#Teggargrent
+3747 = {
+    aristocrats = {
+        culture = mzab_ourgla
+        religion = catholic
+        size = 210
+    }
+
+    clergymen = {
+        culture = mzab_ourgla
+        religion = catholic
+        size = 120
+    }
+
+    soldiers = {
+        culture = mzab_ourgla
+        religion = catholic
+        size = 370
+    }
+
+    farmers = {
+        culture = mzab_ourgla
+        religion = catholic
+        size = 16900
+    }
+	
+	soldiers = {
+        culture = chaotic_latin
+        religion = arianism
+        size = 80
+    }
+
+    farmers = {
+        culture = chaotic_latin
+        religion = arianism
+        size = 1200
+    }
+}
+
+#Tugurt
+3748 = {
+    aristocrats = {
+        culture = haqbaylit
+        religion = catholic
+        size = 310
+    }
+
+    clergymen = {
+        culture = haqbaylit
+        religion = catholic
+        size = 120
+    }
+
+    soldiers = {
+        culture = haqbaylit
+        religion = catholic
+        size = 570
+    }
+
+    farmers = {
+        culture = haqbaylit
+        religion = catholic
+        size = 8900
+    }
+	
+	farmers = {
+        culture = mzab_ourgla
+        religion = catholic
+        size = 4900
+    }
+	
+	soldiers = {
+        culture = chaotic_latin
+        religion = arianism
+        size = 80
+    }
+
+    farmers = {
+        culture = chaotic_latin
+        religion = arianism
+        size = 1200
     }
 }

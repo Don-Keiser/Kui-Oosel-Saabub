@@ -1229,59 +1229,59 @@
     aristocrats = {
         culture = tuareg
         religion = catholic
-        size = 50
+        size = 150
     }
 
     clergymen = {
         culture = tuareg
         religion = catholic
-        size = 75
+        size = 175
     }
 
     artisans = {
         culture = tuareg
         religion = catholic
-        size = 200
+        size = 800
     }
 
     soldiers = {
         culture = tuareg
         religion = catholic
-        size = 50
+        size = 850
     }
 
     farmers = {
         culture = tuareg
         religion = catholic
-        size = 2625
+        size = 12625
     }
 
     aristocrats = {
-        culture = maghrebi
+        culture = songhai
         religion = catholic
         size = 25
     }
 
     clergymen = {
-        culture = maghrebi
+        culture = songhai
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = maghrebi
+        culture = songhai
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = maghrebi
+        culture = songhai
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = maghrebi
+        culture = songhai
         religion = catholic
         size = 800
     }
@@ -1375,26 +1375,89 @@
 }
 3431 = {
     aristocrats = {
-        culture = maures
+        culture = tuzzungiyya
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = maures
+        culture = tuzzungiyya
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = maures
+        culture = tuzzungiyya
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = maures
+        culture = tuzzungiyya
         religion = catholic
         size = 5800
+    }
+}
+
+#Agadez
+3740 = {
+    aristocrats = {
+        culture = tuareg
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = catholic
+        size = 275
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = catholic
+        size = 2200
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = catholic
+        size = 1050
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = catholic
+        size = 32625
+    }
+
+    aristocrats = {
+        culture = hausa
+        religion = catholic
+        size = 25
+    }
+
+    clergymen = {
+        culture = hausa
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = hausa
+        religion = catholic
+        size = 100
+    }
+
+    soldiers = {
+        culture = hausa
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = hausa
+        religion = catholic
+        size = 800
     }
 }

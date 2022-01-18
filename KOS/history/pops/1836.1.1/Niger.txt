@@ -529,31 +529,31 @@
     }
 
     aristocrats = {
-        culture = hausa
+        culture = tuareg
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = hausa
+        culture = tuareg
         religion = catholic
         size = 150
     }
 
     artisans = {
-        culture = hausa
+        culture = tuareg
         religion = catholic
         size = 700
     }
 
     soldiers = {
-        culture = hausa
+        culture = tuareg
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = hausa
+        culture = tuareg
         religion = catholic
         size = 20750
     }
@@ -594,7 +594,13 @@
     farmers = {
         culture = tuareg
         religion = catholic
-        size = 9025
+        size = 6025
+    }
+	
+	farmers = {
+        culture = teda
+        religion = catholic
+        size = 6025
     }
 
     slaves = {
@@ -806,5 +812,83 @@
         culture = fulbe
         religion = catholic
         size = 8000
+    }
+}
+
+#Ouedda
+3741 = {
+    aristocrats = {
+        culture = kanuri
+        religion = catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = kanuri
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = kanuri
+        religion = catholic
+        size = 1850
+    }
+
+    soldiers = {
+        culture = kanuri
+        religion = catholic
+        size = 1825
+    }
+
+    farmers = {
+        culture = kanuri
+        religion = catholic
+        size = 23025
+    }
+	
+	farmers = {
+        culture = tuareg
+        religion = catholic
+        size = 5025
+    }
+
+    slaves = {
+        culture = teda
+        religion = catholic
+        size = 1000
+    }
+}
+
+#Gezzam
+3745 = {
+    aristocrats = {
+        culture = tuareg
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = tuareg
+        religion = catholic
+        size = 275
+    }
+
+    artisans = {
+        culture = tuareg
+        religion = catholic
+        size = 1800
+    }
+
+    soldiers = {
+        culture = tuareg
+        religion = catholic
+        size = 1150
+    }
+
+    farmers = {
+        culture = tuareg
+        religion = catholic
+        size = 18625
     }
 }
