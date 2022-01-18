@@ -1343,25 +1343,25 @@
 1711 = {
     aristocrats = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 25
     }
 
     clergymen = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 265
     }
 
     soldiers = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 30
     }
 
     farmers = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 2730
     }
 
@@ -1392,25 +1392,25 @@
 
     aristocrats = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 25
     }
 
     clergymen = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 15
     }
 
     soldiers = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 65
     }
 
     farmers = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 11900
     }
 }
@@ -1811,26 +1811,25 @@
 1719 = {
     aristocrats = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 125
     }
 
     clergymen = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 115
     }
 
-
     soldiers = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 860
     }
 
     farmers = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 15900
     }
 }
@@ -1978,49 +1977,49 @@
 3742 = {
     aristocrats = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 25
     }
 
     clergymen = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 265
     }
 
     soldiers = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 30
     }
 
     farmers = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 5730
     }
 
     aristocrats = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 25
     }
 
     clergymen = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 105
     }
 
     soldiers = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 1065
     }
 
     farmers = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 13900
     }
 }

@@ -1008,32 +1008,32 @@
 #Salima (8000/2000 POPS)
 2564 = {
     aristocrats = {
-        culture = bedouin
-        religion = sunni
+        culture = fur
+        religion = coptic
         size = 25
     }
 
     clergymen = {
-        culture = bedouin
-        religion = sunni
+        culture = fur
+        religion = coptic
         size = 50
     }
 
     artisans = {
-        culture = bedouin
-        religion = sunni
+        culture = fur
+        religion = coptic
         size = 100
     }
 
     soldiers = {
-        culture = bedouin
-        religion = sunni
+        culture = fur
+        religion = coptic
         size = 25
     }
 
     farmers = {
-        culture = bedouin
-        religion = sunni
+        culture = fur
+        religion = coptic
         size = 1100
     }
 }
@@ -1041,32 +1041,32 @@
 #1817
 1817 = {
     clergymen = {
-        culture = bedouin
-        religion = sunni
+        culture = fur
+        religion = coptic
         size = 50
     }
 
     artisans = {
-        culture = bedouin
-        religion = sunni
+        culture = fur
+        religion = coptic
         size = 100
     }
 
     soldiers = {
-        culture = bedouin
-        religion = sunni
+        culture = fur
+        religion = coptic
         size = 25
     }
 
     farmers = {
-        culture = bedouin
-        religion = sunni
+        culture = fur
+        religion = coptic
         size = 500
     }
 
     farmers = {
         culture = fur
-        religion = sunni
+        religion = coptic
         size = 500
     }
 }
@@ -1109,37 +1109,37 @@
 1838 = {
     aristocrats = {
         culture = sudanese
-        religion = sunni
+        religion = coptic
         size = 500
     }
 
     officers = {
         culture = sudanese
-        religion = sunni
+        religion = coptic
         size = 100
     }
 
     clergymen = {
         culture = sudanese
-        religion = sunni
+        religion = coptic
         size = 50
     }
 
     artisans = {
         culture = sudanese
-        religion = sunni
+        religion = coptic
         size = 1100
     }
 
     soldiers = {
         culture = sudanese
-        religion = sunni
+        religion = coptic
         size = 450
     }
 
     farmers = {
         culture = sudanese
-        religion = sunni
+        religion = coptic
         size = 23900
     }
 
@@ -1370,31 +1370,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = fur
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = bedouin
+        culture = fur
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = fur
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = bedouin
+        culture = fur
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = bedouin
+        culture = fur
         religion = sunni
         size = 3650
     }

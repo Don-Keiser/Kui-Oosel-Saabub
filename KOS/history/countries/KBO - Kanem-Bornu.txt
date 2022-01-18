@@ -1,14 +1,15 @@
 capital = 1951
 primary_culture = kanuri
 culture = hausa
-culture = bedouin
+culture = sara
 culture = fulbe
-religion = sunni
-government = absolute_monarchy
+religion = catholic
+government = theocracy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
 non_state_culture_literacy = 0.01
+prestige = 14
 
 # Political reforms
 slavery = yes_slavery
@@ -52,12 +53,24 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = lacking_writing_system
-set_country_flag = sunni_country
+set_country_flag = catholic_country
 
-# Technologies
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+foreign_officers = yes_foreign_officers
+foreign_artillery = yes_foreign_artillery
+monetary_reform = yes_monetary_reform
+education_reform = yes_education_reform
+
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
 
 # Inventions
+#bottling_process = yes
+modern_winemaking = yes
+small_arms_production = yes
+ammunition_production = yes
+
 
 # Starting Consciousness
 consciousness = 0

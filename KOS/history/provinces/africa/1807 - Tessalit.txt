@@ -1,3 +1,5 @@
+owner = KDG
+controller = KDG
+add_core = KDG
 trade_goods = wool
-life_rating = 10
-colonial = 1
+life_rating = 32

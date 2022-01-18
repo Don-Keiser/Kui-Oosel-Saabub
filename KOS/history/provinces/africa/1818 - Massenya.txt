@@ -1,6 +1,7 @@
-owner = BRM
-controller = BRM
+owner = KBO
+controller = KBO
+add_core = KBO
 add_core = BRM
 trade_goods = grain
 terrain = semidesert
-life_rating = 32
+life_rating = 35

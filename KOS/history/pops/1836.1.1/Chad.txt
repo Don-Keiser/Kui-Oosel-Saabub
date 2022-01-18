@@ -42,49 +42,49 @@
     farmers = {
         culture = sara
         religion = catholic
-        size = 10000
+        size = 17000
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
         size = 200
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
         size = 100
     }
 
     officers = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
-        size = 13458
+        size = 6458
     }
 
     aristocrats = {
@@ -290,31 +290,31 @@
     }
 
     farmers = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
         size = 1000
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
         size = 125
     }
 
     clergymen = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = bedouin
+        culture = kanuri
         religion = catholic
         size = 3000
     }
@@ -440,43 +440,43 @@
     farmers = {
         culture = teda
         religion = catholic
-        size = 20183
+        size = 10183
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 300
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 1000
     }
 
     farmers = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
-        size = 7000
+        size = 17000
     }
 
     slaves = {
@@ -496,37 +496,37 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 350
     }
 
     soldiers = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 7300
     }
@@ -564,31 +564,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = bedouin
+        culture = baguirmi
         religion = catholic
         size = 7269
     }
@@ -667,7 +667,7 @@
     farmers = {
         culture = teda
         religion = catholic
-        size = 19216
+        size = 10216
     }
 
     aristocrats = {
@@ -707,9 +707,9 @@
     }
 
     farmers = {
-        culture = kanuri
+        culture = baguirmi
         religion = catholic
-        size = 5010
+        size = 10010
     }
 
     slaves = {

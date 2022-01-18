@@ -927,6 +927,10 @@ ARI		= "countries/Ariania.txt"
 WHU		= "countries/White Huns.txt"
 SHH		= "countries/Shahis.txt"
 PNC		= "countries/Pinancheou.txt"
+KLA     = "countries/Kel Ahaggar.txt"
+KJJ		= "countries/Kel Ajjer.txt"
+KDG		= "countries/Kel Adagh.txt"
+KIR		= "countries/Kel Air.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

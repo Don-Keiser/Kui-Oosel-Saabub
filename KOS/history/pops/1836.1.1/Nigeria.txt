@@ -2727,7 +2727,7 @@
 	
 	farmers = {
         culture = tuareg
-        religion = catholic
+        religion = arianism
         size = 6625
     }
 }

@@ -1,3 +1,6 @@
+owner = KBO
+controller = KBO
+add_core = KBO
 add_core = DAM
 trade_goods = wool
 life_rating = 32
