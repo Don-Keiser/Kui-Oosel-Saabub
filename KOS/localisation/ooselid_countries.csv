@@ -627,7 +627,8 @@ ooselskia;Ooselskia;x;;;;
 modern_pagan;Modern Paganism;x;;;;
 asatru;Asatru;x;;;;
 arianism;Arianism;x;;;;
-manichaean;Manichaean;x;;;;
+manichaean;Manichaean;x;;;;<
+kemetic;Kemetic;x;;;;
 change_province_names_OOS_title;Ooselmaa is Ooselid!;x;
 change_province_names_OOS_desc;Our Nation beautiful lands need Ooselid names!;x;
 change_province_names_GYO_title;Gyozelesziget is Gyozeleszi!;x;

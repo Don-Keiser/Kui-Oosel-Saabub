@@ -1,5 +1,4 @@
-owner = DTW
-controller = DTW
 add_core = DTW
 trade_goods = wool
 life_rating = 32
+colonial = 1
