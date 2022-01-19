@@ -1,3 +1,5 @@
-trade_goods = wool
-life_rating = 10
-colonial = 1
+owner = TBT
+controller = TBT
+add_core = TBT
+trade_goods = fruit
+life_rating = 35

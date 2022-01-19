@@ -1,5 +1,6 @@
-owner = DAR
-controller = DAR
+owner = DTW
+controller = DTW
+add_core = DTW
 add_core = DAR
 trade_goods = grain
 life_rating = 35

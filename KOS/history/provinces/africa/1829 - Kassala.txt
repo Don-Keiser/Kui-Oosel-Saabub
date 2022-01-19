@@ -1,7 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = SUD
+owner = ALO
+controller = ALO
+add_core = ALO
 trade_goods = wool
 terrain = semidesert
 life_rating = 32

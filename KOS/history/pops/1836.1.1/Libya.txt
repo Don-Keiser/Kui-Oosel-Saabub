@@ -784,25 +784,25 @@
 
     aristocrats = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 15
     }
 
     clergymen = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 25
     }
 
     artisans = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 50
     }
 
     farmers = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 2910
     }
 }
@@ -922,7 +922,7 @@
 	
 	farmers = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 1175
     }
 }
@@ -1137,7 +1137,7 @@
 
     farmers = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 3100
     }
 
@@ -1147,31 +1147,31 @@
 3743 = {
     aristocrats = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 350
     }
 
     clergymen = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 225
     }
 
     artisans = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 2050
     }
 
     soldiers = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 2100
     }
 
     farmers = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 18080
     }
 
@@ -1181,31 +1181,31 @@
 3744 = {
     aristocrats = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 150
     }
 
     clergymen = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 125
     }
 
     artisans = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 850
     }
 
     soldiers = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 950
     }
 
     farmers = {
         culture = teda
-        religion = catholic
+        religion = arianism
         size = 9080
     }
 

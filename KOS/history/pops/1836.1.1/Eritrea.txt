@@ -4,73 +4,73 @@
 1849 = {
     aristocrats = {
         culture = tigray
-        religion = sunni
+        religion = coptic
         size = 50
     }
 
     clergymen = {
         culture = tigray
-        religion = sunni
+        religion = coptic
         size = 75
     }
 
     artisans = {
         culture = tigray
-        religion = sunni
+        religion = coptic
         size = 150
     }
 
     soldiers = {
         culture = tigray
-        religion = sunni
+        religion = coptic
         size = 25
     }
 
     farmers = {
         culture = tigray
-        religion = sunni
+        religion = coptic
         size = 2700
     }
 
     bureaucrats = {
-        culture = misri
-        religion = sunni
+        culture = sudanese
+        religion = coptic
         size = 5
     }
 
     soldiers = {
-        culture = misri
-        religion = sunni
+        culture = sudanese
+        religion = coptic
         size = 20
     }
 
     aristocrats = {
-        culture = bedouin
-        religion = sunni
+        culture = sudanese
+        religion = coptic
         size = 75
     }
 
     clergymen = {
-        culture = bedouin
-        religion = sunni
+        culture = sudanese
+        religion = coptic
         size = 75
     }
 
     artisans = {
-        culture = bedouin
-        religion = sunni
+        culture = sudanese
+        religion = coptic
         size = 200
     }
 
     soldiers = {
-        culture = bedouin
-        religion = sunni
+        culture = sudanese
+        religion = coptic
         size = 25
     }
 
     farmers = {
-        culture = bedouin
-        religion = sunni
+        culture = sudanese
+        religion = coptic
         size = 3600
     }
 }

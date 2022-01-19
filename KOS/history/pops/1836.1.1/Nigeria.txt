@@ -1882,13 +1882,13 @@
 #Hadejia (416000/104000 POPS)
 1949 = {
     aristocrats = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 1150
     }
 
     clergymen = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 600
     }
@@ -1900,7 +1900,7 @@
     }
 
     soldiers = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 600
     }
@@ -1930,7 +1930,7 @@
     }
 
     soldiers = {
-        culture = hausa
+        culture = kanuri
         religion = fetishist
         size = 125
     }
@@ -1966,7 +1966,7 @@
     }
 
     soldiers = {
-        culture = fulbe
+        culture = kanuri
         religion = catholic
         size = 350
     }
@@ -1982,62 +1982,62 @@
 #Yola (140000/35000 POPS)
 1950 = {
     aristocrats = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 50
     }
 
     clergymen = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 3650
     }
 
     aristocrats = {
         culture = hausa
-        religion = fetishist
+        religion = catholic
         size = 25
     }
 
     clergymen = {
         culture = hausa
-        religion = fetishist
+        religion = catholic
         size = 50
     }
 
     artisans = {
         culture = hausa
-        religion = fetishist
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = hausa
-        religion = fetishist
+        religion = catholic
         size = 25
     }
 
     farmers = {
         culture = hausa
-        religion = fetishist
+        religion = catholic
         size = 1800
     }
 

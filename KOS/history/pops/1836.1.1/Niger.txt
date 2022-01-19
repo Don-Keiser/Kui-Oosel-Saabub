@@ -614,19 +614,19 @@
 #Zinder (464000/116000 POPS)
 1815 = {
     aristocrats = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 1500
     }
 
     bureaucrats = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 600
     }
 
     clergymen = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 800
     }
@@ -638,7 +638,7 @@
     }
 
     soldiers = {
-        culture = hausa
+        culture = kanuri
         religion = catholic
         size = 1300
     }
@@ -646,7 +646,7 @@
     farmers = {
         culture = hausa
         religion = catholic
-        size = 79900
+        size = 59900
     }
 
     aristocrats = {
@@ -676,13 +676,13 @@
     farmers = {
         culture = songhai
         religion = catholic
-        size = 10850
+        size = 20850
     }
 
-    slaves = {
-        culture = songhai
-        religion = fetishist
-        size = 10000
+    farmers = {
+        culture = kanuri
+        religion = catholic
+        size = 20000
     }
 
     aristocrats = {
@@ -745,7 +745,7 @@
     farmers = {
         culture = kanuri
         religion = catholic
-        size = 17600
+        size = 67600
     }
 
     aristocrats = {
@@ -805,7 +805,7 @@
     farmers = {
         culture = hausa
         religion = catholic
-        size = 61600
+        size = 11600
     }
 
     slaves = {

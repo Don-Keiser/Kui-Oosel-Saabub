@@ -1,6 +1,5 @@
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = SUD
+owner = ALO
+controller = ALO
+add_core = ALO
 trade_goods = fish
-life_rating = 31
+life_rating = 32
