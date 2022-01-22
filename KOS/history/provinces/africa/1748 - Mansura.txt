@@ -1,6 +1,5 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = COP
+controller = COP
 add_core = COP
 trade_goods = fruit
 life_rating = 40
