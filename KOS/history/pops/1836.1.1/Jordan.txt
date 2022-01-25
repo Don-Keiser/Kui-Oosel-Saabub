@@ -107,80 +107,80 @@
 #Jerash (16000/4000 POPS) #now part of Jordan
 909 = {
     aristocrats = {
-        culture = mashriqi
-        religion = sunni
+        culture = nabataean
+        religion = syriac
         size = 35
     }
 
     clergymen = {
-        culture = mashriqi
-        religion = sunni
+        culture = nabataean
+        religion = syriac
         size = 75
     }
 
     artisans = {
-        culture = mashriqi
-        religion = sunni
+        culture = nabataean
+        religion = syriac
         size = 100
     }
 
     soldiers = {
-        culture = mashriqi
-        religion = sunni
-        size = 25
+        culture = nabataean
+        religion = syriac
+        size = 50
     }
 
     farmers = {
-        culture = mashriqi
-        religion = sunni
-        size = 2215
+        culture = nabataean
+        religion = syriac
+        size = 2300
     }
 
     aristocrats = {
-        culture = bedouin
-        religion = sunni
+        culture = outremer
+        religion = catholic
         size = 15
     }
 
     clergymen = {
-        culture = bedouin
-        religion = sunni
+        culture =outremer
+        religion = catholic
         size = 15
     }
 
     artisans = {
-        culture = bedouin
-        religion = sunni
+        culture = outremer
+        religion = catholic
         size = 35
     }
 
     soldiers = {
-        culture = bedouin
-        religion = sunni
+        culture = outremer
+        religion = catholic
         size = 25
     }
 
     farmers = {
-        culture = bedouin
-        religion = sunni
-        size = 910
+        culture = outremer
+        religion = catholic
+        size = 650
     }
 
     clergymen = {
         culture = syriac
-        religion = orthodox
+        religion = syriac
         size = 100
     }
 
     artisans = {
         culture = syriac
-        religion = orthodox
+        religion = syriac
         size = 100
     }
 
     farmers = {
         culture = syriac
-        religion = orthodox
+        religion = syriac
         size = 500
     }
 }
