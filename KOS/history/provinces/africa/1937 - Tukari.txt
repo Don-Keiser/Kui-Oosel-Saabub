@@ -1,2 +1,5 @@
+owner = WKR
+controller = WKR
+add_core = WKR
 trade_goods = cattle
 life_rating = 35

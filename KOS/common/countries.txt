@@ -934,6 +934,16 @@ KIR		= "countries/Kel Air.txt"
 DTW		= "countries/Dotawo.txt"
 TBT		= "countries/Tibesti.txt"
 ALO		= "countries/Alodia.txt"
+HKB		= "countries/Kebbi.txt"
+HKN		= "countries/Kano.txt"
+HKT		= "countries/Katsina.txt"
+IGL		= "countries/Igala.txt"
+HBC		= "countries/Bauchi.txt"
+WKR		= "countries/Wukari.txt"
+GIR		= "countries/Gobir.txt"
+GWR		= "countries/Gwari.txt"
+KWF		= "countries/Kwararafa.txt"
+NUP		= "countries/Nupe.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

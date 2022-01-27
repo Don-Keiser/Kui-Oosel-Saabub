@@ -1,2 +1,5 @@
+owner = HKB
+controller = HKB
+add_core = HKB
 trade_goods = fruit
 life_rating = 35

@@ -1,4 +1,6 @@
-add_core = DND
+owner = HKN
+controller = HKN
+add_core = HKN
 trade_goods = cattle
 terrain = semidesert
 life_rating = 35

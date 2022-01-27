@@ -1,6 +1,6 @@
-owner = ARO
-controller = ARO
-add_core = BEN
+owner = IGL
+controller = IGL
+add_core = IGL
 add_core = ARO
 add_core = OYO
 trade_goods = cattle

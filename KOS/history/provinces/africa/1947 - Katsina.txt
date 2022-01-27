@@ -1,3 +1,6 @@
+owner = HKT
+controller = HKT
+add_core = HKT
 trade_goods = grain
 terrain = semidesert
 life_rating = 35
