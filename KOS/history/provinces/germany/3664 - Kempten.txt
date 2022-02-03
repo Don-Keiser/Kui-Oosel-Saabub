@@ -1,0 +1,5 @@
+owner = KMP
+controller = KMP
+add_core = KMP
+trade_goods = grain
+life_rating = 35

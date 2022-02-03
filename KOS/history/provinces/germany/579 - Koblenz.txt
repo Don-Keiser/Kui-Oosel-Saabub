@@ -1,6 +1,6 @@
-owner = WES
-controller = WES
-add_core = WES
+owner = NEU
+controller = NEU
+add_core = NEU
 trade_goods = grain
 life_rating = 40
 1861.1.1 = { railroad = 3 }

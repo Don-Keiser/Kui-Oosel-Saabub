@@ -1,0 +1,5 @@
+owner = MEM
+controller = MEM
+add_core = MEM
+trade_goods = grain
+life_rating = 35

@@ -1,14 +1,12 @@
 capital = 3712
-primary_culture = north_rheinian
+primary_culture = rheinian
 religion = protestant
-government = theocracy
+government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
-
-set_country_flag = theocratic_government
 
 # Technologies
 post_napoleonic_thought = 1

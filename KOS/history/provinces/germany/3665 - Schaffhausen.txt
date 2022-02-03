@@ -1,6 +1,6 @@
-owner = IRE
-controller = IRE
-add_core = IRE
+owner = SCF
+controller = SCF
+add_core = SCF
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = { railroad = 3 }

@@ -1,6 +1,6 @@
-owner = WES
-controller = WES
-add_core = WES
+owner = WTZ
+controller = WTZ
+add_core = WTZ
 trade_goods = iron
 life_rating = 40
 terrain = farmlands

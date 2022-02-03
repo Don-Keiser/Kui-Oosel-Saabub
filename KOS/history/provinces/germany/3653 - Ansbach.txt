@@ -1,7 +1,6 @@
-owner = IRE
-controller = IRE
-add_core = IRE
+owner = BAV
+controller = BAV
+add_core = BAV
 trade_goods = grain
 life_rating = 35
-fort = 1
 1861.1.1 = { railroad = 3 }

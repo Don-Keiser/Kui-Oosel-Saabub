@@ -1,5 +1,5 @@
-owner = BAV
-controller = BAV
+owner = NUM
+controller = NUM
 add_core = BAV
 add_core = NUM
 trade_goods = grain

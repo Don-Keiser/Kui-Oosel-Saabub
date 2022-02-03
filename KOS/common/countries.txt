@@ -944,6 +944,18 @@ GIR		= "countries/Gobir.txt"
 GWR		= "countries/Gwari.txt"
 KWF		= "countries/Kwararafa.txt"
 NUP		= "countries/Nupe.txt"
+WTZ		= "countries/Wetzlar.txt"
+ESS		= "countries/Essen.txt"
+NEU		= "countries/Neuwied.txt"
+ZVE		= "countries/Zveibrucken.txt"
+MNN		= "countries/Meiningen.txt"
+ROT		= "countries/Rothenburg.txt"
+NEB		= "countries/Neuburg.txt"
+MEM		= "countries/Memmingen.txt"
+KMP		= "countries/Kempten.txt"
+SCF		= "countries/Schaffhausen.txt"
+BSL		= "countries/Basel.txt"
+SPE		= "countries/Speyer.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

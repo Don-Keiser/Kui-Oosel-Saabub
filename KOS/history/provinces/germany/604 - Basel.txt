@@ -1,5 +1,6 @@
-owner = WUR
-controller = WUR
+owner = BSL
+controller = BSL
+add_core = BSL
 add_core = WUR
 add_core = SWI
 trade_goods = precious_goods
