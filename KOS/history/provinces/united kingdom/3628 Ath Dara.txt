@@ -1,5 +1,5 @@
-owner = IRE
-controller = IRE
-add_core = IRE
-trade_goods = fish
+owner = VGL
+controller = VGL
+add_core = VGL
+trade_goods = grain
 life_rating = 35

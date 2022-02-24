@@ -1,5 +1,5 @@
-owner = IRE
-controller = IRE
-add_core = IRE
-trade_goods = grain
+owner = HUN
+controller = HUN
+add_core = HUN
+trade_goods = coal
 life_rating = 35

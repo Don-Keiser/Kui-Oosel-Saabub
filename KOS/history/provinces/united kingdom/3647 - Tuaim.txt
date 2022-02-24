@@ -1,7 +1,6 @@
-owner = IRE
-controller = IRE
-add_core = IRE
-trade_goods = cattle
+owner = MDV
+controller = MDV
+add_core = MDV
+trade_goods = grain
 life_rating = 35
-naval_base = 1
 1861.1.1 = { railroad = 3 }

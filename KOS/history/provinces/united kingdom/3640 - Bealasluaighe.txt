@@ -1,5 +1,5 @@
-owner = IRE
-controller = IRE
-add_core = IRE
-trade_goods = cattle
+owner = WAL
+controller = WAL
+add_core = WAL
+trade_goods = fruit
 life_rating = 35
