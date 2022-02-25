@@ -1,6 +1,5 @@
-owner = MDV
-controller = MDV
-add_core = MDV
-add_core = ROM
+owner = BST
+controller = BST
+add_core = BST
 trade_goods = fruit
 life_rating = 35

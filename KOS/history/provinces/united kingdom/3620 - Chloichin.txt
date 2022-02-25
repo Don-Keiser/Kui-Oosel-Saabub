@@ -1,5 +1,5 @@
-owner = ETL
-controller = ETL
-add_core = ETL
+owner = BEC
+controller = BEC
+add_core = BEC
 trade_goods = fruit
 life_rating = 35

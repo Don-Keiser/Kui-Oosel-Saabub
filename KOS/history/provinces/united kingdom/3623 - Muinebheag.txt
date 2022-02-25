@@ -1,5 +1,5 @@
-owner = WAL
-controller = WAL
-add_core = WAL
+owner = GET
+controller = GET
+add_core = GET
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,5 @@
-owner = MDV
-controller = MDV
-add_core = MDV
-add_core = ROM
+owner = CRP
+controller = CRP
+add_core = CRP
 trade_goods = grain
 life_rating = 35

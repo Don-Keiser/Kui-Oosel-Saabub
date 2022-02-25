@@ -956,6 +956,13 @@ KMP		= "countries/Kempten.txt"
 SCF		= "countries/Schaffhausen.txt"
 BSL		= "countries/Basel.txt"
 SPE		= "countries/Speyer.txt"
+WAC		= "countries/Wacyruxs.txt"
+GET		= "countries/Getae.txt"
+CRP		= "countries/Carpiani.txt"
+CSB		= "countries/Costoboci.txt"
+BST		= "countries/Bastarnae.txt"
+DCM		= "countries/Dacia Minor.txt"
+BEC		= "countries/Becenegi.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

@@ -1,12 +1,5 @@
-owner = WAL
-controller = WAL
-add_core = WAL
-add_core = ROM
-
+owner = GET
+controller = GET
+add_core = GET
 trade_goods = wool
 life_rating = 35
-
-1861.1.1 = {
-    controller = ROM
-    owner = ROM
-}

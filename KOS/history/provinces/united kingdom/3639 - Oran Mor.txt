@@ -1,5 +1,5 @@
-owner = MDV
-controller = MDV
-add_core = MDV
+owner = CSB
+controller = CSB
+add_core = CSB
 trade_goods = cattle
 life_rating = 35
