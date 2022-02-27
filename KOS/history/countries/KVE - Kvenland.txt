@@ -1,5 +1,5 @@
 capital = 318
-primary_culture = swedish
+primary_culture = kvaani
 religion = asatru
 government = absolute_monarchy
 plurality = 5.0

@@ -1,13 +1,12 @@
 capital = 1745
 primary_culture = copt
-culture = misri
+culture = kushite
 religion = coptic
 government = absolute_monarchy
-plurality = 0.0
+plurality = 0.20
 nationalvalue = nv_tradition
-literacy = 0.01
-non_state_culture_literacy = 0.01
-is_releasable_vassal = no
+literacy = 0.10
+civilized = yes
 
 # Political reforms
 slavery = yes_slavery
@@ -49,5 +48,24 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+# Technologies
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+army_command_principle = 1
+post_nelsonian_thought = 1
+the_command_principle = 1
+private_banks = 1
+no_standard = 1
+guild_based_production = 1
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+enlightenment_thought = 1
+piston_steam_engine = 1
+mechanical_production = 1
+
+# Inventions
+gendarmerie = yes
 
 set_country_flag = coptic_country

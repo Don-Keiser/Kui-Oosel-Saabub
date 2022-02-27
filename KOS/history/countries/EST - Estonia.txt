@@ -1,5 +1,7 @@
 capital = 349
 primary_culture = estonian
+culture = votic
+culture = ingrian
 religion = protestant
 government = absolute_monarchy
 plurality = 0.2
