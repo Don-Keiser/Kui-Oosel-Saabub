@@ -271,68 +271,6 @@
         size = 4550
     }
 }
-#Savannakhet (80000/20000 POPS)
-1361 = {
-    aristocrats = {
-        culture = khmer
-        religion = theravada
-        size = 250
-    }
-
-    clergymen = {
-        culture = khmer
-        religion = theravada
-        size = 150
-    }
-
-    artisans = {
-        culture = khmer
-        religion = theravada
-        size = 750
-    }
-
-    soldiers = {
-        culture = khmer
-        religion = theravada
-        size = 150
-    }
-
-    farmers = {
-        culture = khmer
-        religion = theravada
-        size = 13700
-    }
-
-    aristocrats = {
-        culture = asian_minor
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = animist
-        size = 250
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = animist
-        size = 50
-    }
-
-    farmers = {
-        culture = asian_minor
-        religion = animist
-        size = 4550
-    }
-}
 #Vinh (524000/131000 POPS)
 1376 = {
     aristocrats = {

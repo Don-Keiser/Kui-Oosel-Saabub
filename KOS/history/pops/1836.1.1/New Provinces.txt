@@ -223,37 +223,6 @@
         size = 15475
     }
 }
-ä3700 = {
-    aristocrats = {
-        culture = cree
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = cree
-        religion = animist
-        size = 250
-    }
-
-    artisans = {
-        culture = cree
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 15475
-    }
-}
 
 3699 = {
     aristocrats = {
@@ -383,70 +352,6 @@
     }
 }
 
-3696 = {
-    aristocrats = {
-        culture = cree
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = cree
-        religion = animist
-        size = 250
-    }
-
-    artisans = {
-        culture = cree
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 15475
-    }
-}
-
-3696 = {
-    aristocrats = {
-        culture = cree
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = cree
-        religion = animist
-        size = 250
-    }
-
-    artisans = {
-        culture = cree
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 15475
-    }
-}
-
 3695 = {
     aristocrats = {
         culture = cree
@@ -480,38 +385,6 @@
 }
 
 3694 = {
-    aristocrats = {
-        culture = cree
-        religion = animist
-        size = 100
-    }
-
-    clergymen = {
-        culture = cree
-        religion = animist
-        size = 250
-    }
-
-    artisans = {
-        culture = cree
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 15475
-    }
-}
-
-3693 = {
     aristocrats = {
         culture = cree
         religion = animist

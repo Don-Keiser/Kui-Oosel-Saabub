@@ -57,7 +57,7 @@
         size = 2000
     }
 
-    artisans = gaidhlig
+    artisans = {
         culture = british
         religion = reformed
         size = 4000

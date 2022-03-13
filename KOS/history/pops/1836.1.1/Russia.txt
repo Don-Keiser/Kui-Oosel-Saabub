@@ -7000,7 +7000,7 @@
         size = 225
     }
 
-    clergymen = mansi
+    clergymen = {
         culture = mansi
         religion = animist
         size = 500

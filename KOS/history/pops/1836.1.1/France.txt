@@ -4760,25 +4760,25 @@
 	}
 	
 	farmers = {
-		culture = ligure
+		culture = french
 		religion = catholic
 		size = 825
 	}
 	
     aristocrats = {
-		culture = ligure
+		culture = french
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = ligure
+		culture = french
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = ligure
+		culture = french
 		religion = catholic
 		size = 250
 	}
@@ -4790,12 +4790,12 @@
 	}
 
 	farmers = {
-		culture = ligure
+		culture = french
 		religion = catholic
 		size = 1225
 	}
 	artisans = {
-		culture = ligure
+		culture = french
 		religion = catholic
 		size = 250
 	}

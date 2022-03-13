@@ -1317,7 +1317,7 @@
     farmers = {
         culture = west_krevin
         religion = protestant
-        size = catholic
+        size = 6000
     }
 
     farmers = {
