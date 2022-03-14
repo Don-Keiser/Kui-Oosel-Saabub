@@ -3897,7 +3897,7 @@
 	farmers = {
 		culture = gascon
 		religion = catholic
-		size = 44700
+		size = 84700
 	}
 
 	farmers = {
@@ -3933,7 +3933,7 @@
 	farmers = {
 		culture = basque
 		religion = catholic
-		size = 51300
+		size = 11300
 	}
 
 }
@@ -4039,13 +4039,13 @@
     farmers = {
         culture = gascon
         religion = catholic
-        size = 34700
+        size = 14700
     }
 
     farmers = {
         culture = basque
         religion = catholic
-        size = 30000
+        size = 50000
     }
 
     farmers = {
@@ -4953,5 +4953,62 @@
         culture = occitan
         religion = catholic
         size = 25000
+    }
+}
+
+#Toul
+3650 = {
+    aristocrats = {
+        culture = lorrain
+        religion = catholic
+        size = 750
+    }
+
+    officers = {
+        culture = lorrain
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = lorrain
+        religion = catholic
+        size = 525
+    }
+
+    artisans = {
+        culture = lorrain
+        religion = catholic
+        size = 3900
+    }
+	
+	soldiers = {
+        culture = lorrain
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = lorrain
+        religion = catholic
+        size = 29500
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1650
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 9006
     }
 }

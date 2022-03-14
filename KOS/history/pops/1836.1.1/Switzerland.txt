@@ -224,87 +224,93 @@
 #Bern (352000/88000 POPS)
 605 = {
     aristocrats = {
-        culture = arpitan
+        culture = romansh
         religion = reformed
         size = 350
     }
 
     capitalists = {
-        culture = arpitan
+        culture = romansh
         religion = reformed
         size = 100
     }
 
     officers = {
-        culture = arpitan
+        culture = romansh
         religion = reformed
         size = 350
     }
 
     bureaucrats = {
-        culture = arpitan
+        culture = romansh
         religion = reformed
         size = 800
     }
 
     clergymen = {
-        culture = arpitan
+        culture = romansh
         religion = reformed
         size = 625
     }
 
     clerks = {
-        culture = arpitan
+        culture = romansh
         religion = reformed
         size = 100
     }
 
     craftsmen = {
-        culture = arpitan
+        culture = romansh
         religion = reformed
         size = 1500
     }
 
     artisans = {
-        culture = arpitan
+        culture = romansh
         religion = reformed
         size = 4500
     }
 
     soldiers = {
-        culture = arpitan
+        culture = romansh
         religion = reformed
         size = 1100
     }
 
     farmers = {
+        culture = romansh
+        religion = reformed
+        size = 50000
+    }
+	
+	farmers = {
         culture = arpitan
         religion = reformed
-        size = 79000
+        size = 29000
     }
 }
 #Lucerne (204000/51000 POPS)
 606 = {
     aristocrats = {
-        culture = arpitan
+        culture = romansh
         religion = catholic
         size = 175
     }
 
     clergymen = {
-        culture = arpitan
+        culture = romansh
         religion = catholic
         size = 350
     }
 
     artisans = {
-        culture = arpitan
+        culture = romansh
         religion = catholic
         size = 3500
     }
 
     soldiers = {
-        culture = arpitan
+        culture = romansh
         religion = catholic
         size = 1100
     }
@@ -312,13 +318,13 @@
     farmers = {
         culture = arpitan
         religion = catholic
-        size = 18975
+        size = 4975
     }
 	
 	farmers = {
         culture = romansh
         religion = catholic
-        size = 12975
+        size = 26975
     }
 
 }
@@ -831,32 +837,101 @@
 #Brig (POPS taken from Sitten)
 3272 = {
     aristocrats = {
-        culture = arpitan
+        culture = romansh
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = arpitan
+        culture = romansh
         religion = catholic
         size = 90
     }
 
     artisans = {
-        culture = arpitan
+        culture = romansh
         religion = catholic
         size = 550
     }
 
     soldiers = {
-        culture = arpitan
+        culture = romansh
         religion = catholic
         size = 1100
     }
 
     farmers = {
+        culture = romansh
+        religion = catholic
+        size = 7035
+    }
+	
+	farmers = {
         culture = arpitan
         religion = catholic
-        size = 11135
+        size = 4135
+    }
+}
+
+#Schaffhausen
+3665 = {
+    aristocrats = {
+        culture = romansh
+        religion = catholic
+        size = 1750
+    }
+
+    bureaucrats = {
+        culture = romansh
+        religion = catholic
+        size = 105
+    }
+
+    officers = {
+        culture = romansh
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = south_rheinian
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = south_rheinian
+        religion = catholic
+        size = 2800
+    }
+	
+	soldiers = {
+        culture = south_rheinian
+        religion = catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = south_rheinian
+        religion = catholic
+        size = 19500
+    }
+
+    clergymen = {
+        culture = romansh
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = romansh
+        religion = catholic
+        size = 1650
+    }
+
+    farmers = {
+        culture = romansh
+        religion = catholic
+        size = 4006
     }
 }

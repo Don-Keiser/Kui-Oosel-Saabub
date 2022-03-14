@@ -656,7 +656,7 @@
     }
 
     artisans = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 2200
     }
@@ -668,7 +668,7 @@
     }
 
     farmers = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 25775
     }
@@ -1140,43 +1140,43 @@
     }
 
     aristocrats = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 500
     }
 
     officers = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 9000
     }
 
     soldiers = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 16125
     }
@@ -1214,31 +1214,31 @@
     }
 
     aristocrats = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 200
     }
 
     artisans = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 18600
     }
@@ -1557,49 +1557,49 @@
 #Valencia (420000/105000 POPS)
 503 = {
     aristocrats = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 1100
     }
 
     officers = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 175
     }
 
     bureaucrats = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 275
     }
 
     clergymen = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 37900
     }
@@ -1717,33 +1717,39 @@
 #Alicante (384000/96000 POPS)
 505 = {
     aristocrats = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 1100
     }
 
     clergymen = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 525
     }
 
     artisans = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 2500
     }
 
     soldiers = {
-        culture = toledano
+        culture = aragonese
         religion = catholic
         size = 550
     }
 
     farmers = {
+        culture = aragonese
+        religion = catholic
+        size = 19825
+    }
+	
+	farmers = {
         culture = toledano
         religion = catholic
-        size = 49825
+        size = 30825
     }
 
     aristocrats = {
