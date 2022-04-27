@@ -43,14 +43,14 @@ VUT = {
 }
 
 # Kantapuumaa
-KAU = {
+KNT = {
     color1= { 225 240 170 }
     color2= { 255 255 255 }
     color3= { 193 26 14  }
 }
 
 # Kaupmeesmaa
-MGI = {
+KAU = {
     color1= { 45 75 119 }
     color2= { 255 255 255 }
     color3= { 193 26 14  }

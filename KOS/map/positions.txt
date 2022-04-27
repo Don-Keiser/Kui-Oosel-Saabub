@@ -5346,7 +5346,8 @@
     text_scale = 4
     building_position = {
         fort = {
-            y = 0
+            x = 1298.400000
+            y = 1789.900000
         }
 
     }
@@ -32168,12 +32169,11 @@
 
 798 = {
     text_position = {
-        x = 3151.450000
-        y = 1497.550000
+        x = 3151.650000
+        y = 1498.050000
     }
 
-    text_scale = 2.700000
-    text_scale = 2.0
+    text_scale = 2.600000
     unit = {
         x = 3151.000000
         y = 1498.700000
@@ -126400,7 +126400,8 @@
     text_scale = 3.6
     building_position = {
         railroad = {
-            y = 20000
+            x = 920.116667
+            y = 1736.650000
         }
 
     }

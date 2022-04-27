@@ -1,5 +1,5 @@
 capital = 552
-primary_culture = western_slavic
+primary_culture = russian
 culture = polish
 culture = czech
 religion = protestant

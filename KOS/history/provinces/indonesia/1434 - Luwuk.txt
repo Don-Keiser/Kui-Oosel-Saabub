@@ -8,3 +8,4 @@ state_building = {
     level = 2
     building = lumber_mill
     upgrade = yes
+}

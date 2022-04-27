@@ -7927,22 +7927,6 @@ iroquoian = {
 		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
 		}
 	}
-
-	tuscarora_nottoway  = {
-		color = {30 25 95}
-		first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
-		}
-		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
-		}
-	}
-	
-	tsalagi = {
-		color = {70 65 135}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-		}
-		last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-		}
-	}
 }
 
 #Algic
@@ -8007,13 +7991,6 @@ algic = {
 	}
 	potawatomi = {
 		color = {80 225 50}
-		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
-		}
-		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
-		}
-	}
-	shawnee = {
-		color = {70 205 40}
 		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
 		}
 		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain

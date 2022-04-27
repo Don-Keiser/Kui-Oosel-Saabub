@@ -1,4 +1,3 @@
-
 BUR = {value = -80}
 
 leader = {
@@ -167,4 +166,4 @@ navy = {
         name= "Transport ship 3"
         type = clipper_transport
     }
-{
+}

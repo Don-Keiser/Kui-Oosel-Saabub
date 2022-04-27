@@ -1,6 +1,7 @@
 capital = 490
 primary_culture = latin
 culture = toledano
+religion = catholic
 government = theocracy
 plurality = 10.0
 nationalvalue = nv_order

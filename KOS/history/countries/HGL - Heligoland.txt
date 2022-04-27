@@ -1,5 +1,5 @@
 capital = 533
-primary_culture = frisian
+primary_culture = dutsk
 religion = protestant
 government = colonial_company
 plurality = 0.0

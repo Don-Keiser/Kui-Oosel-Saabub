@@ -1,5 +1,3 @@
-ZOU = { truce_until = 1850.1.1 }
-
 GAZ = {
     value = 170
 }

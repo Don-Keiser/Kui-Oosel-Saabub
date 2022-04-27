@@ -1,7 +1,6 @@
 owner = KNT
 controller = KNT
 add_core = KNT
-add_core = KNT
 trade_goods = grain
 life_rating = 38
 terrain = jungle_farmland

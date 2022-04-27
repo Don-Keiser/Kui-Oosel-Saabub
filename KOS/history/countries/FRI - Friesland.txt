@@ -1,5 +1,5 @@
 capital = 385
-primary_culture = frisian
+primary_culture = dutsk
 culture = flamsk
 religion = reformed
 government = hms_government

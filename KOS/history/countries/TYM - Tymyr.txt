@@ -1,7 +1,7 @@
-capital = 1062
-primary_culture = khanty
-culture = mansi
-religion = animist
+capital = 2692
+primary_culture = dolgan
+culture = nganasan
+religion = tengri
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_autocracy

@@ -8,3 +8,4 @@ state_building = {
     level = 1
     building = furniture_factory
     upgrade = yes
+}

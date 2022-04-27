@@ -66,5 +66,3 @@ nonstate_consciousness = 0
 modern_winemaking = yes
 small_arms_production = yes
 ammunition_production = yes
-
-oob = "TAD_oob.txt"
