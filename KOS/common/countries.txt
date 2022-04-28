@@ -963,6 +963,7 @@ CSB		= "countries/Costoboci.txt"
 BST		= "countries/Bastarnae.txt"
 DCM		= "countries/Dacia Minor.txt"
 BEC		= "countries/Becenegi.txt"
+LDZ		= "countries/Ledzianie.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

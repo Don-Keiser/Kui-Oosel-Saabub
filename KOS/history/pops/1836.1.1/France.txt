@@ -621,83 +621,45 @@
 
     aristocrats = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 400
     }
 
     officers = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 60
     }
 
     bureaucrats = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 200
     }
 
     clergymen = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 400
     }
 
     artisans = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 6000
     }
 
     soldiers = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 400
     }
 
     farmers = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 42040
     }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 775
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
-    }
-    ########
 
     aristocrats = {
         culture = lorrain
@@ -737,7 +699,7 @@
 
     farmers = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 24495
     }
 }
@@ -775,60 +737,33 @@
 
     aristocrats = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 350
     }
 
     clergymen = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 375
     }
 
     artisans = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 2500
     }
 
     soldiers = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 400
     }
 
     farmers = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 41375
     }
-
-    ######Jews
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 600
-    }
-    ########
 
     aristocrats = {
         culture = lorrain
@@ -856,7 +791,7 @@
 
     farmers = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 27600
     }
 
@@ -935,44 +870,6 @@
         religion = catholic
         size = 500
     }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 275
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 400
-    }
-    ########
 }
 #Metz (420000/105000 POPS)
 412 = {
@@ -1002,67 +899,21 @@
 
     farmers = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 8825
     }
 
-    aristocrats = {
-        culture = lorrain
-        religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = lorrain
-        religion = protestant
-        size = 75
-    }
-
     artisans = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 3500
     }
 
-    soldiers = {
-        culture = lorrain
-        religion = protestant
-        size = 100
-    }
-
     farmers = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 16275
     }
-
-    ######Jews
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 450
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 850
-    }
-
-    #####
 
     aristocrats = {
         culture = lorrain
@@ -1121,94 +972,24 @@
 
     farmers = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 7082
     }
-
-    aristocrats = {
-        culture = lorrain
-        religion = protestant
-        size = 5
-    }
-
-    clergymen = {
-        culture = lorrain
-        religion = protestant
-        size = 7
-    }
-
+	
     artisans = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 350
     }
 
-    soldiers = {
-        culture = lorrain
-        religion = protestant
-        size = 10
-    }
-
     farmers = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 19627
     }
 
-    ######Jews
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 10
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 10
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 45
-    }
-
     farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 85
-    }
-
-    #####
-
-    aristocrats = {
-        culture = french
-        religion = catholic
-        size = 25
-    }
-
-    clergymen = {
-        culture = french
-        religion = catholic
-        size = 27
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = french
-        religion = catholic
-        size = 20
-    }
-
-    farmers = {
-        culture = french
+        culture = lorrain
         religion = catholic
         size = 13777
     }
@@ -1241,37 +1022,37 @@
 
     farmers = {
         culture = south_rheinian
-        religion = protestant
+        religion = catholic
         size = 2760
     }
 
     aristocrats = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 5
     }
 
     clergymen = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 8
     }
 
     artisans = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 112
     }
 
     soldiers = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 10
     }
 
     farmers = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 850
     }
 }
@@ -4893,7 +4674,7 @@
 
     artisans = {
         culture = lorrain
-        religion = protestant
+        religion = catholic
         size = 1000
     }
 

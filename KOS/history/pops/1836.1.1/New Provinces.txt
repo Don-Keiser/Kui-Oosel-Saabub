@@ -34,31 +34,31 @@
 3704 = {
     aristocrats = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 25475
     }
 }
@@ -66,31 +66,31 @@
 3711 = {
     aristocrats = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 35475
     }
 }
@@ -98,31 +98,31 @@
 3705 = {
     aristocrats = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 25475
     }
 }
@@ -130,31 +130,31 @@
 3712 = {
     aristocrats = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     artisans = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 75
     }
 
     farmers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 35475
     }
 }

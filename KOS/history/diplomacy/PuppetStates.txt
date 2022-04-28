@@ -615,3 +615,33 @@ vassal = {
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
+
+#Poland
+vassal = {
+    first = POL
+    second = KRA
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = POL
+    second = LDZ
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Pretisomaa
+vassal = {
+    first = PRE
+    second = BUT
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PRE
+    second = TNS
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}

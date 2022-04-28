@@ -1,5 +1,5 @@
-owner = KRA
-controller = KRA
-add_core = KRA
+owner = LDZ
+controller = LDZ
+add_core = LDZ
 trade_goods = cattle
 life_rating = 35

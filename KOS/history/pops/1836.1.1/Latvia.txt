@@ -28,116 +28,86 @@
 
     aristocrats = {
         culture = livonian
-        religion = protestant
-        size = 650
+        religion = catholic
+        size = 850
     }
 
     bureaucrats = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 200
     }
 
     officers = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     clergymen = {
         culture = livonian
-        religion = protestant
-        size = 75
+        religion = catholic
+        size = 175
     }
 
     farmers = {
         culture = livonian
-        religion = protestant
-        size = 50000
+        religion = catholic
+        size = 51000
     }
 
     artisans = {
         culture = livonian
-        religion = protestant
-        size = 6725
+        religion = catholic
+        size = 8725
     }
 
     soldiers = {
         culture = livonian
-        religion = protestant
-        size = 1000
+        religion = catholic
+        size = 1500
     }
 
     aristocrats = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     bureaucrats = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     officers = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 1500
     }
 
     soldiers = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 150
     }
 	
 	farmers = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 12150
-    }
-
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 2075
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 800
     }
 }
 #Valmeira (516000/129000 POPS)
@@ -190,58 +160,34 @@
         size = 100
     }
 
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 3875
-    }
-
     aristocrats = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = estonian
-        religion = catholic
-        size = 100
+        religion = protestant
+        size = 180
     }
 
     artisans = {
         culture = estonian
-        religion = catholic
-        size = 100
+        religion = protestant
+        size = 2200
     }
 
     soldiers = {
         culture = estonian
-        religion = catholic
-        size = 100
+        religion = protestant
+        size = 200
     }
 
     farmers = {
         culture = estonian
-        religion = catholic
-        size = 8550
+        religion = protestant
+        size = 12550
     }
 
     aristocrats = {
@@ -324,57 +270,33 @@
         size = 100
     }
 
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1875
-    }
-
     aristocrats = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     clergymen = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 8550
     }
 
@@ -387,25 +309,25 @@
     clergymen = {
         culture = livonian
         religion = catholic
-        size = 150
+        size = 250
     }
 
     artisans = {
         culture = livonian
         religion = catholic
-        size = 200
+        size = 2200
     }
 
     soldiers = {
         culture = livonian
         religion = catholic
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = livonian
         religion = catholic
-        size = 2000
+        size = 3200
     }
 
 }
@@ -459,63 +381,39 @@
         size = 100
     }
 
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 400
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1525
-    }
-
     aristocrats = {
         culture = seto
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     clergymen = {
         culture = seto
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = seto
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     soldiers = {
         culture = seto
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = seto
-        religion = catholic
-        size = 4050
+        religion = protestant
+        size = 5050
     }
 
     farmers = {
         culture = seto
-        religion = catholic
+        religion = protestant
         size = 6850
     }
 
@@ -529,32 +427,32 @@
 357 = {
     clergymen = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 225
     }
 
     artisans = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     soldiers = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     farmers = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 28275
     }
 
     farmers = {
         culture = voro
         religion = protestant
-        size = 1200
+        size = 2000
     }
 
     aristocrats = {
@@ -566,68 +464,44 @@
     clergymen = {
         culture = voro
         religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = voro
-        religion = protestant
-        size = 750
-    }
-
-    soldiers = {
-        culture = voro
-        religion = protestant
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
         size = 200
     }
 
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
+    artisans = {
+        culture = voro
+        religion = protestant
+        size = 2000
     }
 
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 750
+    soldiers = {
+        culture = voro
+        religion = protestant
+        size = 200
     }
 }
 #Ventspils (140000/35000 POPS) #uralic = Livonian
 358 = {
     clergymen = {
-        culture = estonian
-        religion = protestant
+        culture = livonian
+        religion = catholic
         size = 225
     }
 
     artisans = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 300
     }
 
     soldiers = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 275
     }
 
     farmers = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 29450
     }
 
@@ -662,31 +536,31 @@
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
+        culture = estonian
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
+        culture = estonian
+        religion = protestant
         size = 250
     }
 
     soldiers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = estonian
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = estonian
+        religion = protestant
         size = 950
     }
 }
 3423 = {
-        aristocrats = {
+    aristocrats = {
         culture = estonian
         religion = protestant
         size = 1200
@@ -701,18 +575,18 @@
     artisans = {
         culture = estonian
         religion = protestant
-        size = 700
+        size = 1800
     }
 
     soldiers = {
         culture = estonian
         religion = protestant
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 8500
     }
 }
@@ -720,25 +594,25 @@
 359 = {
     clergymen = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 175
     }
 
     artisans = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     soldiers = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 200
     }
 
     farmers = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 21475
     }
 
@@ -767,26 +641,26 @@
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
+        culture = estonian
+        religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
+        culture = estonian
+        religion = protestant
         size = 200
     }
 
     soldiers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = estonian
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = estonian
+        religion = protestant
         size = 750
     }
 

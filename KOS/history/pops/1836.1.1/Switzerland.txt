@@ -90,92 +90,48 @@
         religion = catholic
         size = 45720
     }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clerks = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
 }
 #Basel (272000/68000 POPS)
 604 = {
     aristocrats = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 150
     }
 
     clergymen = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 275
     }
 
     clerks = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 100
     }
 
     craftsmen = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 750
     }
 
     artisans = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 2250
     }
 
     soldiers = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 1100
     }
 
     farmers = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 33540
     }
 
@@ -775,31 +731,31 @@
 3271 = {
     aristocrats = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 75
     }
 
     clergymen = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 135
     }
 
     craftsmen = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 375
     }
 
     artisans = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 1100
     }
 
     farmers = {
         culture = south_rheinian
-        religion = reformed
+        religion = catholic
         size = 18420
     }
 

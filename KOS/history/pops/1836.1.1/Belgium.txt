@@ -905,7 +905,7 @@
 
     farmers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 1250
     }
 }
@@ -913,31 +913,31 @@
 396 = {
     aristocrats = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 50
     }
 
     clergymen = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 200
     }
 
     artisans = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 450
     }
 
     soldiers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 1200
     }
 
     farmers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 4375
     }
 
@@ -959,49 +959,49 @@
 398 = {
     aristocrats = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 450
     }
 
     clergymen = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 225
     }
 
     artisans = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 1350
     }
 
     soldiers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 1100
     }
 
     craftsmen = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 6000
     }
 
     farmers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 20425
     }
 
     artisans = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 4200
     }
 
@@ -1021,7 +1021,7 @@
 3377 = {
     farmers = {
         culture = rheinian
-        religion = catholic
+        religion = protestant
         size = 10200
     }
 

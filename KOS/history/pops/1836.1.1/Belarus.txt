@@ -137,43 +137,43 @@
 	
 	farmers = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 6000
     }
 
     aristocrats = {
-        culture = ashkenazi
-        religion = jewish
+        culture = moodii
+        religion = catholic
         size = 100
     }
 
     officers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = moodii
+        religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
+        culture = moodii
+        religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
+        culture = moodii
+        religion = catholic
         size = 1250
     }
 
     soldiers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = moodii
+        religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = moodii
+        religion = catholic
         size = 8575
     }
 }
@@ -271,19 +271,19 @@
 
     clergymen = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 300
     }
 
     soldiers = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = estonian
-        religion = catholic
+        religion = protestant
         size = 4525
     }
 
@@ -300,26 +300,26 @@
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
+        culture = moodii
+        religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
+        culture = moodii
+        religion = catholic
         size = 1200
     }
 
     soldiers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = moodii
+        religion = catholic
         size = 125
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = moodii
+        religion = catholic
         size = 9500
     }
 }
@@ -328,43 +328,43 @@
 
     aristocrats = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 1000
     }
 
     officers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     bureaucrats = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 450
     }
 
     artisans = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 1200
     }
 
     soldiers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 3200
     }
 
     farmers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 13000
     }
 
@@ -436,37 +436,37 @@
 
     aristocrats = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     officers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     clergymen = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 750
     }
 
     soldiers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 6125
     }
 }
@@ -828,49 +828,49 @@
 
     clergymen = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     soldiers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 4625
     }
 
     clergymen = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 600
     }
 
     soldiers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 4275
     }
 }
@@ -1239,59 +1239,17 @@
         religion = protestant
         size = 7200
     }
-
-    aristocrats = {
-        culture = polish
-        religion = catholic
-        size = 500
-    }
-
+	
     bureaucrats = {
-        culture = polish
+        culture = seto
         religion = protestant
         size = 150
     }
 
     officers = {
-        culture = polish
+        culture = seto
         religion = protestant
         size = 200
-    }
-
-    clergymen = {
-        culture = polish
-        religion = protestant
-        size = 50
-    }
-
-    soldiers = {
-        culture = polish
-        religion = protestant
-        size = 25
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1500
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 2350
     }
 }
 #Polotsk (628000/157000 POPS)
