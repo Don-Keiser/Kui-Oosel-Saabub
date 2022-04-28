@@ -101,43 +101,7 @@
     farmers = {
         culture = paeonian
         religion = orthodox
-        size = 11200
-    }
-
-    aristocrats = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 700
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 300
-    }
-	
-	farmers = {
-        culture = paeonian
-        religion = orthodox
-        size = 3000
+        size = 15000
     }
 }
 #Monastir Region (268000) #see Greece.txt for balance of region
@@ -165,45 +129,33 @@
     farmers = {
         culture = makedones
         religion = orthodox
-        size = 24075
+        size = 31000
     }
 
     soldiers = {
         culture = paeonian
         religion = orthodox
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = paeonian
         religion = orthodox
-        size = 110
+        size = 300
     }
 
     artisans = {
-        culture = paeonian
-        religion = orthodox
-        size = 225
-    }
-
-    farmers = {
-        culture = paeonian
-        religion = orthodox
-        size = 2965
-    }
-
-    farmers = {
         culture = paeonian
         religion = orthodox
         size = 500
     }
 
     farmers = {
-        culture = makedones
+        culture = paeonian
         religion = orthodox
-        size = 6000
+        size = 13000
     }
-
+	
     aristocrats = {
         culture = thracian
         religion = orthodox
@@ -245,55 +197,6 @@
         religion = orthodox
         size = 1975
     }
-
-    soldiers = {
-        culture = paeonian
-        religion = orthodox
-        size = 175
-    }
-
-    clergymen = {
-        culture = paeonian
-        religion = orthodox
-        size = 110
-    }
-
-    artisans = {
-        culture = paeonian
-        religion = orthodox
-        size = 250
-    }
-
-    farmers = {
-        culture = paeonian
-        religion = orthodox
-        size = 9475
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 500
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 300
-    }
-
 }
 
 #Debar - Former Tichit
@@ -321,11 +224,7 @@
         religion = orthodox
         size = 12062
     }
-    farmers = {
-        culture = makedones
-        religion = orthodox
-        size = 12062
-    }
+
     soldiers = {
         culture = makedones
         religion = orthodox
@@ -347,7 +246,65 @@
     farmers = {
         culture = makedones
         religion = orthodox
-        size = 1100
+        size = 14000
     }
 
+}
+
+#Strumica
+3291 = {
+
+    soldiers = {
+        culture = makedones
+        religion = orthodox
+        size = 500
+    }
+
+    clergymen = {
+        culture = makedones
+        religion = orthodox
+        size = 50
+    }
+
+    artisans = {
+        culture = makedones
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = makedones
+        religion = orthodox
+        size = 17500
+    }
+
+    aristocrats = {
+        culture = thracian
+        religion = catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = thracian
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = thracian
+        religion = catholic
+        size = 500
+    }
+
+    soldiers = {
+        culture = thracian
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = thracian
+        religion = catholic
+        size = 1200
+    }
 }

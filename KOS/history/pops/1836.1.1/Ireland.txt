@@ -888,40 +888,6 @@
     }
 }
 
-#Chloichin
-3620 = {
-    aristocrats = {
-        culture = mhummanien
-        religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = mhummanien
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = mhummanien
-        religion = catholic
-        size = 800
-    }
-
-    soldiers = {
-        culture = mhummanien
-        religion = catholic
-        size = 750
-    }
-
-    farmers = {
-        culture = mhummanien
-        religion = catholic
-        size = 5500
-    }
-
-}
-
 #Limerick (818000/204500 POPS)
 3629 = {
     aristocrats = {
@@ -1205,43 +1171,4 @@
         religion = catholic
         size = 104400
     }
-}
-#Wexford (444000/111000 POPS)
-265 = {
-    aristocrats = {
-        culture = british
-        religion = anglican
-        size = 350
-    }
-
-    aristocrats = {
-        culture = irish
-        religion = catholic
-        size = 150
-    }
-
-    artisans = {
-        culture = irish
-        religion = catholic
-        size = 5500
-    }
-
-    clergymen = {
-        culture = irish
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = irish
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = irish
-        religion = catholic
-        size = 103000
-    }
-
 }

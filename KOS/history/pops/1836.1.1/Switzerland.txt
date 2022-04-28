@@ -249,25 +249,25 @@
 606 = {
     aristocrats = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 175
     }
 
     clergymen = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 350
     }
 
     artisans = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 3500
     }
 
     soldiers = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 1100
     }
 
@@ -279,7 +279,7 @@
 	
 	farmers = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 26975
     }
 
@@ -380,130 +380,124 @@
 3317 = {
     aristocrats = {
         culture = arpitan
-        religion = reformed
+        religion = catholic
         size = 200
     }
 
     bureaucrats = {
         culture = arpitan
-        religion = reformed
+        religion = catholic
         size = 120
     }
 
     officers = {
         culture = arpitan
-        religion = reformed
+        religion = catholic
         size = 60
     }
 
     clergymen = {
         culture = arpitan
-        religion = reformed
+        religion = catholic
         size = 300
     }
 
     artisans = {
         culture = arpitan
-        religion = reformed
+        religion = catholic
         size = 4000
     }
 
     soldiers = {
         culture = arpitan
-        religion = reformed
-        size = 1100
+        religion = catholic
+        size = 2200
     }
 
     farmers = {
         culture = arpitan
-        religion = reformed
-        size = 37320
+        religion = catholic
+        size = 64320
     }
 
     aristocrats = {
-        culture = arpitan
-        religion = catholic
+        culture = romansh
+        religion = reformed
         size = 300
     }
 
     bureaucrats = {
-        culture = arpitan
-        religion = catholic
+        culture = romansh
+        religion = reformed
         size = 80
     }
 
     officers = {
-        culture = arpitan
-        religion = catholic
+        culture = romansh
+        religion = reformed
         size = 50
     }
 
     clergymen = {
-        culture = arpitan
-        religion = catholic
+        culture = romansh
+        religion = reformed
         size = 350
     }
 
     artisans = {
-        culture = arpitan
-        religion = catholic
+        culture = romansh
+        religion = reformed
         size = 3000
     }
-
-    soldiers = {
-        culture = arpitan
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = arpitan
-        religion = catholic
-        size = 31230
+	
+	farmers = {
+        culture = romansh
+        religion = reformed
+        size = 4320
     }
 }
 #Neuchatel (56000/14000 POPS)
 608 = {
     aristocrats = {
-        culture = north_german
-        religion = reformed
+        culture = arpitan
+        religion = catholic
         size = 100
     }
     aristocrats = {
         culture = arpitan
-        religion = reformed
+        religion = catholic
         size = 50
     }
 
     clergymen = {
         culture = arpitan
-        religion = reformed
+        religion = catholic
         size = 125
     }
 
     artisans = {
         culture = arpitan
-        religion = reformed
+        religion = catholic
         size = 3000
     }
 
     soldiers = {
         culture = arpitan
-        religion = reformed
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = arpitan
-        religion = reformed
+        religion = catholic
         size = 10625
     }
 }
 #Sitten (72000/18000) POPS
 609 = {
     aristocrats = {
-        culture = arpitan
-        religion = catholic
+        culture = romansh
+        religion = reformed
         size = 150
     }
 
@@ -587,64 +581,33 @@
 611 = {
     aristocrats = {
         culture = romansh
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = romansh
-        religion = catholic
-        size = 275
-    }
-
-    artisans = {
-        culture = romansh
-        religion = catholic
-        size = 650
-    }
-
-    soldiers = {
-        culture = romansh
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = romansh
-        religion = catholic
-        size = 11275
-    }
-
-    aristocrats = {
-        culture = romansh
         religion = reformed
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = romansh
         religion = reformed
-        size = 100
+        size = 375
     }
 
     artisans = {
         culture = romansh
         religion = reformed
-        size = 350
+        size = 1500
     }
 
     soldiers = {
         culture = romansh
         religion = reformed
-        size = 100
+        size = 1200
     }
 
     farmers = {
         culture = romansh
         religion = reformed
-        size = 6475
+        size = 18125
     }
-
 }
 #Fribourg
 3250 = {
@@ -716,14 +679,8 @@
 
     farmers = {
         culture = arpitan
-        religion = reformed
-        size = 2530
-    }
-
-    farmers = {
-        culture = arpitan
         religion = catholic
-        size = 4000
+        size = 6530
     }
 }
 
@@ -794,31 +751,31 @@
 3272 = {
     aristocrats = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 150
     }
 
     clergymen = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 90
     }
 
     artisans = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 550
     }
 
     soldiers = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 1100
     }
 
     farmers = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 7035
     }
 	
@@ -833,19 +790,19 @@
 3665 = {
     aristocrats = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 1750
     }
 
     bureaucrats = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 105
     }
 
     officers = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 100
     }
 
@@ -875,19 +832,19 @@
 
     clergymen = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 150
     }
 
     artisans = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 1650
     }
 
     farmers = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 4006
     }
 }

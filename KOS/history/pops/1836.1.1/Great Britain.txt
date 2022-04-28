@@ -58,7 +58,7 @@
     }
 
     artisans = {
-        culture = british
+        culture = gaidhlig
         religion = reformed
         size = 4000
     }
@@ -66,13 +66,7 @@
     farmers = {
         culture = gaidhlig
         religion = reformed
-        size = 36090
-    }
-	
-	farmers = {
-        culture = gaidhlig
-        religion = reformed
-        size = 12000
+        size = 48090
     }
 }
 #Highlands (XXX/XXX POPS)
@@ -345,7 +339,7 @@
     farmers = {
         culture = gaidhlig
         religion = reformed
-        size = 51175
+        size = 58175
     }
 
     clergymen = {
@@ -362,14 +356,8 @@
 
     artisans = {
         culture = cumbric
-        religion = catholic
-        size = 5000
-    }
-
-    farmers = {
-        culture = gaidhlig
         religion = reformed
-        size = 26400
+        size = 5000
     }
 
     artisans = {
@@ -456,7 +444,7 @@
 
     artisans = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 2000
     }
 
@@ -480,7 +468,7 @@
 
     farmers = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 4900
     }
 
@@ -500,7 +488,7 @@
 
     clergymen = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 100
     }
 
@@ -512,7 +500,7 @@
 
     farmers = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 33800
     }
 
@@ -528,13 +516,13 @@
 273 = {
     aristocrats = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 500
     }
 
     capitalists = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
@@ -558,7 +546,7 @@
 
     officers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 350
     }
 
@@ -570,13 +558,13 @@
 
     clerks = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     craftsmen = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 1100
     }
 
@@ -602,31 +590,31 @@
 274 = {
     aristocrats = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     clergymen = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 125
     }
 
     soldiers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 1100
     }
 
     artisans = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 2000
     }
 
     farmers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 34625
     }
 	
@@ -640,43 +628,43 @@
 275 = {
     aristocrats = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     clergymen = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     clerks = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     craftsmen = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 3000
     }
 
     soldiers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 2500
     }
 
     artisans = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 6250
     }
 
     farmers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 40250
     }
 }
@@ -684,43 +672,43 @@
 276 = {
     aristocrats = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     clergymen = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 250
     }
 
     soldiers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 750
     }
 
     clerks = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     craftsmen = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 3000
     }
 
     artisans = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 3100
     }
 
     farmers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 52500
     }
 
@@ -731,85 +719,85 @@
 277 = {
     aristocrats = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 1100
     }
 
     officers = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 500
     }
 
     bureaucrats = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 1550
     }
 
     clergymen = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 1100
     }
 
     capitalists = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 1250
     }
 
     clerks = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 1750
     }
 
     craftsmen = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 30000
     }
 
     artisans = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 10000
     }
 
     artisans = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 2500
     }
 
     soldiers = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 3000
     }
 
     labourers = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 108850
     }
 
     clergymen = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 50
     }
 
     craftsmen = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 1100
     }
 
     artisans = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 1500
     }
 
@@ -921,37 +909,37 @@
 279 = {
     aristocrats = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 250
     }
 
     clergymen = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 250
     }
 
     artisans = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 4000
     }
 
     soldiers = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 500
     }
 
     farmers = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 32900
     }
 
     farmers = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 2000
     }
 	
@@ -973,42 +961,42 @@
 280 = {
     aristocrats = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 1100
     }
 
     clergymen = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 750
     }
 
     craftsmen = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 30000
     }
     artisans = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 10000
     }
 
     artisans = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 5900
     }
 
     soldiers = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 1500
     }
 
     labourers = {
         culture = cumbric
-        religion = catholic
+        religion = reformed
         size = 60850
     }
 
@@ -1257,7 +1245,7 @@
 
     farmers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 21000
     }
 }
@@ -1307,13 +1295,13 @@
 	
 	farmers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 6100
     }
 
     artisans = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 1100
     }
 }
@@ -1321,31 +1309,31 @@
 286 = {
     aristocrats = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 500
     }
 
     clergymen = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 375
     }
 
     artisans = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 4250
     }
 
     soldiers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 1100
     }
 
     labourers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 48875
     }
 	
@@ -1859,7 +1847,7 @@
 
     farmers = {
         culture = welsh
-        religion = protestant
+        religion = catholic
         size = 7000
     }
 }
@@ -2180,12 +2168,6 @@
         culture = norman
         religion = catholic
         size = 5900
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
     }
 
 }

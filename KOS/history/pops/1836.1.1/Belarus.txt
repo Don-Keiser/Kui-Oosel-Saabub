@@ -177,7 +177,7 @@
         size = 8575
     }
 }
-#Brest-Litovsk (324000/81000 POPS)
+#Pruzhany (324000/81000 POPS)
 937 = {
     clergymen = {
         culture = vaala
@@ -323,19 +323,19 @@
         size = 9500
     }
 }
-#Pinsk (276000/69000 POPS)
+#Brest-Litovsk (276000/69000 POPS)
 940 = {
 
     aristocrats = {
         culture = vaala
         religion = catholic
-        size = 1000
+        size = 1600
     }
 
     officers = {
         culture = vaala
         religion = catholic
-        size = 100
+        size = 300
     }
 
     bureaucrats = {
@@ -347,55 +347,25 @@
     clergymen = {
         culture = vaala
         religion = catholic
-        size = 450
+        size = 650
     }
 
     artisans = {
         culture = vaala
         religion = catholic
-        size = 1200
+        size = 2200
     }
 
     soldiers = {
         culture = vaala
         religion = catholic
-        size = 3200
+        size = 3400
     }
 
     farmers = {
         culture = vaala
         religion = catholic
-        size = 13000
-    }
-
-    aristocrats = {
-        culture = vaala
-        religion = catholic
-        size = 500
-    }
-
-    officers = {
-        culture = vaala
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = vaala
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = vaala
-        religion = catholic
-        size = 150
-    }
-
-    soldiers = {
-        culture = vaala
-        religion = catholic
-        size = 100
+        size = 27000
     }
 
     aristocrats = {
@@ -431,43 +401,7 @@
     farmers = {
         culture = moodii
         religion = catholic
-        size = 34300
-    }
-
-    aristocrats = {
-        culture = vaala
-        religion = catholic
-        size = 100
-    }
-
-    officers = {
-        culture = vaala
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = vaala
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = vaala
-        religion = catholic
-        size = 750
-    }
-
-    soldiers = {
-        culture = vaala
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = vaala
-        religion = catholic
-        size = 6125
+        size = 44300
     }
 }
 #Byelorussia Region (1364000)
@@ -477,7 +411,7 @@
     aristocrats = {
         culture = ohitsemid
         religion = protestant
-        size = 500
+        size = 1500
     }
 
     bureaucrats = {
@@ -489,180 +423,144 @@
     officers = {
         culture = ohitsemid
         religion = protestant
-        size = 100
+        size = 200
     }
 
     clergymen = {
         culture = ohitsemid
         religion = protestant
-        size = 1050
+        size = 3050
     }
 
     artisans = {
         culture = ohitsemid
         religion = protestant
-        size = 4200
+        size = 14200
     }
 
     soldiers = {
         culture = ohitsemid
         religion = protestant
-        size = 6100
+        size = 4100
     }
 
     farmers = {
         culture = moodii
-        religion = protestant
+        religion = catholic
         size = 10900
     }
 
     farmers = {
         culture = ohitsemid
         religion = protestant
-        size = 75000
+        size = 105000
     }
 
     aristocrats = {
         culture = livonian
         religion = catholic
-        size = 2500
+        size = 2600
     }
 
     officers = {
+        culture = livonian
+        religion = catholic
+        size = 300
+    }
+
+    clergymen = {
         culture = livonian
         religion = catholic
         size = 200
     }
 
-    clergymen = {
-        culture = livonian
-        religion = catholic
-        size = 100
-    }
-
     artisans = {
         culture = livonian
         religion = catholic
-        size = 100
+        size = 200
     }
 
     soldiers = {
         culture = livonian
         religion = catholic
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = livonian
         religion = catholic
-        size = 100
-    }
-
-    aristocrats = {
-        culture = livonian
-        religion = catholic
-        size = 100
-    }
-
-    officers = {
-        culture = livonian
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = livonian
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = livonian
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = livonian
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = livonian
-        religion = catholic
-        size = 910
+        size = 1100
     }
 
     aristocrats = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 500
     }
 
     officers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 175
     }
 
     clergymen = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     soldiers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 975
     }
 
     aristocrats = {
         culture = west_krevin
-        religion = protestant
+        religion = catholic
         size = 125
     }
 
     officers = {
         culture = west_krevin
-        religion = protestant
+        religion = catholic
         size = 125
     }
 
     clergymen = {
         culture = west_krevin
-        religion = protestant
+        religion = catholic
         size = 125
     }
 
     artisans = {
         culture = west_krevin
-        religion = protestant
+        religion = catholic
         size = 1500
     }
 
     soldiers = {
         culture = west_krevin
-        religion = protestant
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = west_krevin
-        religion = protestant
+        religion = catholic
         size = 12225
     }
 }
@@ -748,29 +646,29 @@
 
     clergymen = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 750
     }
 
     soldiers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = vaala
-        religion = protestant
+        religion = catholic
         size = 6125
     }
 }
-#Baranovichi (196000/49000 POPS)
+#Pinsk (196000/49000 POPS)
 939 = {
     clergymen = {
         culture = moodii
@@ -793,7 +691,7 @@
     farmers = {
         culture = moodii
         religion = catholic
-        size = 38050
+        size = 45050
     }
 
     aristocrats = {
@@ -823,55 +721,31 @@
     farmers = {
         culture = ohitsemid
         religion = protestant
-        size = 5475
+        size = 7475
     }
 
     clergymen = {
         culture = vaala
         religion = catholic
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = vaala
         religion = catholic
-        size = 250
+        size = 850
     }
 
     soldiers = {
         culture = vaala
         religion = catholic
-        size = 100
+        size = 200
     }
 
     farmers = {
         culture = vaala
         religion = catholic
-        size = 4625
-    }
-
-    clergymen = {
-        culture = vaala
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = vaala
-        religion = catholic
-        size = 600
-    }
-
-    soldiers = {
-        culture = vaala
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = vaala
-        religion = catholic
-        size = 4275
+        size = 10900
     }
 }
 #Slutsk (204000/51000 POPS)
@@ -897,13 +771,7 @@
     farmers = {
         culture = moodii
         religion = catholic
-        size = 38425
-    }
-
-    farmers = {
-        culture = moodii
-        religion = catholic
-        size = 5000
+        size = 47425
     }
 
     aristocrats = {
@@ -921,7 +789,7 @@
     artisans = {
         culture = ohitsemid
         religion = protestant
-        size = 100
+        size = 1100
     }
 
     soldiers = {
@@ -951,7 +819,7 @@
     farmers = {
         culture = south_ilonn
         religion = catholic
-        size = 6125
+        size = 7125
     }
 }
 #Mozyr (308000/77000 POPS)
@@ -977,13 +845,7 @@
     farmers = {
         culture = south_ilonn
         religion = catholic
-        size = 22725
-    }
-
-    farmers = {
-        culture = south_ilonn
-        religion = catholic
-        size = 20000
+        size = 44000
     }
 
     aristocrats = {
@@ -995,55 +857,25 @@
     clergymen = {
         culture = moodii
         religion = catholic
-        size = 50
-    }
-
-    clergymen = {
-        culture = moodii
-        religion = catholic
-        size = 100
+        size = 550
     }
 
     artisans = {
         culture = moodii
         religion = catholic
-        size = 1100
+        size = 5000
     }
 
     soldiers = {
         culture = moodii
         religion = catholic
-        size = 100
+        size = 1500
     }
 
     farmers = {
         culture = moodii
         religion = catholic
-        size = 3875
-    }
-
-    clergymen = {
-        culture = moodii
-        religion = catholic
-        size = 225
-    }
-
-    artisans = {
-        culture = moodii
-        religion = catholic
-        size = 900
-    }
-
-    soldiers = {
-        culture = moodii
-        religion = catholic
-        size = 250
-    }
-
-    farmers = {
-        culture = moodii
-        religion = catholic
-        size = 23325
+        size = 32000
     }
 }
 #Smolensk Region (392000) #see Russia.txt for balance of region
@@ -1269,19 +1101,13 @@
     soldiers = {
         culture = ohitsemid
         religion = protestant
-        size = 6100
-    }
-
-    farmers = {
-        culture = west_krevin
-        religion = protestant
-        size = 6000
+        size = 2100
     }
 
     farmers = {
         culture = ohitsemid
         religion = protestant
-        size = 100000
+        size = 920000
     }
 
     aristocrats = {
@@ -1293,40 +1119,28 @@
     clergymen = {
         culture = west_krevin
         religion = catholic
-        size = 100
+        size = 200
+    }
+	
+	artisans = {
+        culture = west_krevin
+        religion = catholic
+        size = 250
     }
 
     soldiers = {
         culture = west_krevin
         religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = seto
-        religion = protestant
-        size = 175
-    }
-
-    artisans = {
-        culture = seto
-        religion = protestant
-        size = 2500
-    }
-
-    soldiers = {
-        culture = seto
-        religion = protestant
         size = 200
     }
-
-    farmers = {
-        culture = seto
-        religion = protestant
-        size = 16125
+	
+	farmers = {
+        culture = west_krevin
+        religion = catholic
+        size = 10000
     }
-
-    aristocrats = {
+	
+	aristocrats = {
         culture = seto
         religion = protestant
         size = 1800
@@ -1335,74 +1149,50 @@
     clergymen = {
         culture = seto
         religion = protestant
-        size = 100
+        size = 300
     }
 
     artisans = {
         culture = seto
         religion = protestant
-        size = 250
+        size = 2750
     }
 
     soldiers = {
         culture = seto
         religion = protestant
-        size = 100
+        size = 300
     }
 
     farmers = {
         culture = seto
         religion = protestant
-        size = 2850
-    }
-
-    clergymen = {
-        culture = west_krevin
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = west_krevin
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = west_krevin
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = west_krevin
-        religion = catholic
-        size = 4625
+        size = 18125
     }
 }
 #Pastavy (348000/87000 POPS)
 947 = {
     clergymen = {
         culture = seto
-        religion = catholic
+        religion = protestant
         size = 550
     }
 
     artisans = {
         culture = seto
-        religion = catholic
+        religion = protestant
         size = 2000
     }
 
     soldiers = {
         culture = seto
-        religion = catholic
+        religion = protestant
         size = 600
     }
 
     farmers = {
         culture = seto
-        religion = catholic
+        religion = protestant
         size = 30850
     }
 
@@ -1438,49 +1228,49 @@
 
     clergymen = {
         culture = voro
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     artisans = {
         culture = voro
-        religion = catholic
+        religion = protestant
         size = 250
     }
 
     soldiers = {
         culture = voro
-        religion = catholic
+        religion = protestant
         size = 100
     }
 
     farmers = {
         culture = voro
-        religion = catholic
+        religion = protestant
         size = 5850
     }
 
     clergymen = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     artisans = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 1500
     }
 
     soldiers = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 100
     }
 
     farmers = {
         culture = livonian
-        religion = protestant
+        religion = catholic
         size = 8325
     }
 }
@@ -1519,93 +1309,81 @@
     clergymen = {
         culture = west_krevin
         religion = catholic
-        size = 50
+        size = 150
     }
 
     artisans = {
         culture = west_krevin
         religion = catholic
-        size = 200
+        size = 1700
     }
 
     soldiers = {
         culture = west_krevin
         religion = catholic
-        size = 25
+        size = 250
+    }
+	
+	farmers = {
+        culture = west_krevin
+        religion = catholic
+        size = 16600
     }
 
     aristocrats = {
         culture = moodii
-        religion = protestant
+        religion = catholic
         size = 1400
     }
 
     clergymen = {
         culture = moodii
-        religion = protestant
+        religion = catholic
         size = 75
     }
 
     artisans = {
         culture = moodii
-        religion = protestant
+        religion = catholic
         size = 300
     }
 
     soldiers = {
         culture = moodii
-        religion = protestant
+        religion = catholic
         size = 50
     }
 
     farmers = {
         culture = moodii
-        religion = protestant
+        religion = catholic
         size = 3175
-    }
-
-    clergymen = {
-        culture = west_krevin
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = west_krevin
-        religion = catholic
-        size = 1250
-    }
-
-    soldiers = {
-        culture = west_krevin
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = west_krevin
-        religion = catholic
-        size = 16600
     }
 }
 #Gomel (388000/97000 POPS)
 949 = {
+    aristocrats = {
+        culture = north_ilonn
+        religion = catholic
+        size = 2000
+    }
+
     clergymen = {
         culture = north_ilonn
         religion = catholic
-        size = 780
+        size = 850
     }
 
     artisans = {
         culture = north_ilonn
         religion = catholic
-        size = 3000
+        size = 3300
     }
 
     soldiers = {
         culture = north_ilonn
         religion = catholic
-        size = 1000
+        size = 1100
     }
 
     farmers = {
@@ -1620,51 +1398,27 @@
         size = 50000
     }
 
-    aristocrats = {
-        culture = north_ilonn
-        religion = catholic
-        size = 2000
-    }
-
-    clergymen = {
-        culture = north_ilonn
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = north_ilonn
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = north_ilonn
-        religion = catholic
-        size = 50
-    }
-
     clergymen = {
         culture = south_ilonn
-        religion = jewish
+        religion = catholic
         size = 125
     }
 
     artisans = {
         culture = south_ilonn
-        religion = jewish
+        religion = catholic
         size = 1500
     }
 
     soldiers = {
         culture = south_ilonn
-        religion = jewish
+        religion = catholic
         size = 150
     }
 
     farmers = {
         culture = south_ilonn
-        religion = jewish
+        religion = catholic
         size = 11225
     }
 

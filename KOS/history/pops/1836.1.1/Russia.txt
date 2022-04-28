@@ -38,12 +38,6 @@
         size = 3000
     }
 
-    soldiers = {
-        culture = west_krevin
-        religion = catholic
-        size = 2000
-    }
-
     farmers = {
         culture = ohitsemid
         religion = protestant
@@ -68,13 +62,13 @@
     aristocrats = {
         culture = east_krevin
         religion = catholic
-        size = 2100
+        size = 1100
     }
 
     clergymen = {
         culture = east_krevin
         religion = catholic
-        size = 350
+        size = 1350
     }
 
     artisans = {
@@ -92,13 +86,7 @@
     farmers = {
         culture = east_krevin
         religion = catholic
-        size = 51600
-    }
-
-    farmers = {
-        culture = east_krevin
-        religion = catholic
-        size = 30000
+        size = 81600
     }
 
     soldiers = {
@@ -154,13 +142,7 @@
     farmers = {
         culture = east_krevin
         religion = catholic
-        size = 16550
-    }
-
-    farmers = {
-        culture = east_krevin
-        religion = catholic
-        size = 20000
+        size = 80000
     }
 
     clergymen = {
@@ -187,12 +169,6 @@
         size = 22850
     }
 
-    farmers = {
-        culture = east_krevin
-        religion = catholic
-        size = 50000
-    }
-
     clergymen = {
         culture = west_krevin
         religion = catholic
@@ -214,7 +190,7 @@
     farmers = {
         culture = west_krevin
         religion = catholic
-        size = 25825
+        size = 25600
     }
 }
 #Bryansk (656000/164000 POPS)
@@ -246,13 +222,7 @@
     farmers = {
         culture = north_ilonn
         religion = catholic
-        size = 66975
-    }
-
-    farmers = {
-        culture = north_ilonn
-        religion = catholic
-        size = 80000
+        size = 120000
     }
 }
 #Kursk Region (3716000) #see Ukraine.txt for balance of region
@@ -1068,13 +1038,13 @@
     clergymen = {
         culture = karelian
         religion = protestant
-        size = 50
+        size = 120
     }
 
     artisans = {
         culture = karelian
         religion = protestant
-        size = 100
+        size = 500
     }
 
     soldiers = {
@@ -1086,25 +1056,7 @@
     farmers = {
         culture = karelian
         religion = protestant
-        size = 500
-    }
-
-    clergymen = {
-        culture = karelian
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = karelian
-        religion = protestant
-        size = 300
-    }
-
-    farmers = {
-        culture = karelian
-        religion = protestant
-        size = 3500
+        size = 4200
     }
 
     farmers = {
@@ -1118,49 +1070,25 @@
     clergymen = {
         culture = karelian
         religion = protestant
-        size = 75
+        size = 1500
     }
 
     artisans = {
-        culture = karelian
-        religion = protestant
-        size = 2150
-    }
-
-    soldiers = {
-        culture = karelian
-        religion = protestant
-        size = 25
-    }
-
-    farmers = {
         culture = karelian
         religion = protestant
         size = 2500
     }
 
-    clergymen = {
-        culture = karelian
-        religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = karelian
-        religion = protestant
-        size = 200
-    }
-
     soldiers = {
         culture = karelian
         religion = protestant
-        size = 25
+        size = 800
     }
 
     farmers = {
         culture = karelian
         religion = protestant
-        size = 4000
+        size = 8500
     }
 }
 #Kola (2200/550 POPS)
@@ -1571,13 +1499,13 @@
     artisans = {
         culture = vienapsi
         religion = protestant
-        size = 9000
+        size = 10000
     }
 
     artisans = {
         culture = vienapsi
         religion = protestant
-        size = 4150
+        size = 3150
     }
 
     soldiers = {
@@ -1589,13 +1517,7 @@
     farmers = {
         culture = vienapsi
         religion = protestant
-        size = 70650
-    }
-
-    farmers = {
-        culture = vienapsi
-        religion = protestant
-        size = 80000
+        size = 150650
     }
 
     clergymen = {
@@ -1745,13 +1667,7 @@
     farmers = {
         culture = veps
         religion = protestant
-        size = 47450
-    }
-
-    farmers = {
-        culture = veps
-        religion = protestant
-        size = 40000
+        size = 87450
     }
 }
 #Vyterga (96000/24000 POPS)
@@ -1987,13 +1903,13 @@
     clergymen = {
         culture = karelian
         religion = protestant
-        size = 150
+        size = 300
     }
 
     artisans = {
         culture = karelian
         religion = protestant
-        size = 900
+        size = 1500
     }
 
     soldiers = {
@@ -2005,25 +1921,7 @@
     farmers = {
         culture = karelian
         religion = protestant
-        size = 12000
-    }
-
-    clergymen = {
-        culture = karelian
-        religion = protestant
-        size = 100
-    }
-
-    artisans = {
-        culture = karelian
-        religion = protestant
-        size = 400
-    }
-
-    farmers = {
-        culture = karelian
-        religion = protestant
-        size = 11500
+        size = 25000
     }
 }
 #Luga (132000/33000 POPS)
@@ -2189,12 +2087,6 @@
         size = 1150
     }
 
-    farmers = {
-        culture = ingrian
-        religion = protestant
-        size = 3000
-    }
-
     clergymen = {
         culture = ingrian
         religion = protestant
@@ -2204,7 +2096,7 @@
     farmers = {
         culture = ingrian
         religion = protestant
-        size = 3000
+        size = 6000
     }
 }
 #Tver Region (1824000)
@@ -2250,13 +2142,7 @@
     farmers = {
         culture = veps
         religion = protestant
-        size = 68075
-    }
-
-    farmers = {
-        culture = veps
-        religion = protestant
-        size = 90000
+        size = 108075
     }
 }
 #Rzhev (432000/108000 POPS)
@@ -2467,16 +2353,10 @@
     farmers = {
         culture = northern_luudic
         religion = protestant
-        size = 50300
-    }
-
-    farmers = {
-        culture = northern_luudic
-        religion = protestant
-        size = 20000
+        size = 70300
     }
 	
-	 farmers = {
+	farmers = {
         culture = luudic
         religion = catholic
         size = 30000
@@ -2573,19 +2453,13 @@
     farmers = {
         culture = seto
         religion = protestant
-        size = 2100
+        size = 4000
     }
 	
 	artisans = {
         culture = seto
         religion = protestant
         size = 100
-    }
-
-    farmers = {
-        culture = seto
-        religion = protestant
-        size = 1800
     }
 }
 #Tikhvin (156000/44000 POPS)
@@ -2971,7 +2845,7 @@
         size = 82025
     }
 	
-	 farmers = {
+	farmers = {
         culture = luudic
         religion = catholic
         size = 10025
@@ -3004,7 +2878,7 @@
     }
 
     artisans = {
-        culture = luudic
+        culture = kudarv_luudic
         religion = catholic
         size = 4500
     }
@@ -3018,13 +2892,13 @@
     farmers = {
         culture = luudic
         religion = catholic
-        size = 114725
+        size = 64000
     }
 
     farmers = {
         culture = kudarv_luudic
         religion = catholic
-        size = 140000
+        size = 80000
     }
 }
 #Riazan (1192000/298000 POPS)
@@ -3047,40 +2921,16 @@
         size = 10000
     }
 
-    artisans = {
-        culture = luudic
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = luudic
-        religion = catholic
-        size = 4500
-    }
-
     soldiers = {
         culture = luudic
         religion = catholic
-        size = 12100
+        size = 5100
     }
 
     farmers = {
         culture = luudic
         religion = catholic
-        size = 101000
-    }
-
-    farmers = {
-        culture = luudic
-        religion = catholic
-        size = 100000
-    }
-	
-	farmers = {
-        culture = kudarv_luudic
-        religion = catholic
-        size = 70000
+        size = 151000
     }
 }
 #Vladimir (544000/136000 POPS)
@@ -3112,13 +2962,7 @@
     farmers = {
         culture = luudic
         religion = catholic
-        size = 45250
-    }
-
-    farmers = {
-        culture = luudic
-        religion = catholic
-        size = 70000
+        size = 120000
     }
 	
 	farmers = {
@@ -3163,7 +3007,7 @@
 
     artisans = {
         culture = northern_luudic
-        religion = catholic
+        religion = protestant
         size = 600
     }
 
@@ -3176,19 +3020,13 @@
     farmers = {
         culture = luudic
         religion = catholic
-        size = 101975
-    }
-
-    farmers = {
-        culture = luudic
-        religion = catholic
-        size = 100000
+        size = 151975
     }
 	
 	farmers = {
         culture = northern_luudic
         religion = protestant
-        size = 30000
+        size = 27000
     }
 
     clergymen = {
@@ -3220,13 +3058,13 @@
     aristocrats = {
         culture = kudarv_luudic
         religion = catholic
-        size = 3900
+        size = 1900
     }
 
     clergymen = {
         culture = kudarv_luudic
         religion = catholic
-        size = 2325
+        size = 1325
     }
 
     artisans = {
@@ -3235,34 +3073,16 @@
         size = 10000
     }
 
-    artisans = {
-        culture = kudarv_luudic
-        religion = catholic
-        size = 1800
-    }
-
     soldiers = {
         culture = kudarv_luudic
         religion = catholic
-        size = 9400
+        size = 2400
     }
 
     farmers = {
         culture = kudarv_luudic
         religion = catholic
-        size = 108575
-    }
-
-    farmers = {
-        culture = kudarv_luudic
-        religion = catholic
-        size = 50000
-    }
-	
-	 farmers = {
-        culture = luudic
-        religion = catholic
-        size = 50000
+        size = 140000
     }
 
     clergymen = {
@@ -3438,13 +3258,13 @@
     aristocrats = {
         culture = luudic
         religion = catholic
-        size = 5850
+        size = 1850
     }
 
     clergymen = {
         culture = luudic
         religion = catholic
-        size = 3000
+        size = 2100
     }
 
     artisans = {
@@ -3453,16 +3273,10 @@
         size = 10000
     }
 
-    artisans = {
-        culture = luudic
-        religion = catholic
-        size = 5000
-    }
-
     soldiers = {
         culture = luudic
         religion = catholic
-        size = 9200
+        size = 3200
     }
 
     farmers = {
@@ -3470,23 +3284,11 @@
         religion = catholic
         size = 100950
     }
-
-    farmers = {
-        culture = luudic
-        religion = catholic
-        size = 110000
-    }
 	
 	farmers = {
         culture = kudarv_luudic
         religion = catholic
-        size = 50000
-    }
-
-    clergymen = {
-        culture = levedi
-        religion = catholic
-        size = 100
+        size = 40000
     }
 
     artisans = {
@@ -3504,7 +3306,7 @@
     farmers = {
         culture = levedi
         religion = catholic
-        size = 13775
+        size = 10775
     }
 }
 #Perm Region (2224000)

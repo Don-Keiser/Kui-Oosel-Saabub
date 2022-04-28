@@ -53,11 +53,10 @@
 }
 #Niksic (52000/13000 POPS)
 2569 = {
-
     aristocrats = {
         culture = malazez
         religion = catholic
-        size = 100
+        size = 350
     }
 
     officers = {
@@ -85,21 +84,9 @@
     }
 
     farmers = {
-        culture = dalmatae
-        religion = catholic
-        size = 4000
-    }
-
-    farmers = {
         culture = malazez
         religion = catholic
         size = 7100
-    }
-
-    aristocrats = {
-        culture = bosniak
-        religion = catholic
-        size = 250
     }
 
     officers = {
@@ -129,7 +116,7 @@
     farmers = {
         culture = dalmatae
         religion = catholic
-        size = 5725
+        size = 10000
     }
 }
 #under the rule of Montenegro in 1836
@@ -187,71 +174,34 @@
 #under the rule of Ottoman Empire in 1836
 #Pljevlja (52000/13000 POPS) #now part of Montenegro
 2577 = {
-
-    soldiers = {
-        culture = malazez
-        religion = catholic
-        size = 520
-    }
-
-    clergymen = {
-        culture = malazez
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = malazez
-        religion = catholic
-        size = 250
-    }
-
-    farmers = {
-        culture = malazez
-        religion = catholic
-        size = 3170
-    }
-
-    farmers = {
-        culture = malazez
-        religion = catholic
-        size = 5175
-    }
-
     aristocrats = {
-        culture = malazez
+        culture = albanian
         religion = catholic
-        size = 250
+        size = 1250
     }
 
     clergymen = {
-        culture = malazez
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = malazez
-        religion = catholic
-        size = 300
-    }
-
-    soldiers = {
-        culture = malazez
-        religion = catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = malazez
-        religion = catholic
-        size = 3000
-    }
-
-    farmers = {
         culture = malazez
         religion = catholic
         size = 200
+    }
+
+    artisans = {
+        culture = malazez
+        religion = catholic
+        size = 800
+    }
+
+    soldiers = {
+        culture = malazez
+        religion = catholic
+        size = 800
+    }
+	
+    farmers = {
+        culture = malazez
+        religion = catholic
+        size = 11400
     }
 }
 #Dalmatia Region (64000) #see Croatia.txt for balance of region
@@ -261,85 +211,37 @@
     aristocrats = {
         culture = dalmatae
         religion = catholic
-        size = 100
+        size = 300
     }
 
     officers = {
         culture = dalmatae
         religion = catholic
-        size = 10
+        size = 20
     }
 
     clergymen = {
-        culture = dalmatae
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = dalmatae
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = dalmatae
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = dalmatae
-        religion = catholic
-        size = 4000
-    }
-
-    farmers = {
-        culture = malazez
-        religion = catholic
-        size = 350
-    }
-
-    aristocrats = {
         culture = dalmatae
         religion = catholic
         size = 200
     }
 
-    officers = {
-        culture = dalmatae
-        religion = catholic
-        size = 10
-    }
-
-    clergymen = {
-        culture = dalmatae
-        religion = catholic
-        size = 100
-    }
-
     artisans = {
         culture = dalmatae
         religion = catholic
-        size = 550
+        size = 800
     }
 
     soldiers = {
         culture = dalmatae
         religion = catholic
-        size = 125
+        size = 300
     }
 
     farmers = {
         culture = dalmatae
         religion = catholic
-        size = 10225
-    }
-
-    farmers = {
-        culture = dalmatae
-        religion = catholic
-        size = 350
+        size = 15000
     }
 
     aristocrats = {
@@ -375,7 +277,7 @@
     farmers = {
         culture = malazez
         religion = catholic
-        size = 100
+        size = 500
     }
 
 }

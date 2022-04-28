@@ -70,12 +70,6 @@
         religion = protestant
         size = 48075
     }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 226
-    }
 }
 #Alborg (152000/38000 POPS)
 #5k farmers moved to 2557
@@ -110,9 +104,7 @@
         size = 14500
     }
 }
-#Ribe (148000/37000 POPS)
-#1k moved to 2557
-#10k moved to 2557
+#Ribe
 368 = {
     aristocrats = {
         culture = danish
@@ -143,7 +135,6 @@
         religion = protestant
         size = 23400
     }
-
 }
 
 # Esbjerg (Pops moved from Aalborg)
@@ -384,15 +375,9 @@
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 858
-    }
-
-    artisans = {
-        culture = north_german
+        culture = angle
         religion = protestant
-        size = 1100
+        size = 2300
     }
 }
 #Odense (208000/52000 POPS)

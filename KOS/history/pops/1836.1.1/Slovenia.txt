@@ -63,12 +63,6 @@
 	}
 	
 	farmers = {
-		culture = gypsy
-		religion = catholic
-		size = 1000
-	}
-	
-	farmers = {
 		culture = histri
 		religion = catholic
 		size = 12000
@@ -90,18 +84,6 @@
 		culture = histri
 		religion = catholic
 		size = 825
-	}
-
-	bureaucrats = {
-		culture = histri
-		religion = catholic
-		size = 225
-	}
-
-	officers = {
-		culture = histri
-		religion = catholic
-		size = 100
 	}
 
 	clergymen = {
@@ -127,6 +109,19 @@
 		religion = catholic
 		size = 53150
 	}
+	
+	bureaucrats = {
+		culture = hungarian
+		religion = catholic
+		size = 225
+	}
+
+	officers = {
+		culture = hungarian
+		religion = catholic
+		size = 100
+	}
+
 	
 	farmers = {
 		culture = hungarian
@@ -172,12 +167,6 @@
 		religion = catholic
 		size = 34000
 	}
-	
-	farmers = {
-		culture = gypsy
-		religion = catholic
-		size = 500
-	}
 
 	clergymen = {
 		culture = hungarian
@@ -202,6 +191,58 @@
 		religion = catholic
 		size = 1000
 	}
+
+}
+
+#Murska Sobota
+3282 = {
+    aristocrats = {
+        culture = kunsag
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = kunsag
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = kunsag
+        religion = catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = kunsag
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = kunsag
+        religion = catholic
+        size = 2000
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 20000
+    }
 
 }
 

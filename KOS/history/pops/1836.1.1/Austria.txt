@@ -86,31 +86,31 @@
 614 = {
 	aristocrats = {
 		culture = romansh
-		religion = catholic
+		religion = reformed
 		size = 400 
 	}
 
 	clergymen = {
 		culture = romansh
-		religion = catholic
+		religion = reformed
 		size = 300 
 	}
 
 	artisans = {
 		culture = romansh
-		religion = catholic
+		religion = reformed
 		size = 1500
 	}
 
 	soldiers = {
 		culture = romansh
-		religion = catholic
+		religion = reformed
 		size = 1100
 	}
 
 	farmers = {
 		culture = romansh
-		religion = catholic
+		religion = reformed
 		size = 24700
 	}
 }
@@ -145,23 +145,11 @@
 		religion = catholic
 		size = 8600
 	}
-	
+
 	farmers = {
 		culture = ladin
-		religion = catholic
-		size = 400
-	}
-	
-	farmers = {
-		culture = ladin
-		religion = catholic
-		size = 1375
-	}
-	
-	farmers = {
-		culture = ladin
-		religion = catholic
-		size = 1775
+		religion = reformed
+		size = 3525
 	}
 }
 #Carinthia-Styria Region (736000) #see Slovenia.txt for balance of Region
@@ -395,11 +383,6 @@
 	}
 }
 3370 = {
-    farmers = {
-        culture = kunsag
-        religion = catholic
-        size = 2335
-    }
     aristocrats = {
         culture = kunsag
         religion = catholic
@@ -413,7 +396,7 @@
     farmers = {
         culture = kunsag
         religion = catholic
-        size = 4500
+        size = 7800
     }
 	farmers = {
         culture = hungarian
@@ -454,7 +437,7 @@
 	artisans = {
 		culture = slovak
 		religion = catholic
-		size = 7500
+		size = 13500
 	}
 
 	soldiers = {
@@ -490,7 +473,7 @@
 	artisans = {
 		culture = kunsag
 		religion = catholic
-		size = 8000
+		size = 13000
 	}
 	
 	farmers = {
@@ -520,7 +503,7 @@
 	clergymen = {
 		culture = hungarian
 		religion = catholic
-		size = 150
+		size = 2150
 	}
 
 	artisans = {
@@ -551,18 +534,6 @@
 		culture = south_german
 		religion = catholic
 		size = 5000
-	}
-
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 2025 
-	}
-
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 10595
 	}
 }
 #Sankt Polten (88000/22000 POPS)
@@ -792,39 +763,27 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = histri
 		religion = catholic
 		size = 60 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = histri
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = histri
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = south_german
+		culture = histri
 		religion = catholic
 		size = 765  
-	}
-
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 35 
-	}
-
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 825
 	}
 }
 

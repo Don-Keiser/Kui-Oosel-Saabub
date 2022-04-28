@@ -1834,55 +1834,55 @@
 
 	clergymen = {
 		culture = french
-		religion = jewish
+		religion = catholic
 		size = 500
 	}
 
 	capitalists = {
 		culture = french
-		religion = jewish
+		religion = catholic
 		size = 200
 	}
 
 	clerks = {
 		culture = french
-		religion = jewish
+		religion = catholic
 		size = 1500
 	}
 
 	craftsmen = {
 		culture = french
-		religion = jewish
+		religion = catholic
 		size = 2500
 	}
 	
 	craftsmen = {
 		culture = dutsk
-		religion = catholic
+		religion = protestant
 		size = 4000
 	}
 	
 	clergymen = {
 		culture = dutsk
-		religion = catholic
+		religion = protestant
 		size = 100
 	}
 
 	artisans = {
 		culture = french
-		religion = jewish
+		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
 		culture = french
-		religion = jewish
+		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
 		culture = french
-		religion = jewish
+		religion = catholic
 		size = 5000
 	}
 }
@@ -3158,30 +3158,6 @@
 		religion = catholic
 		size = 8100
 	}
-        
-	clergymen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25
-	}
-
-	clerks = {
-		culture = ashkenazi
-		religion = jewish
-		size = 25
-	}
-
-	craftsmen = {
-		culture = ashkenazi
-		religion = jewish
-		size = 250
-	}
-
-	artisans = {
-		culture = ashkenazi
-		religion = jewish
-		size = 4200
-	}
 }
 #St Etienne (412000/103000 POPS)
 452 = {
@@ -4058,7 +4034,7 @@
 	clergymen = {
 		culture = arpitan
 		religion = catholic
-		size = 350
+		size = 525
 	}
 
 	artisans = {
@@ -4076,31 +4052,13 @@
 	farmers = {
 		culture = arpitan
 		religion = catholic
-		size = 10800
+		size = 51400
 	}
 	
 	farmers = {
 		culture = romagnol
 		religion = catholic
-		size = 7000
-	}
-	
-    farmers = {
-		culture = arpitan
-		religion = protestant
-		size = 31800
-	}
-	
-	clergymen = {
-		culture = arpitan
-		religion = catholic
-		size = 275
-	}
-	
-    farmers = {
-		culture = arpitan
-		religion = catholic
-		size = 9800
+		size = 38800
 	}
 }
 #Chambery (228400/57100 POPS)
@@ -4114,7 +4072,7 @@
 	clergymen = {
 		culture = arpitan
 		religion = catholic
-		size = 375
+		size = 525
 	}
 
 	artisans = {
@@ -4132,31 +4090,13 @@
 	farmers = {
 		culture = arpitan
 		religion = catholic
-		size = 10175
+		size = 47000
 	}
 	
 	farmers = {
 		culture = romagnol
 		religion = catholic
 		size = 6175
-	}
-	
-	clergymen = {
-		culture = arpitan
-		religion = catholic
-		size = 275
-	}
-    
-	farmers = {
-		culture = arpitan
-		religion = protestant
-		size = 26175
-	}
-
-	farmers = {
-		culture = arpitan
-		religion = catholic
-		size = 10175
 	}
 }
 #Provence Region (1268400)
@@ -4443,7 +4383,7 @@
 471 = {
 	aristocrats = {
 		culture = occitan
-		religion = protestant
+		religion = catholic
 		size = 300
 	}
 
@@ -4468,19 +4408,7 @@
 	farmers = {
 		culture = occitan
 		religion = catholic
-		size = 11000
-	}
-	
-	farmers = {
-		culture = occitan
-		religion = protestant
-		size = 5000
-	}
-	
-	farmers = {
-		culture = occitan
-		religion = catholic
-		size = 3000
+		size = 19000
 	}
 
 	farmers = {

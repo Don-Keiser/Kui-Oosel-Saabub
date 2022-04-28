@@ -21,24 +21,13 @@
     clergymen = {
         culture = suebi
         religion = catholic
-        size = 2000
+        size = 3000
     }
-
-    clergymen = {
-        culture = suebi
-        religion = catholic
-        size = 1000
-    }
-
+	
     artisans = {
         culture = suebi
         religion = catholic
-        size = 2350
-    }
-        artisans = {
-        culture = suebi
-        religion = catholic
-        size = 4350
+        size = 720
     }
 
     soldiers = {
@@ -50,12 +39,7 @@
     farmers = {
         culture = suebi
         religion = catholic
-        size = 40350
-    }
-        farmers = {
-        culture = suebi
-        religion = catholic
-        size = 104350
+        size = 140350
     }
 }
 #Vigo (328000/82000 POPS)
@@ -87,12 +71,7 @@
     farmers = {
         culture = suebi
         religion = catholic
-        size = 25500
-    }
-        farmers = {
-        culture = suebi
-        religion = catholic
-        size = 60500
+        size = 66000
     }
 }
 #Weinschloss
@@ -125,7 +104,6 @@
         culture = suebi
         religion = catholic
         size = 24000
-
 	}
 }
 #Einheimische
@@ -158,7 +136,6 @@
         culture = suebi
         religion = catholic
         size = 8200
-
 	}
 }
 #Kaputtschwert
@@ -191,6 +168,5 @@
         culture = suebi
         religion = catholic
         size = 13500
-
 	}
 }

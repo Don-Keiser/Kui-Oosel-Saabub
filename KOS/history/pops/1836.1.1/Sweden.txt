@@ -839,26 +839,26 @@
 3246 = {
 
     aristocrats = {
-        culture = french
-        religion = catholic
+        culture = danish
+        religion = protestant
         size = 20
     }
 
     clergymen = {
-        culture = french
-        religion = catholic
+        culture = danish
+        religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = french
-        religion = catholic
+        culture = danish
+        religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = french
-        religion = catholic
+        culture = danish
+        religion = protestant
         size = 500
     }
 

@@ -15,25 +15,19 @@
     artisans = {
         culture = romagnol
         religion = catholic
-        size = 250
+        size = 500
     }
 
     soldiers = {
         culture = occitan
         religion = catholic
         size= 100
-
     }
 
     farmers = {
         culture = romagnol
         religion = catholic
         size = 1225
-    }
-    artisans = {
-        culture = romagnol
-        religion = catholic
-        size = 250
     }
 
     farmers = {
@@ -53,24 +47,24 @@
 #Andorra (228000/37000 POPS)
 3252 = {
     aristocrats = {
-        culture = french
+        culture = occitan
         religion = catholic
         size = 5
     }
     bureaucrats = {
-        culture = french
+        culture = occitan
         religion = catholic
         size = 10
     }
 
     artisans = {
-        culture = french
+        culture = occitan
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = french
+        culture = occitan
         religion = catholic
         size = 150
     }
@@ -112,7 +106,7 @@
     }
 
     clergymen = {
-        culture = french
+        culture = occitan
         religion = catholic
         size = 50
     }

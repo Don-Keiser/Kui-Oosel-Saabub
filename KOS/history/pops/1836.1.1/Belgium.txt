@@ -1,62 +1,6 @@
 #Flanders Region (2558000)
 #Brussels (772000/193000 POPS)
 387 = {
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clerks = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 600
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1025
-    }
-    ########
-
     aristocrats = {
         culture = wallonian
         religion = catholic
@@ -179,62 +123,6 @@
 }
 
 3343 = {
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    capitalists = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clerks = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 600
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1025
-    }
-    ########
-
     aristocrats = {
         culture = flamsk
         religion = catholic
@@ -475,38 +363,6 @@
         religion = catholic
         size = 1925
     }
-
-    ######Jews
-    craftsmen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 300
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
-    }
-    ########
 }
 #Hasselt (272000/68000 POPS)
 391 = {
@@ -826,38 +682,6 @@
         religion = catholic
         size = 64725
     }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
 }
 #Liege (212000/53000 POPS)
 395 = {
