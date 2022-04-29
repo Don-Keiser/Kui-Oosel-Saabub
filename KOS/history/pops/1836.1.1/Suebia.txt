@@ -111,31 +111,31 @@
     aristocrats = {
         culture = suebi
         religion = catholic
-        size = 120
+        size = 420
     }
 
     clergymen = {
         culture = suebi
         religion = catholic
-        size = 200
+        size = 400
     }
 
     artisans = {
         culture = suebi
         religion = catholic
-        size = 1200
+        size = 3200
     }
 
     soldiers = {
         culture = suebi
         religion = catholic
-        size = 800
+        size = 1000
     }
 
     farmers = {
         culture = suebi
         religion = catholic
-        size = 8200
+        size = 23200
 	}
 }
 #Kaputtschwert

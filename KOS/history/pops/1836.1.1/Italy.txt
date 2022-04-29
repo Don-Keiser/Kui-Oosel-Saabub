@@ -73,39 +73,6 @@
         religion = catholic
         size = 11600
     }
-
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
 }
 3435 = {
     artisans = {
@@ -194,8 +161,8 @@
     }
 
     farmers = {
-        culture = french
-        religion = catholic
+        culture = romansh
+        religion = reformed
         size = 5600
     }
 }
@@ -320,32 +287,6 @@
         religion = catholic
         size = 140000
     }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
 }
 #Savona (316000/79000 POPS)
 725 = {
@@ -384,9 +325,15 @@
 #Milan (1332000/333000 POPS)
 726 = {
     aristocrats = {
+        culture = romansh
+        religion = reformed
+        size = 5000
+    }
+
+    aristocrats = {
         culture = romagnol
         religion = catholic
-        size = 7350
+        size = 2350
     }
 
     bureaucrats = {
@@ -406,29 +353,17 @@
         religion = catholic
         size = 3350
     }
-
+	
     artisans = {
         culture = romagnol
         religion = catholic
-        size = 10000
+        size = 35000
     }
 
     artisans = {
-        culture = romagnol
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = romagnol
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = romagnol
-        religion = catholic
-        size = 9000
+        culture = romansh
+        religion = reformed
+        size = 4000
     }
 
     soldiers = {
@@ -442,44 +377,12 @@
         religion = catholic
         size = 275925
     }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
 }
 #Bergamo (472000/118000 POPS)
 727 = {
     aristocrats = {
-        culture = romagnol
-        religion = catholic
+        culture = romansh
+        religion = reformed
         size = 2500
     }
 
@@ -608,38 +511,6 @@
         religion = catholic
         size = 60925
     }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
 }
 #Verona (516000/129000 POPS)
 730 = {
@@ -786,20 +657,14 @@
 734 = {
     aristocrats = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 60
     }
 
     clergymen = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 75
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 5
     }
 
     bureaucrats = {
@@ -826,33 +691,27 @@
         size = 4410
     }
 
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-
     clergymen = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 575
     }
 
     artisans = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 2800
     }
 
     soldiers = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 550
     }
 
     farmers = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 60075
     }
 }
@@ -860,67 +719,55 @@
 735 = {
     aristocrats = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 250
     }
 
     clergymen = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size =  145
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size =  5
     }
 
     artisans = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 1400
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
     }
 
     soldiers = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 150
     }
 
     farmers = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 14950
     }
 
     clergymen = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size =  50
     }
 
     artisans = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 500
     }
 
     soldiers = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 50
     }
 
     farmers = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 5400
     }
 }
@@ -1055,13 +902,6 @@
         religion = catholic
         size = 25000
     }
-
-    farmers = {
-        culture = gypsy
-        religion = catholic
-        size = 375
-    }
-
 }
 #Emilia Region (1120000)
 #under the rule of Parma in 1836
@@ -1353,38 +1193,6 @@
         religion = catholic
         size = 149900
     }
-
-    ######Jews
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
 }
 #Leghorn (380000/95000 POPS)
 745 = {
@@ -1423,32 +1231,6 @@
         religion = catholic
         size = 84600
     }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 550
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 500
-    }
-    ########
 }
 3396 = {
     aristocrats = {
@@ -1487,31 +1269,29 @@
         size = 846
     }
 
-    ######Jews
     soldiers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = sardinian
+        religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
+        culture = sardinian
+        religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
+        culture = sardinian
+        religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = sardinian
+        religion = catholic
         size = 500
     }
-    ########
 }
 3397 = {
     aristocrats = {
@@ -1550,31 +1330,29 @@
         size = 1046
     }
 
-    ######Jews
     soldiers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = latin
+        religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
+        culture = latin
+        religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
+        culture = latin
+        religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = latin
+        religion = catholic
         size = 300
     }
-    ########
 }
 3398 = {
     aristocrats = {
@@ -1613,31 +1391,29 @@
         size = 946
     }
 
-    ######Jews
     soldiers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = latin
+        religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
+        culture = latin
+        religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = ashkenazi
-        religion = jewish
+        culture = latin
+        religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = ashkenazi
-        religion = jewish
+        culture = latin
+        religion = catholic
         size = 300
     }
-    ########
 }
 #Siena (380000/95000 POPS)
 747 = {
@@ -1817,38 +1593,6 @@
         religion = catholic
         size = 230750
     }
-
-    ######Jews
-    aristocrats = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 600
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 500
-    }
-    ########
 }
 #Viterbo (180000/45000 POPS)
 750 = {
@@ -2352,7 +2096,7 @@
 
     farmers = {
         culture = tosk
-        religion = orthodox
+        religion = catholic
         size = 6000
     }
 
@@ -2402,7 +2146,7 @@
 
     farmers = {
         culture = tosk
-        religion = orthodox
+        religion = catholic
         size = 1550
     }
 }
@@ -2498,7 +2242,7 @@
 
     farmers = {
         culture = tosk
-        religion = orthodox
+        religion = catholic
         size = 4450
     }
 }
@@ -2536,7 +2280,7 @@
 
     farmers = {
         culture = tosk
-        religion = orthodox
+        religion = catholic
         size = 2000
     }
 
@@ -2738,7 +2482,7 @@
 
     farmers = {
         culture = ladin
-        religion = catholic
+        religion = reformed
         size = 8000
     }
 
@@ -2748,25 +2492,25 @@
 2669 = {
     clergymen = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 100
     }
 
     artisans = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 500
     }
 
     soldiers = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 300
     }
 
     farmers = {
         culture = romansh
-        religion = catholic
+        religion = reformed
         size = 30000
     }
 

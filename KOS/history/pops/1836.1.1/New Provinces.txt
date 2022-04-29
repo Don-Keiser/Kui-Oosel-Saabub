@@ -1,33 +1,39 @@
 #
 3702 = {
     aristocrats = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 250
     }
 
     artisans = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 300
     }
 
     soldiers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 75
     }
 
     farmers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
-        size = 45475
+        size = 51000
+    }
+	
+	farmers = {
+        culture = cartaginese
+        religion = catholic
+        size = 4000
     }
 }
 

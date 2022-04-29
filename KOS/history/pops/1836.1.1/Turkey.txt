@@ -789,12 +789,6 @@
         size = 6425
     }
 
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 500
-    }
-
     slaves = {
         culture = armenian
         religion = coptic
@@ -1478,12 +1472,6 @@
         culture = aeolic
         religion = orthodox
         size = 580
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 3000
     }
 }
 #Manisa (244000/61000 POPS)
@@ -3422,12 +3410,6 @@
         culture = ge_armenian
         religion = coptic
         size = 23000
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 300
     }
 
     aristocrats = {

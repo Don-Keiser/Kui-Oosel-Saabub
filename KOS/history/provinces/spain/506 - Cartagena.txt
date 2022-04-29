@@ -1,6 +1,6 @@
-owner = MRC
-controller = MRC
-add_core = MRC
+owner = CTG
+controller = CTG
+add_core = CTG
 trade_goods = fish
 life_rating = 35
 naval_base = 1

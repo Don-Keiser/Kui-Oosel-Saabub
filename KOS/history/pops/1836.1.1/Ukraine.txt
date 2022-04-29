@@ -1858,30 +1858,6 @@
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 750
-    }
-
-    clergymen = {
         culture = etelkozi
         religion = catholic
         size = 100
@@ -2001,30 +1977,6 @@
         culture = bulgar_tatar
         religion = orthodox
         size = 2625
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 400
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1550
     }
 
     clergymen = {
@@ -2162,30 +2114,6 @@
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 395
-    }
-
-    clergymen = {
         culture = circassian
         religion = orthodox
         size = 100
@@ -2294,24 +2222,6 @@
     }
 
     clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 20
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 295
-    }
-
-    clergymen = {
         culture = bulgar_tatar
         religion = orthodox
         size = 10
@@ -2396,24 +2306,6 @@
         size = 175
     }
 
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 10
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 395
-    }
-
     farmers = {
         culture = etelkozi
         religion = orthodox
@@ -2479,30 +2371,6 @@
         culture = crimean
         religion = orthodox
         size = 1750
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 395
     }
 
     clergymen = {
@@ -2588,30 +2456,6 @@
         culture = crimean
         religion = orthodox
         size = 1450
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 120
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 595
     }
 
     clergymen = {
@@ -2704,36 +2548,6 @@
         culture = crimean
         religion = orthodox
         size = 1775
-    }
-
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 150
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 590
     }
 
     clergymen = {
@@ -3561,30 +3375,6 @@
         size = 15650
     }
 
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 540
-    }
-
     aristocrats = {
         culture = crimean
         religion = orthodox
@@ -3751,30 +3541,6 @@
         size = 8925
     }
 
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 200
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 540
-    }
-
     aristocrats = {
         culture = etelkozi
         religion = catholic
@@ -3841,36 +3607,6 @@
         culture = etelkozi
         religion = orthodox
         size = 25000
-    }
-
-    aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 750
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1675
     }
 
     clergymen = {

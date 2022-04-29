@@ -1,6 +1,6 @@
-owner = MLG
-controller = MLG
-add_core = MLG
+owner = SEV
+controller = SEV
+add_core = SEV
 trade_goods = fruit
 life_rating = 35
 terrain = dry_mountains

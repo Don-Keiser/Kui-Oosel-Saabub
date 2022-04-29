@@ -1,6 +1,6 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = GLC
+controller = GLC
+add_core = GLC
 trade_goods = fruit
 terrain = hills
 life_rating = 35

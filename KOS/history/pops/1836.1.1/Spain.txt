@@ -2,76 +2,76 @@
 #Oviedo (448000/112000 POPS)
 475 = {
     aristocrats = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 1100
     }
 
     clergymen = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 1050
     }
 
     artisans = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
-        size = 5000
+        size = 6000
     }
 
     soldiers = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
-        size = 10850
+        size = 18850
     }
 }
 #Leon Region (888000)
 #Leon (280000/70000 POPS)
 477 = {
     aristocrats = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 800
     }
 
     officers = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 300
     }
 
     bureaucrats = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 700
     }
 
     artisans = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 3500
     }
 
     soldiers = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 700
     }
 
     farmers = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 50600
     }
@@ -79,31 +79,31 @@
 #Santander (178000/44500) POPS
 478 = {
     aristocrats = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 3500
     }
 
     soldiers = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 35700
     }
@@ -129,37 +129,37 @@
 #Burgos (236000/59000 POPS)
 479 = {
     aristocrats = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 650
     }
 
     clergymen = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 575
     }
 
     artisans = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 5500
     }
 
     soldiers = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 600
     }
 
     farmers = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 38675
     }
 	
 	farmers = {
-        culture = asturleonese
+        culture = sevillan
         religion = catholic
         size = 12000
     }
@@ -179,33 +179,33 @@
 #Valladolid (194000/48500 POPS)
 480 = {
     aristocrats = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 600
     }
 
     clergymen = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 6000
     }
 
     soldiers = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = asturleonese
+        culture = suebi
         religion = catholic
-        size = 40900
+        size = 42900
     }
 
 }
@@ -213,209 +213,190 @@
 #Soria
 481 = {
     aristocrats = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 1500
     }
 
     officers = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 350
     }
 
     clergymen = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 700
     }
 
     artisans = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 3500
     }
 
     soldiers = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
-        size = 62700
+        size = 22700
+    }
+	
+	farmers = {
+        culture = sevillan
+        religion = catholic
+        size = 40000
     }
 }
 #Salamanca
 482 = {
     aristocrats = {
-        culture = asturleonese
+        culture = sevillan
         religion = catholic
         size = 1100
     }
 
     clergymen = {
-        culture = asturleonese
+        culture = sevillan
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = asturleonese
+        culture = sevillan
         religion = catholic
         size = 2600
     }
 
     soldiers = {
-        culture = asturleonese
+        culture = sevillan
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = asturleonese
+        culture = sevillan
         religion = catholic
-        size = 34750
-    }
-	
-	farmers = {
-        culture = toledano
-        religion = catholic
-        size = 14000
+        size = 48750
     }
 }
 #Avila
 483 = {
     aristocrats = {
-        culture = asturleonese
+        culture = sevillan
         religion = catholic
         size = 1200
     }
 
     clergymen = {
-        culture = asturleonese
+        culture = sevillan
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = asturleonese
+        culture = sevillan
         religion = catholic
         size = 4000
     }
 
     soldiers = {
-        culture = asturleonese
+        culture = sevillan
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = asturleonese
+        culture = sevillan
         religion = catholic
-        size = 30250
+        size = 40250
     }
-	
-	farmers = {
-        culture = toledano
-        religion = catholic
-        size = 19000
-    }
-
 }
 #Extremadura Region (580000)
 #Badajoz (216000/54000 POPS)
 484 = {
     aristocrats = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 1250
     }
 
     officers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 200
     }
 
     bureaucrats = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = toledano
-        religion = catholic
-        size = 400
-    }
-
-    farmers = {
-        culture = toledano
-        religion = catholic
-        size = 24650
-    }
-	
-	soldiers = {
         culture = sevillan
         religion = catholic
-        size = 200
+        size = 600
     }
 
     farmers = {
         culture = sevillan
         religion = catholic
-        size = 22000
+        size = 46650
     }
 }
 #Almendralejo (192000/48000 POPS)
 485 = {
     aristocrats = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 1050
     }
 
     clergymen = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 2250
     }
 
     soldiers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 43700
     }
@@ -423,31 +404,31 @@
 #Caceres (172000/43000 POPS)
 486 = {
     aristocrats = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 900
     }
 
     clergymen = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 425
     }
 
     artisans = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 2500
     }
 
     soldiers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 450
     }
 
     farmers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 38725
     }
@@ -457,37 +438,37 @@
 #Madrid (364000/91000 POPS)
 487 = {
     aristocrats = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 1550
     }
 
     clergymen = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 750
     }
 
     artisans = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 6000
     }
 
     soldiers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 62200
     }
@@ -495,193 +476,139 @@
 #Siguenza (204000/51000 POPS)
 488 = {
     aristocrats = {
-        culture = latin
+        culture = sevillan
         religion = catholic
         size = 1200
     }
 
     clergymen = {
-        culture = aragonese
+        culture = sevillan
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = aragonese
+        culture = sevillan
         religion = catholic
         size = 2500
     }
 
     soldiers = {
-        culture = aragonese
+        culture = sevillan
         religion = catholic
-        size = 2000
+        size = 42800
     }
 
     farmers = {
         culture = aragonese
         religion = catholic
-        size = 26800
-    }
-	
-	farmers = {
-        culture = latin
-        religion = catholic
-        size = 8800
-    }
-	
-	soldiers = {
-        culture = latin
-        religion = catholic
-        size = 13000
+        size = 1800
     }
 }
 #Toledo (302000/75500 POPS)
 489 = {
     aristocrats = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 2000
     }
 
     officers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 500
     }
 
     bureaucrats = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 1100
     }
 
     clergymen = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 900
     }
 
     artisans = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 10000
-    }
-
-    artisans = {
-        culture = toledano
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = toledano
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = toledano
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = toledano
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = toledano
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = toledano
-        religion = catholic
-        size = 8500
     }
 
     soldiers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 6000
     }
 
     farmers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
-        size = 20100
+        size = 65100
     }
 }
 #Cuenca (346000/86500 POPS)
 490 = {
     aristocrats = {
-        culture = latin
+        culture = sevillan
         religion = catholic
         size = 1800
     }
 
     clergymen = {
-        culture = latin
+        culture = sevillan
         religion = catholic
         size = 1075
     }
 
     artisans = {
-        culture = aragonese
+        culture = sevillan
         religion = catholic
         size = 2200
     }
 
     soldiers = {
-        culture = latin
+        culture = sevillan
         religion = catholic
-        size = 15850
+        size = 5850
     }
 
     farmers = {
-        culture = aragonese
+        culture = sevillan
         religion = catholic
-        size = 25775
-    }
-	
-	farmers = {
-        culture = latin
-        religion = catholic
-        size = 15000
+        size = 52775
     }
 }
 #Ciudad Real (288000/74000 POPS)
 491 = {
     aristocrats = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 1500
     }
 
     clergymen = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 700
     }
 
     artisans = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 3500
     }
 
     soldiers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 700
     }
 
     farmers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 65600
     }
@@ -717,87 +644,45 @@
     farmers = {
         culture = basque
         religion = catholic
-        size = 59800
+        size = 64800
     }
 
     aristocrats = {
-        culture = aragonese
-        religion = catholic
-        size = 250
-    }
-
-    clergymen = {
-        culture = aragonese
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = aragonese
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = aragonese
-        religion = catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = aragonese
-        religion = catholic
-        size = 10850
-    }
-}
-#Pamplona (244000/61000 POPS)
-493 = {
-    aristocrats = {
-        culture = basque
-        religion = catholic
-        size = 700
-    }
-
-    officers = {
-        culture = basque
-        religion = catholic
-        size = 100
-    }
-
-    bureaucrats = {
-        culture = basque
+        culture = occitan
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = basque
+        culture = occitan
         religion = catholic
-        size = 375
+        size = 200
     }
 
     artisans = {
-        culture = basque
+        culture = occitan
         religion = catholic
-        size = 1750
+        size = 1100
     }
 
     soldiers = {
-        culture = basque
+        culture = occitan
         religion = catholic
-        size = 400
+        size = 200
     }
 
-    labourers = {
-        culture = basque
+    farmers = {
+        culture = occitan
         religion = catholic
-        size = 42025
+        size = 5850
     }
-
+}
+#Pamplona (244000/61000 POPS)
+493 = {
     aristocrats = {
         culture = aragonese
         religion = catholic
-        size = 500
+        size = 700
     }
 
     officers = {
@@ -809,29 +694,71 @@
     bureaucrats = {
         culture = aragonese
         religion = catholic
-        size = 200
+        size = 150
     }
 
     clergymen = {
         culture = aragonese
         religion = catholic
-        size = 225
+        size = 375
     }
 
     artisans = {
         culture = aragonese
         religion = catholic
-        size = 1250
+        size = 1750
     }
 
     soldiers = {
         culture = aragonese
         religion = catholic
+        size = 400
+    }
+
+    labourers = {
+        culture = aragonese
+        religion = catholic
+        size = 42025
+    }
+
+    aristocrats = {
+        culture = basque
+        religion = catholic
+        size = 500
+    }
+
+    officers = {
+        culture = basque
+        religion = catholic
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = basque
+        religion = catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = basque
+        religion = catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = basque
+        religion = catholic
+        size = 1250
+    }
+
+    soldiers = {
+        culture = basque
+        religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = aragonese
+        culture = basque
         religion = catholic
         size = 14975
     }
@@ -839,45 +766,45 @@
 #Logrono (158000/39500 POPS)
 494 = {
     aristocrats = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 850
     }
 
     clergymen = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = aragonese
+        culture = suebi
         religion = catholic
-        size = 15850
+        size = 24850
     }
 	
 	soldiers = {
-        culture = basque
+        culture = sevillan
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = basque
+        culture = sevillan
         religion = catholic
-        size = 20000
+        size = 12000
     }
 
 }
@@ -915,7 +842,7 @@
     }
 
     artisans = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 5000
     }
@@ -933,13 +860,13 @@
     }
 
     clergymen = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 1950
     }
@@ -973,43 +900,43 @@
     farmers = {
         culture = aragonese
         religion = catholic
-        size = 35450
+        size = 45450
     }
 
     aristocrats = {
-        culture = catalan
+        culture = occitan
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = catalan
+        culture = occitan
         religion = catholic
         size = 175
     }
 
     artisans = {
-        culture = catalan
+        culture = occitan
         religion = catholic
         size = 850
     }
 
     soldiers = {
-        culture = catalan
+        culture = occitan
         religion = catholic
         size = 250
     }
 
     labourers = {
-        culture = catalan
+        culture = occitan
         religion = catholic
-        size = 16025
+        size = 6025
     }
 }
 #Teruel (228000/57000 POPS)
 497 = {
     aristocrats = {
-        culture = aragonese
+        culture = sevillan
         religion = catholic
         size = 1200
     }
@@ -1042,137 +969,33 @@
 #Barcelona (464000/116000 POPS)
 498 = {
     aristocrats = {
-        culture = catalan
+        culture = occitan
         religion = catholic
-        size = 1700
-    }
-
-    officers = {
-        culture = catalan
-        religion = catholic
-        size = 200
-    }
-
-    bureaucrats = {
-        culture = catalan
-        religion = catholic
-        size = 550
+        size = 850
     }
 
     clergymen = {
-        culture = catalan
+        culture = occitan
         religion = catholic
-        size = 825
+        size = 450
     }
 
     artisans = {
-        culture = catalan
+        culture = occitan
         religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 1100
+        size = 3750
     }
 
     soldiers = {
-        culture = catalan
+        culture = occitan
         religion = catholic
-        size = 2000
+        size = 1350
     }
 
     farmers = {
-        culture = catalan
+        culture = occitan
         religion = catholic
-        size = 53225
-    }
-
-    aristocrats = {
-        culture = aragonese
-        religion = catholic
-        size = 500
-    }
-
-    officers = {
-        culture = aragonese
-        religion = catholic
-        size = 100
-    }
-
-    bureaucrats = {
-        culture = aragonese
-        religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = aragonese
-        religion = catholic
-        size = 275
-    }
-
-    artisans = {
-        culture = aragonese
-        religion = catholic
-        size = 9000
-    }
-
-    soldiers = {
-        culture = aragonese
-        religion = catholic
-        size = 300
-    }
-
-    farmers = {
-        culture = aragonese
-        religion = catholic
-        size = 16125
-    }
-}
-#Gerona (228000/57000 POPS)
-499 = {
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 750
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 350
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 1750
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 350
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 33300
+        size = 36300
     }
 
     aristocrats = {
@@ -1202,286 +1025,276 @@
     farmers = {
         culture = aragonese
         religion = catholic
-        size = 18600
+        size = 6600
+    }
+}
+#Gerona (228000/57000 POPS)
+499 = {
+    aristocrats = {
+        culture = occitan
+        religion = catholic
+        size = 1050
+    }
+
+    clergymen = {
+        culture = occitan
+        religion = catholic
+        size = 850
+    }
+
+    artisans = {
+        culture = occitan
+        religion = catholic
+        size = 4550
+    }
+
+    soldiers = {
+        culture = occitan
+        religion = catholic
+        size = 850
+    }
+
+    farmers = {
+        culture = occitan
+        religion = catholic
+        size = 48300
+    }
+
+    farmers = {
+        culture = aragonese
+        religion = catholic
+        size = 3000
     }
 }
 3433 = {
     aristocrats = {
         culture = occitan
         religion = catholic
-        size = 75
+        size = 600
     }
 
     clergymen = {
         culture = occitan
         religion = catholic
-        size = 35
+        size = 300
     }
 
     artisans = {
         culture = occitan
         religion = catholic
-        size = 17
+        size = 3600
     }
 
     soldiers = {
         culture = occitan
         religion = catholic
-        size = 35
+        size = 800
     }
 
     farmers = {
         culture = occitan
         religion = catholic
-        size = 3330
-    }
-
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 45
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 20
-    }
-
-    artisans = {
-        culture = catalan
-        religion = catholic
-        size = 110
-    }
-
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 25
-    }
-
-    farmers = {
-        culture = catalan
-        religion = catholic
-        size = 1860
+        size = 24000
     }
 }
 
 #Lerida (164000/41000 POPS)
 500 = {
     aristocrats = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
         size = 550
     }
 
     clergymen = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
         size = 250
     }
 
     artisans = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
         size = 2750
     }
 
     soldiers = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
         size = 275
     }
 
     farmers = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
-        size = 24150
+        size = 30150
     }
 
     aristocrats = {
-        culture = aragonese
+        culture = occitan
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = aragonese
+        culture = occitan
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = aragonese
+        culture = occitan
         religion = catholic
         size = 1250
     }
 
     soldiers = {
-        culture = aragonese
+        culture = occitan
         religion = catholic
         size = 150
     }
 
     farmers = {
-        culture = aragonese
+        culture = occitan
         religion = catholic
-        size = 11275
+        size = 5275
     }
 }
 3401 = {
     aristocrats = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
         size = 550
     }
 
     clergymen = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
         size = 250
     }
 
     artisans = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
-        size = 1250
+        size = 3250
     }
 
     soldiers = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
         size = 275
     }
 
     farmers = {
-        culture = catalan
-        religion = catholic
-        size = 16275
-    }
-
-    aristocrats = {
         culture = aragonese
         religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = aragonese
-        religion = catholic
-        size = 125
-    }
-
-    artisans = {
-        culture = aragonese
-        religion = catholic
-        size = 2750
-    }
-
-    soldiers = {
-        culture = aragonese
-        religion = catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = aragonese
-        religion = catholic
-        size = 19150
+        size = 36000
     }
 }
 #Tarragona (244000/61000 POPS)
 501 = {
     aristocrats = {
-        culture = catalan
+        culture = cartaginese
         religion = catholic
-        size = 850
+        size = 200
     }
 
     clergymen = {
-        culture = catalan
+        culture = cartaginese
         religion = catholic
-        size = 400
+        size = 100
     }
 
     artisans = {
-        culture = catalan
+        culture = cartaginese
         religion = catholic
-        size = 2000
+        size = 800
     }
 
     soldiers = {
-        culture = catalan
+        culture = cartaginese
         religion = catholic
-        size = 400
+        size = 100
     }
 
     farmers = {
-        culture = catalan
+        culture = cartaginese
         religion = catholic
-        size = 37850
+        size = 5850
+    }
+	
+	artisans = {
+        culture = occitan
+        religion = catholic
+        size = 2800
     }
 
     aristocrats = {
         culture = aragonese
         religion = catholic
-        size = 450
+        size = 800
     }
 
     clergymen = {
         culture = aragonese
         religion = catholic
-        size = 200
+        size = 550
     }
 
     artisans = {
         culture = aragonese
         religion = catholic
-        size = 1100
+        size = 10000
     }
-
-    soldiers = {
+	
+	artisans = {
         culture = aragonese
-        religion = catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = aragonese
-        religion = catholic
-        size = 17650
-    }
-}
-#Balearics (240000/60000 POPS)
-502 = {
-    aristocrats = {
-        culture = catalan
-        religion = catholic
-        size = 400
-    }
-
-    clergymen = {
-        culture = catalan
-        religion = catholic
-        size = 400
-    }
-
-    artisans = {
-        culture = catalan
         religion = catholic
         size = 6000
     }
 
     soldiers = {
-        culture = catalan
+        culture = aragonese
+        religion = catholic
+        size = 4000
+    }
+
+    farmers = {
+        culture = aragonese
+        religion = catholic
+        size = 72000
+    }
+}
+#Balearics (240000/60000 POPS)
+502 = {
+    aristocrats = {
+        culture = cartaginese
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = cartaginese
+        religion = catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = cartaginese
+        religion = catholic
+        size = 8000
+    }
+
+    soldiers = {
+        culture = cartaginese
         religion = catholic
         size = 400
     }
 
     farmers = {
-        culture = catalan
+        culture = cartaginese
         religion = catholic
-        size = 33300
+        size = 46300
     }
 
     aristocrats = {
@@ -1499,7 +1312,7 @@
     artisans = {
         culture = aragonese
         religion = catholic
-        size = 3000
+        size = 1000
     }
 
     soldiers = {
@@ -1511,7 +1324,7 @@
     labourers = {
         culture = aragonese
         religion = catholic
-        size = 15900
+        size = 2900
     }
 
 }
@@ -1519,229 +1332,223 @@
 #Valencia (420000/105000 POPS)
 503 = {
     aristocrats = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 1100
     }
 
     officers = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 175
     }
 
     bureaucrats = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 275
     }
 
     clergymen = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 550
     }
 
     artisans = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 2000
     }
 
     farmers = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
-        size = 37900
+        size = 68000
     }
 
     aristocrats = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 1100
     }
 
     officers = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 225
     }
 
     clergymen = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
-        size = 10000
+        size = 4000
     }
 
     artisans = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
-        size = 39675
+        size = 5000
     }
 }
 #Castellon (212000/53000 POPS)
 504 = {
     aristocrats = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
-        size = 550
+        size = 750
     }
 
     clergymen = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 250
     }
 
     artisans = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
-        size = 1300
+        size = 2800
     }
 
     soldiers = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
-        size = 19650
+        size = 46000
     }
 
     aristocrats = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
-        size = 500
+        size = 300
     }
 
     clergymen = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
         size = 275
     }
 
     artisans = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
-        size = 1700
+        size = 700
     }
 
     soldiers = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = catalan
+        culture = aragonese
         religion = catholic
-        size = 28275
+        size = 6000
     }
 }
 #Alicante (384000/96000 POPS)
 505 = {
     aristocrats = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 1100
     }
 
     clergymen = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 525
     }
 
     artisans = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 2500
     }
 
     soldiers = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
         size = 550
     }
 
     farmers = {
-        culture = aragonese
+        culture = cartaginese
         religion = catholic
-        size = 19825
-    }
-	
-	farmers = {
-        culture = toledano
-        religion = catholic
-        size = 30825
+        size = 90000
     }
 
     aristocrats = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 400
     }
 
     artisans = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
         size = 400
     }
 
     labourers = {
-        culture = catalan
+        culture = sevillan
         religion = catholic
-        size = 38300
+        size = 4500
     }
 
 }
@@ -1749,121 +1556,139 @@
 #Cartagena (212000/53000 POPS)
 506 = {
     aristocrats = {
-        culture = sevillan
+        culture = cartaginese
         religion = catholic
-        size = 1100
+        size = 2300
     }
 
     officers = {
-        culture = sevillan
+        culture = cartaginese
         religion = catholic
-        size = 150
+        size = 200
     }
 
     bureaucrats = {
-        culture = sevillan
+        culture = cartaginese
         religion = catholic
         size = 900
     }
 
     clergymen = {
-        culture = sevillan
+        culture = cartaginese
         religion = catholic
-        size = 525
+        size = 1800
     }
 
     artisans = {
-        culture = sevillan
+        culture = cartaginese
+        religion = catholic
+        size = 10000
+    }
+	
+	artisans = {
+        culture = cartaginese
         religion = catholic
         size = 7000
     }
 
     soldiers = {
-        culture = sevillan
+        culture = cartaginese
         religion = catholic
-        size = 350
+        size = 5000
     }
 
     farmers = {
-        culture = sevillan
+        culture = cartaginese
         religion = catholic
-        size = 24000
+        size = 78000
     }
 	
 	soldiers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
-        size = 250
+        size = 200
     }
 
     farmers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
-        size = 18375
+        size = 12000
     }
 }
 #Murcia (92000/23000 POPS)
 507 = {
     aristocrats = {
-        culture = toledano
+        culture = cartaginese
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = toledano
+        culture = cartaginese
         religion = catholic
         size = 225
     }
 
     artisans = {
-        culture = toledano
+        culture = cartaginese
         religion = catholic
         size = 1100
     }
 
     soldiers = {
-        culture = toledano
+        culture = cartaginese
         religion = catholic
         size = 250
     }
 
     farmers = {
-        culture = toledano
+        culture = cartaginese
         religion = catholic
-        size = 21025
+        size = 23000
+    }
+	
+	farmers = {
+        culture = sevillan
+        religion = catholic
+        size = 3500
     }
 }
 #Albacete (20000/50000 POPS)
 508 = {
     aristocrats = {
-        culture = toledano
+        culture = cartaginese
         religion = catholic
         size = 400
     }
 
     clergymen = {
-        culture = toledano
+        culture = cartaginese
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = toledano
+        culture = cartaginese
         religion = catholic
         size = 2000
     }
 
     soldiers = {
-        culture = toledano
+        culture = cartaginese
         religion = catholic
         size = 1900
     }
 
     farmers = {
-        culture = toledano
+        culture = cartaginese
         religion = catholic
-        size = 55600
+        size = 48000
+    }
+	
+	farmers = {
+        culture = sevillan
+        religion = catholic
+        size = 8000
     }
 }
 #Andalucia Region (1176000)
@@ -1926,33 +1751,45 @@
 #Cordoba (324000/81000 POPS)
 510 = {
     aristocrats = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 1700
     }
+	
+	bureaucrats = {
+        culture = sevillan
+        religion = catholic
+        size = 800
+    }
+	
+    officers = {
+        culture = sevillan
+        religion = catholic
+        size = 450
+    }
 
     clergymen = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 800
     }
 
     artisans = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
-        size = 3000
+        size = 10000
     }
-
-    soldiers = {
-        culture = toledano
+	
+	artisans = {
+        culture = sevillan
         religion = catholic
-        size = 500
+        size = 10000
     }
-
-    farmers = {
-        culture = toledano
+	
+	artisans = {
+        culture = sevillan
         religion = catholic
-        size = 17500
+        size = 10000
     }
 	
 	artisans = {
@@ -1964,13 +1801,13 @@
     soldiers = {
         culture = sevillan
         religion = catholic
-        size = 600
+        size = 8000
     }
 
     farmers = {
         culture = sevillan
         religion = catholic
-        size = 51000
+        size = 92000
     }
 }
 #Huelva (140000/35000 POPS)
@@ -2162,59 +1999,46 @@
     farmers = {
         culture = sevillan
         religion = catholic
-        size = 52600
+        size = 26000
+    }
+	
+	farmers = {
+        culture = cartaginese
+        religion = catholic
+        size = 28000
     }
 }
 #Jaen (270000/67500 POPS)
 516 = {
     aristocrats = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 1700
     }
 
     clergymen = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
         size = 600
     }
 
     artisans = {
-        culture = toledano
-        religion = catholic
-        size = 3500
-    }
-
-    soldiers = {
-        culture = toledano
-        religion = catholic
-        size = 650
-    }
-
-    farmers = {
-        culture = toledano
-        religion = catholic
-        size = 29200
-    }
-	
-	artisans = {
         culture = sevillan
         religion = catholic
-        size = 2500
+        size = 6000
     }
 
     soldiers = {
         culture = sevillan
         religion = catholic
-        size = 450
+        size = 1100
     }
 
     farmers = {
         culture = sevillan
         religion = catholic
-        size = 29500
+        size = 60000
     }
-
 }
 #see Morocco.txt for Ceuta-Melilla
 #Canary Islands Region (208000)
@@ -2308,50 +2132,44 @@
 
 #Olivenza
 3287 = {
-    artisans = {
-        culture = toledano
-        religion = catholic
-        size = 2000
-    }
-
     clergymen = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
-        size = 250
+        size = 600
     }
 
     farmers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
-        size = 6000
+        size = 42000
     }
 
     soldiers = {
-        culture = toledano
+        culture = sevillan
         religion = catholic
-        size = 300
+        size = 600
     }
 
     aristocrats = {
-        culture = lusitanian
+        culture = sevillan
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = lusitanian
+        culture = sevillan
         religion = catholic
-        size = 3750
+        size = 6000
     }
 
     bureaucrats = {
-        culture = lusitanian
+        culture = sevillan
         religion = catholic
         size = 250
     }
 
     officers = {
-        culture = lusitanian
+        culture = sevillan
         religion = catholic
         size = 100
     }

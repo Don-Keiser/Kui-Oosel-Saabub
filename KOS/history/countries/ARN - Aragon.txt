@@ -1,12 +1,11 @@
-capital = 495
+capital = 501
 primary_culture = aragonese
-culture = catalan
 religion = catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.066917
-prestige = 45
+prestige = 5
 
 civilized = yes
 

@@ -1,13 +1,13 @@
-capital = 507
-primary_culture = toledano
-culture = sevillan
+capital = 506
+primary_culture = sevillan
 religion = catholic
-government = democracy
-plurality = 80.0
-nationalvalue = nv_equality
-literacy = 0.12
+government = hms_government
+plurality = 12.0
+nationalvalue = nv_liberty
+literacy = 0.13
+non_state_culture_literacy = 0.1
 civilized = yes
-prestige = 4
+prestige = 5
 
 # Political reforms
 slavery = yes_slavery

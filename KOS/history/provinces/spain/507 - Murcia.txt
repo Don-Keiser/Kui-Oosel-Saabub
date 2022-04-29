@@ -1,5 +1,5 @@
-owner = MRC
-controller = MRC
-add_core = MRC
+owner = CTG
+controller = CTG
+add_core = CTG
 trade_goods = cattle
 life_rating = 35

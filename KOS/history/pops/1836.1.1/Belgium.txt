@@ -2,7 +2,7 @@
 #Brussels (772000/193000 POPS)
 387 = {
     aristocrats = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 100
     }
@@ -14,7 +14,7 @@
     }
 
     officers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 150
     }
@@ -26,7 +26,7 @@
     }
 
     bureaucrats = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 300
     }
@@ -38,7 +38,7 @@
     }
 
     clergymen = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 50
     }
@@ -50,7 +50,7 @@
     }
 
     capitalists = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 50
     }
@@ -62,7 +62,7 @@
     }
 
     clerks = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 600
     }
@@ -74,7 +74,7 @@
     }
 
     craftsmen = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 3000
     }
@@ -86,7 +86,7 @@
     }
 
     artisans = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 2300
     }
@@ -98,7 +98,7 @@
     }
 
     soldiers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 100
     }
@@ -110,7 +110,7 @@
     }
 
     labourers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 650
     }
@@ -272,25 +272,25 @@
     }
 
     clergymen = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 1900
     }
 
     soldiers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 3000
     }
@@ -341,25 +341,25 @@
     }
 
     clergymen = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 100
     }
 
     artisans = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 1000
     }
 
     soldiers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 1925
     }
@@ -433,61 +433,61 @@
 #Namur (388000/97000 POPS)
 392 = {
     aristocrats = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 850
     }
 
     officers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 350
     }
 
     bureaucrats = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 500
     }
 
     clergymen = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 550
     }
 
     capitalists = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 150
     }
 
     clerks = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 2000
     }
 
     craftsmen = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 14000
     }
 
     artisans = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 1300
     }
 
     soldiers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 4000
     }
 
     labourers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 41200
     }
@@ -495,7 +495,7 @@
     clergymen = {
         culture = flamsk
         religion = catholic
-        size = 150
+        size = 225
     }
 
     artisans = {
@@ -513,19 +513,7 @@
     labourers = {
         culture = flamsk
         religion = catholic
-        size = 7825
-    }
-
-    clergymen = {
-        culture = flamsk
-        religion = reformed
-        size = 75
-    }
-
-    farmers = {
-        culture = flamsk
-        religion = reformed
-        size = 15925
+        size = 23000
     }
 }
 #Tournai (292000/73000 POPS)
@@ -563,20 +551,13 @@
     clergymen = {
         culture = picard
         religion = catholic
-        size = 300
+        size = 500
     }
 
     clerks = {
         culture = picard
         religion = catholic
         size = 100
-    }
-
-
-    artisans = {
-        culture = wallonian
-        religion = catholic
-        size = 2200
     }
 
     soldiers = {
@@ -588,25 +569,13 @@
     farmers = {
         culture = picard
         religion = catholic
-        size = 56075
-    }
-
-    clergymen = {
-        culture = wallonian
-        religion = catholic
-        size = 125
+        size = 68075
     }
 
     artisans = {
-        culture = wallonian
+        culture = picard
         religion = catholic
-        size = 500
-    }
-
-    farmers = {
-        culture = wallonian
-        religion = catholic
-        size = 12000
+        size = 2700
     }
 
     craftsmen = {
@@ -648,37 +617,37 @@
     }
 
     aristocrats = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 900
     }
 
     clergymen = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 575
     }
 
     artisans = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 3800
     }
 
     craftsmen = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 16000
     }
 
     soldiers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 64725
     }
@@ -686,43 +655,43 @@
 #Liege (212000/53000 POPS)
 395 = {
     aristocrats = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 750
     }
 
     clergymen = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 500
     }
 
     clerks = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 1100
     }
 
     craftsmen = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 5000
     }
 
     artisans = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 1200
     }
 
     soldiers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 3100
     }
 
     farmers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 29800
     }
@@ -766,13 +735,13 @@
     }
 
     artisans = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 300
     }
 
     farmers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 6175
     }
@@ -830,13 +799,13 @@
     }
 
     artisans = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 600
     }
 
     farmers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 8500
     }
@@ -850,13 +819,13 @@
     }
 
     artisans = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 600
     }
 
     farmers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 2500
     }

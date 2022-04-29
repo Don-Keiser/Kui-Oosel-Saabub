@@ -537,32 +537,6 @@
         religion = protestant
         size = 57575
     }
-
-    ######Jews
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 400
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 400
-    }
-    ########
 }
 #Gottingen (180000/45000 POPS)
 537 = {
@@ -2978,31 +2952,31 @@
     }
 
     aristocrats = {
-        culture = lorrain
+        culture = french
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = lorrain
+        culture = french
         religion = catholic
         size = 575
     }
 
     artisans = {
-        culture = lorrain
+        culture = french
         religion = catholic
         size = 2700
     }
 
     soldiers = {
-        culture = lorrain
+        culture = french
         religion = catholic
         size = 500
     }
 
     farmers = {
-        culture = lorrain
+        culture = french
         religion = catholic
         size = 34900
     }
@@ -3172,13 +3146,13 @@
     }
 
     clergymen = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 10
     }
 
     farmers = {
-        culture = wallonian
+        culture = picard
         religion = catholic
         size = 990
     }

@@ -1,16 +1,9 @@
 capital = 425
 primary_culture = french
 culture = occitan
-culture = north_occitan
-culture = wallonian
-culture = breton
-culture = amorican
 culture = parlangian
 culture = arpitan
-culture = franco_burgundian
-culture = gascon
 culture = norman
-culture = lorrain
 culture = picard
 religion = catholic
 government = hms_government

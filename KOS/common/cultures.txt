@@ -1825,7 +1825,7 @@ iberian = {
         Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz
         Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
     }
-    asturleonese  = {
+    cartaginese  = {
 		color = {151 188 76}
 		first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
 		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
@@ -1844,7 +1844,7 @@ iberian = {
 		Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
 	}
     suebi = {
-        color = {166 193 31}
+        color = {193 155 30}
         first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
         Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
         Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
@@ -1876,7 +1876,7 @@ iberian = {
         Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
     }
     aragonese = {
-		color = {193 155 30}
+		color = {179 163 20}
 		first_names = { Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Bernat Carles Cassià Chulián Dalmau 
 		David Eduard Enric Enrique Federico Felip Fernando Ferran Francí Gaspar 
 		Gerard Isaac Jacint Jaume Joan Jordi Josep Juan Llorenç

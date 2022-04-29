@@ -27,13 +27,13 @@
     }
 
     artisans = {
-        culture = sephardic
+        culture = judeo_berber
         religion = jewish
         size = 353
     }
 
     artisans = {
-        culture = sephardic
+        culture = judeo_berber
         religion = jewish
         size = 117
     }

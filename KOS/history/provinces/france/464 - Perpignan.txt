@@ -1,7 +1,6 @@
-owner = ARN
-controller = ARN
-add_core = ARN
+owner = GTL
+controller = GTL
+add_core = GTL
 add_core = OCC
-add_core = CAT
 trade_goods = wool
 life_rating = 30

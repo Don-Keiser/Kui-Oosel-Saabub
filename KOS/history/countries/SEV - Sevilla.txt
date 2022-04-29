@@ -2,13 +2,13 @@ capital = 509
 primary_culture = sevillan
 culture = riffian
 religion = catholic
-government = parliamentary_republic
-plurality = 12.0
-nationalvalue = nv_liberty
-literacy = 0.13
+government = absolute_monarchy
+plurality = 0.02
+nationalvalue = nv_order
+literacy = 0.20
 non_state_culture_literacy = 0.1
 civilized = yes
-prestige = 6
+prestige = 35
 
 # Political reforms
 slavery = yes_slavery

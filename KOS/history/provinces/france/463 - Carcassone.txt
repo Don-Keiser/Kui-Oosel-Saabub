@@ -1,7 +1,7 @@
-owner = FRA
-controller = FRA
+owner = GTL
+controller = GTL
+add_core = GTL
 add_core = OCC
-add_core = FRA
 trade_goods = cotton
 life_rating = 30
 1861.1.1 = { railroad = 3 }

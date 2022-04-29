@@ -169,18 +169,6 @@
         religion = coptic
         size = 10750
     }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 10
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 690
-    }
 }
 #Pasanauri (76000/19000 POPS)
 1091 = {
@@ -287,18 +275,6 @@
         religion = coptic
         size = 1300
     }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 5
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 245
-    }
 }
 
 #Gori
@@ -356,18 +332,6 @@
 		religion = orthodox
 		size = 1000
 	}
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 5
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 100
-    }
 	
 	farmers = {
 		culture = ossetian

@@ -62,12 +62,6 @@
         size = 31750
     }
 
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 200
-    }
-
     aristocrats = {
         culture = armenian
         religion = coptic

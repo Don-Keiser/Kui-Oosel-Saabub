@@ -5314,24 +5314,6 @@
         religion = orthodox
         size = 2950
     }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 310
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 4025
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 510
-    }
 }
 
 #Kurakh
@@ -5370,24 +5352,6 @@
         culture = dagestani
         religion = orthodox
         size = 14910
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 10
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 25
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 55
     }
 }
 
@@ -5489,24 +5453,6 @@
         religion = orthodox
         size = 250
     }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 10
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 25
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 200
-    }
 }
 #Gunib (164000/41000 POPS)
 1053 = {
@@ -5568,24 +5514,6 @@
         culture = dagestani
         religion = orthodox
         size = 4090
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 10
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 25
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 335
     }
 }
 
@@ -5649,24 +5577,6 @@
         culture = dagestani
         religion = orthodox
         size = 20900
-    }
-
-    clergymen = {
-        culture = sephardic
-        religion = jewish
-        size = 10
-    }
-
-    artisans = {
-        culture = sephardic
-        religion = jewish
-        size = 25
-    }
-
-    farmers = {
-        culture = sephardic
-        religion = jewish
-        size = 200
     }
 }
 
@@ -6132,34 +6042,6 @@
 #under the rule of Russia in 1836
 #Ekaterinburg (396000/99000 POPS)
 1058 = {
-
-    ######Jews
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-    ########
-
     aristocrats = {
         culture = bulgar_tatar
         religion = tengri

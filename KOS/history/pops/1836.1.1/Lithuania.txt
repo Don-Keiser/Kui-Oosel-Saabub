@@ -87,42 +87,6 @@
     }
 
     aristocrats = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 150
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 3250
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 150
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 2450
-    }
-
-    aristocrats = {
         culture = estonian
         religion = protestant
         size = 100

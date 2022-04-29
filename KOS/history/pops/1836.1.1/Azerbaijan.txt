@@ -127,18 +127,6 @@
         religion = coptic
         size = 6400
     }
-
-    clergymen = {
-        culture = mizrahi
-        religion = jewish
-        size = 10
-    }
-
-    artisans = {
-        culture = mizrahi
-        religion = jewish
-        size = 500
-    }
 }
 
 #Shirvan
@@ -231,18 +219,6 @@
          culture = armenian
          religion = coptic
          size = 2000
-    }
-
-    clergymen = {
-        culture = mizrahi
-        religion = jewish
-        size = 5
-    }
-
-    artisans = {
-        culture = mizrahi
-        religion = jewish
-        size = 245
     }
 }
 
