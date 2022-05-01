@@ -1,6 +1,6 @@
-owner = MSL
-controller = MSL
-add_core = MSL
+owner = MSA
+controller = MSA
+add_core = MSA
 trade_goods = iron
 life_rating = 35
 terrain = dry_mountains

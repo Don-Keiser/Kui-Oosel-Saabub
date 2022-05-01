@@ -1,4 +1,5 @@
 color = { 153  162  163 }
+colonial_company = { 124 191 158 }
 graphical_culture = MoroccoGC
 
 party = {

@@ -1,6 +1,6 @@
-owner = SEV
-controller = SEV
-add_core = SEV
+owner = MTN
+controller = MTN
+add_core = MTN
 trade_goods = fish
 terrain = ceuta
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = LBN
-controller = LBN
-add_core = LBN
+owner = MTN
+controller = MTN
+add_core = MTN
 trade_goods = fruit
 life_rating = 35
 naval_base = 1

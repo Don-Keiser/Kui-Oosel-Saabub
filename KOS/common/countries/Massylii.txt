@@ -1,4 +1,5 @@
 color = { 244 236 108 }
+colonial_company = { 140 216 180 }
 graphical_culture = MiddleEasternGC
 
 party = {

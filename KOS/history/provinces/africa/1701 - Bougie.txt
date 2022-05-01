@@ -1,5 +1,5 @@
-owner = LBN
-controller = LBN
-add_core = LBN
+owner = MSA
+controller = MSA
+add_core = MSA
 trade_goods = cotton
 life_rating = 35

@@ -645,3 +645,18 @@ vassal = {
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
+
+#Ispannia
+substate = {
+    first = SEV
+    second = MTN
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = SEV
+    second = MSL
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}

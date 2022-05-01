@@ -1,6 +1,6 @@
-owner = LBN
-controller = LBN
-add_core = LBN
+owner = TUN
+controller = TUN
+add_core = TUN
 trade_goods = cotton
 life_rating = 35
 naval_base = 1

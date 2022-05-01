@@ -292,93 +292,6 @@ army = {
 }
 
 army = {
-    name = "Armée d'Afrique"
-
-    leader = {
-        name = "Bertrand Clauzel"
-        date = 1803.1.1
-        type = land
-        personality = inefficient
-        background = elderly
-        prestige = 0.1
-    }
-
-    location = 1705
-
-    regiment = {
-        name= "3.1ère Division de cavalerie"
-        type = dragoon
-        home = 421
-    }
-
-    regiment = {
-        name= "1.4ème Division d'Infanterie"
-        type = infantry
-        home = 425
-    }
-
-    regiment = {
-        name= "2.4ème Division d'Infanterie"
-        type = infantry
-        home = 423
-    }
-
-    regiment = {
-        name= "1.9ème Division d'Infanterie"
-        type = infantry
-        home = 456
-    }
-
-    regiment = {
-        name= "1ème Division d'Artillerie"
-        type = artillery
-        home = 442
-    }
-
-    regiment = {
-        name= "2ère Division d'Artillerie"
-        type = artillery
-        home = 459
-    }
-
-    regiment = {
-        name= "2.1ère Division d'Artillerie"
-        type = artillery
-        home = 459
-    }
-}
-
-army = {
-    name = "Légion étrangère"
-    location = 1700
-
-    regiment = {
-        name= "1er Régiment étranger"
-        type = guard
-        home = 1700
-    }
-
-    regiment = {
-        name= "1er Régiment Étranger de Cavalerie"
-        type = dragoon
-        home = 1704
-    }
-
-    regiment = {
-        name= "2e Régiment Étranger"
-        type = guard
-        home = 1709
-    }
-
-    regiment = {
-        name= "5.1ème Division d'Artillerie"
-        type = artillery
-        home = 400
-    }
-
-}
-
-army = {
     name = "Corps d'Observation"
     location = 470
     regiment = {
@@ -427,41 +340,6 @@ army = {
         name= "2ère Division d'Artillerie"
         type = artillery
         home = 451
-    }
-}
-
-
-army = {
-    name = "1ère Division de cavalerie"
-    location = 1704
-    regiment = {
-        name= "1.1ère Division de cavalerie"
-        type = dragoon
-        home = 422
-    }
-
-    regiment = {
-        name= "2.1ère Division de cavalerie"
-        type = dragoon
-        home = 436
-    }
-
-    regiment = {
-        name= "5.7ème Division d'Infanterie"
-        type = infantry
-        home = 448
-    }
-
-    regiment = {
-        name= "3.8ème Division d'Infanterie"
-        type = infantry
-        home = 473
-    }
-
-    regiment = {
-        name= "3ème Division d'Artillerie"
-        type = artillery
-        home = 449
     }
 }
 

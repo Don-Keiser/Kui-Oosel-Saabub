@@ -1,6 +1,6 @@
-owner = MSA
-controller = MSA
-add_core = MSA
+owner = ISG
+controller = ISG
+add_core = ISG
 trade_goods = wool
 life_rating = 31
 terrain = semidesert

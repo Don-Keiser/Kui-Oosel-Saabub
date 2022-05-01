@@ -1,5 +1,2 @@
-owner = ISG
-controller = ISG
-add_core = ISG
 trade_goods = wool
 life_rating = 22

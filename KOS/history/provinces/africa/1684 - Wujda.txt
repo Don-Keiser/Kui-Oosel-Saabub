@@ -1,6 +1,6 @@
-owner = MTN
-controller = MTN
-add_core = MTN
+owner = MSL
+controller = MSL
+add_core = MSL
 trade_goods = grain
 life_rating = 35
 terrain = dry_mountains

@@ -1,8 +1,8 @@
-capital = 1708
+capital = 1688
 primary_culture = tacawit
 culture = kabyle
 religion = catholic
-government = absolute_monarchy
+government = colonial_company
 plurality = 0.5
 nationalvalue = nv_order
 literacy = 0.08

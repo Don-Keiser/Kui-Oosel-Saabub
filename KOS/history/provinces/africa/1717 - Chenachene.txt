@@ -1,6 +1,6 @@
-owner = MSL
-controller = MSL
-add_core = MSL
+owner = TUN
+controller = TUN
+add_core = TUN
 trade_goods = wool
 life_rating = 35
 terrain = dry_mountains

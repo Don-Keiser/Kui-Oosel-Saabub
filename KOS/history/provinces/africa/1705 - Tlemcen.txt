@@ -1,5 +1,5 @@
-owner = MSA
-controller = MSA
-add_core = MSA
+owner = MSL
+controller = MSL
+add_core = MSL
 trade_goods = fruit
 life_rating = 35
