@@ -1,6 +1,5 @@
-owner = TUN
-controller = TUN
-add_core = TUN
-trade_goods = cotton
-life_rating = 35
-naval_base = 1
+owner = TWT
+controller = TWT
+add_core = TWT
+trade_goods = wool
+life_rating = 30

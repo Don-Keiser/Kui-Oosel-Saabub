@@ -2,12 +2,12 @@ capital = 1706
 primary_culture = haqbaylit
 culture = kabyle
 religion = catholic
-government = democracy
-plurality = 42.0
+government = absolute_monarchy
+plurality = 5.0
 nationalvalue = nv_order
-literacy = 0.10
+literacy = 0.18
 civilized = yes
-prestige = 8
+prestige = 5
 
 slavery = yes_slavery
 upper_house_composition = appointed
