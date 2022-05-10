@@ -1,14 +1,6 @@
-owner = WHA
-controller = WHA
-add_core = WHA
+owner = PWS
+controller = PWS
+add_core = PWS
 trade_goods = iron
 life_rating = 35
-party_loyalty = {
-    ideology = liberal
-    loyalty_value = 15
-}
-party_loyalty = {
-    ideology = conservative
-    loyalty_value = 15
-}
 1861.1.1 = { railroad = 3 }

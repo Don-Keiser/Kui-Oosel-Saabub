@@ -1,6 +1,6 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = TOR
+controller = TOR
+add_core = TOR
 add_core = LOM
 add_core = ITA
 trade_goods = cotton

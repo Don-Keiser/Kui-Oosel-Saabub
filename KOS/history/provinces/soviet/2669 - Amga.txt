@@ -1,5 +1,6 @@
-owner = SWI
-controller = SWI
+owner = TOR
+controller = TOR
+add_core = TOR
 add_core = SWI
 add_core = LOM
 add_core = ITA

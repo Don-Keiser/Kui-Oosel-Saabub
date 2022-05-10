@@ -1,6 +1,6 @@
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = TOR
+controller = TOR
+add_core = TOR
 add_core = LOM
 add_core = ITA
 trade_goods = silk

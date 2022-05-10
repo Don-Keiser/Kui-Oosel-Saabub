@@ -1,6 +1,6 @@
-owner = LUC
-controller = LUC
-add_core = LUC
+owner = TUS
+controller = TUS
+add_core = TUS
 add_core = ITA
 trade_goods = grain
 life_rating = 35

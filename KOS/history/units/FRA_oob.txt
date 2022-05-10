@@ -45,16 +45,40 @@ MUN = {
     influence_value = 25
 }
 
-#GPs
-ENG = { value = 25 }
-RUS = { value = -100 }
-AUS = { value = -50 }
-USA = { value = 75 }
-PRU = { value = -50 }
-TUR = { value = -75 }
-SPA = { value = 55 }
+PAP = {
+    value = 200        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
 
-TRZ = { value = -100 }
+SVY = {
+    value = 200        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+TOR = {
+    value = 150        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+PRO = {
+    value = 200        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+TUS = {
+    value = 100        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+
+
+
+#GPs
 
 army = {
     name = "Garde Royale"

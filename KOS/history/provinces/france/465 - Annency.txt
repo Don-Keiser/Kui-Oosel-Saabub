@@ -1,15 +1,8 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = SVY
+controller = SVY
+add_core = SVY
+add_core = FRA
 add_core = ARP
-add_core = ITA
 trade_goods = coal
 terrain = annecy
 life_rating = 30
-1861.1.1 = {
-    remove_core = ITA
-    remove_core = SAR
-    owner = FRA
-    controller = FRA
-    add_core = FRA
-}

@@ -1,11 +1,7 @@
-owner = BRI
-controller = BRI
-add_core = BRI
+owner = ELM
+controller = ELM
+add_core = ELM
 trade_goods = coal
 life_rating = 35
 terrain = sheffield
-party_loyalty = {
-    ideology = liberal
-    loyalty_value = 20
-}
 1861.1.1 = { railroad = 3 }

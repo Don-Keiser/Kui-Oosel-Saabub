@@ -1,5 +1,6 @@
-owner = PAR
-controller = PAR
+owner = TUS
+controller = TUS
+add_core = TUS
 add_core = PAR
 add_core = ITA
 trade_goods = fruit

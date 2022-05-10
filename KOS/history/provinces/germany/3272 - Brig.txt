@@ -4,14 +4,4 @@ add_core = SWI
 trade_goods = cattle
 life_rating = 32
 terrain = mountain
-
-party_loyalty = {
-    ideology = conservative
-    loyalty_value = 1
-}
-party_loyalty = {
-    ideology = liberal
-    loyalty_value = 30
-}
-
 1861.1.1 = { railroad = 1 }

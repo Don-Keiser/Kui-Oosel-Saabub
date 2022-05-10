@@ -1,5 +1,5 @@
-owner = GEN
-controller = GEN
+owner = PRO
+controller = PRO
 add_core = ITA
 add_core = GEN
 trade_goods = fish

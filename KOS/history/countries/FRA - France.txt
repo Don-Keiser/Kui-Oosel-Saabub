@@ -6,7 +6,7 @@ culture = arpitan
 culture = norman
 culture = picard
 religion = catholic
-government = hms_government
+government = absolute_monarchy
 plurality = 25
 nationalvalue = nv_equality
 literacy = 0.50
@@ -117,5 +117,3 @@ foreign_investment = {
     SAR = 10000
     BEL = 20000
 }
-
-govt_flag = { government = absolute_monarchy flag = theocracy }

@@ -1,7 +1,6 @@
-owner = BRI
-controller = BRI
-add_core = BRI
-add_core = CRN
+owner = DUM
+controller = DUM
+add_core = DUM
 trade_goods = fish
 life_rating = 35
 terrain = small_island

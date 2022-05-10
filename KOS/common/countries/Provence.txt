@@ -1,4 +1,5 @@
 color = { 93  160  163 }
+colonial_company = { 53 62 158 }
 graphical_culture = FrenchGC
 
 party = {

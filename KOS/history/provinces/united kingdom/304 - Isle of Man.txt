@@ -1,6 +1,6 @@
-owner = IOM
-controller = IOM
-add_core = IOM
+owner = DUM
+controller = DUM
+add_core = DUM
 trade_goods = fish
 life_rating = 35
 terrain = small_island

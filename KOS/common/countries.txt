@@ -813,7 +813,7 @@ BAB        ="countries/Babylonia.txt"
 #new for AHD
 TPG        ="countries/Taiping.txt"
 
-##HoD
+##KOS
 JAN     = "countries/JanMayen.txt"
 OOS		= "countries/Ooselmaa.txt"
 MGI		= "countries/Magimaa.txt"
@@ -965,6 +965,19 @@ BST		= "countries/Bastarnae.txt"
 DCM		= "countries/Dacia Minor.txt"
 BEC		= "countries/Becenegi.txt"
 LDZ		= "countries/Ledzianie.txt"
+TOR		= "countries/Torino.txt"
+DUM		= "countries/Dumnonia.txt"
+PWS		= "countries/Powys.txt"
+ALC		= "countries/Alt Clut.txt"
+EBR		= "countries/Ebrauc.txt"
+ELM		= "countries/Elfed.txt"
+GDD		= "countries/Gododdin.txt"
+NRH		= "countries/North Rheged.txt"
+SRH		= "countries/South Rheged.txt"
+DYF		= "countries/Dyfed.txt"
+GWY		= "countries/Gwynedd.txt"
+ICN		= "countries/Icenia.txt"
+LYN		= "countries/Lyndon.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

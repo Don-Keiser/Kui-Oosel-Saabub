@@ -1,5 +1,6 @@
-owner = MOD
-controller = MOD
+owner = TUS
+controller = TUS
+add_core = TUS
 add_core = MOD
 add_core = ITA
 trade_goods = timber

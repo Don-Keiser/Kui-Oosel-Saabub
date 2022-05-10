@@ -1,6 +1,6 @@
-owner = IOM
-controller = IOM
-add_core = IOM
+owner = DNN
+controller = DNN
+add_core = DNN
 trade_goods = wool
 terrain = small_island
 life_rating = 30
