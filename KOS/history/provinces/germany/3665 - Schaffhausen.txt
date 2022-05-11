@@ -1,5 +1,6 @@
-owner = SCF
-controller = SCF
+owner = WUR
+controller = WUR
+add_core = WUR
 add_core = SCF
 trade_goods = cattle
 life_rating = 35

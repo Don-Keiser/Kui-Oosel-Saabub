@@ -1,7 +1,7 @@
 capital = 296
 primary_culture = welsh
 religion = catholic
-government = absolute_monarchy
+government = elective_monarchy
 plurality = 0.1
 nationalvalue = nv_order
 literacy = 0.55
@@ -72,3 +72,5 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+govt_flag = { government = elective_monarchy flag = theocracy }

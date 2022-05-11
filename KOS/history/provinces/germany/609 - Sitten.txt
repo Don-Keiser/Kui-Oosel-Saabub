@@ -1,6 +1,6 @@
-owner = SVY
-controller = SVY
+owner = BRG
+controller = BRG
 add_core = ARP
-add_core = SWI
+add_core = BRG
 trade_goods = coal
 life_rating = 31

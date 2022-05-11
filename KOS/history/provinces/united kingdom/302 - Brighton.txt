@@ -1,15 +1,7 @@
-owner = BRI
-controller = BRI
-add_core = BRI
+owner = CAI
+controller = CAI
+add_core = CAI
 trade_goods = iron
 life_rating = 35
 fort = 1
-party_loyalty = {
-    ideology = liberal
-    loyalty_value = 10
-}
-party_loyalty = {
-    ideology = conservative
-    loyalty_value = 6
-}
 1861.1.1 = { railroad = 3 }

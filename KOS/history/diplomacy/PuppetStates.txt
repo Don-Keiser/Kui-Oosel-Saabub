@@ -575,6 +575,13 @@ substate = {
 	end_date = 1937.1.1
 }
 
+vassal = {
+	first = FRA
+	second = BRG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 #Mali Empire
 vassal = {
 	first = MLI
@@ -692,6 +699,105 @@ substate = {
 vassal = {
     first = SEV
     second = MSL
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Prydain
+vassal = {
+    first = PWS
+    second = DUM
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = GWY
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = DYF
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = GWI
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = CAI
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = CMU
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = ICN
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = LYN
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = EBR
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = ELM
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = SRH
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = NRH
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = GDD
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PWS
+    second = ALC
     start_date = 1814.11.1
     end_date = 1936.1.1
 }

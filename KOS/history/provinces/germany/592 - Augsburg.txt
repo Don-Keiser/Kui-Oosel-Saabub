@@ -1,6 +1,6 @@
-owner = AUG
-controller = AUG
-add_core = BAV
+owner = WUR
+controller = WUR
+add_core = WUR
 add_core = AUG
 trade_goods = cattle
 life_rating = 40

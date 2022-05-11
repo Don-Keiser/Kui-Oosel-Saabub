@@ -1,7 +1,7 @@
 capital = 744
 primary_culture = tuscan
 religion = catholic
-government = absolute_monarchy
+government = march
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.20
@@ -90,3 +90,5 @@ consciousness = 3
 nonstate_consciousness = 1
 
 oob = "TUS_oob.txt"
+
+govt_flag = { government = march flag = theocracy }

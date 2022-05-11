@@ -978,6 +978,9 @@ DYF		= "countries/Dyfed.txt"
 GWY		= "countries/Gwynedd.txt"
 ICN		= "countries/Icenia.txt"
 LYN		= "countries/Lyndon.txt"
+GWI		= "countries/Gwinntguic.txt"
+CMU		= "countries/Caercolun.txt"
+CAI		= "countries/Caint-Rhegin.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
