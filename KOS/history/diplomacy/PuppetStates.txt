@@ -801,3 +801,42 @@ vassal = {
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
+
+#Papal States
+vassal = {
+    first = PAP
+    second = RMG
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Bavaria
+vassal = {
+    first = BAV
+    second = VRN
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Skane
+substate = {
+    first = SCN
+    second = NOR
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+substate = {
+    first = SCN
+    second = ICL
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Fryslan
+vassal = {
+    first = FRI
+    second = AGL
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}

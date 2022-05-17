@@ -981,6 +981,10 @@ LYN		= "countries/Lyndon.txt"
 GWI		= "countries/Gwinntguic.txt"
 CMU		= "countries/Caercolun.txt"
 CAI		= "countries/Caint-Rhegin.txt"
+RAE		= "countries/Raetia.txt"
+AMF		= "countries/Amalfi.txt"
+VRN		= "countries/Verona.txt"
+KLV		= "countries/Kalavria.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

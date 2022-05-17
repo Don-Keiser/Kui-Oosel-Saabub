@@ -3,277 +3,115 @@
 #Tripoli (172000/43000 POPS)
 1731 = {
     aristocrats = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 550
+        size = 600
     }
 
     bureaucrats = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 50
+        size = 100
     }
 
     officers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 75
+        size = 100
     }
 
     clergymen = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 275
+        size = 1200
     }
 
     artisans = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 3150
-    }
-
-    soldiers = {
-        culture = neo_punic
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = neo_punic
-        religion = catholic
-        size = 42900
-    }
-
-    aristocrats = {
-        culture = nafusi
-        religion = catholic
-        size = 125
-    }
-
-    clergymen = {
-        culture = nafusi
-        religion = catholic
-        size = 55
-    }
-
-    artisans = {
-        culture = nafusi
-        religion = catholic
-        size = 350
-    }
-
-    soldiers = {
-        culture = nafusi
-        religion = catholic
-        size = 75
-    }
-
-    farmers = {
-        culture = nafusi
-        religion = catholic
-        size = 35075
-    }
-
-    slaves = {
-        culture = east_kwa
-        religion = fetishist
-        size = 4500
-    }
-
-    clergymen = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 125
-    }
-
-    artisans = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 1475
-    }
-	
-	clergymen = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 20
-    }
-	
-	farmers = {
-        culture = chaotic_latin
-        religion = arianism
         size = 8000
+    }
+
+    soldiers = {
+        culture = african_romance
+        religion = catholic
+        size = 2600
+    }
+
+    farmers = {
+        culture = african_romance
+        religion = catholic
+        size = 72000
     }
 }
 #Gharyan (40000/10000 POPS)
 1732 = {
     aristocrats = {
-        culture = nafusi
+        culture = african_romance
         religion = catholic
-        size = 50
+        size = 120
     }
 
     clergymen = {
-        culture = nafusi
+        culture = african_romance
         religion = catholic
-        size = 75
+        size = 200
     }
 
     artisans = {
-        culture = nafusi
+        culture = african_romance
         religion = catholic
-        size = 150
+        size = 1800
     }
 
     soldiers = {
-        culture = nafusi
+        culture = african_romance
         religion = catholic
-        size = 1100
+        size = 1500
     }
 
     farmers = {
-        culture = nafusi
+        culture = african_romance
         religion = catholic
-        size = 12725
+        size = 15000
     }
 	
 	farmers = {
-        culture = ghadames
-        religion = catholic
-        size = 2725
-    }
-	
-	farmers = {
-        culture = chaotic_latin
+        culture = iznaten
         religion = arianism
-        size = 3725
-    }
-
-    aristocrats = {
-        culture = neo_punic
-        religion = catholic
-        size = 75
-    }
-
-    clergymen = {
-        culture = neo_punic
-        religion = catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = neo_punic
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = neo_punic
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = neo_punic
-        religion = catholic
-        size = 4550
-    }
-
-    slaves = {
-        culture = east_kwa
-        religion = fetishist
-        size = 1200
+        size = 3200
     }
 }
 #Misratah (84000/21000 POPS)
 1733 = {
     aristocrats = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 175
+        size = 230
     }
 
     clergymen = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 100
+        size = 450
     }
 
     artisans = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 500
+        size = 3420
     }
 
     soldiers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 100
+        size = 1700
     }
 
     farmers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 13125
-    }
-
-    aristocrats = {
-        culture = nafusi
-        religion = catholic
-        size = 125
-    }
-
-    clergymen = {
-        culture = nafusi
-        religion = catholic
-        size = 45
-    }
-
-    artisans = {
-        culture = nafusi
-        religion = catholic
-        size = 275
-    }
-
-    soldiers = {
-        culture = nafusi
-        religion = catholic
-        size = 1100
-    }
-
-    farmers = {
-        culture = nafusi
-        religion = catholic
-        size = 7250
-    }
-
-    slaves = {
-        culture = east_kwa
-        religion = fetishist
-        size = 2800
-    }
-
-    clergymen = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 80
-    }
-
-    artisans = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 890
-    }
-	
-	clergymen = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 105
-    }
-	
-	farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 2200
+        size = 35000
     }
 }
 #Sirt (100000/25000 POPS)
@@ -849,37 +687,7 @@
     farmers = {
         culture = chaotic_latin
         religion = arianism
-        size = 15880
-    }
-
-    aristocrats = {
-        culture = tasuknit
-        religion = arianism
-        size = 25
-    }
-
-    clergymen = {
-        culture = tasuknit
-        religion = arianism
-        size = 25
-    }
-
-    artisans = {
-        culture = tasuknit
-        religion = arianism
-        size = 100
-    }
-
-    soldiers = {
-        culture = tasuknit
-        religion = arianism
-        size = 25
-    }
-
-    farmers = {
-        culture = tasuknit
-        religion = arianism
-        size = 6875
+        size = 22880
     }
 }
 #Wath (14000/3500 POPS)
@@ -972,39 +780,33 @@
     }
 
     aristocrats = {
-        culture = tasuknit
-        religion = sunni
+        culture = iznaten
+        religion = arianism
         size = 25
     }
 
     clergymen = {
-        culture = tasuknit
+        culture = iznaten
         religion = arianism
         size = 25
     }
 
     artisans = {
-        culture = tasuknit
+        culture = iznaten
         religion = arianism
         size = 100
     }
 
     soldiers = {
-        culture = tasuknit
+        culture = iznaten
         religion = arianism
         size = 25
     }
 
     farmers = {
-        culture = tasuknit
+        culture = iznaten
         religion = arianism
         size = 4875
-    }
-
-    farmers = {
-        culture = ghadames
-        religion = catholic
-        size = 1500
     }
 }
 3394 = {
@@ -1039,39 +841,33 @@
     }
 
     aristocrats = {
-        culture = ghadames
+        culture = iznaten
         religion = arianism
         size = 40
     }
 
     clergymen = {
-        culture = ghadames
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 50
     }
 
     artisans = {
-        culture = ghadames
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 1050
     }
 
     soldiers = {
-        culture = ghadames
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 120
     }
 
     farmers = {
-        culture = ghadames
-        religion = catholic
-        size = 10800
-    }
-	
-	farmers = {
-        culture = ghadames
+        culture = iznaten
         religion = arianism
-        size = 4800
+        size = 16000
     }
 }
 3395 = {

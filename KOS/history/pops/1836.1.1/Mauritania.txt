@@ -3,82 +3,64 @@
 #Nouakchott (92000/23000 POPS)
 1775 = {
     aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 450
     }
 
-    bureaucrats = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 20
-    }
-
-    officers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 5
-    }
-
     clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 225
     }
 
     artisans = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 925
     }
 
     soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 250
     }
 
     farmers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 18125
-    }
-
-    farmers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 3000
+        culture = aznag
+        religion = arianism
+        size = 23000
     }
 }
 #Rosso (72000/18000 POPS)
 1776 = {
     aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 350
     }
 
     clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 175
     }
 
     artisans = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 900
     }
 
     soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 175
     }
 
     farmers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 11400
     }
 
@@ -92,44 +74,32 @@
 #Aleg (84000/21000 POPS)
 1777 = {
     aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 390
     }
 
-    bureaucrats = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 10
-    }
-
-    officers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 5
-    }
-
     clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 200
     }
 
     artisans = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 850
     }
 
     soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 220
     }
 
     farmers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 13325
     }
 
@@ -142,32 +112,32 @@
 #Maghama (28000/7000 POPS)
 1778 = {
     aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 100
     }
 
     clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 75
     }
 
     artisans = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 275
     }
 
     soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 75
     }
 
     farmers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 3475
     }
 
@@ -182,44 +152,32 @@
 #Shingit (12000/3000 POPS)
 1779 = {
     aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 40
     }
 
-    bureaucrats = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 3
-    }
-
-    officers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 7
-    }
-
     clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 75
     }
 
     artisans = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 450
     }
 
     soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 225
     }
 
     farmers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 4700
     }
 }
@@ -227,63 +185,33 @@
 #Walata (28000/7000 POPS)
 1781 = {
     aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 150
-    }
-
-    artisans = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 300
-    }
-
-    soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 5400
-    }
-
-    aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 75
-    }
-
-    clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 200
     }
 
+    clergymen = {
+        culture = aznag
+        religion = arianism
+        size = 300
+    }
+
+    artisans = {
+        culture = aznag
+        religion = arianism
+        size = 600
+    }
+
     soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 50
+        culture = aznag
+        religion = arianism
+        size = 200
     }
 
     farmers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 3675
+        culture = aznag
+        religion = arianism
+        size = 10000
     }
 }
 #Rio de Oro Region (16000) #see West Sahara.txt for balance of region
@@ -291,63 +219,173 @@
 #Bir Maghrein (16000/4000 POPS) #now part of Mauritania
 1782 = {
     aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 10
     }
 
     clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 15
     }
 
     artisans = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 50
     }
 
     soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 25
     }
 
     farmers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 900
+        culture = aznag
+        religion = arianism
+        size = 6000
     }
 
     aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 50
     }
 
     clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 75
     }
 
     artisans = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 150
     }
 
     soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 25
     }
 
     farmers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 6700
+        culture = iznaten
+        religion = arianism
+        size = 1300
     }
 
+}
+
+3401 = {
+    aristocrats = {
+        culture = aznag
+        religion = arianism
+        size = 700
+    }
+
+    clergymen = {
+        culture = aznag
+        religion = arianism
+        size = 120
+    }
+
+    artisans = {
+        culture = aznag
+        religion = arianism
+        size = 500
+    }
+
+    soldiers = {
+        culture = aznag
+        religion = arianism
+        size = 300
+    }
+
+    farmers = {
+        culture = aznag
+        religion = arianism
+        size = 13000
+    }
+}
+
+#Diongaga
+3558 = {
+    aristocrats = {
+        culture = aznag
+        religion = arianism
+        size = 600
+    }
+
+    clergymen = {
+        culture = aznag
+        religion = arianism
+        size = 200
+    }
+
+    artisans = {
+        culture = aznag
+        religion = arianism
+        size = 800
+    }
+
+    soldiers = {
+        culture = aznag
+        religion = arianism
+        size = 1300
+    }
+
+    farmers = {
+        culture = aznag
+        religion = arianism
+        size = 12000
+	}
+	
+	farmers = {
+        culture = fulbe
+        religion = catholic
+        size = 11000
+	}
+}
+
+#Nara
+3560 = {
+    aristocrats = {
+        culture = aznag
+        religion = arianism
+        size = 350
+    }
+
+    clergymen = {
+        culture = aznag
+        religion = arianism
+        size = 240
+    }
+
+    artisans = {
+        culture = aznag
+        religion = arianism
+        size = 900
+    }
+
+    soldiers = {
+        culture = aznag
+        religion = arianism
+        size = 700
+    }
+
+    farmers = {
+        culture = aznag
+        religion = arianism
+        size = 13000
+	}
+	
+	farmers = {
+        culture = mande
+        religion = catholic
+        size = 13500
+	}
 }

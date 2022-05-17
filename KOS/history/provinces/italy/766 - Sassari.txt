@@ -1,6 +1,5 @@
-owner = ARN
-controller = ARN
-add_core = ARN
+owner = SRD
+controller = SRD
 add_core = SRD
 add_core = ITA
 trade_goods = grain

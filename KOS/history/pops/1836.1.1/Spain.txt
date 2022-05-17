@@ -1160,37 +1160,6 @@
         size = 5275
     }
 }
-3401 = {
-    aristocrats = {
-        culture = aragonese
-        religion = catholic
-        size = 550
-    }
-
-    clergymen = {
-        culture = aragonese
-        religion = catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = aragonese
-        religion = catholic
-        size = 3250
-    }
-
-    soldiers = {
-        culture = aragonese
-        religion = catholic
-        size = 275
-    }
-
-    farmers = {
-        culture = aragonese
-        religion = catholic
-        size = 36000
-    }
-}
 #Tarragona (244000/61000 POPS)
 501 = {
     aristocrats = {
@@ -2087,43 +2056,43 @@
     }
 	
 	aristocrats = {
-        culture = tashelhit
+        culture = muretannian
         religion = catholic
         size = 225
     }
 
     officers = {
-        culture = tashelhit
+        culture = muretannian
         religion = catholic
         size = 50
     }
 
     bureaucrats = {
-        culture = tashelhit
+        culture = muretannian
         religion = catholic
         size = 75
     }
 
     clergymen = {
-        culture = tashelhit
+        culture = muretannian
         religion = catholic
         size = 125
     }
 
     artisans = {
-        culture = tashelhit
+        culture = muretannian
         religion = catholic
         size = 1000
     }
 
     soldiers = {
-        culture = tashelhit
+        culture = muretannian
         religion = catholic
         size = 200
     }
 
     farmers = {
-        culture = tashelhit
+        culture = muretannian
         religion = catholic
         size = 8025
     }

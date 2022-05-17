@@ -1,8 +1,5 @@
 capital = 749
-primary_culture = latin
-culture = mediano
-culture = neapolitan
-culture = romagnol
+primary_culture = romagnol
 religion = catholic
 government = theocracy
 plurality = 25.0

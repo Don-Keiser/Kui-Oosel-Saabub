@@ -26,45 +26,21 @@
         size = 138
     }
 
-    artisans = {
-        culture = judeo_berber
-        religion = jewish
-        size = 353
-    }
-
-    artisans = {
-        culture = judeo_berber
-        religion = jewish
-        size = 117
-    }
-
     farmers = {
         culture = sevillan
         religion = catholic
         size = 1069
     }
 
-    farmers = {
-        culture = lusitanian
-        religion = catholic
-        size = 169
-    }
-
     clergymen = {
-        culture = sevillan
+        culture = muretannian
         religion = catholic
         size = 5
     }
 
     farmers = {
-        culture = sevillan
+        culture = muretannian
         religion = catholic
         size = 1302
-    }
-
-    farmers = {
-        culture = sevillan
-        religion = catholic
-        size = 35
     }
 }

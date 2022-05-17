@@ -1,7 +1,8 @@
 capital = 754
-primary_culture = neapolitan
-religion = catholic
-government = absolute_monarchy
+primary_culture = griko
+culture = romagnol
+religion = orthodox
+government = democracy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.066917

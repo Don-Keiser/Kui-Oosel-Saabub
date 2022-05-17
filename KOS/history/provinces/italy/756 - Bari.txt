@@ -1,6 +1,6 @@
-owner = NAP
-controller = NAP
+owner = KLV
+controller = KLV
+add_core = KLV
 add_core = ITA
-add_core = NAP
 trade_goods = grain
 life_rating = 40

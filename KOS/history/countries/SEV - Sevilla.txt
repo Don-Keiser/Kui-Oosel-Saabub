@@ -1,6 +1,5 @@
 capital = 509
 primary_culture = sevillan
-culture = riffian
 religion = catholic
 government = absolute_monarchy
 plurality = 0.02

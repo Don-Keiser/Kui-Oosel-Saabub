@@ -1,6 +1,6 @@
-owner = NAP
-controller = NAP
-add_core = NAP
+owner = TUN
+controller = TUN
+add_core = TUN
 add_core = SYC
 add_core = ITA
 trade_goods = sulphur

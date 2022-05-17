@@ -3,445 +3,146 @@
 #Algiers (280000/70000 POPS)
 1700 = {
     aristocrats = {
-        culture = haqbaylit
+        culture = numidian
         religion = catholic
-        size = 250
-    }
-
-    officers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 100
-    }
-
-    bureaucrats = {
-        culture = haqbaylit
-        religion = catholic
-        size = 150
+        size = 280
     }
 
     clergymen = {
-        culture = haqbaylit
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = haqbaylit
-        religion = catholic
-        size = 1000
-    }
-
-    soldiers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 1000
-    }
-
-    farmers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 16225
-    }
-
-    farmers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 400
-    }
-
-    clergymen = {
-        culture = judeo_berber
-        religion = jewish
-        size = 300
-    }
-
-    clergymen = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
         size = 300
     }
 
     artisans = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 3500
+        size = 2650
     }
 
     soldiers = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 500
+        size = 1860
     }
 
     farmers = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 49200
-    }
-
-    clergymen = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 25
-    }
-
-    soldiers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 200
-    }
-
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 2675
-    }
-
-    aristocrats = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = judeo_berber
-        religion = jewish
-        size = 1475
-    }
-
-    artisans = {
-        culture = judeo_berber
-        religion = jewish
-        size = 1000
-    }
-
-    farmers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 600
+        size = 36500
     }
 }
-#Tizi Ouzou (Formerly Arlit)
+#Zemmouri
 1813 = {
-    farmers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 400
-    }
-
-    clergymen = {
-        culture = judeo_berber
-        religion = jewish
-        size = 300
-    }
-
-    clergymen = {
-        culture = haqbaylit
+    aristocrats = {
+        culture = numidian
         religion = catholic
-        size = 300
+        size = 450
+    }
+
+    clergymen = {
+        culture = numidian
+        religion = catholic
+        size = 580
     }
 
     artisans = {
-        culture = haqbaylit
+        culture = numidian
         religion = catholic
         size = 4500
     }
 
     soldiers = {
-        culture = haqbaylit
+        culture = numidian
         religion = catholic
-        size = 500
+        size = 1890
     }
 
     farmers = {
-        culture = haqbaylit
+        culture = numidian
         religion = catholic
-        size = 8200
+        size = 43000
     }
-
-    clergymen = {
-        culture = kabyle
-        religion = catholic
-        size = 25
-    }
-
-
-    soldiers = {
-        culture = kabyle
-        religion = catholic
-        size = 1200
-    }
-
-    farmers = {
-        culture = kabyle
-        religion = catholic
-        size = 30675
-    }
-
+}
+#Igilgili
+1721 = {
     aristocrats = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
+        culture = african_romance
+        religion = catholic
+        size = 450
     }
 
     officers = {
-        culture = judeo_berber
-        religion = jewish
+        culture = african_romance
+        religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
+        culture = african_romance
+        religion = catholic
+        size = 2200
     }
 
     clergymen = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
+        culture = african_romance
+        religion = catholic
+        size = 600
     }
 
     artisans = {
-        culture = judeo_berber
-        religion = jewish
-        size = 175
+        culture = african_romance
+        religion = catholic
+        size = 3250
     }
 
     farmers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 1000
+        culture = african_romance
+        religion = catholic
+        size = 42000
     }
 	
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 3500
-    }
-
-
-}
-#Skikda(Formerly In Guezzam)
-1721 = {
-    farmers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 200
-    }
-
-    clergymen = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = kabyle
+	farmers = {
+        culture = numidian
         religion = catholic
-        size = 300
-    }
-
-    artisans = {
-        culture = kabyle
-        religion = catholic
-        size = 4500
-    }
-
-    soldiers = {
-        culture = kabyle
-        religion = catholic
-        size = 500
-    }
-
-    farmers = {
-        culture = kabyle
-        religion = catholic
-        size = 27200
-    }
-
-    clergymen = {
-        culture = tacawit
-        religion = catholic
-        size = 25
-    }
-
-
-    soldiers = {
-        culture = tacawit
-        religion = catholic
-        size = 1200
-    }
-
-    farmers = {
-        culture = tacawit
-        religion = catholic
-        size = 14675
-    }
-
-    aristocrats = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = judeo_berber
-        religion = jewish
-        size = 175
-    }
-
-    farmers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 600
+        size = 2600
     }
 }
 #Djidjelli (Formerly Chenachene)
 1717 = {
-    farmers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 200
-    }
-
-    clergymen = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = kabyle
-        religion = catholic
-        size = 300
-    }
-
-    artisans = {
-        culture = kabyle
-        religion = catholic
-        size = 4500
-    }
-
-    soldiers = {
-        culture = kabyle
-        religion = catholic
-        size = 1500
-    }
-
-    farmers = {
-        culture = kabyle
-        religion = catholic
-        size = 21200
-    }
-
-    clergymen = {
-        culture = tacawit
-        religion = catholic
-        size = 25
-    }
-
-
-    soldiers = {
-        culture = tacawit
-        religion = catholic
-        size = 1200
-    }
-
-    farmers = {
-        culture = tacawit
-        religion = catholic
-        size = 18675
-    }
-
     aristocrats = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
+        culture = african_romance
+        religion = catholic
+        size = 260
     }
 
     soldiers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
+        culture = african_romance
+        religion = catholic
+        size = 1800
     }
 
     clergymen = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
+        culture = african_romance
+        religion = catholic
+        size = 250
     }
 
     artisans = {
-        culture = judeo_berber
-        religion = jewish
-        size = 175
+        culture = african_romance
+        religion = catholic
+        size = 2650
     }
 
     farmers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 600
-    }
-
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 2500
+        culture = african_romance
+        religion = catholic
+        size = 21800
     }
 	
 	farmers = {
-        culture = haqbaylit
-        religion = catholic
+        culture = taqbaylit
+        religion = arianism
         size = 2000
     }
 }
@@ -449,235 +150,157 @@
 #Bougie (448000/112000 POPS)
 1701 = {
     aristocrats = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 1500
-    }
-
-    officers = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 150
-    }
-
-    bureaucrats = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 200
+        culture = numidian
+        religion = catholic
+        size = 390
     }
 
     clergymen = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 1875
+        culture = numidian
+        religion = catholic
+        size = 350
     }
 
     artisans = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 2800
+        culture = numidian
+        religion = catholic
+        size = 2900
     }
 
     soldiers = {
-        culture = neo_phoenician
-        religion = syriac
+        culture = numidian
+        religion = catholic
         size = 1900
     }
 
     farmers = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 45375
+        culture = numidian
+        religion = catholic
+        size = 45000
     }
 
     aristocrats = {
-        culture = kabyle
+        culture = african_romance
         religion = catholic
         size = 100
     }
 
-    officers = {
-        culture = kabyle
-        religion = catholic
-        size = 55
-    }
-
     clergymen = {
-        culture = kabyle
+        culture = african_romance
         religion = catholic
-        size = 90
+        size = 180
     }
 
     artisans = {
-        culture = kabyle
+        culture = african_romance
         religion = catholic
-        size = 950
+        size = 1200
     }
 
     soldiers = {
-        culture = kabyle
+        culture = african_romance
         religion = catholic
         size = 350
     }
 
     farmers = {
-        culture = kabyle
+        culture = african_romance
         religion = catholic
-        size = 6675
-    }
-
-    slaves = {
-        culture = east_kwa
-        religion = fetishist
-        size = 2500
+        size = 7000
     }
 }
 #Setif (240000/60000 POPS)
 1702 = {
     aristocrats = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
         size = 600
     }
 
     clergymen = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
         size = 500
     }
 
     artisans = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 2400
+        size = 3600
     }
 
     soldiers = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = kabyle
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = kabyle
-        religion = catholic
-        size = 1000
+        size = 3400
     }
 
     farmers = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 28500
+        size = 26000
     }
 
     aristocrats = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
         size = 200
     }
 
     clergymen = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
         size = 2600
     }
 
     farmers = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
-        size = 19000
-    }
-
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 2500
-    }
-	
-	farmers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 1800
+        size = 23000
     }
 }
 #Medea (168000/42000 POPS)
 1703 = {
     aristocrats = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
         size = 300
     }
 
     clergymen = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 200
+        size = 450
     }
 
     artisans = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 1100
+        size = 3200
     }
 
     soldiers = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 100
+        size = 2100
     }
 
     farmers = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 25500
-    }
-
-    aristocrats = {
-        culture = haqbaylit
-        religion = catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = haqbaylit
-        religion = catholic
-        size = 400
-    }
-
-    artisans = {
-        culture = haqbaylit
-        religion = catholic
-        size = 2200
-    }
-
-    soldiers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 2200
+        size = 54000
     }
 
     farmers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 28500
-    }
-
-    farmers = {
-        culture = chaotic_latin
+        culture = taqbaylit
         religion = arianism
-        size = 1950
+        size = 1200
     }
 }
 #Oranais Region (577600)
@@ -685,358 +308,213 @@
 #Oran (108000/27000 POPS)
 1704 = {
 	aristocrats = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 5000
+        culture = numidian
+        religion = catholic
+        size = 690
     }
 
     clergymen = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 1000
+        culture = numidian
+        religion = catholic
+        size = 800
     }
 
     artisans = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 2900
+        culture = numidian
+        religion = catholic
+        size = 4200
     }
 
     soldiers = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 2000
+        culture = numidian
+        religion = catholic
+        size = 1900
     }
 
     farmers = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 69600
+        culture = numidian
+        religion = catholic
+        size = 50000
     }
 
     clergymen = {
-        culture = haqbaylit
+        culture = muretannian
         religion = catholic
-        size = 25
+        size = 100
     }
 
     soldiers = {
-        culture = haqbaylit
+        culture = muretannian
         religion = catholic
-        size = 125
+        size = 300
     }
 
     farmers = {
-        culture = haqbaylit
+        culture = muretannian
         religion = catholic
-        size = 8600
-    }
-	
-	slaves = {
-        culture = east_kwa
-        religion = fetishist
-        size = 3600
+        size = 9000
     }
 }
-#Aljazair-ruled in 1836 :
-#Tilimsan - Tlemcen (221600/55400 POPS)
+#Tilimsan - Tlemcen
 1705 = {
     aristocrats = {
-        culture = haqbaylit
+        culture = numidian
         religion = catholic
-        size = 500
-    }
-
-
-    bureaucrats = {
-        culture = haqbaylit
-        religion = catholic
-        size = 100
+        size = 380
     }
 
     clergymen = {
-        culture = haqbaylit
+        culture = numidian
         religion = catholic
-        size = 500
+        size = 320
     }
 
     artisans = {
-        culture = haqbaylit
-        religion = catholic
-        size = 2250
-    }
-
-    soldiers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 30550
-    }
-
-    aristocrats = {
-        culture = riffian
-        religion = catholic
-        size = 200
-    }
-
-    officers = {
-        culture = riffian
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = riffian
-        religion = catholic
-        size = 200
-    }
-
-    soldiers = {
-        culture = riffian
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = riffian
-        religion = catholic
-        size = 10500
-    }
-
-    soldiers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    farmers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 1000
-    }
-
-    bureaucrats = {
-        culture = sevillan
-        religion = catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = sevillan
-        religion = catholic
-        size = 225
-    }
-
-    artisans = {
-        culture = sevillan
-        religion = catholic
-        size = 500
-    }
-
-    clergymen = {
-        culture = sevillan
-        religion = catholic
-        size = 200
-    }
-	
-	farmers = {
-        culture = sevillan
-        religion = catholic
-        size = 1000
-    }
-
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 3800
-    }
-}
-#Mustaghanim (188000/47000 POPS)
-1706 = {
-    aristocrats = {
-        culture = haqbaylit
-        religion = catholic
-        size = 300
-    }
-
-    clergymen = {
-        culture = haqbaylit
-        religion = catholic
-        size = 300
-    }
-
-    artisans = {
-        culture = haqbaylit
+        culture = numidian
         religion = catholic
         size = 1500
     }
 
     soldiers = {
-        culture = haqbaylit
+        culture = numidian
         religion = catholic
-        size = 350
+        size = 600
     }
 
     farmers = {
-        culture = haqbaylit
+        culture = numidian
         religion = catholic
-        size = 33550
+        size = 23000
     }
 
     aristocrats = {
-        culture = kabyle
+        culture = muretannian
         religion = catholic
-        size = 200
+        size = 260
     }
 
     clergymen = {
-        culture = kabyle
+        culture = muretannian
         religion = catholic
-        size = 175
+        size = 300
     }
-
-    artisans = {
-        culture = kabyle
-        religion = catholic
-        size = 850
-    }
-
-    soldiers = {
-        culture = kabyle
-        religion = catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = kabyle
-        religion = catholic
-        size = 8575
-    }
-
-    farmers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 1000
-    }
-
-    clergymen = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    aristocrats = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 25
-    }
-
-    bureaucrats = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 25
-    }
-
-    clergymen = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 125
-    }
-
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 2000
-    }
-
-    soldiers = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 75
-    }
-
-    farmers = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 650
-    }
-}
-#Mascara (60000/15000 POPS)
-1707 = {
-    aristocrats = {
-        culture = haqbaylit
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = haqbaylit
-        religion = catholic
-        size = 75
-    }
-
-    soldiers = {
-        culture = haqbaylit
+	
+	artisans = {
+        culture = numidian
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = haqbaylit
+        culture = muretannian
+        religion = catholic
+        size = 780
+    }
+
+    farmers = {
+        culture = muretannian
+        religion = catholic
+        size = 20000
+    }
+}
+#Mustaghanim (188000/47000 POPS)
+1706 = {
+    aristocrats = {
+        culture = numidian
+        religion = catholic
+        size = 1200
+    }
+	
+	officers = {
+        culture = numidian
         religion = catholic
         size = 100
     }
 
-    farmers = {
-        culture = haqbaylit
+    bureaucrats = {
+        culture = numidian
         religion = catholic
-        size = 24425
-    }
-
-    aristocrats = {
-        culture = kabyle
-        religion = catholic
-        size = 75
+        size = 150
     }
 
     clergymen = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 75
+        size = 2200
+    }
+
+    artisans = {
+        culture = numidian
+        religion = catholic
+        size = 8900
     }
 
     soldiers = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 100
+        size = 5200
     }
 
     farmers = {
-        culture = kabyle
+        culture = numidian
         religion = catholic
-        size = 8425
+        size = 78000
     }
+
+    aristocrats = {
+        culture = muretannian
+        religion = catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = muretannian
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = muretannian
+        religion = catholic
+        size = 2300
+    }
+}
+#Mascara (60000/15000 POPS)
+1707 = {
+    aristocrats = {
+        culture = numidian
+        religion = catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = numidian
+        religion = catholic
+        size = 290
+    }
+	
+	artisans = {
+        culture = numidian
+        religion = catholic
+        size = 2300
+    }
+
+    soldiers = {
+        culture = numidian
+        religion = catholic
+        size = 3000
+    }
+
     farmers = {
-        culture = chaotic_latin
+        culture = numidian
+        religion = catholic
+        size = 26000
+    }
+
+    farmers = {
+        culture = taqbaylit
         religion = arianism
-        size = 2800
+        size = 2100
     }
 }
 #Constantinois Region (344000)
@@ -1044,298 +522,135 @@
 #Bone (68000/17000 POPS)
 1709 = {
     aristocrats = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 1800
+        culture = iznaten
+        religion = arianism
+        size = 380
     }
 
     clergymen = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 1050
+        culture = iznaten
+        religion = arianism
+        size = 100
     }
 
     artisans = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 1600
+        culture = iznaten
+        religion = arianism
+        size = 600
     }
 
     soldiers = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 1650
+        culture = iznaten
+        religion = arianism
+        size = 1200
     }
 
     farmers = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 32200
-    }
-
-    clergymen = {
-        culture = kabyle
-        religion = catholic
-        size = 10
-    }
-
-    soldiers = {
-        culture = kabyle
-        religion = catholic
-        size = 65
-    }
-
-    farmers = {
-        culture = kabyle
-        religion = catholic
-        size = 3925
-    }
-	
-	slaves = {
-        culture = east_kwa
-        religion = fetishist
-        size = 2400
+        culture = iznaten
+        religion = arianism
+        size = 16000
     }
 }
 #Ruled by Aljazair 1836
 #Constantine (176000/44000 POPS)
 1708 = {
     aristocrats = {
-        culture = chaotic_latin
+        culture = african_romance
         religion = catholic
-        size = 250
+        size = 900
     }
 
-    farmers = {
-        culture = chaotic_latin
+    officers = {
+        culture = african_romance
         religion = catholic
-        size = 5200
+        size = 80
     }
 
-    aristocrats = {
-        culture = chaotic_latin
+    bureaucrats = {
+        culture = african_romance
         religion = catholic
-        size = 250
+        size = 100
     }
 
     clergymen = {
-        culture = chaotic_latin
+        culture = african_romance
+        religion = catholic
+        size = 800
+    }
+
+    artisans = {
+        culture = african_romance
+        religion = catholic
+        size = 3800
+    }
+
+    soldiers = {
+        culture = african_romance
+        religion = catholic
+        size = 2200
+    }
+
+    farmers = {
+        culture = african_romance
+        religion = catholic
+        size = 46000
+    }
+
+    aristocrats = {
+        culture = numidian
         religion = catholic
         size = 180
     }
 
-    soldiers = {
-        culture = chaotic_latin
-        religion = catholic
-        size = 230
-    }
-
-    aristocrats = {
-        culture = tacawit
-        religion = catholic
-        size = 250
-    }
-
-    officers = {
-        culture = tacawit
-        religion = catholic
-        size = 50
-    }
-
-    bureaucrats = {
-        culture = tacawit
-        religion = catholic
-        size = 75
-    }
-
     clergymen = {
-        culture = tacawit
+        culture = numidian
         religion = catholic
-        size = 213
+        size = 150
     }
 
     artisans = {
-        culture = tacawit
+        culture = numidian
         religion = catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = tacawit
-        religion = catholic
-        size = 2200
+        size = 1800
     }
 
     farmers = {
-        culture = tacawit
+        culture = numidian
         religion = catholic
-        size = 32312
-    }
-
-    aristocrats = {
-        culture = kabyle
-        religion = catholic
-        size = 200
-    }
-
-    officers = {
-        culture = kabyle
-        religion = catholic
-        size = 50
-    }
-
-    clergymen = {
-        culture = kabyle
-        religion = catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = kabyle
-        religion = catholic
-        size = 2025
-    }
-
-    soldiers = {
-        culture = kabyle
-        religion = catholic
-        size = 2200
-    }
-
-    farmers = {
-        culture = kabyle
-        religion = catholic
-        size = 18550
-    }
-
-    aristocrats = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    officers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    soldiers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    clergymen = {
-        culture = judeo_berber
-        religion = jewish
-        size = 100
-    }
-
-    artisans = {
-        culture = judeo_berber
-        religion = jewish
-        size = 300
-    }
-
-    farmers = {
-        culture = judeo_berber
-        religion = jewish
-        size = 300
+        size = 3800
     }
 }
 #Biskra (100000/25000 POPS)
 1710 = {
     aristocrats = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
-        size = 150
+        size = 600
     }
 
     clergymen = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
-        size = 150
+        size = 450
     }
 
     artisans = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
-        size = 750
-    }
-
-    soldiers = {
-        culture = tacawit
-        religion = catholic
-        size = 4100
-    }
-
-    farmers = {
-        culture = tacawit
-        religion = catholic
-        size = 27950
-    }
-
-    aristocrats = {
-        culture = kabyle
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = kabyle
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = kabyle
-        religion = catholic
-        size = 500
-    }
-
-    soldiers = {
-        culture = kabyle
-        religion = catholic
-        size = 800
-    }
-
-    farmers = {
-        culture = kabyle
-        religion = catholic
-        size = 9200
-    }
-	
-	clergymen = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 180
-    }
-	
-	soldiers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 200
-    }
-
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
         size = 2600
     }
-	
-	soldiers = {
-        culture = haqbaylit
+
+    soldiers = {
+        culture = african_romance
         religion = catholic
-        size = 200
+        size = 2200
     }
 
     farmers = {
-        culture = haqbaylit
+        culture = african_romance
         religion = catholic
-        size = 500
+        size = 32000
     }
-
 }
 #Wargla Region (152000)
 #uncolonized in 1836
@@ -1366,27 +681,27 @@
     }
 
     aristocrats = {
-        culture = mzab_ourgla
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 30
     }
 
     clergymen = {
-        culture = mzab_ourgla
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 70
     }
 
 
     soldiers = {
-        culture = mzab_ourgla
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 200
     }
 
     farmers = {
-        culture = mzab_ourgla
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 5700
     }
 
@@ -1414,334 +729,128 @@
         size = 11900
     }
 }
-#Tuggurt (12000/3000 POPS)
+#Laghouat
 1712 = {
     aristocrats = {
-        culture = tacawit
-        religion = catholic
-        size = 20
+        culture = taqbaylit
+        religion = arianism
+        size = 300
     }
 
     clergymen = {
-        culture = tacawit
-        religion = catholic
-        size = 30
+        culture = taqbaylit
+        religion = arianism
+        size = 120
     }
 
     soldiers = {
-        culture = tacawit
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = tacawit
-        religion = catholic
-        size = 4850
-    }
-
-    aristocrats = {
-        culture = haqbaylit
-        religion = catholic
-        size = 10
-    }
-
-    clergymen = {
-        culture = haqbaylit
-        religion = catholic
-        size = 20
-    }
-
-    soldiers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 70
-    }
-
-    farmers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 19900
-    }
-	
-	soldiers = {
-        culture = chaotic_latin
+        culture = taqbaylit
         religion = arianism
-        size = 80
+        size = 1800
     }
 
     farmers = {
-        culture = chaotic_latin
+        culture = taqbaylit
         religion = arianism
-        size = 1200
+        size = 15000
+    }
+
+    farmers = {
+        culture = iznaten
+        religion = arianism
+        size = 2000
     }
 }
-#Laghwat (104000/26000 POPS)
+#Djelfa (104000/26000 POPS)
 1713 = {
     aristocrats = {
-        culture = haqbaylit
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = haqbaylit
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = haqbaylit
-        religion = catholic
-        size = 6500
-    }
-
-    soldiers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 2100
-    }
-
-    farmers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 22000
-    }
-
-    aristocrats = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 125
-    }
-
-    clergymen = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 125
-    }
-
-    artisans = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 550
-    }
-
-    soldiers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 1150
-    }
-
-    farmers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 8050
-    }
-
-    aristocrats = {
-        culture = chaotic_latin
+        culture = taqbaylit
         religion = arianism
-        size = 120
-    }
-
-    clergymen = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 150
-    }
-
-    artisans = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 300
-    }
-
-    soldiers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 140
-    }
-
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 2800
-    }
-
-    farmers = {
-        culture = tacawit
-        religion = catholic
-        size = 2500
-    }
-}
-#Jibal Bashar Region (128000)
-#uncolonized in 1836
-
-#Naama (92000/23000 POPS)
-1715 = {
-    aristocrats = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 120
-    }
-
-    artisans = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 300
-    }
-
-    soldiers = {
-        culture = mzab_ourgla
-        religion = catholic
         size = 600
     }
 
-    farmers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 5600
-    }
-	
-	aristocrats = {
-        culture = seghrusheni
-        religion = catholic
-        size = 100
-    }
-
     clergymen = {
-        culture = seghrusheni
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = seghrusheni
-        religion = catholic
-        size = 200
-    }
-
-    soldiers = {
-        culture = seghrusheni
-        religion = catholic
+        culture = taqbaylit
+        religion = arianism
         size = 400
     }
 
-    farmers = {
-        culture = seghrusheni
-        religion = catholic
-        size = 4500
-    }
-
-    aristocrats = {
-        culture = haqbaylit
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = haqbaylit
-        religion = catholic
-        size = 125
-    }
-
     artisans = {
-        culture = haqbaylit
-        religion = catholic
-        size = 550
+        culture = taqbaylit
+        religion = arianism
+        size = 2100
     }
 
     soldiers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 1125
-    }
-
-    farmers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 14100
-    }
-	
-	soldiers = {
-        culture = chaotic_latin
+        culture = taqbaylit
         religion = arianism
-        size = 125
+        size = 4200
     }
 
     farmers = {
-        culture = chaotic_latin
+        culture = taqbaylit
         religion = arianism
-        size = 3100
+        size = 37000
     }
-	
-	soldiers = {
-        culture = riffian
-        religion = catholic
-        size = 250
+}
+#Jibal Bashar Region (128000)
+#Naama (92000/23000 POPS)
+1715 = {
+    aristocrats = {
+        culture = taqbaylit
+        religion = arianism
+        size = 450
+    }
+
+    clergymen = {
+        culture = taqbaylit
+        religion = arianism
+        size = 280
+    }
+
+    artisans = {
+        culture = taqbaylit
+        religion = arianism
+        size = 1860
+    }
+
+    soldiers = {
+        culture = taqbaylit
+        religion = arianism
+        size = 3200
     }
 
     farmers = {
-        culture = riffian
-        religion = catholic
-        size = 1800
+        culture = taqbaylit
+        religion = arianism
+        size = 27000
     }
 }
 #Tindouf (8000/2000 POPS)
 1716 = {
     aristocrats = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 25
+        culture = iznaten
+        religion = arianism
+        size = 300
     }
 
     clergymen = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 100
+        culture = iznaten
+        religion = arianism
+        size = 150
     }
 
     soldiers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 120
+        culture = iznaten
+        religion = arianism
+        size = 1100
     }
 
     farmers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 5950
-    }
-	
-	clergymen = {
-        culture = chaotic_latin
+        culture = iznaten
         religion = arianism
-        size = 50
+        size = 7200
     }
-
-    soldiers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 65
-    }
-
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 1450
-    }
-	
-    farmers = {
-        culture = tashelhit
-        religion = catholic
-        size = 800
-	}
 }
 #Chenachene (8000/2000 POPS)
 #1717 = {
@@ -1775,36 +884,28 @@
 #uncolonized in 1836
 #Tuat (8000/2000 POPS)
 1718 = {
-
     aristocrats = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 75
+        culture = tuareg
+        religion = arianism
+        size = 450
     }
 
     clergymen = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 50
+        culture = tuareg
+        religion = arianism
+        size = 120
     }
-
 
     soldiers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 1185
+        culture = tuareg
+        religion = arianism
+        size = 1300
     }
 
     farmers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 1300
-    }
-	
-    farmers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 3300
+        culture = tuareg
+        religion = arianism
+        size = 6800
     }
 }
 #Illizi (8000/2000 POPS)
@@ -1836,140 +937,90 @@
 #Bashar (16000/4000 POPS)
 1720 = {
     aristocrats = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 75
+        culture = taqbaylit
+        religion = arianism
+        size = 560
     }
 
     clergymen = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 60
-    }
-
-
-    soldiers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 1260
-    }
-
-    farmers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 10620
-    }
-
-    aristocrats = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 10
-    }
-
-    aristocrats = {
-        culture = tashelhit
-        religion = catholic
-        size = 20
-    }
-
-    clergymen = {
-        culture = tashelhit
-        religion = catholic
-        size = 40
+        culture = taqbaylit
+        religion = arianism
+        size = 120
     }
 
     soldiers = {
-        culture = tashelhit
-        religion = catholic
-        size = 130
+        culture = taqbaylit
+        religion = arianism
+        size = 1600
     }
 
     farmers = {
-        culture = tashelhit
-        religion = catholic
-        size = 2110
+        culture = taqbaylit
+        religion = arianism
+        size = 13000
     }
 	
 	farmers = {
-        culture = tamazight
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 1400
     }
-
 }
 #Tin Zawatene (16000/4000 POPS)
 1722 = {
     aristocrats = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 50
+        culture = aznag
+        religion = arianism
+        size = 200
     }
 
     clergymen = {
-        culture = mzab_ourgla
+        culture = aznag
+        religion = arianism
+        size = 120
+    }
+
+    soldiers = {
+        culture = aznag
+        religion = arianism
+        size = 600
+    }
+
+    farmers = {
+        culture = aznag
+        religion = arianism
+        size = 5400
+    }
+	
+	farmers = {
+        culture = iznaten
+        religion = arianism
+        size = 600
+    }
+}
+3430 = {
+    aristocrats = {
+        culture = iznaten
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = iznaten
         religion = catholic
         size = 120
     }
 
     soldiers = {
-        culture = mzab_ourgla
+        culture = iznaten
         religion = catholic
-        size = 80
+        size = 600
     }
 
     farmers = {
-        culture = mzab_ourgla
+        culture = iznaten
         religion = catholic
-        size = 5200
-    }
-	
-	clergymen = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 38
-    }
-
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 550
-    }
-	
-	farmers = {
-        culture = tashelhit
-        religion = catholic
-        size = 450
-    }
-}
-3430 = {
-    aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 50
-    }
-
-    clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 5000
-    }
-	
-	farmers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 4800
+        size = 9200
     }
 }
 
@@ -2027,82 +1078,76 @@
 #Teggargrent
 3747 = {
     aristocrats = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 210
+        culture = iznaten
+        religion = arianism
+        size = 600
     }
 
     clergymen = {
-        culture = mzab_ourgla
-        religion = catholic
+        culture = iznaten
+        religion = arianism
         size = 120
     }
 
     soldiers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 370
+        culture = iznaten
+        religion = arianism
+        size = 2000
     }
 
     farmers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 16900
+        culture = iznaten
+        religion = arianism
+        size = 15000
     }
 	
 	soldiers = {
-        culture = chaotic_latin
+        culture = taqbaylit
         religion = arianism
-        size = 80
+        size = 200
     }
 
     farmers = {
-        culture = chaotic_latin
+        culture = taqbaylit
         religion = arianism
-        size = 1200
+        size = 2300
     }
 }
 
 #Tugurt
 3748 = {
     aristocrats = {
-        culture = haqbaylit
-        religion = catholic
-        size = 310
+        culture = taqbaylit
+        religion = arianism
+        size = 500
     }
 
     clergymen = {
-        culture = haqbaylit
-        religion = catholic
+        culture = taqbaylit
+        religion = arianism
         size = 120
     }
 
     soldiers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 570
+        culture = taqbaylit
+        religion = arianism
+        size = 2200
     }
 
     farmers = {
-        culture = haqbaylit
-        religion = catholic
-        size = 8900
-    }
-	
-	farmers = {
-        culture = mzab_ourgla
-        religion = catholic
-        size = 4900
+        culture = taqbaylit
+        religion = arianism
+        size = 15000
     }
 	
 	soldiers = {
-        culture = chaotic_latin
+        culture = iznaten
         religion = arianism
-        size = 80
+        size = 320
     }
 
     farmers = {
-        culture = chaotic_latin
+        culture = iznaten
         religion = arianism
         size = 1200
     }

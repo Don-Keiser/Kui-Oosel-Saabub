@@ -1,6 +1,6 @@
-owner = KVE
-controller = KVE
-add_core = KVE
+owner = GEA
+controller = GEA
+add_core = GEA
 trade_goods = timber
 life_rating = 35
 state_building = {

@@ -1,6 +1,6 @@
-owner = DNN
-controller = DNN
-add_core = DNN
+owner = ICL
+controller = ICL
+add_core = ICL
 trade_goods = wool
 terrain = small_island
 life_rating = 30

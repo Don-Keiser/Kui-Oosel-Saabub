@@ -1647,48 +1647,6 @@ italian = {
         "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
         Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
     }
-	lombard = {
-        color = { 86 181 89 }
-        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
-        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
-        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
-        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
-        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
-
-        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
-        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
-        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
-        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
-        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
-    }
-	piedmontese = {
-        color = { 88 154 50 }
-        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
-        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
-        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
-        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
-        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
-
-        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
-        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
-        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
-        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
-        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
-    }
-	ligurian = {
-        color = { 87 181 32 }
-        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
-        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
-        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
-        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
-        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
-	
-        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
-        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
-        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
-        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
-        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
-    }
 	romagnol = {
         color = { 77 162 77 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
@@ -1699,7 +1657,6 @@ italian = {
         "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
         Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
     }
-
     sardinian = {
         color = { 120 162 77 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
@@ -1712,16 +1669,6 @@ italian = {
     }
     neapolitan = {
         color = { 51 102 51 }
-        first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
-        Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
-        Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
-	
-        last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
-        "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
-        Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
-    }
-	sicilian = {
-        color = { 113 156 63 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
         Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
         Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -1825,42 +1772,6 @@ iberian = {
         Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz
         Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
     }
-    cartaginese  = {
-		color = {151 188 76}
-		first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
-		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
-		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
-		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
-		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
-		Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
-		
-	last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
-		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
-		"de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco 
-		García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López 
-		Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
-		Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz 
-		Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
-	}
-    suebi = {
-        color = {193 155 30}
-        first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
-        Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
-        Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
-        "Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-        Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo
-        Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
-        Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
-
-        last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
-        Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
-        "de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco
-        García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López
-        Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz
-        Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz
-        Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
-    }
     catalan = {
         color = {220 110 30}
         first_names = { Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Carles Cassià Dalmau
@@ -1875,20 +1786,6 @@ iberian = {
         Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba
         Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
     }
-    aragonese = {
-		color = {179 163 20}
-		first_names = { Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Bernat Carles Cassià Chulián Dalmau 
-		David Eduard Enric Enrique Federico Felip Fernando Ferran Francí Gaspar 
-		Gerard Isaac Jacint Jaume Joan Jordi Josep Juan Llorenç
-		Lluis Miguel Manuel Marc Miquel Narcís Oleguer Oliba Pasqual Pau Pedro Pere
-		Pompeu Rafael Rafel Ramon Ricardo Salvador Sergi Tomás Uloxio Valentí Victor Xavier Zequiel }
-		
-		last_names = { Albéniz Almirall Bacardí Batet Berenguer Borrás Borrell Cadafall Carner Casals
-		Casanova Castelló Claramunt Cucala Cugat Despujol Domènech Escotet Fabra Fages 
-		"Folc de Cardona" Gumerà Irla Llauder Macià Maragall Margall "Milans del Bosch" Miró Mompou
-		Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba 
-		Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
-	}	
     portuguese = {
         color = {160 220 30}
         first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro André António Aquilino
@@ -1907,24 +1804,6 @@ iberian = {
         Nunes Ortigão Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
         Ribeiro Rodrigues Salazar Sampaio Sérgio Silveira Tavares Teixeira Vidigal Vieira }
     }
-    sevillan = {
-		color = {166 193 30}
-		first_names = { Aljamí Alj Alejandro Alfonso Abdul Antonio "Antonio María" Arsenio Augusto Baldomero
-		Baltasar Benito Bernardino Bernardo Citi Carlos Celestino Claudio Cristobal Dámaso
-		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Muahid
-		"Francisco Javier" Gabino Gabriel Gaspar Habdela Hilal Iben Ibn Jacobo Jaime
-		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
-		Luis Manuel Marcelo Mariano Mateo Muza Miguel Nicolás Pablo Pascual
-		Pedro Rafael Raimundo Theodomiro Ricardo Santiago Umar Segismundo Zanom }
-		
-	last_names = { Abba Aguirre Aryent Alcañiz Alonso "ben Illan" "ben Sancho" Aranda Meres Buelo
-		Biklaris Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "ben Juan"
-		"de Carvajal" "de la Fuente" "al Muqtadir" Daudi Kaiso Qorayonayra Ibenanunar Laytarola Huerva 
-		García "García de la Noceda" González Heredia Forqasa Herrera Hevia "Iben Froila" Linares Turtuja 
-		Maroto Márquez Nabiello Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
-		Narváez O'Donnell Ortega Pavía Pérez Plantayn "Queipo de Llano" Ramellus Rojo Ruiz 
-		Sayyid Sid Salim Topete Valdés Varela Yarbo Waliyo Zanon Zaute }
-	}
 	toledano = {
         color = {179 163 20}
         first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
@@ -2061,18 +1940,6 @@ french = {
 		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}
-    occitan = {
-        color = {90 110 150}
-        first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
-
-        last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
-    }
-	north_occitan = { 
-		color = {50 70 120}
-		first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
-		
-		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
-	}
     picard = {
         color = {40 40 120}
         first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
@@ -2087,69 +1954,7 @@ french = {
         Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
         Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
     }
-	lorrain = {
-        color = {74 74 142}
-        first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
-        Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
-        François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-        Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
-        Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-	
-        last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
-        Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
-        "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
-        Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-        Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
-    }
-	franco_burgundian = { 
-		color = {60 60 140}
-		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
-		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
-		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-		Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
-		Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-		
-		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
-		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
-		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
-		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
-	}
-	amorican = { 
-		color = {80 80 160}
-		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
-		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
-		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-		Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
-		Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-		
-		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
-		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
-		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
-		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
-	}
-    arpitan = {
-        color = { 160 140 230 }
-        first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
-        Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
-        François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-        Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
-        Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-
-        last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
-        Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
-        "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
-        Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-        Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
-    }
-	gascon = { 
-		color = {70 90 140}
-		first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
-		
-		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
-	}
-	norman = { 
+	burgundian = { 
 		color = {60 35 140}
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
 		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
@@ -2177,34 +1982,52 @@ french = {
         Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
         Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
     }
-	brettonic = { 
-		color = {110 183 178}
-		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
-		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
-		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-		Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
-		Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-		
-		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
-		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
-		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
-		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
-	}
-	mhummanien = {
-        color = { 61 153 117 }
-        first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
-		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
-		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-		Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
-		Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-		
-		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
-		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
-		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
-		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
+}
+
+occitan_group = {
+    leader = european
+    unit = FrenchGC
+    occitan = {
+        color = {90 110 150}
+        first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
+
+        last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
     }
+	ligur = {
+        color = {50 70 120}
+        first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
+
+        last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
+    }
+	aragonese = {
+		color = {70 90 140}
+		first_names = { Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Bernat Carles Cassià Chulián Dalmau 
+		David Eduard Enric Enrique Federico Felip Fernando Ferran Francí Gaspar 
+		Gerard Isaac Jacint Jaume Joan Jordi Josep Juan Llorenç
+		Lluis Miguel Manuel Marc Miquel Narcís Oleguer Oliba Pasqual Pau Pedro Pere
+		Pompeu Rafael Rafel Ramon Ricardo Salvador Sergi Tomás Uloxio Valentí Victor Xavier Zequiel }
+		
+		last_names = { Albéniz Almirall Bacardí Batet Berenguer Borrás Borrell Cadafall Carner Casals
+		Casanova Castelló Claramunt Cucala Cugat Despujol Domènech Escotet Fabra Fages 
+		"Folc de Cardona" Gumerà Irla Llauder Macià Maragall Margall "Milans del Bosch" Miró Mompou
+		Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba 
+		Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
+	}
+    arpitan = {
+        color = { 60 60 140 }
+        first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
+        Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
+        François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+        Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
+        Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
+
+        last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+        Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
+        "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
+        Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+        Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
+    }
+	union = OCC
 }
 
 south_slavic = {
@@ -3243,6 +3066,16 @@ hellenic = {
 		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
 		}
 	}
+	sicilian = {
+        color = { 124 109 104 }
+        first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
+        Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
+        Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
+	
+        last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
+        "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
+        Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
+    }
 }
 
 armenian_group = {
@@ -3943,136 +3776,8 @@ amazigh = {
 			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
 			}
 	}
-	nafusi = {
-		color = {80 105 100}
-		first_names = {
-			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
-			}
-		
-		last_names = {
-			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
-			}
-	}
-	ghadames = {
-		color = {90 115 110}
-		first_names = {
-			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
-			}
-		
-		last_names = {
-			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
-			}
-	}
-	jbali = {
-		color = {50 75 50}
-		first_names = {
-			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
-			}
-		
-		last_names = {
-			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
-			}
-	}
-	mzab_ourgla = {
-		color = {60 85 60}
-		first_names = {
-			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
-			}
-		
-		last_names = {
-			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
-			}
-	}
-	tacawit = {
-		color = {70 95 70}
-		first_names = {
-			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
-			}
-		
-		last_names = {
-			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
-			}
-	}
-	haqbaylit = {
-		color = {80 105 80}
-		first_names = {
-			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
-			}
-		
-		last_names = {
-			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
-			}
-	}
-	seghrusheni = {
-		color = {90 115 90}
-		first_names = {
-			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
-			}
-		
-		last_names = {
-			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
-			}
-	}
-	riffian = {
-		color = {100 125 100}
-		first_names = {
-			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
-			}
-		
-		last_names = {
-			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
-			}
-	}
-	tamazight = {
-		color = {100 75 50}
-		first_names = {
-			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
-			}
-		
-		last_names = {
-			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
-			}
-	}
-	judeo_berber = {
-		color = {100 70 10}
-		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe 
-		Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
-		}
-
-		last_names = { Banai Barak "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Levy Maimon Mizrachi Montefiore Peretz Rafaeli Saban 
-		Sassoon Sebag
-		}
-	}
-	tashelhit = {
-		color = {100 50 70}
-		first_names = {
-			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
-			}
-		
-		last_names = {
-			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
-			}
-	}
-	kabyle = {
-		color = {100 55 100}
-		first_names = {
-			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
-			}
-		
-		last_names = {
-			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
-			}
-	}
 	tuareg = {
 		color = {80 125 180}
-		first_names = { Attici Musa Aytarel Ahmad "Ag Mama" Moussa Majila Islaman "In Tayaden" Abareybon Hasso Kiddu
-		}
-
-		last_names = { "ag Sidi" al-Hajj "ag Muhammad" "ag Amellal" "ag Amastan" 
-		}
-	}
-	tuzzungiyya = {
-		color = {80 75 140}
 		first_names = { Attici Musa Aytarel Ahmad "Ag Mama" Moussa Majila Islaman "In Tayaden" Abareybon Hasso Kiddu
 		}
 
@@ -4089,6 +3794,149 @@ amazigh = {
 			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
 			}
 	}
+	iznaten = {
+		color = {60 85 60}
+		first_names = {
+			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
+			}
+		
+		last_names = {
+			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
+			}
+	}
+	aznag = {
+		color = {70 95 90}
+		first_names = {
+			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
+			}
+		
+		last_names = {
+			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
+			}
+	}
+	taqbaylit = {
+		color = {60 85 80}
+		first_names = {
+			Ahmed "Abd al-Karim" Khalid Muhammad Mustafa  
+			}
+		
+		last_names = {
+			"al-Jazuli" Belkadi Mukrani "al-Rifi" "al-Sahrawi" "al-Shawiyyati" "al-Shiluhi" "al-Zanatawi"
+			}
+	}
+}
+
+afro_romance = {
+    leader = southamerican
+    unit = SpanishGC
+	muretannian = {
+		color = {114 181 114}
+		first_names = { Aljamí Alj Alejandro Alfonso Abdul Antonio "Antonio María" Arsenio Augusto Baldomero
+			Baltasar Benito Bernardino Bernardo Citi Carlos Celestino Claudio Cristobal Dámaso
+			Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Muahid
+			"Francisco Javier" Gabino Gabriel Gaspar Habdela Hilal Iben Ibn Jacobo Jaime
+			Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+			Luis Manuel Marcelo Mariano Mateo Muza Miguel Nicolás Pablo Pascual
+			Pedro Rafael Raimundo Theodomiro Ricardo Santiago Umar Segismundo Zanom }
+		
+		last_names = { Abba Aguirre Aryent Alcañiz Alonso "ben Illan" "ben Sancho" Aranda Meres Buelo
+			Biklaris Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "ben Juan"
+			"de Carvajal" "de la Fuente" "al Muqtadir" Daudi Kaiso Qorayonayra Ibenanunar Laytarola Huerva 
+			García "García de la Noceda" González Heredia Forqasa Herrera Hevia "Iben Froila" Linares Turtuja 
+			Maroto Márquez Nabiello Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
+			Narváez O'Donnell Ortega Pavía Pérez Plantayn "Queipo de Llano" Ramellus Rojo Ruiz 
+			Sayyid Sid Salim Topete Valdés Varela Yarbo Waliyo Zanon Zaute }
+	}
+	numidian = {
+		color = {72 137 72}
+		first_names = { Aljamí Alj Alejandro Alfonso Abdul Antonio "Antonio María" Arsenio Augusto Baldomero
+			Baltasar Benito Bernardino Bernardo Citi Carlos Celestino Claudio Cristobal Dámaso
+			Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Muahid
+			"Francisco Javier" Gabino Gabriel Gaspar Habdela Hilal Iben Ibn Jacobo Jaime
+			Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+			Luis Manuel Marcelo Mariano Mateo Muza Miguel Nicolás Pablo Pascual
+			Pedro Rafael Raimundo Theodomiro Ricardo Santiago Umar Segismundo Zanom }
+		
+		last_names = { Abba Aguirre Aryent Alcañiz Alonso "ben Illan" "ben Sancho" Aranda Meres Buelo
+			Biklaris Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "ben Juan"
+			"de Carvajal" "de la Fuente" "al Muqtadir" Daudi Kaiso Qorayonayra Ibenanunar Laytarola Huerva 
+			García "García de la Noceda" González Heredia Forqasa Herrera Hevia "Iben Froila" Linares Turtuja 
+			Maroto Márquez Nabiello Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
+			Narváez O'Donnell Ortega Pavía Pérez Plantayn "Queipo de Llano" Ramellus Rojo Ruiz 
+			Sayyid Sid Salim Topete Valdés Varela Yarbo Waliyo Zanon Zaute }
+	}
+	african_romance = {
+		color = {63 119 87}
+		first_names = { Aljamí Alj Alejandro Alfonso Abdul Antonio "Antonio María" Arsenio Augusto Baldomero
+			Baltasar Benito Bernardino Bernardo Citi Carlos Celestino Claudio Cristobal Dámaso
+			Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Muahid
+			"Francisco Javier" Gabino Gabriel Gaspar Habdela Hilal Iben Ibn Jacobo Jaime
+			Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+			Luis Manuel Marcelo Mariano Mateo Muza Miguel Nicolás Pablo Pascual
+			Pedro Rafael Raimundo Theodomiro Ricardo Santiago Umar Segismundo Zanom }
+		
+		last_names = { Abba Aguirre Aryent Alcañiz Alonso "ben Illan" "ben Sancho" Aranda Meres Buelo
+			Biklaris Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "ben Juan"
+			"de Carvajal" "de la Fuente" "al Muqtadir" Daudi Kaiso Qorayonayra Ibenanunar Laytarola Huerva 
+			García "García de la Noceda" González Heredia Forqasa Herrera Hevia "Iben Froila" Linares Turtuja 
+			Maroto Márquez Nabiello Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
+			Narváez O'Donnell Ortega Pavía Pérez Plantayn "Queipo de Llano" Ramellus Rojo Ruiz 
+			Sayyid Sid Salim Topete Valdés Varela Yarbo Waliyo Zanon Zaute }
+	}
+	sevillan = {
+		color = {166 193 30}
+		first_names = { Aljamí Alj Alejandro Alfonso Abdul Antonio "Antonio María" Arsenio Augusto Baldomero
+		Baltasar Benito Bernardino Bernardo Citi Carlos Celestino Claudio Cristobal Dámaso
+		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Muahid
+		"Francisco Javier" Gabino Gabriel Gaspar Habdela Hilal Iben Ibn Jacobo Jaime
+		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+		Luis Manuel Marcelo Mariano Mateo Muza Miguel Nicolás Pablo Pascual
+		Pedro Rafael Raimundo Theodomiro Ricardo Santiago Umar Segismundo Zanom }
+		
+	last_names = { Abba Aguirre Aryent Alcañiz Alonso "ben Illan" "ben Sancho" Aranda Meres Buelo
+		Biklaris Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "ben Juan"
+		"de Carvajal" "de la Fuente" "al Muqtadir" Daudi Kaiso Qorayonayra Ibenanunar Laytarola Huerva 
+		García "García de la Noceda" González Heredia Forqasa Herrera Hevia "Iben Froila" Linares Turtuja 
+		Maroto Márquez Nabiello Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
+		Narváez O'Donnell Ortega Pavía Pérez Plantayn "Queipo de Llano" Ramellus Rojo Ruiz 
+		Sayyid Sid Salim Topete Valdés Varela Yarbo Waliyo Zanon Zaute }
+	}
+    cartaginese  = {
+		color = {151 188 76}
+		first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
+		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
+		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
+		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
+		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
+		Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
+		
+	last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
+		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
+		"de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco 
+		García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López 
+		Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
+		Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz 
+		Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
+	}
+    suebi = {
+        color = {193 155 30}
+        first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
+        Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
+        Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
+        "Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
+        Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo
+        Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
+        Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
+
+        last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
+        Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
+        "de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco
+        García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López
+        Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz
+        Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz
+        Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
+    }	
 }
 
 peninsular_arabic = {

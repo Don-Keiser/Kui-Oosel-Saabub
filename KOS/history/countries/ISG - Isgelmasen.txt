@@ -1,8 +1,6 @@
 capital = 1720
-primary_culture = mzab_ourgla
-culture = seghrusheni
-culture = tashelhit
-religion = catholic
+primary_culture = taqbaylit
+religion = arianism
 government = hms_government
 plurality = 2.0
 nationalvalue = nv_tradition

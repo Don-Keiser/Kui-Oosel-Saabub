@@ -1,6 +1,6 @@
-owner = SMI
-controller = SMI
-add_core = SMI
+owner = GEA
+controller = GEA
+add_core = GEA
 trade_goods = iron
 terrain = forest
 life_rating = 30

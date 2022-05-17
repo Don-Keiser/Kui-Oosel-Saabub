@@ -1,5 +1,6 @@
-owner = GEA
-controller = GEA
+owner = SCN
+controller = SCN
+add_core = SCN
 add_core = GEA
 trade_goods = fish
 life_rating = 35

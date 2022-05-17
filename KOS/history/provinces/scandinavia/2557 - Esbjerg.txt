@@ -1,5 +1,5 @@
-owner = DNN
-controller = DNN
-add_core = DNN
+owner = AGL
+controller = AGL
+add_core = AGL
 trade_goods = fruit
 life_rating = 35

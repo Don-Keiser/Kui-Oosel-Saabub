@@ -1,19 +1,19 @@
 #Monaco (170800/22700 POPS)
 3251 = {
     aristocrats = {
-        culture = romagnol
+        culture = ligur
         religion = catholic
         size = 250
     }
 
     clergymen = {
-        culture = romagnol
+        culture = ligur
         religion = catholic
         size = 25
     }
 
     artisans = {
-        culture = romagnol
+        culture = ligur
         religion = catholic
         size = 500
     }
@@ -25,7 +25,7 @@
     }
 
     farmers = {
-        culture = romagnol
+        culture = ligur
         religion = catholic
         size = 1225
     }

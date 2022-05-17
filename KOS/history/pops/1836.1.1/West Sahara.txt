@@ -3,125 +3,95 @@
 #Al Aiyun (12000/3000 POPS)  aguia el-Hamra
 1773 = {
     aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 10
+        culture = aznag	
+        religion = arianism
+        size = 600
     }
 
     clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 15
+        culture = aznag
+        religion = arianism
+        size = 120
     }
 
     artisans = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 850
+        culture = aznag
+        religion = arianism
+        size = 900
     }
 
     soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 425
+        culture = aznag
+        religion = arianism
+        size = 800
     }
 
     farmers = {
-        culture = tuzzungiyya
-        religion = catholic
-        size = 5100
-    }
-
-    aristocrats = {
-        culture = tashelhit
-        religion = catholic
-        size = 25
-    }
-
-    clergymen = {
-        culture = tashelhit
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = tashelhit
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = tashelhit
-        religion = catholic
-        size = 125
-    }
-
-    farmers = {
-        culture = tashelhit
-        religion = catholic
-        size = 1800
+        culture = aznag
+        religion = arianism
+        size = 8900
     }
 }
 #Dahkla (8000/2000 POPS)
 1774 = {
     aristocrats = {
-        culture = tuzzungiyya
+        culture = aznag
         religion = catholic
-        size = 10
+        size = 600
     }
 
     clergymen = {
-        culture = tuzzungiyya
+        culture = aznag
         religion = catholic
-        size = 15
+        size = 180
     }
 
     artisans = {
-        culture = tuzzungiyya
+        culture = aznag
         religion = catholic
-        size = 50
+        size = 200
     }
 
     soldiers = {
-        culture = tuzzungiyya
+        culture = aznag
         religion = catholic
-        size = 25
+        size = 100
     }
 
     farmers = {
-        culture = tuzzungiyya
+        culture = aznag
         religion = catholic
-        size = 300
+        size = 10000
     }
 
     aristocrats = {
-        culture = tuzzungiyya
+        culture = muretannian
         religion = catholic
-        size = 10
+        size = 100
     }
 
     clergymen = {
-        culture = tuzzungiyya
+        culture = muretannian
         religion = catholic
-        size = 15
+        size = 100
     }
 
     artisans = {
-        culture = tuzzungiyya
+        culture = muretannian
         religion = catholic
-        size = 50
+        size = 320
     }
 
     soldiers = {
-        culture = tuzzungiyya
+        culture = muretannian
         religion = catholic
-        size = 25
+        size = 600
     }
 
     farmers = {
-        culture = tuzzungiyya
+        culture = muretannian
         religion = catholic
-        size = 300
+        size = 2300
     }
 
 }

@@ -135,19 +135,19 @@ ENG_266 = { 266 267 268 1724 3478 3479 3477 3609 } #Highlands
 
 ENG_271 = { 271 269 270 272 304 } #Lowlands
 
-ENG_273 = { 273 274 275 276 } #Wales
+ENG_273 = { 273 274 275 276 286 } #Wales
 
 ENG_277 = { 277 278 279 285 } #North West England
 
 ENG_280 = { 280 281 282 283 } #North East England
 
-ENG_284 = { 284 286 287 288 289 290 } #Midlands
+ENG_284 = { 284 287 288 290 294 296 } #Midlands
 
-ENG_291 = { 291 292 293 295 } #Eastern Counties
+ENG_291 = { 291 289 292 293 295 } #Eastern Counties
 
-ENG_296 = { 296 299 297 298 419 3268 3480 } #South West England
+ENG_296 = { 299 297 298 419 3268 3480 } #South West England
 
-ENG_300 = { 300 294 301 302 303 3269 } #South East England
+ENG_300 = { 300 301 302 303 3269 } #South East England
 
 
 ### Scandinavia
@@ -212,7 +212,7 @@ FRA_412 = { 412 409 410 3409 3703 } #Alsace-Lorraine
 
 FRA_418 = { 418 415 416 417 3408 } #Normandie
 
-FRA_420 = { 420 421 422 423 424 } #Bretagne
+FRA_420 = { 420 421 422 423 424 3561 } #Bretagne
 
 FRA_425 = { 425 426 427 3399 } #Ile de France
 
@@ -236,7 +236,7 @@ FRA_461 = { 461 463 464 449 3252 } #Languedoc
 
 SAR_466 = { 465 466 472 3251} #Savoie
 
-FRA_467 = { 467 468 469 470 471 3432 3561 } #Provence
+FRA_467 = { 467 468 469 470 471 3432 } #Provence
 
 
 ### Spain & Portugal

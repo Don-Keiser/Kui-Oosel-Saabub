@@ -1,5 +1,5 @@
-owner = SMI
-controller = SMI
-add_core = SMI
+owner = FIN
+controller = FIN
+add_core = FIN
 trade_goods = sulphur
 life_rating = 10

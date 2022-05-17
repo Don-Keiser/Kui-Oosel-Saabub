@@ -1,5 +1,5 @@
 capital = 479
-primary_culture = aragonese
+primary_culture = suebi
 religion = catholic
 government = hms_government
 plurality = 12.0

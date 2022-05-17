@@ -1,7 +1,6 @@
-owner = DNN
-controller = DNN
-add_core = DNN
-add_core = NOR
+owner = SCN
+controller = SCN
+add_core = SCN
 trade_goods = fish
 terrain = christiansand
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = GRE
-controller = GRE
-add_core = GRE
+owner = KLV
+controller = KLV
+add_core = KLV
 add_core = ITA
 trade_goods = fish
 naval_base = 1

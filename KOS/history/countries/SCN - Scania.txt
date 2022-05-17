@@ -1,11 +1,12 @@
 capital = 334
 primary_culture = swedish
 religion = protestant
-government = democracy
-plurality = 35.0
+government = absolute_monarchy
+plurality = 10
 nationalvalue = nv_productivity
 literacy = 0.8
 civilized = yes
+prestige = 25
 
 # Political reforms
 slavery = yes_slavery

@@ -3,337 +3,234 @@
 #Tunis (488000/122000 POPS)
 1725 = {
     aristocrats = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 2350
+        size = 2200
     }
 
     bureaucrats = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
         size = 350
     }
 
     officers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
         size = 325
     }
 
     clergymen = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 1000
-    }
-	
-	clergymen = {
-        culture = neo_punic
-        religion = arianism
-        size = 200
+        size = 3000
     }
 
     artisans = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
         size = 10000
     }
 
     artisans = {
-        culture = neo_punic
+        culture = african_romance
         religion = arianism
         size = 7500
     }
 
     soldiers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
         size = 3000
     }
 
     soldiers = {
-        culture = neo_punic
+        culture = african_romance
         religion = arianism
-        size = 1000
+        size = 3000
     }
 
     farmers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 96425
-    }
-
-    farmers = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 8000
+        size = 92000
     }
 
     artisans = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 2500
+        culture = sicilian
+        religion = catholic
+        size = 4500
     }
 }
 #Bizerte (268000/67000 POPS)
 1726 = {
     aristocrats = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 1250
+        size = 600
     }
 
     clergymen = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 675
-    }
-
-    artisans = {
-        culture = neo_punic
-        religion = catholic
-        size = 2250
+        size = 800
     }
 	
 	artisans = {
-        culture = neo_punic
+        culture = african_romance
         religion = arianism
-        size = 1050
+        size = 5500
     }
 
     soldiers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 1500
+        size = 2200
     }
 
     farmers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 64575
-    }
-
-    farmers = {
-        culture = kabyle
-        religion = catholic
-        size = 6000
-    }
-	
-	farmers = {
-        culture = tacawit
-        religion = catholic
-        size = 4000
-    }
-
-    artisans = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 1250
+        size = 62000
     }
 }
 #Gafsa (112000/28000 POPS)
 1727 = {
     aristocrats = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
         size = 450
     }
 
     clergymen = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
-        size = 275
+        size = 400
     }
 
     artisans = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
-        size = 1250
+        size = 2600
     }
 
     soldiers = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
-        size = 1100
+        size = 1200
     }
 
     farmers = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
-        size = 20025
-    }
-
-    farmers = {
-        culture = neo_punic
-        religion = catholic
-        size = 3000
-    }
-	
-	farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 4500
+        size = 21000
     }
 }
 #Kairouan (228000/57000 POPS)
 1728 = {
     aristocrats = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 875
+        size = 450
     }
 
     clergymen = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 400
+        size = 890
     }
 
     artisans = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 2250
-    }
-	
-	artisans = {
-        culture = neo_punic
-        religion = arianism
-        size = 1250
-    }
-	
-	artisans = {
-        culture = neo_phoenician
-        religion = syriac
-        size = 1970
+        size = 4230
     }
 
     soldiers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 1100
+        size = 2200
     }
 
     farmers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 45225
-    }
-
-    farmers = {
-        culture = tacawit
-        religion = catholic
-        size = 10000
+        size = 52000
     }
 }
 #Tozeur (96000/24000 POPS)
 1729 = {
     aristocrats = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
-        size = 350
+        size = 120
     }
 
     clergymen = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
-        size = 200
+        size = 250
     }
 
     artisans = {
-        culture = tacawit
+        culture = african_romance
         religion = catholic
-        size = 950
+        size = 1450
     }
 
     soldiers = {
-        culture = tacawit
-        religion = catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = tacawit
-        religion = catholic
-        size = 14300
-    }
-
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 1800
-    }
-	
-	farmers = {
-        culture = neo_punic
-        religion = catholic
-        size = 1500
-    }
-	
-	farmers = {
-        culture = nafusi
-        religion = catholic
-        size = 2000
-    }
-	
-	farmers = {
-        culture = ghadames
-        religion = catholic
-        size = 2900
-    }
-}
-#Gabes (200000/50000 POPS)
-1730 = {
-    aristocrats = {
-        culture = neo_punic
-        religion = catholic
-        size = 900
-    }
-
-    clergymen = {
-        culture = neo_punic
-        religion = catholic
-        size = 400
-    }
-
-    artisans = {
-        culture = neo_punic
-        religion = catholic
-        size = 2275
-    }
-	
-	artisans = {
-        culture = neo_punic
-        religion = arianism
-        size = 1475
-    }
-
-    soldiers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
         size = 1100
     }
 
     farmers = {
-        culture = neo_punic
+        culture = african_romance
         religion = catholic
-        size = 40825
+        size = 16000
+    }
+	
+	farmers = {
+        culture = iznaten
+        religion = catholic
+        size = 3800
+    }
+}
+#Gabes (200000/50000 POPS)
+1730 = {
+    aristocrats = {
+        culture = african_romance
+        religion = catholic
+        size = 300
     }
 
-    farmers = {
-        culture = nafusi
+    clergymen = {
+        culture = african_romance
         religion = catholic
-        size = 8200
+        size = 600
     }
 
     artisans = {
-        culture = neo_phoenician
-        religion = syriac
+        culture = african_romance
+        religion = catholic
+        size = 2800
+    }
+
+    soldiers = {
+        culture = african_romance
+        religion = catholic
         size = 1700
     }
 
+    farmers = {
+        culture = african_romance
+        religion = catholic
+        size = 41000
+    }
 }

@@ -1,8 +1,6 @@
-owner = SMI
-controller = SMI
-add_core = DNN
+owner = NOR
+controller = NOR
 add_core = NOR
-add_core = SMI
 trade_goods = iron
 naval_base = 1
 terrain = trondheim

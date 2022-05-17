@@ -1,5 +1,5 @@
 color = { 148  30  70 }
-march = { 53 62 158 }
+march = { 41 48 122 }
 
 graphical_culture = FrenchGC
 

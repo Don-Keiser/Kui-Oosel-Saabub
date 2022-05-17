@@ -1,5 +1,5 @@
-owner = VEN
-controller = VEN
-add_core = VEN
+owner = VRN
+controller = VRN
+add_core = VRN
 trade_goods = iron
 life_rating = 35

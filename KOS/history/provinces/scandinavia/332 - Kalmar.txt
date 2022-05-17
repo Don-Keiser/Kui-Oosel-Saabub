@@ -1,6 +1,6 @@
-owner = OLA
-controller = OLA
-add_core = OLA
+owner = SCN
+controller = SCN
+add_core = SCN
 add_core = GEA
 trade_goods = grain
 life_rating = 35

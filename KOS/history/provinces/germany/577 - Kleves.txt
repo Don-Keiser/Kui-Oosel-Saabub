@@ -1,6 +1,5 @@
-owner = JUL
-controller = JUL
-add_core = JUL
+owner = FRI
+controller = FRI
 add_core = FRI
 trade_goods = coal
 life_rating = 40

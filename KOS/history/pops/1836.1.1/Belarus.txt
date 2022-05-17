@@ -1107,7 +1107,7 @@
     farmers = {
         culture = ohitsemid
         religion = protestant
-        size = 920000
+        size = 92000
     }
 
     aristocrats = {

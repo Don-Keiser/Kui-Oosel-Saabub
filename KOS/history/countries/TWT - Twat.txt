@@ -1,7 +1,7 @@
 capital = 1701
 primary_culture = mzab_ourgla
 religion = catholic
-government = absolutemonarchy
+government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_tradition
 literacy = 0.01

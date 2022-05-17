@@ -1,15 +1,15 @@
-owner = SWE
-controller = SWE
-add_core = SWE
+owner = GEA
+controller = GEA
+add_core = GEA
 trade_goods = fish
 life_rating = 40
 terrain = stockholm
 naval_base = 1
-#state_building = {
-#    level = 1
-#    building = steel_factory
-#    upgrade = yes
-#}
+state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = yes
+}
 #state_building = {
 #    level = 1
 #    building = ammunition_factory

@@ -1,6 +1,5 @@
 capital = 489
-primary_culture = toledano
-culture = sevillan
+primary_culture = sevillan
 religion = catholic
 government = hms_government
 plurality = 25.0

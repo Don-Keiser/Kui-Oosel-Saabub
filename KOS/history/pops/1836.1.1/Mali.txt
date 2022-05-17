@@ -1319,82 +1319,57 @@
     }
 
     aristocrats = {
-        culture = mzab_ourgla
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 54
     }
 
     clergymen = {
-        culture = mzab_ourgla
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 120
     }
 
     artisans = {
-        culture = mzab_ourgla
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 230
     }
 
     soldiers = {
-        culture = mzab_ourgla
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 110
     }
 
     farmers = {
-        culture = mzab_ourgla
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 4300
     }
-
-	clergymen = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 180
-    }
-
-    artisans = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 80
-    }
-
-    soldiers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 65
-    }
-
-    farmers = {
-        culture = chaotic_latin
-        religion = arianism
-        size = 2300
-    }
-
 }
 3431 = {
     aristocrats = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 50
     }
 
     clergymen = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 100
     }
 
     soldiers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 50
     }
 
     farmers = {
-        culture = tuzzungiyya
-        religion = catholic
+        culture = aznag
+        religion = arianism
         size = 5800
     }
 }

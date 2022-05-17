@@ -1679,12 +1679,6 @@
         size = 57125
     }
 
-    labourers = {
-        culture = norman
-        religion = catholic
-        size = 1200
-    }
-
 }
 #Oxfordshire/Buckinghamshire Region : 616000
 #294 : Oxford (304000/76000 POPS)
@@ -2009,12 +2003,6 @@
         religion = catholic
         size = 12000
     }
-
-    farmers = {
-        culture = norman
-        religion = catholic
-        size = 1600
-    }
 }
 
 # Metro London Region - 2052000
@@ -2153,21 +2141,9 @@
     }
 
     artisans = {
-        culture = norman
-        religion = catholic
-        size = 10000
-    }
-
-    artisans = {
         culture = irish
         religion = catholic
         size = 2000
-    }
-
-    farmers = {
-        culture = norman
-        religion = catholic
-        size = 5900
     }
 
 }
@@ -2178,12 +2154,6 @@
         culture = brettonic
         religion = catholic
         size = 250
-    }
-	
-	aristocrats = {
-        culture = norman
-        religion = catholic
-        size = 1750
     }
 
     clergymen = {
@@ -2209,18 +2179,6 @@
         religion = catholic
         size = 88625
     }
-	
-	labourers = {
-        culture = norman
-        religion = catholic
-        size = 2625
-    }
-
-    artisans = {
-        culture = norman
-        religion = catholic
-        size = 1100
-    }
 }
 #Brighton (404000/101000 POPS)
 302 = {
@@ -2228,12 +2186,6 @@
         culture = brettonic
         religion = catholic
         size = 250
-    }
-	
-	aristocrats = {
-        culture = norman
-        religion = catholic
-        size = 1250
     }
 
     clergymen = {
@@ -2265,12 +2217,6 @@
         religion = catholic
         size = 75500
     }
-	
-	labourers = {
-        culture = norman
-        religion = catholic
-        size = 2500
-    }
 }
 #Portsmouth
 3269 = {
@@ -2285,12 +2231,6 @@
         religion = catholic
         size = 500
     }
-	
-	artisans = {
-        culture = norman
-        religion = catholic
-        size = 1500
-    }
 
     soldiers = {
         culture = brettonic
@@ -2303,22 +2243,10 @@
         religion = catholic
         size = 23000
     }
-	
-	labourers = {
-        culture = norman
-        religion = catholic
-        size = 8000
-    }
 }
 
 #Southampton (332000/83000 POPS)
 303 = {
-    aristocrats = {
-        culture = norman
-        religion = catholic
-        size = 1750
-    }
-
     officers = {
         culture = brettonic
         religion = catholic
@@ -2337,12 +2265,6 @@
         size = 500
     }
 
-    artisans = {
-        culture = norman
-        religion = catholic
-        size = 6000
-    }
-
     soldiers = {
         culture = brettonic
         religion = catholic
@@ -2354,13 +2276,6 @@
         religion = catholic
         size = 68000
     }
-	
-	labourers = {
-        culture = norman
-        religion = catholic
-        size = 5000
-    }
-
 }
 #Isle Of Man Region - 46000
 #Douglas (46000/11500 POPS)

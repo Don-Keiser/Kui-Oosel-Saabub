@@ -1,6 +1,6 @@
-owner = HAM
-controller = HAM
-add_core = HAM
+owner = FRI
+controller = FRI
+add_core = FRI
 trade_goods = fish
 life_rating = 42
 terrain = hamburg

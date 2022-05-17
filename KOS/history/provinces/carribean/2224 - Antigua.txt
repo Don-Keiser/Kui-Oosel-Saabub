@@ -1,5 +1,5 @@
-owner = DNN
-controller = DNN
+owner = SCN
+controller = SCN
 trade_goods = fruit
 life_rating = 35
 colonial = 2

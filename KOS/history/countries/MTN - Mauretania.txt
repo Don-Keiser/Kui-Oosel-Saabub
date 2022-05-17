@@ -1,7 +1,5 @@
 capital = 1691
-primary_culture = tamazight
-culture = seghrusheni
-culture = mzab_ourgla
+primary_culture = muretannian
 religion = catholic
 government = colonial_company
 plurality = 10.0

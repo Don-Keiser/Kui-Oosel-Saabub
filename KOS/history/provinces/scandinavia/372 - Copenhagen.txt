@@ -1,6 +1,6 @@
-owner = DNN
-controller = DNN
-add_core = DNN
+owner = SCN
+controller = SCN
+add_core = SCN
 trade_goods = precious_goods
 life_rating = 35
 terrain = copenhagen

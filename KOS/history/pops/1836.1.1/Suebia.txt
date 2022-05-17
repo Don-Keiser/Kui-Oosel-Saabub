@@ -74,38 +74,6 @@
         size = 66000
     }
 }
-#Weinschloss
-3558 = {
-    aristocrats = {
-        culture = suebi
-        religion = catholic
-        size = 800
-    }
-
-    clergymen = {
-        culture = suebi
-        religion = catholic
-        size = 350
-    }
-
-    artisans = {
-        culture = suebi
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = suebi
-        religion = catholic
-        size = 1500
-    }
-
-    farmers = {
-        culture = suebi
-        religion = catholic
-        size = 24000
-	}
-}
 #Einheimische
 3559 = {
     aristocrats = {
@@ -136,37 +104,5 @@
         culture = suebi
         religion = catholic
         size = 23200
-	}
-}
-#Kaputtschwert
-3560 = {
-    aristocrats = {
-        culture = suebi
-        religion = catholic
-        size = 500
-    }
-
-    clergymen = {
-        culture = suebi
-        religion = catholic
-        size = 260
-    }
-
-    artisans = {
-        culture = suebi
-        religion = catholic
-        size = 2300
-    }
-
-    soldiers = {
-        culture = suebi
-        religion = catholic
-        size = 950
-    }
-
-    farmers = {
-        culture = suebi
-        religion = catholic
-        size = 13500
 	}
 }

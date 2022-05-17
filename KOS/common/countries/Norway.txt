@@ -1,5 +1,5 @@
 color = { 117  165  188 }
-
+dominion = { 49 37 89 }
 graphical_culture = EuropeanGC
 
 party = {

@@ -1,6 +1,6 @@
-owner = SMA
-controller = SMA
-add_core = SMA
+owner = SCN
+controller = SCN
+add_core = SCN
 add_core = GEA
 trade_goods = timber
 life_rating = 35
