@@ -1,24 +1,14 @@
-owner = SAX
-controller = SAX
-add_core = SAX
+owner = BRN
+controller = BRN
+add_core = BRN
 trade_goods = fruit
-life_rating = 45
+life_rating = 40
 railroad = 1
 fort = 1
 terrain = berlin
 state_building = {
     level = 1
     building = glass_factory
-    upgrade = yes
-}
-state_building = {
-    level = 1
-    building = ammunition_factory
-    upgrade = yes
-}
-state_building = {
-    level = 1
-    building = small_arms_factory
     upgrade = yes
 }
 state_building = {
@@ -30,16 +20,6 @@ state_building = {
     state_building = {
         level = 2
         building = glass_factory
-        upgrade = yes
-    }
-    state_building = {
-        level = 2
-        building = ammunition_factory
-        upgrade = yes
-    }
-    state_building = {
-        level = 2
-        building = small_arms_factory
         upgrade = yes
     }
     state_building = {

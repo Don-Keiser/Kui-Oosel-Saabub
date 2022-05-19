@@ -1,6 +1,6 @@
-owner = SWG
-controller = SWG
-add_core = SWG
+owner = THU
+controller = THU
+add_core = THU
 trade_goods = sulphur
 life_rating = 40
 1861.1.1 = { railroad = 3 }

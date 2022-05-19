@@ -1,6 +1,6 @@
-owner = SAX
-controller = SAX
-add_core = SAX
+owner = BAV
+controller = BAV
+add_core = BAV
 terrain = chemnitz
 trade_goods = iron
 life_rating = 40

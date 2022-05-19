@@ -1,6 +1,6 @@
-owner = AAC
-controller = AAC
-add_core = AAC
+owner = LOR
+controller = LOR
+add_core = LOR
 trade_goods = coal
 life_rating = 40
 terrain = mining_district

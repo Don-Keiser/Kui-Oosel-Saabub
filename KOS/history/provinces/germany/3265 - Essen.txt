@@ -1,6 +1,6 @@
-owner = ESS
-controller = ESS
-add_core = ESS
+owner = KOL
+controller = KOL
+add_core = KOL
 trade_goods = coal
 life_rating = 40
 terrain = essen

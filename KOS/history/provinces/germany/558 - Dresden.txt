@@ -1,6 +1,6 @@
-owner = SAX
-controller = SAX
-add_core = SAX
+owner = POL
+controller = POL
+add_core = POL
 trade_goods = coal
 life_rating = 40
 terrain = dresden

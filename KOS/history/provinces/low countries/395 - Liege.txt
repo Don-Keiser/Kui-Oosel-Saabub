@@ -1,6 +1,6 @@
-owner = LIG
-controller = LIG
-add_core = LIG
+owner = LOR
+controller = LOR
+add_core = LOR
 trade_goods = iron
 life_rating = 35
 terrain = liege

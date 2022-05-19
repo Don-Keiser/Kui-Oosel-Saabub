@@ -1,8 +1,7 @@
-owner = SVY
-controller = SVY
-add_core = SVY
+owner = BRG
+controller = BRG
+add_core = BRG
 add_core = FRA
-add_core = ARP
 trade_goods = coal
 terrain = annecy
 life_rating = 30

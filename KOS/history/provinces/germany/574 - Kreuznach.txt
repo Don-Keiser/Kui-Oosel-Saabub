@@ -1,6 +1,6 @@
-owner = TER
-controller = TER
-add_core = TER
+owner = LOR
+controller = LOR
+add_core = LOR
 trade_goods = iron
 life_rating = 40
 terrain = koblenz

@@ -1,6 +1,6 @@
-owner = WEI
-controller = WEI
-add_core = WEI
+owner = BAV
+controller = BAV
+add_core = BAV
 trade_goods = timber
 terrain = forest
 life_rating = 40

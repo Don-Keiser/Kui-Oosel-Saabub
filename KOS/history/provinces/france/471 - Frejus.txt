@@ -1,6 +1,5 @@
-owner = PRO
-controller = PRO
-add_core = PRO
+owner = FRA
+controller = FRA
 add_core = FRA
 add_core = OCC
 trade_goods = silk

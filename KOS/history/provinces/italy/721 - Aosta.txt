@@ -1,7 +1,6 @@
-owner = SVY
-controller = SVY
-add_core = SVY
-add_core = ARP
-add_core = ITA
+owner = BRG
+controller = BRG
+add_core = BRG
+add_core = FRA
 trade_goods = iron
 life_rating = 35

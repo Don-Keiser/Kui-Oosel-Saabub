@@ -1,6 +1,6 @@
-owner = WES
-controller = WES
-add_core = WES
+owner = HES
+controller = HES
+add_core = HES
 trade_goods = coal
 terrain = hills
 life_rating = 40

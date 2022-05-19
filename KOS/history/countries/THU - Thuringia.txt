@@ -1,8 +1,7 @@
 capital = 554
 primary_culture = north_german
-culture = south_german
 religion = catholic
-government = absolute_monarchy
+government = march
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.317677

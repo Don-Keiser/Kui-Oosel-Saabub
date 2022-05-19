@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = WUR
+controller = WUR
+add_core = WUR
 trade_goods = grain
 life_rating = 35
 terrain = strasburg

@@ -818,6 +818,13 @@ vassal = {
     end_date = 1936.1.1
 }
 
+vassal = {
+    first = BAV
+    second = THU
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
 #Skane
 substate = {
     first = SCN
@@ -837,6 +844,21 @@ substate = {
 vassal = {
     first = FRI
     second = AGL
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Poland
+vassal = {
+    first = POL
+    second = POM
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = POL
+    second = BRN
     start_date = 1814.11.1
     end_date = 1936.1.1
 }

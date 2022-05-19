@@ -1,6 +1,6 @@
-owner = LAT
-controller = LAT
-add_core = LAT
+owner = POL
+controller = POL
+add_core = POL
 trade_goods = grain
 terrain = farmlands
 life_rating = 40

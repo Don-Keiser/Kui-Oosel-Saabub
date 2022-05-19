@@ -1,6 +1,7 @@
-owner = PRO
-controller = PRO
+owner = FRA
+controller = FRA
+add_core = FRA
 add_core = ITA
-add_core = GEN
+add_core = TOR
 trade_goods = fish
 life_rating = 35

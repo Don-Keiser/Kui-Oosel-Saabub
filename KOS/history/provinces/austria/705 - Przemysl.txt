@@ -1,5 +1,6 @@
-owner = HLC
-controller = HLC
+owner = LDM
+controller = LDM
+add_core = LDM
 add_core = HLC
 trade_goods = coal
 life_rating = 35

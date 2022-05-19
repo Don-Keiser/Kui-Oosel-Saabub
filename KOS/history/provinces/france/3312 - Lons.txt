@@ -2,6 +2,5 @@ owner = BRG
 controller = BRG
 add_core = BRG
 add_core = FRA
-add_core = ARP
 trade_goods = grain
 life_rating = 30

@@ -1,6 +1,6 @@
-owner = BRA
-controller = BRA
-add_core = BRA
+owner = MAG
+controller = MAG
+add_core = MAG
 trade_goods = iron
 life_rating = 40
 terrain = braunschweig

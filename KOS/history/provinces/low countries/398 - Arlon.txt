@@ -1,6 +1,6 @@
-owner = LUX
-controller = LUX
-add_core = LUX
+owner = LOR
+controller = LOR
+add_core = LOR
 trade_goods = iron
 life_rating = 35
 terrain = mining_district

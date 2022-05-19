@@ -1,8 +1,7 @@
-owner = MNC
-controller = MNC
+owner = FRA
+controller = FRA
 add_core = OCC
-add_core = PRO
-add_core = MNC
+add_core = FRA
 trade_goods = fruit
 life_rating = 35
 terrain = monaco

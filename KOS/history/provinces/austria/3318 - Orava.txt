@@ -1,6 +1,7 @@
-owner = HLC
-controller = HLC
-add_core = SLV
+owner = LDM
+controller = LDM
+add_core = LDM
 add_core = HLC
+add_core = SLV
 trade_goods = wool
 life_rating = 35

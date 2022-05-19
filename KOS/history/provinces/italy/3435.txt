@@ -1,7 +1,6 @@
-owner = SVY
-controller = SVY
-add_core = SVY
+owner = TOR
+controller = TOR
+add_core = TOR
 add_core = ITA
-add_core = ARP
 trade_goods = silk
 life_rating = 35
