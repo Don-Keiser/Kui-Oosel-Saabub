@@ -904,7 +904,7 @@
     }
 
     aristocrats = {
-        culture = outremr
+        culture = outremer
         religion = catholic
         size = 25
     }

@@ -140,63 +140,47 @@
 }
 
 
-#San Marino
+#Rimini
 3266 = {
     aristocrats = {
-        culture = mediano
+        culture = romagnol
+        religion = catholic
+        size = 1200
+    }
+	
+    bureaucrats = {
+        culture = romagnol
         religion = catholic
         size = 100
     }
-    bureaucrats = {
-        culture = mediano
-        religion = catholic
-        size = 10
-    }
+	
     clergymen = {
-        culture = mediano
-        religion = catholic
-        size = 30
-    }
-
-    artisans = {
-        culture = mediano
+        culture = romagnol
         religion = catholic
         size = 450
     }
 
-    soldiers = {
-        culture = mediano
-        religion = catholic
-        size= 100
-    }
-
-    farmers = {
-        culture = mediano
-        religion = catholic
-        size = 1875
-    }
-
-    aristocrats = {
-        culture = mediano
-        religion = catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = mediano
-        religion = catholic
-        size = 30
-    }
-
     artisans = {
-        culture = mediano
+        culture = romagnol
         religion = catholic
-        size = 350
+        size = 6800
+    }
+
+    soldiers = {
+        culture = romagnol
+        religion = catholic
+        size= 1500
     }
 
     farmers = {
-        culture = mediano
+        culture = romagnol
         religion = catholic
-        size = 1075
+        size = 43000
+    }
+
+    farmers = {
+        culture = venetian
+        religion = catholic
+        size = 3000
     }
 }

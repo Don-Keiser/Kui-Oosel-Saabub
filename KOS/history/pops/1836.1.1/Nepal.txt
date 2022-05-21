@@ -167,7 +167,7 @@
 	}
 	
 	farmers = {
-		culture = hindi
+		culture = sindi
 		religion = hindu
 		size = 19250
 	}

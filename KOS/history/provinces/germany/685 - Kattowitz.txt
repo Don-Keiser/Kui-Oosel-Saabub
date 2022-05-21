@@ -1,7 +1,6 @@
-owner = POL
-controller = POL
-add_core = POL
-add_core = SLS
+owner = LDM
+controller = LDM
+add_core = LDM
 trade_goods = coal
 life_rating = 40
 1861.1.1 = { railroad = 3 }

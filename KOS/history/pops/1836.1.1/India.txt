@@ -2181,61 +2181,61 @@
 #Dehra Dun (952000/238000 POPS)
 1238 = {
 	aristocrats = {
-		culture = hindi
+		culture = sindi
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = hindi
+		culture = sindi
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = hindi
+		culture = sindi
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = hindi
+		culture = sindi
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = hindi
+		culture = sindi
 		religion = sunni
 		size = 46250
 	}
 
 	aristocrats = {
-		culture = hindi
+		culture = sindi
 		religion = hindu
 		size = 1250
 	}
 
 	clergymen = {
-		culture = hindi
+		culture = sindi
 		religion = hindu
 		size = 1750
 	}
 
 	artisans = {
-		culture = hindi
+		culture = sindi
 		religion = hindu
 		size = 7000
 	}
 
 	soldiers = {
-		culture = hindi
+		culture = sindi
 		religion = hindu
 		size = 1750
 	}
 
 	farmers = {
-		culture = hindi
+		culture = sindi
 		religion = hindu
 		size = 47250
 	}
