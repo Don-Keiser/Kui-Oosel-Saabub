@@ -1,5 +1,5 @@
-owner = BST
-controller = BST
-add_core = BST
+owner = BLG
+controller = BLG
+add_core = BLG
 trade_goods = fruit
 life_rating = 35

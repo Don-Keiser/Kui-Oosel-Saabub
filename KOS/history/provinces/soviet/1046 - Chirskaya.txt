@@ -1,5 +1,5 @@
-owner = CRI
-controller = CRI
-add_core = CRI
+owner = CUM
+controller = CUM
+add_core = CUM
 trade_goods = coal
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = URA
-controller = URA
-add_core = URA
+owner = FIN
+controller = FIN
 trade_goods = timber
 terrain = boreal
 life_rating = 25
+colonial = 2

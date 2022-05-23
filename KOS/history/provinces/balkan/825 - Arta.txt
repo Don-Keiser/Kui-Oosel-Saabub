@@ -1,7 +1,6 @@
-owner = THA
-controller = THA
-add_core = THA
+owner = BLG
+controller = BLG
+add_core = BLG
 add_core = GRE
-add_core = MCD
 trade_goods = wool
 life_rating = 35

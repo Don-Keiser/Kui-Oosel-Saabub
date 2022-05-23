@@ -1,5 +1,5 @@
-owner = CSB
-controller = CSB
-add_core = CSB
+owner = BLG
+controller = BLG
+add_core = BLG
 trade_goods = cattle
 life_rating = 35

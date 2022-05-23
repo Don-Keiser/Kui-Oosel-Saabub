@@ -1,6 +1,6 @@
-owner = LUU
-controller = LUU
-add_core = LUU
+owner = VAA
+controller = VAA
+add_core = VAA
 trade_goods = coal
 life_rating = 42
 terrain = moscow

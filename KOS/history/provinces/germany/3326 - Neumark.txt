@@ -1,5 +1,5 @@
-owner = BUT
-controller = BUT
-add_core = BUT
+owner = PRE
+controller = PRE
+add_core = PRE
 trade_goods = cattle
 life_rating = 40

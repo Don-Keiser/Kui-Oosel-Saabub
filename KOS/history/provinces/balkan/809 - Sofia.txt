@@ -1,6 +1,6 @@
-owner = PAO
-controller = PAO
-add_core = PAO
+owner = BLG
+controller = BLG
+add_core = BLG
 trade_goods = timber
 life_rating = 35
 terrain = sofia

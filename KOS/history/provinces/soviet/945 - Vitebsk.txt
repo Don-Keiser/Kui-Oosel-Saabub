@@ -1,5 +1,5 @@
-owner = STO
-controller = STO
-add_core = STO
+owner = EST
+controller = EST
+add_core = EST
 trade_goods = grain
 life_rating = 35

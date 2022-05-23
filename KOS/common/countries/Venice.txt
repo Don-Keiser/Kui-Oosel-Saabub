@@ -1,4 +1,5 @@
 color = { 216  188  62 }
+march = { 173  162  162 }
 graphical_culture = Generic
 
 party = {

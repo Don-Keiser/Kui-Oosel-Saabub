@@ -1,5 +1,5 @@
-owner = THA
-controller = THA
-add_core = THA
+owner = BLG
+controller = BLG
+add_core = BLG
 trade_goods = cotton
 life_rating = 35

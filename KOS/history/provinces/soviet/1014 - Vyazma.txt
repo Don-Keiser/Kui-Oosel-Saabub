@@ -1,5 +1,5 @@
-owner = KRE
-controller = KRE
-add_core = KRE
+owner = VAA
+controller = VAA
+add_core = VAA
 trade_goods = timber
 life_rating = 35

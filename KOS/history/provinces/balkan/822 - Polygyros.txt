@@ -1,5 +1,6 @@
-owner = MCD
-controller = MCD
-add_core = MCD
+owner = BLG
+controller = BLG
+add_core = BLG
+add_core = GRE
 trade_goods = fruit
 life_rating = 35

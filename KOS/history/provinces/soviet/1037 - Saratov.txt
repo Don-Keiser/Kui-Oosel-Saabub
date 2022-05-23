@@ -1,6 +1,6 @@
-owner = REG
-controller = REG
-add_core = REG
+owner = TAR
+controller = TAR
+add_core = TAR
 trade_goods = grain
 life_rating = 35
 terrain = saratov

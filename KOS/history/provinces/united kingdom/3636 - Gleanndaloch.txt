@@ -1,5 +1,5 @@
-owner = WAC
-controller = WAC
-add_core = WAC
+owner = BLG
+controller = BLG
+add_core = BLG
 trade_goods = grain
 life_rating = 35

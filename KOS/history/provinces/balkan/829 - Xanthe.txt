@@ -1,6 +1,6 @@
-owner = THA
-controller = THA
-add_core = THA
+owner = BLG
+controller = BLG
+add_core = BLG
 add_core = GRE
 trade_goods = grain
 life_rating = 35

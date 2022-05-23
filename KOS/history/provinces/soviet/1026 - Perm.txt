@@ -1,6 +1,6 @@
-owner = URA
-controller = URA
-add_core = URA
+owner = TAR
+controller = TAR
+add_core = TAR
 trade_goods = coal
 life_rating = 35
 terrain = mountain

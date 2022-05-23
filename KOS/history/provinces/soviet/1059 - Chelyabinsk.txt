@@ -1,5 +1,5 @@
-owner = SIB
-controller = SIB
-add_core = SIB
+owner = TAR
+controller = TAR
+add_core = TAR
 trade_goods = iron
 life_rating = 35

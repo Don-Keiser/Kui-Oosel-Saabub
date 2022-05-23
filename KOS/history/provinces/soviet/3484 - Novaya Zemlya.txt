@@ -1,6 +1,8 @@
-owner = NNT
-controller = NNT
+owner = FIN
+controller = FIN
 add_core = NNT
 trade_goods = fish
 terrain = montane_tundra
 life_rating = 10
+colonial = 2
+

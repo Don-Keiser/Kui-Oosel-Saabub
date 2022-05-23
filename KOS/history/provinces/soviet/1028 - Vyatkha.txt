@@ -1,5 +1,5 @@
-owner = URA
-controller = URA
-add_core = URA
+owner = TAR
+controller = TAR
+add_core = TAR
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = VAI
-controller = VAI
-add_core = VAI
+owner = LIV
+controller = LIV
+add_core = LIV
 trade_goods = grain
 life_rating = 40
 terrain = vilnius
