@@ -1,8 +1,7 @@
-owner = SCN
-controller = SCN
-add_core = HND
-add_core = KAR
+owner = SYV
+controller = SYV
+add_core = SYV
+add_core = OOS
 trade_goods = fish
-life_rating = 30
-colonial = 2
+life_rating = 32
 terrain = small_island

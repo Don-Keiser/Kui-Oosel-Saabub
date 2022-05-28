@@ -1,6 +1,6 @@
-owner = ABK
-controller = ABK
-add_core = ABK
+owner = BSP
+controller = BSP
+add_core = BSP
 trade_goods = fish
 life_rating = 35
 naval_base = 1

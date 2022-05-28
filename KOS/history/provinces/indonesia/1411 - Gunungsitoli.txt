@@ -1,5 +1,7 @@
-add_core = SAK
+owner = SYV
+controller = SYV
+add_core = SYV
+add_core = OOS
 trade_goods = fish
-life_rating = 10
+life_rating = 35
 terrain = jungle_hills
-colonial = 1

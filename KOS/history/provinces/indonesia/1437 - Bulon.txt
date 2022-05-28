@@ -1,5 +1,6 @@
-owner = OOS
-controller = OOS
+owner = AKV
+controller = AKV
+add_core = AKV
 add_core = OOS
 trade_goods = sulphur
 life_rating = 34

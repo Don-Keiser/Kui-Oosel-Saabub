@@ -7569,7 +7569,7 @@ ooselid = {
 		"kuhta Korkeatalo" "kuhta Maatalatalo" "kuhta Cooviilehmbed"
 		}
 	}
-	loviikind = {
+	loviid = {
 		color = { 194 90 102 }
 		first_names = { Manoosel Manfred Isekas Nemo Elossa Ketserii Kadek Sugelitsia Alesiia Apolas Kahrika Lehtrikka Liisa Leevi Liivli 
 		Saarepoka Avaari Aliisa Eleonoora Kselesh Uhelania Ksenisaa Sisallia Viisottana Tatsakaali Ihaniia Orndominee Satomii Vinaah Kahtkin 

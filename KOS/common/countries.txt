@@ -985,6 +985,10 @@ RAE		= "countries/Raetia.txt"
 AMF		= "countries/Amalfi.txt"
 VRN		= "countries/Verona.txt"
 KLV		= "countries/Kalavria.txt"
+BSP		= "countries/Bosporan Kingdom.txt"
+AKV		= "countries/Akaevid Kingdom.txt"
+LOV		= "countries/Lovikindlus.txt"
+SYV		= "countries/Syvahusko.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

@@ -1,6 +1,6 @@
-owner = PTK
-controller = PTK
-add_core = PTK
+owner = OOS
+controller = OOS
+add_core = OOS
 trade_goods = coffee
 terrain = jungle
-life_rating = 30
+life_rating = 35

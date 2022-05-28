@@ -1,5 +1,6 @@
-owner = SOO
-controller = SOO
+owner = ETL
+controller = ETL
+add_core = ETL
 add_core = SOO
 trade_goods = coal
 life_rating = 35

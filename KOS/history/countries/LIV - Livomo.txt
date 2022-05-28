@@ -1,12 +1,11 @@
 capital = 354
 primary_culture = livonian
 religion = protestant
-government = democracy
+government = colonial_company
 plurality = 28.0
 nationalvalue = nv_liberty
 literacy = 0.6
 civilized = yes
-prestige = 5
 
 # Political reforms
 slavery = no_slavery

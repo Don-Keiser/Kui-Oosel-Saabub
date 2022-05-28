@@ -1,5 +1,6 @@
 owner = INK
 controller = INK
 add_core = INK
+add_core = OOS
 trade_goods = coffee
 life_rating = 35

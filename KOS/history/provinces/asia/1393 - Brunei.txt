@@ -1,6 +1,6 @@
-owner = BRU
-controller = BRU
-add_core = BRU
+owner = OOS
+controller = OOS
+add_core = OOS
 trade_goods = fish
-life_rating = 31
+life_rating = 38
 terrain = jungle

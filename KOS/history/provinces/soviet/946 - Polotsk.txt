@@ -1,5 +1,6 @@
-owner = OHI
-controller = OHI
+owner = MOO
+controller = MOO
+add_core = MOO
 add_core = OHI
 trade_goods = wool
 life_rating = 35

@@ -1601,7 +1601,6 @@ country_event = {
                 province_id = 262
                 province_id = 263
                 province_id = 264
-                province_id = 265
             }
             NOT = { has_province_modifier = enclosures }
         }
@@ -1628,7 +1627,6 @@ country_event = {
                     province_id = 262
                     province_id = 263
                     province_id = 264
-                    province_id = 265
                 }
             }
         add_province_modifier = { name = enclosures duration = -1 }

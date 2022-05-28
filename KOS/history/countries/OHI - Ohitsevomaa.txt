@@ -2,12 +2,11 @@ capital = 718
 primary_culture = ohitsemid
 culture = west_krevin
 religion = protestant
-government = absolute_monarchy
+government = march
 plurality = 0.6
 nationalvalue = nv_order
 literacy = 0.6
 civilized = yes
-prestige = 5
 
 # Political reforms
 slavery = no_slavery

@@ -869,3 +869,27 @@ vassal = {
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
+
+#Etelköz
+substate = {
+    first = ETL
+    second = VGL
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Estonia
+substate = {
+    first = EST
+    second = LIV
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Moodimaa
+vassal = {
+    first = MOO
+    second = OHI
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}

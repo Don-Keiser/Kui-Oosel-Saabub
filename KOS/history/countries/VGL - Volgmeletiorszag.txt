@@ -1,12 +1,11 @@
 capital = 955
 primary_culture = volgmyi
 religion = catholic
-government = democracy
+government = colonial_company
 plurality = 62.0
 nationalvalue = nv_liberty
 literacy = 0.22
 civilized = yes
-prestige = 4
 
 # Technologies
 post_napoleonic_thought = 1

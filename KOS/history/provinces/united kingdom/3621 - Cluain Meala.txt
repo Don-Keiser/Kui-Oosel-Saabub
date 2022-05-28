@@ -1,5 +1,6 @@
-owner = BLG
-controller = BLG
-add_core = BLG
+owner = OOS
+controller = OOS
+add_core = OOS
 trade_goods = coal
-life_rating = 35
+life_rating = 32
+terrain = jungle_hills

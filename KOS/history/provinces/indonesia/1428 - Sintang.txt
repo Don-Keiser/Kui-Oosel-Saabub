@@ -1,6 +1,6 @@
-owner = STG
-controller = STG
-add_core = STG
+owner = OOS
+controller = OOS
+add_core = OOS
 trade_goods = fruit
-life_rating = 31
+life_rating = 35
 terrain = jungle_farmland

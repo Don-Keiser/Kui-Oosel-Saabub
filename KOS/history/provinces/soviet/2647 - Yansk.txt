@@ -1,7 +1,7 @@
-owner = POR
-controller = POR
-add_core = TMR
+owner = LOV
+controller = LOV
+add_core = LOV
+add_core = OOS
 trade_goods = fish
 life_rating = 35
-colonial = 2
 terrain = hills

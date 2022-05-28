@@ -1,5 +1,7 @@
-owner = BLG
-controller = BLG
-add_core = BLG
-trade_goods = fruit
+owner = AKV
+controller = AKV
+add_core = AKV
+add_core = OOS
+trade_goods = cotton
 life_rating = 35
+terrain = jungle_farmland

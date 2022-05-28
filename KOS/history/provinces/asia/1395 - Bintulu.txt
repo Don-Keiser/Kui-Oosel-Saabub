@@ -1,12 +1,6 @@
-owner = BRU
-controller = BRU
-add_core = BRU
+owner = OOS
+controller = OOS
+add_core = OOS
 trade_goods = grain
-life_rating = 31
+life_rating = 35
 terrain = jungle_hills
-1861.1.1 = {
-    owner = SWK
-    controller = SWK
-    add_core = SWK
-    remove_core = BRU
-}

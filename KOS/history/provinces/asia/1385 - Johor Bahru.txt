@@ -1,6 +1,7 @@
-owner = JOH
-controller = JOH
-add_core = JOH
+owner = LOV
+controller = LOV
+add_core = LOV
+add_core = OOS
 trade_goods = tropical_wood
 life_rating = 37
 terrain = jungle_farmland

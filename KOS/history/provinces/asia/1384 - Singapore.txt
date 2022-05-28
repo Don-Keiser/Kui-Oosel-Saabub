@@ -1,8 +1,9 @@
-owner = JOH
-controller = JOH
-add_core = JOH
-add_core = SGP
+owner = LOV
+controller = LOV
+add_core = LOV
+add_core = OOS
 trade_goods = tropical_wood
-life_rating = 35
+life_rating = 42
 terrain = singapore
-naval_base = 1
+fort = 1
+naval_base = 2

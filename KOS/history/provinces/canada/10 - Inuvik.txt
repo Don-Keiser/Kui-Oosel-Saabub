@@ -1,7 +1,6 @@
-owner = LAN
-controller = LAN
-add_core = LAN
-add_core = PTK
+owner = OOS
+controller = OOS
+add_core = OOS
 trade_goods = precious_metal
-life_rating = 32
+life_rating = 40
 terrain = jungle_hills

@@ -1,5 +1,6 @@
 owner = GYO
 controller = GYO
 add_core = GYO
+add_core = OOS
 trade_goods = precious_goods
 life_rating = 40
