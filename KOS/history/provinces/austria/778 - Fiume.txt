@@ -1,7 +1,5 @@
-owner = HUN
-controller = HUN
+owner = HIS
+controller = HIS
 add_core = HIS
-add_core = FIU
-add_core = HUN
 trade_goods = fruit
 life_rating = 35

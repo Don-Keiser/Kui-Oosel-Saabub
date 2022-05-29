@@ -169,7 +169,7 @@
 	
 	farmers = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 5350
     }
 
@@ -226,37 +226,37 @@
 1103 = {
     aristocrats = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 175
     }
 
     clergymen = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 150
     }
 
     artisans = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 410
     }
 
     soldiers = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 135
     }
 
     farmers = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 6000
     }
 	
 	farmers = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 720
     }
 	
@@ -325,37 +325,37 @@
 3385 = {
     aristocrats = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 30
     }
 
     clergymen = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 30
     }
 
     artisans = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 80
     }
 
     soldiers = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 30
     }
 
     farmers = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 735
     }
 	
 	farmers = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 7000
     }
 	
@@ -477,37 +477,37 @@
 
     aristocrats = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 20
     }
 
     clergymen = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 20
     }
 
     artisans = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 50
     }
 
     soldiers = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 10
     }
 	
 	farmers = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 4800
     }
 
     farmers = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 300
     }
 }
@@ -709,37 +709,37 @@
 3316 = {
     aristocrats = {
         culture = georgian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 25
     }
 
     clergymen = {
         culture = georgian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 25
     }
 
     artisans = {
         culture = georgian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 70
     }
 
     soldiers = {
         culture = georgian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 150
     }
 
     farmers = {
         culture = georgian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1000
     }
 	
 	farmers = {
         culture = dagestani
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1000
     }
 

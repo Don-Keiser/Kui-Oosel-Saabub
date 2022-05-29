@@ -4,55 +4,55 @@
 1954 = {
     aristocrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     clergymen = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     bureaucrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     artisans = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     soldiers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     clergymen = {
         culture = kreol
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = kreol
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = kreol
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = kreol
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 

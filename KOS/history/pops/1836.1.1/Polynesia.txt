@@ -4,67 +4,67 @@
 658 = {
     aristocrats = {
         culture = polynesian
-        religion = protestant
+        religion = african_catholic
         size = 225
     }
 
     bureaucrats = {
         culture = polynesian
-        religion = protestant
+        religion = african_catholic
         size = 75
     }
 
     officers = {
         culture = polynesian
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 
     clergymen = {
         culture = polynesian
-        religion = protestant
+        religion = african_catholic
         size = 200
     }
 
     artisans = {
         culture = polynesian
-        religion = protestant
+        religion = african_catholic
         size = 525
     }
 
     soldiers = {
         culture = polynesian
-        religion = protestant
+        religion = african_catholic
         size = 587
     }
 
     farmers = {
         culture = polynesian
-        religion = protestant
+        religion = african_catholic
         size = 9412
     }
 
     clergymen = {
         culture = polynesian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = polynesian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = polynesian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = polynesian
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
@@ -94,25 +94,25 @@
 
     clergymen = {
         culture = yankee
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     artisans = {
         culture = yankee
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     soldiers = {
         culture = yankee
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     farmers = {
         culture = yankee
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 }
@@ -554,7 +554,7 @@
 
     farmers = {
         culture = polynesian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 }

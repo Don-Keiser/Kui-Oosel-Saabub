@@ -46,43 +46,43 @@
 
     aristocrats = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 120
     }
 
     officers = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 120
     }
 
     soldiers = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 150
     }
 
     clergymen = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 750
     }
 
     farmers = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 10150
     }
 
     slaves = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1000
     }
 }
@@ -120,25 +120,25 @@
 
     soldiers = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 150
     }
 
     clergymen = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 110
     }
 
     artisans = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 400
     }
 
     farmers = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 8425
     }
 }
@@ -176,25 +176,25 @@
 
     soldiers = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 150
     }
 
     clergymen = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 110
     }
 
     artisans = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 400
     }
 
     farmers = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 7425
     }
 
@@ -215,25 +215,25 @@
 
     soldiers = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 50
     }
 
     clergymen = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 75
     }
 
     artisans = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 200
     }
 
     farmers = {
         culture = cypriot
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1425
     }
 

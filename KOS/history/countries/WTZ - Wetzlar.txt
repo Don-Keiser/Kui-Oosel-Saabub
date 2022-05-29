@@ -51,7 +51,7 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = protestant_country
+set_country_flag = african_roman_catholic_country
 
 # Technologies
 post_napoleonic_thought = 1

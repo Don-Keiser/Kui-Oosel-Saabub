@@ -5,43 +5,43 @@
 
     aristocrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 76
     }
 
     bureaucrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 5
     }
 
     soldiers = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 25
     }
 
     artisans = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 70
     }
 
     clergymen = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 20
     }
 
     farmers = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 2080
     }
 
     slaves = {
         culture = afro_dutch
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 }
@@ -50,25 +50,25 @@
 
     aristocrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 1
     }
 
     clergymen = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 25
     }
 
     farmers = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 400
     }
 
     slaves = {
         culture = afro_dutch
-        religion = catholic
+        religion = roman_catholic
         size = 175
     }
 }
@@ -77,31 +77,31 @@
 
     aristocrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 10
     }
 
     clergymen = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 25
     }
 
     artisans = {
         culture = afro_dutch
-        religion = protestant
+        religion = african_catholic
         size = 55
     }
 
     farmers = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 400
     }
 
     slaves = {
         culture = afro_dutch
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 

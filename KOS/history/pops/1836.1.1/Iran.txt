@@ -89,7 +89,7 @@
 	
 	soldiers = {
 		culture = urmian
-		religion = orthodox
+		religion = thessalonian_orthodox
 		size = 3000
 	}
 
@@ -2045,7 +2045,7 @@
 	
 	slaves = {
 		culture = georgian
-		religion = orthodox
+		religion = thessalonian_orthodox
 		size = 2000
 	}
 

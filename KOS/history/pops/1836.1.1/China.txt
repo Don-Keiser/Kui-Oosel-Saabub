@@ -625,13 +625,13 @@
 
 	soldiers = {
 		culture = beifaren
-		religion = protestant
+		religion = african_catholic
 		size = 20450
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = protestant
+		religion = african_catholic
 		size = 100900
 	}
 	
@@ -2229,38 +2229,38 @@
 
 	aristocrats = {
 		culture = hakka
-		religion = protestant
+		religion = african_catholic
 		size = 725
 	}
 
 	clergymen = {
 		culture = hakka
-		religion = protestant
+		religion = african_catholic
 		size = 375
 	}
 
 	artisans = {
 		culture = hakka
-		religion = protestant
+		religion = african_catholic
 		size = 1850
 	}
 
 	soldiers = {
 		culture = hakka
-		religion = protestant
+		religion = african_catholic
 		size = 375
 	}
 	
 	serfs = {
 		culture = hakka
-		religion = protestant
+		religion = african_catholic
 		size = 22375
 	}
 
 
 	farmers = {
 		culture = hakka
-		religion = protestant
+		religion = african_catholic
 		size = 33675
 	}
 
@@ -2428,7 +2428,7 @@
 	
 	serfs = {
 		culture = yue
-		religion = protestant
+		religion = african_catholic
 		size = 9000
 	}
 	
@@ -2600,13 +2600,13 @@
 	
 	farmers = {
 		culture = hakka
-		religion = protestant
+		religion = african_catholic
 		size = 1375
 	}
 	
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = african_catholic
 		size = 150
 	}
 	
@@ -2875,73 +2875,73 @@
 
 	aristocrats = {
 		culture = lusitanian
-		religion = catholic
+		religion = roman_catholic
 		size = 100
 	}
 
 	officers = {
 		culture = lusitanian
-		religion = catholic
+		religion = roman_catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = lusitanian
-		religion = catholic
+		religion = roman_catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = lusitanian
-		religion = catholic
+		religion = roman_catholic
 		size = 100
 	}
 	
 	soldiers = {
 		culture = lusitanian
-		religion = catholic
+		religion = roman_catholic
 		size = 100
 	}
 	
 	farmers = {
 		culture = lusitanian
-		religion = catholic
+		religion = roman_catholic
 		size = 110
 	}
 
 	aristocrats = {
 		culture = yue
-		religion = catholic
+		religion = roman_catholic
 		size = 100
 	}
 	
 	officers = {
 		culture = yue
-		religion = catholic
+		religion = roman_catholic
 		size = 100
 	}
 	
 	clergymen = {
 		culture = yue
-		religion = catholic
+		religion = roman_catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = yue
-		religion = catholic
+		religion = roman_catholic
 		size = 435
 	}
 
 	soldiers = {
 		culture = yue
-		religion = catholic
+		religion = roman_catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = yue
-		religion = catholic
+		religion = roman_catholic
 		size = 250
 	}
 	
@@ -3242,7 +3242,7 @@
 	
 	farmers = {
 		culture = zhuang
-		religion = protestant
+		religion = african_catholic
 		size = 10000
 	}
 	
@@ -3296,7 +3296,7 @@
 	
 	farmers = {
 		culture = yue
-		religion = protestant
+		religion = african_catholic
 		size = 1000
 	}
 
@@ -3332,7 +3332,7 @@
 	
 	farmers = {
 		culture = miao
-		religion = protestant
+		religion = african_catholic
 		size = 1000
 	}
 }
@@ -12674,7 +12674,7 @@
 	
 	farmers = {
 		culture = beifaren
-		religion = protestant
+		religion = african_catholic
 		size = 500
 	}
 	

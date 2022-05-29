@@ -4,103 +4,103 @@
 806 = {
     aristocrats = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 2450
     }
 
     clergymen = {
         culture = albanian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 325
     }
 
     artisans = {
         culture = albanian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 2000
     }
 
     soldiers = {
         culture = albanian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 3000
     }
 
     farmers = {
         culture = albanian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 22225
     }
 
     aristocrats = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 125
     }
 
     officers = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 110
     }
 
     soldiers = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 200
     }
 
     clergymen = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 125
     }
 
     artisans = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 2100
     }
 
     farmers = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 56350
     }
 
     aristocrats = {
         culture = paeonian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 110
     }
 
     officers = {
         culture = paeonian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 110
     }
 
     soldiers = {
         culture = paeonian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 200
     }
 
     clergymen = {
         culture = paeonian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 110
     }
 
     artisans = {
         culture = paeonian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1200
     }
 
     farmers = {
         culture = paeonian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 15000
     }
 }
@@ -110,91 +110,91 @@
 807 = {
     soldiers = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1200
     }
 
     clergymen = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 110
     }
 
     artisans = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 425
     }
 
     farmers = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 31000
     }
 
     soldiers = {
         culture = paeonian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 400
     }
 
     clergymen = {
         culture = paeonian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 300
     }
 
     artisans = {
         culture = paeonian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 500
     }
 
     farmers = {
         culture = paeonian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 13000
     }
 	
     aristocrats = {
         culture = thracian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1500
     }
 
     bureaucrats = {
         culture = thracian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 225
     }
 
     officers = {
         culture = thracian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 175
     }
 
     clergymen = {
         culture = thracian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
         culture = thracian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1300
     }
 
     soldiers = {
         culture = thracian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1100
     }
 
     farmers = {
         culture = thracian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1975
     }
 }
@@ -203,49 +203,49 @@
 1780 = {
     clergymen = {
         culture = albanian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 125
     }
 
     artisans = {
         culture = albanian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 400
     }
 
     soldiers = {
         culture = albanian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 2100
     }
 
     farmers = {
         culture = albanian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 12062
     }
 
     soldiers = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 175
     }
 
     clergymen = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 110
     }
 
     artisans = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 250
     }
 
     farmers = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 14000
     }
 
@@ -256,55 +256,55 @@
 
     soldiers = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 500
     }
 
     clergymen = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 50
     }
 
     artisans = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 500
     }
 
     farmers = {
         culture = makedones
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 17500
     }
 
     aristocrats = {
         culture = thracian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     clergymen = {
         culture = thracian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = thracian
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = thracian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = thracian
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 }

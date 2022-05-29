@@ -60,7 +60,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = orthodox_country
+set_country_flag = thessalian_orthodox_country
 
 ruling_party = KAZ_conservative
 upper_house = {

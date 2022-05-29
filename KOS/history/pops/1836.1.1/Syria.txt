@@ -711,19 +711,19 @@
 
     clergymen = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 75
     }
 
     artisans = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 400
     }
 
     farmers = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1575
     }
 }
@@ -779,19 +779,19 @@
 
     clergymen = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 25
     }
 
     artisans = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 100
     }
 
     farmers = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1875
     }
 }
@@ -829,19 +829,19 @@
 
     clergymen = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 75
     }
 
     artisans = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 200
     }
 
     farmers = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 3000
     }
 

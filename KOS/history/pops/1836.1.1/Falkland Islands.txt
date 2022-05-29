@@ -16,7 +16,7 @@
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 }
@@ -30,7 +30,7 @@
 
     farmers = {
         culture = yankee
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 }

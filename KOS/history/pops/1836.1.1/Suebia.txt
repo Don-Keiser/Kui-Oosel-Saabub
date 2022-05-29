@@ -2,43 +2,43 @@
 474 = {
     aristocrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 2200
     }
 
     officers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     bureaucrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 650
     }
 
     clergymen = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 	
     artisans = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 720
     }
 
     soldiers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     farmers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 140350
     }
 }
@@ -46,31 +46,31 @@
 476 = {
     aristocrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     clergymen = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     artisans = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 66000
     }
 }
@@ -78,31 +78,31 @@
 3559 = {
     aristocrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 420
     }
 
     clergymen = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 3200
     }
 
     soldiers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     farmers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 23200
 	}
 }

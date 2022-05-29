@@ -1,20 +1,20 @@
-owner = SZA
-controller = SZA
-add_core = SZA
+owner = HUN
+controller = HUN
+add_core = HUN
 trade_goods = grain
 life_rating = 35
 terrain = vienna
 fort = 1
-#state_building = {
-#    level = 1
-#    building = regular_clothes_factory
-#    upgrade = yes
-#}
-#state_building = {
-#    level = 1
-#    building = small_arms_factory
-#    upgrade = yes
-#}
+state_building = {
+    level = 1
+    building = regular_clothes_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = small_arms_factory
+    upgrade = yes
+}
 1861.1.1 = { railroad = 2 }
 1861.1.1 = {
     state_building = {

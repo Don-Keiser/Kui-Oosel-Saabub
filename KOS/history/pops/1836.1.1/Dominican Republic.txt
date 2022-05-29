@@ -4,66 +4,66 @@
 2214 = {
     aristocrats = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     bureaucrats = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     soldiers = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     farmers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 13375
     }
 
     clergymen = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 9350
     }
     farmers = {
         culture = afro_american
-        religion = catholic
+        religion = roman_catholic
         size = 9350
     }
 }
@@ -71,55 +71,55 @@
 2216 = {
     aristocrats = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     clergymen = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     soldiers = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 6175
     }
 
     clergymen = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     soldiers = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 4575
     }
 
@@ -127,55 +127,55 @@
 3403 = {
     aristocrats = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     clergymen = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     soldiers = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 6175
     }
 
     clergymen = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     soldiers = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 4575
     }
 

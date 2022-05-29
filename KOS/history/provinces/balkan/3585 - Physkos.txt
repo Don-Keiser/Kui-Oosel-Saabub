@@ -1,5 +1,5 @@
-owner = PHR
-controller = PHR
-add_core = PHR
+owner = GRE
+controller = GRE
+add_core = GRE
 trade_goods = fish
 life_rating = 35

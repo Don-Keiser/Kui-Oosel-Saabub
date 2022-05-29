@@ -4,31 +4,31 @@
 1182 = {
     bureaucrats = {
         culture = regymagyar
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     clergymen = {
         culture = regymagyar
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     artisans = {
         culture = regymagyar
-        religion = catholic
+        religion = roman_catholic
         size = 35
     }
 
     soldiers = {
         culture = regymagyar
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     farmers = {
         culture = regymagyar
-        religion = catholic
+        religion = roman_catholic
         size = 665
     }
 
@@ -72,7 +72,7 @@
 	
 	bureaucrats = {
         culture = regymagyar
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
@@ -104,25 +104,25 @@
 2610 = {
     clergymen = {
         culture = regymagyar
-        religion = catholic
+        religion = roman_catholic
         size = 30
     }
 
     artisans = {
         culture = regymagyar
-        religion = catholic
+        religion = roman_catholic
         size = 45
     }
 
     soldiers = {
         culture = regymagyar
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = regymagyar
-        religion = catholic
+        religion = roman_catholic
         size = 1150
     }
 
@@ -422,7 +422,7 @@
 
     farmers = {
         culture = kazak
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 500
     }
 }

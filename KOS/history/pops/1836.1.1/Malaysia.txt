@@ -11,7 +11,7 @@
 
     labourers = {
         culture = min
-        religion = protestant
+        religion = african_catholic
         size = 900
     }
 
@@ -29,7 +29,7 @@
 
     clergymen = {
         culture = yue
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
@@ -41,7 +41,7 @@
 
     artisans = {
         culture = yue
-        religion = protestant
+        religion = african_catholic
         size = 1450
     }
 
@@ -60,7 +60,7 @@
 
     artisans = {
         culture = han_chinese
-        religion = protestant
+        religion = african_catholic
         size = 500
     }
 
@@ -409,19 +409,19 @@
 
     farmers = {
         culture = dayak
-        religion = protestant
+        religion = african_catholic
         size = 125
     }
 
     artisans = {
         culture = dayak
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 
     clergymen = {
         culture = dayak
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
@@ -433,13 +433,13 @@
 
     farmers = {
         culture = yue
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     artisans = {
         culture = yue
-        religion = protestant
+        religion = african_catholic
         size = 200
     }
 
@@ -481,19 +481,19 @@
 
     farmers = {
         culture = hakka
-        religion = protestant
+        religion = african_catholic
         size = 350
     }
 
     artisans = {
         culture = hakka
-        religion = protestant
+        religion = african_catholic
         size = 175
     }
 
     clergymen = {
         culture = hakka
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 }
@@ -567,37 +567,37 @@
 
     clergymen = {
         culture = dayak
-        religion = protestant
+        religion = african_catholic
         size = 75
     }
 
     farmers = {
         culture = dayak
-        religion = protestant
+        religion = african_catholic
         size = 500
     }
 
     artisans = {
         culture = dayak
-        religion = protestant
+        religion = african_catholic
         size = 150
     }
 
     farmers = {
         culture = hakka
-        religion = protestant
+        religion = african_catholic
         size = 575
     }
 
     artisans = {
         culture = hakka
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     clergymen = {
         culture = hakka
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 

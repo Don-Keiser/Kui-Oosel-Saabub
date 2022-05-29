@@ -28,61 +28,61 @@
 
     aristocrats = {
         culture = french
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     bureaucrats = {
         culture = french
-        religion = catholic
+        religion = roman_catholic
         size = 30
     }
 
     artisans = {
         culture = french
-        religion = catholic
+        religion = roman_catholic
         size = 180
     }
 
     clergymen = {
         culture = french
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     soldiers = {
         culture = french
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     farmers = {
         culture = french
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = kreol
-        religion = protestant
+        religion = african_catholic
         size = 125
     }
 
     artisans = {
         culture = kreol
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     soldiers = {
         culture = kreol
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     farmers = {
         culture = kreol
-        religion = catholic
+        religion = roman_catholic
         size = 22375
     }
 }
@@ -90,7 +90,7 @@
 2128 = {
     farmers = {
         culture = kreol
-        religion = catholic
+        religion = roman_catholic
         size = 175
     }
 

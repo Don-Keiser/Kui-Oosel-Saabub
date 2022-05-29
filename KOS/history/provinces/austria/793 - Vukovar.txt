@@ -1,5 +1,5 @@
-owner = HUN
-controller = HUN
-add_core = HUN
+owner = TRV
+controller = TRV
+add_core = TRV
 trade_goods = silk
 life_rating = 35

@@ -4,19 +4,19 @@
 2517 = {
     bureaucrats = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 1
     }
 
     clergymen = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 4
     }
 
     soldiers = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
@@ -42,7 +42,7 @@
 2521 = {
     clergymen = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 2
     }
 
@@ -167,7 +167,7 @@
 1654 = {
     farmers = {
         culture = yankee
-        religion = protestant
+        religion = african_catholic
         size = 7
     }
 }

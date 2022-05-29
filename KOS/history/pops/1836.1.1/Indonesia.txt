@@ -106,25 +106,25 @@
 
     bureaucrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 10
     }
 
     clergymen = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 20
     }
 
     artisans = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 20
     }
 
     soldiers = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 1000
     }
 }
@@ -933,13 +933,13 @@
 1408 = {
     aristocrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 100
     }
 
     bureaucrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 100
     }
 
@@ -1211,25 +1211,25 @@
 
     bureaucrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 10
     }
 
     clergymen = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 20
     }
 
     artisans = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 20
     }
 
     soldiers = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 50
     }
 }
@@ -1337,31 +1337,31 @@
 
     aristocrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 750
     }
 
     bureaucrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 1750
     }
 
     clergymen = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 75
     }
 
     artisans = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 1075
     }
 
     soldiers = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 2550
     }
 
@@ -2317,13 +2317,13 @@
 1445 = {
     aristocrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 50
     }
 
     bureaucrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 20
     }
 
@@ -2389,25 +2389,25 @@
 
     bureaucrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 10
     }
 
     artisans = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 15
     }
 
     clergymen = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 25
     }
 
     soldiers = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 50
     }
 }
@@ -2416,31 +2416,31 @@
 2647 = {
     aristocrats = {
         culture = melanesian
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     clergymen = {
         culture = melanesian
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     artisans = {
         culture = melanesian
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     soldiers = {
         culture = melanesian
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = melanesian
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
@@ -2476,19 +2476,19 @@
 
     bureaucrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     artisans = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     clergymen = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 }
@@ -2498,25 +2498,25 @@
 1446 = {
     clergymen = {
         culture = moluccan
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = moluccan
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     soldiers = {
         culture = moluccan
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     farmers = {
         culture = moluccan
-        religion = catholic
+        religion = roman_catholic
         size = 710
     }
 
@@ -2552,25 +2552,25 @@
 
     clergymen = {
         culture = melanesian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = melanesian
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     soldiers = {
         culture = melanesian
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = melanesian
-        religion = catholic
+        religion = roman_catholic
         size = 1175
     }
 
@@ -2606,25 +2606,25 @@
 
     bureaucrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     artisans = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     clergymen = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     soldiers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 

@@ -1,7 +1,7 @@
-owner = HUN
-controller = HUN
-add_core = HUN
-add_core = ROM
+owner = SZA
+controller = SZA
+add_core = SZA
+add_core = BLG
 trade_goods = coal
 life_rating = 35
 state_building = {

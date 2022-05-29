@@ -3,25 +3,25 @@
 317 = {
     aristocrats = {
         culture = finnish
-        religion = protestant
+        religion = african_catholic
         size = 150
     }
 
     bureaucrats = {
         culture = finnish
-        religion = protestant
+        religion = african_catholic
         size = 300
     }
 
     officers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 175
     }
 
@@ -33,7 +33,7 @@
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
@@ -45,13 +45,13 @@
 	
 	farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 12125
     }
 	
 	farmers = {
         culture = finnish
-        religion = protestant
+        religion = african_catholic
         size = 2125
     }
 }
@@ -89,7 +89,7 @@
 	
 	farmers = {
         culture = finnish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 }
@@ -197,7 +197,7 @@
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
@@ -256,67 +256,67 @@
 322 = {
     aristocrats = {
         culture = estonian
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     bureaucrats = {
         culture = estonian
-        religion = protestant
+        religion = african_catholic
         size = 750
     }
 
     officers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 500
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = estonian
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 3000
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 1000
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 20250
     }
 	
 	farmers = {
         culture = estonian
-        religion = protestant
+        religion = african_catholic
         size = 5250
     }
 }
@@ -324,7 +324,7 @@
 323 = {
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
@@ -354,7 +354,7 @@
 	
 	farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 12750
     }
 }
@@ -362,37 +362,37 @@
 324 = {
     aristocrats = {
         culture = finnish
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 125
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 1250
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 16525
     }
 	
 	farmers = {
         culture = finnish
-        religion = protestant
+        religion = african_catholic
         size = 3525
     }
 }
@@ -400,31 +400,31 @@
 325 = {
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 3000
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 50750
     }
 }
@@ -432,43 +432,43 @@
 326 = {
     aristocrats = {
         culture = estonian
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 2050
     }
 	
 	artisans = {
         culture = estonian
-        religion = protestant
+        religion = african_catholic
         size = 750
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 44750
     }
 	
 	farmers = {
         culture = estonian
-        religion = protestant
+        religion = african_catholic
         size = 4750
     }
 }
@@ -476,31 +476,31 @@
 327 = {
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 125
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 1500
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 28975
     }
 }
@@ -508,43 +508,43 @@
 328 = {
     aristocrats = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 400
     }
 
     clergymen = {
         culture = norwegian
-        religion = protestant
+        religion = african_catholic
         size = 300
     }
 
     artisans = {
         culture = norwegian
-        religion = protestant
+        religion = african_catholic
         size = 2500
     }
 
     soldiers = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = norwegian
-        religion = protestant
+        religion = african_catholic
         size = 19300
     }
 	
 	farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 15300
     }
 	
 	farmers = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 9300
     }
 
@@ -554,67 +554,67 @@
 329 = {
     aristocrats = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     bureaucrats = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 650
     }
 
     officers = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     clergymen = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 	
  craftsmen = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 4200
     }
 	
     clerks = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 300
     }
 
     artisans = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 5000
     }
 
     soldiers = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 22750
     }
 	
 	farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 8750
     }
 	
 	farmers = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 3750
     }
 }
@@ -622,37 +622,37 @@
 330 = {
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 500
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 2500
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 43750
     }
 	
 	farmers = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 7750
     }
 }
@@ -660,31 +660,31 @@
 331 = {
     aristocrats = {
         culture = korsian
-        religion = protestant
+        religion = african_catholic
         size = 300
     }
 
     clergymen = {
         culture = korsian
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     artisans = {
         culture = korsian
-        religion = protestant
+        religion = african_catholic
         size = 1700
     }
 
     soldiers = {
         culture = korsian
-        religion = protestant
+        religion = african_catholic
         size = 2500
     }
 
     farmers = {
         culture = korsian
-        religion = protestant
+        religion = african_catholic
         size = 12050
     }
 }
@@ -692,31 +692,31 @@
 332 = {
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 300
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 225
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 2500
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 41475
     }
 }
@@ -724,31 +724,31 @@
 333 = {
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 500
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 375
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 3500
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = african_catholic
         size = 63625
     }
 }
@@ -756,43 +756,43 @@
 334 = {
     aristocrats = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 750
     }
 
     bureaucrats = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 800
     }
 
     clergymen = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 375
     }
 
     artisans = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 3750
     }
 
     soldiers = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 60125
     }
 	
 	farmers = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 9125
     }
 }
@@ -800,37 +800,37 @@
 335 = {
     aristocrats = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 625
     }
 
     clergymen = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 375
     }
 
     artisans = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 3125
     }
 
     soldiers = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = skansk
-        religion = protestant
+        religion = african_catholic
         size = 52625
     }
 	
 	farmers = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 8625
     }
 
@@ -840,31 +840,31 @@
 
     aristocrats = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 20
     }
 
     clergymen = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     artisans = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     farmers = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 500
     }
 
     slaves = {
         culture = afro_caribbean
-        religion = protestant
+        religion = african_catholic
         size = 242
     }
 }

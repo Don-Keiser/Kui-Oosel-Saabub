@@ -60,7 +60,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 
-set_country_flag = catholic_country
+set_country_flag = roman_catholic_country
 
 govt_flag = {
     government = hms_government

@@ -4,49 +4,49 @@
 2348 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1625
     }
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     officers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 375
     }
 
     artisans = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15000
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 105825
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 }
@@ -54,31 +54,31 @@
 2349 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 275
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 175
     }
 
     artisans = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 5100
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 4000
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25550
     }
 }
@@ -86,20 +86,20 @@
 2350 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15700
     }
 }
@@ -107,19 +107,19 @@
 2351 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 19000
     }
 }
@@ -127,19 +127,19 @@
 2352 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 20700
     }
 }
@@ -148,14 +148,14 @@
 2353 = {
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
@@ -182,13 +182,13 @@
 2354 = {
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 2725
     }
 
@@ -215,19 +215,19 @@
 2355 = {
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1875
     }
 
@@ -256,43 +256,43 @@
 2356 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     officers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 35
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 225
     }
 
     artisans = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 45015
     }
 
@@ -310,7 +310,7 @@
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 }
@@ -318,31 +318,31 @@
 2357 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 2500
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = roman_catholic
         size = 1825
     }
 }
@@ -350,25 +350,25 @@
 2358 = {
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1875
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = roman_catholic
         size = 1825
     }
 
@@ -394,19 +394,19 @@
 2359 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1900
     }
 }
@@ -414,25 +414,25 @@
 2360 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
@@ -450,7 +450,7 @@
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 36825
     }
 }
@@ -460,31 +460,31 @@
 2361 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10800
     }
 }
@@ -492,49 +492,49 @@
 2362 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 275
     }
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     officers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 175
     }
 
     artisans = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 14350
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 }
@@ -542,25 +542,25 @@
 2363 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 
@@ -595,25 +595,25 @@
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 2
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 23
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 }
@@ -645,19 +645,19 @@
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 }
@@ -666,19 +666,19 @@
 2366 = {
     aristocrats = {
         culture = guarani
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     clergymen = {
         culture = guarani
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     soldiers = {
         culture = guarani
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
@@ -690,31 +690,31 @@
 
     labourers = {
         culture = guarani
-        religion = catholic
+        religion = roman_catholic
         size = 1075
     }
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 2
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 23
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     labourers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
@@ -728,19 +728,19 @@
 2367 = {
     aristocrats = {
         culture = guarani
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     clergymen = {
         culture = guarani
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     soldiers = {
         culture = guarani
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
@@ -756,43 +756,43 @@
 1714 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     artisans = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 60
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 }
@@ -801,49 +801,49 @@
 2368 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     officers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1600
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 }
@@ -851,31 +851,31 @@
 2369 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 }
@@ -883,25 +883,25 @@
 2370 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 }
@@ -909,25 +909,25 @@
 2371 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 }
@@ -935,25 +935,25 @@
 2372 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 }
@@ -963,49 +963,49 @@
 2373 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     officers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 4225
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 }
@@ -1013,31 +1013,31 @@
 2374 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 }
@@ -1045,25 +1045,25 @@
 2375 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 }
@@ -1073,43 +1073,43 @@
 2376 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     officers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 3005
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 }
@@ -1117,19 +1117,19 @@
 2377 = {
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
@@ -1161,25 +1161,25 @@
 2378 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 }
@@ -1189,49 +1189,49 @@
 2379 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 425
     }
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 40
     }
 
     officers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 76300
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 7000
     }
 }
@@ -1239,25 +1239,25 @@
 2380 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 }
@@ -1265,25 +1265,25 @@
 2381 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 }
@@ -1291,25 +1291,25 @@
 2383 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 }
@@ -1318,19 +1318,19 @@
 2382 = {
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1825
     }
 
@@ -1362,19 +1362,19 @@
 2384 = {
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
@@ -1408,43 +1408,43 @@
 2385 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     officers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 }
@@ -1452,25 +1452,25 @@
 2386 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 }
@@ -1478,31 +1478,31 @@
 2387 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 }
@@ -1510,26 +1510,26 @@
 2388 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 60
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 }
@@ -1539,43 +1539,43 @@
 2389 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     bureaucrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     officers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 2060
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 }
@@ -1583,25 +1583,25 @@
 2390 = {
     aristocrats = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 }
@@ -1610,19 +1610,19 @@
 2391 = {
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
@@ -1708,19 +1708,19 @@
 2394 = {
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
@@ -1912,19 +1912,19 @@
 2554 = {
     clergymen = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     soldiers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = platinean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 

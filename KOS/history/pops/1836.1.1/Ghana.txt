@@ -86,13 +86,13 @@
 1909 = {
     aristocrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 50
     }
 
     bureaucrats = {
         culture = dutch
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 20
     }
 

@@ -776,7 +776,7 @@
 
     farmers = {
         culture = manipuri
-        religion = protestant
+        religion = african_catholic
         size = 9000
 	}
     clergymen = {

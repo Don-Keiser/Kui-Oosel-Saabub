@@ -40,7 +40,7 @@ border_policy = open_borders
 centralization = totalitarianism
 colonial_policy = no_colonies
 
-set_country_flag = catholic_country
+set_country_flag = roman_catholic_country
 
 ruling_party = PRG_reactionary
 upper_house = {

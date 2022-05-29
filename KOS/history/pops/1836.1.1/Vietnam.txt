@@ -100,19 +100,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 175
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 3500
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 20325
     }
 }
@@ -156,19 +156,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 5625
     }
 
@@ -242,19 +242,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 5625
     }
 
@@ -364,19 +364,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 6600
     }
 
@@ -438,19 +438,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 10400
     }
 }
@@ -490,19 +490,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 7550
     }
 }

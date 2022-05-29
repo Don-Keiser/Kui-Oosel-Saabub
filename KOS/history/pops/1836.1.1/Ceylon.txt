@@ -76,49 +76,49 @@
 
     clergymen = {
         culture = sinhala
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = sinhala
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = sinhala
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     labourers = {
         culture = sinhala
-        religion = catholic
+        religion = roman_catholic
         size = 6400
     }
 
     clergymen = {
         culture = sinhala
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 
     artisans = {
         culture = sinhala
-        religion = protestant
+        religion = african_catholic
         size = 750
     }
 
     soldiers = {
         culture = sinhala
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 
     labourers = {
         culture = sinhala
-        religion = protestant
+        religion = african_catholic
         size = 1200
     }
 
@@ -376,49 +376,49 @@
 
     clergymen = {
         culture = sinhala
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 
     artisans = {
         culture = sinhala
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     soldiers = {
         culture = sinhala
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 
     labourers = {
         culture = sinhala
-        religion = protestant
+        religion = african_catholic
         size = 700
     }
 
     clergymen = {
         culture = sinhala
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = sinhala
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = sinhala
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     labourers = {
         culture = sinhala
-        religion = catholic
+        religion = roman_catholic
         size = 1475
     }
 

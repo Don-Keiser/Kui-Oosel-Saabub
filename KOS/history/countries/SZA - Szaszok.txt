@@ -1,10 +1,7 @@
-capital = 619
+capital = 665
 primary_culture = kunsag
-culture = hungarian
-culture = slovak
-culture = slovene
 religion = catholic
-government = absolute_monarchy
+government = march
 plurality = 5.0
 nationalvalue = nv_tradition
 literacy = 0.23
@@ -63,7 +60,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = catholic_country
+set_country_flag = roman_catholic_country
 
 ruling_party = HUN_conservative
 upper_house = {

@@ -4,55 +4,61 @@
 
 christian = {
 
-    catholic = {
+    roman_catholic = {
         icon = 1
         color = { 0.8 0.8 0 }
     }
 
-    protestant = {
+    african_catholic = {
         icon = 2
         color = { 0 0 0.7 }
     }
 
-    reformed = {
+    alexandrian_orthodox = {
         icon = 19
         color = { 0.5 0.5 0.7 }
     }
+	
     anglican = {
         icon = 27
         color = { 1 0.1 1 }
     }
+	
     mormon = {
         icon = 15
         color = { 0 0 0.5 }
     }
 
-    orthodox = {
+    thessalonian_orthodox = {
         icon = 3
         color = { 0.7 0.5 0 }
 
     }
-
+	
     coptic = {
         icon = 4
         color = { 0 0.5 0.7 }
 
     }
+	
     taiping = {
         icon = 20
         color = { 0.5 0.5 0 }
 
     }
+	
     syriac = {
         icon = 21
         color = { 0 0.5 0.7 }
 
     }
+	
 	arianism = {
         icon = 30
         color = { 0.6 0.4 0 }
 
     }
+	
 	manichaean = {
         icon = 31
         color = { 0.4 0.1 0.1 }

@@ -5,115 +5,115 @@
 1818 = {
     aristocrats = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     bureaucrats = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     officers = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 17000
     }
 
     aristocrats = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     bureaucrats = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     officers = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 6458
     }
 
     aristocrats = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 9000
     }
 
@@ -127,61 +127,61 @@
 1819 = {
     aristocrats = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     soldiers = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 8000
     }
 
     aristocrats = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     farmers = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 11000
     }
 
@@ -273,49 +273,49 @@
 
     aristocrats = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     clergymen = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = sara
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     aristocrats = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     clergymen = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
@@ -331,151 +331,151 @@
 1821 = {
     aristocrats = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     officers = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     aristocrats = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     officers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     aristocrats = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     bureaucrats = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     farmers = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 10183
     }
 
     aristocrats = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     bureaucrats = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     farmers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 17000
     }
 
@@ -497,37 +497,37 @@
 
     aristocrats = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     clergymen = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     soldiers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 7300
     }
 }
@@ -535,98 +535,98 @@
 1823 = {
     aristocrats = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     artisans = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     farmers = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 
     aristocrats = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     soldiers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 7269
     }
 
 
     aristocrats = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     clergymen = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     soldiers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     farmers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 7246
     }
 
@@ -642,73 +642,73 @@
 1824 = {
     aristocrats = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     clergymen = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 10216
     }
 
     aristocrats = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     officers = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = baguirmi
-        religion = catholic
+        religion = roman_catholic
         size = 10010
     }
 
@@ -722,31 +722,31 @@
 1825 = {
     aristocrats = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     clergymen = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 325
     }
 
     artisans = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 4250
     }
 
     soldiers = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 3200
     }
 
     farmers = {
         culture = kanuri
-        religion = catholic
+        religion = roman_catholic
         size = 43380
     }
 }
@@ -755,31 +755,31 @@
 1826 = {
     aristocrats = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = teda
-        religion = catholic
+        religion = roman_catholic
         size = 6080
     }
 

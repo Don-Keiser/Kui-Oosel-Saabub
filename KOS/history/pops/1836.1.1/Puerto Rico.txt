@@ -4,91 +4,91 @@
 2222 = {
     aristocrats = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     bureaucrats = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     clergymen = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     artisans = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     soldiers = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     aristocrats = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 1535
     }
 
     bureaucrats = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     farmers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 40850
     }
 
     artisans = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 30600
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 

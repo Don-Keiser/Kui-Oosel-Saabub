@@ -1866,31 +1866,31 @@
 1961 = {
     aristocrats = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 1850
     }
 
     clergymen = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 950
     }
 
     artisans = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 3725
     }
 
     soldiers = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 1950
     }
 
     farmers = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 35575
     }
 }
@@ -1899,31 +1899,31 @@
 3746 = {
     aristocrats = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     clergymen = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     artisans = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     soldiers = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = fur
-        religion = catholic
+        religion = roman_catholic
         size = 2350
     }
 

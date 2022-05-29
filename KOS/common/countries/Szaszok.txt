@@ -1,4 +1,5 @@
 color = { 245 247 199 }
+march = { 175 98 107 }
 graphical_culture = AustriaHungaryGC
 
 party = {

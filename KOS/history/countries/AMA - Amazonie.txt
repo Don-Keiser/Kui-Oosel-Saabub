@@ -9,7 +9,7 @@ civilized = yes
 prestige = 3
 
 set_country_flag = new_world_nation
-set_country_flag = catholic_country
+set_country_flag = roman_catholic_country
 religion = catholic
 
 # Political reforms

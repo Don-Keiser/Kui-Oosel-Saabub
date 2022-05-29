@@ -4,43 +4,43 @@
 854 = {
     aristocrats = {
         culture = sicilian
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     aristocrats = {
         culture = sicilian
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     bureaucrats = {
         culture = sicilian
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     clergymen = {
         culture = sicilian
-        religion = catholic
+        religion = roman_catholic
         size = 275
     }
 
     artisans = {
         culture = sicilian
-        religion = catholic
+        religion = roman_catholic
         size = 5500
     }
 
     soldiers = {
         culture = sicilian
-        religion = catholic
+        religion = roman_catholic
         size = 340
     }
 
     farmers = {
         culture = sicilian
-        religion = catholic
+        religion = roman_catholic
         size = 20475
     }
 

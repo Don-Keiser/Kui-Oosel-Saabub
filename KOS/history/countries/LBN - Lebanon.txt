@@ -49,4 +49,4 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = catholic_country
+set_country_flag = roman_catholic_country

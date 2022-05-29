@@ -236,19 +236,19 @@
 	
 	artisans = {
 		culture = toledano
-		religion = catholic
+		religion = roman_catholic
 		size = 950
 	}
 
 	soldiers = {
 		culture = toledano
-		religion = catholic
+		religion = roman_catholic
 		size = 450
 	}
 	
 	farmers = {
 		culture = toledano
-		religion = catholic
+		religion = roman_catholic
 		size = 6000
 	}
 }
@@ -823,13 +823,13 @@
 
     artisans = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 2050
     }
 
     farmers = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 8025
     }
 }
@@ -939,25 +939,25 @@
 
     bureaucrats = {
         culture = szigetinyel
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 100
     }
 
     artisans = {
         culture = szigetinyel
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 150
     }
 
     clergymen = {
         culture = szigetinyel
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 250
     }
 
     soldiers = {
         culture = szigetinyel
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 500
     }
 	
@@ -972,13 +972,13 @@
 1447 = {
     aristocrats = {
         culture = szigetinyel
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 100
     }
 
     bureaucrats = {
         culture = szigetinyel
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 50
     }
 
@@ -1836,43 +1836,43 @@
 1423 = {
     aristocrats = {
         culture = inkriid
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 1000
     }
 
     bureaucrats = {
         culture = inkriid
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 150
     }
 	
 	clergymen = {
 		culture = inkriid
-		religion = reformed
+		religion = alexandrian_orthodox
 		size = 280
 	}
 	
 	capitalists = {
 		culture = inkriid
-		religion = reformed
+		religion = alexandrian_orthodox
 		size = 1200
 	}
 	
 	clerks = {
 		culture = inkriid
-		religion = reformed
+		religion = alexandrian_orthodox
 		size = 150
 	}
 
 	craftsmen = {
 		culture = inkriid
-		religion = reformed
+		religion = alexandrian_orthodox
 		size = 3000
 	}
 
     artisans = {
         culture = inkriid
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 1200
     }
 	

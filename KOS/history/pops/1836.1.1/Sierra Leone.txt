@@ -5,109 +5,109 @@
 
     aristocrats = {
         culture = afro_caribbean
-        religion = protestant
+        religion = african_catholic
         size = 300
     }
 
     officers = {
         culture = afro_caribbean
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     clergymen = {
         culture = afro_caribbean
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     artisans = {
         culture = afro_caribbean
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     soldiers = {
         culture = afro_caribbean
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     farmers = {
         culture = afro_caribbean
-        religion = protestant
+        religion = african_catholic
         size = 4700
     }
 
     aristocrats = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 675
     }
 
     officers = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 1650
     }
 
     soldiers = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     farmers = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 32125
     }
 
     aristocrats = {
         culture = western_nigritic
-        religion = catholic
+        religion = roman_catholic
         size = 875
     }
 
     officers = {
         culture = western_nigritic
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = western_nigritic
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = western_nigritic
-        religion = catholic
+        religion = roman_catholic
         size = 2300
     }
 
     soldiers = {
         culture = western_nigritic
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     farmers = {
         culture = western_nigritic
-        religion = catholic
+        religion = roman_catholic
         size = 48275
     }
 
@@ -146,31 +146,31 @@
 1886 = {
     aristocrats = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
     clergymen = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 1875
     }
 
     soldiers = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 475
     }
 
     farmers = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 36650
     }
 
@@ -216,61 +216,61 @@
 1885 = {
     aristocrats = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 925
     }
 
     clergymen = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 1900
     }
 
     soldiers = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 475
     }
 
     farmers = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 36600
     }
 
     aristocrats = {
         culture = western_nigritic
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     clergymen = {
         culture = western_nigritic
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = western_nigritic
-        religion = catholic
+        religion = roman_catholic
         size = 1650
     }
 
     soldiers = {
         culture = western_nigritic
-        religion = catholic
+        religion = roman_catholic
         size = 425
     }
 
     farmers = {
         culture = western_nigritic
-        religion = catholic
+        religion = roman_catholic
         size = 37025
     }
 

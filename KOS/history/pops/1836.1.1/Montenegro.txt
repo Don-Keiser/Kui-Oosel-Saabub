@@ -5,49 +5,49 @@
 
     soldiers = {
         culture = albanian
-        religion = catholic
+        religion = roman_catholic
         size = 385
     }
 
     clergymen = {
         culture = albanian
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = albanian
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     farmers = {
         culture = albanian
-        religion = catholic
+        religion = roman_catholic
         size = 14700
     }
 
     clergymen = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 1450
     }
 }
@@ -55,67 +55,67 @@
 2569 = {
     aristocrats = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     officers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 7100
     }
 
     officers = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     farmers = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 }
@@ -124,49 +124,49 @@
 2583 = {
     aristocrats = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     officers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 275
     }
 
     artisans = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 1300
     }
 
     soldiers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     farmers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 21375
     }
 
     farmers = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 }
@@ -176,31 +176,31 @@
 2577 = {
     aristocrats = {
         culture = albanian
-        religion = catholic
+        religion = roman_catholic
         size = 1250
     }
 
     clergymen = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     soldiers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 	
     farmers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 11400
     }
 }
@@ -210,73 +210,73 @@
 2582 = {
     aristocrats = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     officers = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     clergymen = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     soldiers = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = dalmatae
-        religion = catholic
+        religion = roman_catholic
         size = 15000
     }
 
     aristocrats = {
         culture = albanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     officers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     clergymen = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = malazez
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 

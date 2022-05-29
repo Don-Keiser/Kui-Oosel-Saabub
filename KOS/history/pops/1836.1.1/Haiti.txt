@@ -4,47 +4,47 @@
 2213 = {
     aristocrats = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 2500
     }
 
     officers = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     clergymen = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     artisans = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 14050
     }
 
     soldiers = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
         culture = polish
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
     clergymen = {
         culture = croat
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
     artisans = {
@@ -59,12 +59,12 @@
     }
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1250
     }
     farmers = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 38300
     }
 }
@@ -72,31 +72,31 @@
 2215 = {
     aristocrats = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     clergymen = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     artisans = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 2550
     }
 
     soldiers = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     farmers = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 15825
     }
 
@@ -105,36 +105,36 @@
 3320 = {
     aristocrats = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     clergymen = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     artisans = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 1550
     }
 
     soldiers = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = afro_french
-        religion = catholic
+        religion = roman_catholic
         size = 9825
     }
     farmers = {
         culture = mulatto
-        religion = catholic
+        religion = roman_catholic
         size = 3825
     }
 

@@ -6,73 +6,73 @@
 2286 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     officers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 2565
     }
 
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
@@ -161,25 +161,25 @@
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 }
@@ -205,25 +205,25 @@
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 }
@@ -233,79 +233,79 @@
 2290 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     bureaucrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     officers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 1125
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 14050
     }
 
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 1300
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 19325
     }
 }
@@ -313,85 +313,85 @@
 2291 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 325
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 2325
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 9500
     }
 
     clergymen = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 }
@@ -399,85 +399,85 @@
 2292 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 375
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 5050
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 8350
     }
 
     clergymen = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 }
@@ -485,55 +485,55 @@
 2294 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 1650
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 915
     }
 
@@ -561,55 +561,55 @@
 2293 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 16400
     }
 }
@@ -617,55 +617,55 @@
 2296 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 325
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 1350
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 650
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 12125
     }
 }
@@ -673,67 +673,67 @@
 2299 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 575
     }
 
     bureaucrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     officers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 175
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 2825
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 1150
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 225
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 21525
     }
 }
@@ -743,121 +743,121 @@
 2295 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 1675
     }
 
     bureaucrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     officers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 2400
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 41075
     }
 
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 14950
     }
 
     clergymen = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 1400
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 }
@@ -865,79 +865,79 @@
 2297 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 325
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 3250
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     clergymen = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
@@ -946,79 +946,79 @@
 2298 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 525
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 4925
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 850
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 15900
     }
 
     clergymen = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 }
@@ -1028,37 +1028,37 @@
 2300 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 14
     }
 
     bureaucrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 1
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
@@ -1118,85 +1118,85 @@
 2302 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 1150
     }
 
     bureaucrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     officers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 375
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 11625
     }
 
     aristocrats = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     officers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 2100
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 34275
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 }
@@ -1204,55 +1204,55 @@
 2303 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 575
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 2025
     }
 
     clergymen = {
         culture = aimara
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = aimara
-        religion = catholic
+        religion = roman_catholic
         size = 1150
     }
 
     soldiers = {
         culture = aimara
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = aimara
-        religion = catholic
+        religion = roman_catholic
         size = 21500
     }
 }
@@ -1260,55 +1260,55 @@
 2304 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 375
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 1050
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 3250
     }
 
     clergymen = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     soldiers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = quechua
-        religion = catholic
+        religion = roman_catholic
         size = 13100
     }
 }
@@ -1318,73 +1318,73 @@
 2578 = {
     aristocrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     bureaucrats = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     officers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     soldiers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = south_andean
-        religion = catholic
+        religion = roman_catholic
         size = 3925
     }
 
     clergymen = {
         culture = aimara
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = aimara
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = aimara
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = aimara
-        religion = catholic
+        religion = roman_catholic
         size = 16700
     }
 
     slaves = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 

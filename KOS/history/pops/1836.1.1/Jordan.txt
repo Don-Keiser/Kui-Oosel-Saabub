@@ -138,31 +138,31 @@
 
     aristocrats = {
         culture = outremer
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     clergymen = {
         culture =outremer
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     artisans = {
         culture = outremer
-        religion = catholic
+        religion = roman_catholic
         size = 35
     }
 
     soldiers = {
         culture = outremer
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = outremer
-        religion = catholic
+        religion = roman_catholic
         size = 650
     }
 

@@ -200,31 +200,31 @@
 
     aristocrats = {
         culture = gur
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = gur
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = gur
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = gur
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = gur
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 

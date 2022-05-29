@@ -391,19 +391,19 @@
 
     clergymen = {
         culture = saarkaupmid
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = saarkaupmid
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     farmers = {
         culture = saarkaupmid
-        religion = catholic
+        religion = roman_catholic
         size = 13200
     }
 }

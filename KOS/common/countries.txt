@@ -989,6 +989,7 @@ BSP		= "countries/Bosporan Kingdom.txt"
 AKV		= "countries/Akaevid Kingdom.txt"
 LOV		= "countries/Lovikindlus.txt"
 SYV		= "countries/Syvahusko.txt"
+TRV		= "countries/Traveszurszag.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

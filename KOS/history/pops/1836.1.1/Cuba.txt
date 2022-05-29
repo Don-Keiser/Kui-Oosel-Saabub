@@ -4,97 +4,97 @@
 2209 = {
     aristocrats = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     bureaucrats = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     clergymen = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 325
     }
 
     artisans = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 425
     }
 
     soldiers = {
         culture = toledano
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     aristocrats = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 103
     }
 
     bureaucrats = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 175
     }
 
     artisans = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     soldiers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 425
     }
 
     artisans = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     soldiers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 }
@@ -102,55 +102,55 @@
 2210 = {
     aristocrats = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     clergymen = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 375
     }
 
     artisans = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 220
     }
 
     soldiers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 375
     }
 
     artisans = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 }
@@ -158,55 +158,55 @@
 2211 = {
     aristocrats = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     clergymen = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     soldiers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     soldiers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 220
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 }
@@ -214,55 +214,55 @@
 2212 = {
     aristocrats = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 175
     }
 
     artisans = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     soldiers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = caribeno
-        religion = catholic
+        religion = roman_catholic
         size = 975
     }
 
     artisans = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = afro_latino
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 

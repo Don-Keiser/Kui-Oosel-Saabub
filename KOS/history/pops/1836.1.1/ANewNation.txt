@@ -2,43 +2,43 @@
 3251 = {
     aristocrats = {
         culture = ligur
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     clergymen = {
         culture = ligur
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = ligur
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size= 100
     }
 
     farmers = {
         culture = ligur
-        religion = catholic
+        religion = roman_catholic
         size = 1225
     }
 
     farmers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 2850
     }
 
     bureaucrats = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
@@ -48,24 +48,24 @@
 3252 = {
     aristocrats = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
     bureaucrats = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     artisans = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     farmers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 11000
     }
 }
@@ -74,67 +74,67 @@
 3253 = {
     aristocrats = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
     bureaucrats = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
     clergymen = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 30
     }
 
     artisans = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     soldiers = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size= 100
 
     }
 
     farmers = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 875
     }
 
     aristocrats = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 30
     }
 
     artisans = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     soldiers = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size= 75
 
     }
 
     farmers = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 1075
     }
 }
@@ -144,43 +144,43 @@
 3266 = {
     aristocrats = {
         culture = romagnol
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 	
     bureaucrats = {
         culture = romagnol
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 	
     clergymen = {
         culture = romagnol
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     artisans = {
         culture = romagnol
-        religion = catholic
+        religion = roman_catholic
         size = 6800
     }
 
     soldiers = {
         culture = romagnol
-        religion = catholic
+        religion = roman_catholic
         size= 1500
     }
 
     farmers = {
         culture = romagnol
-        religion = catholic
+        religion = roman_catholic
         size = 43000
     }
 
     farmers = {
         culture = venetian
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 }

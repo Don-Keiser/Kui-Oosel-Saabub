@@ -66,7 +66,7 @@
 
     slaves = {
         culture = wolof
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 }
@@ -105,7 +105,7 @@
 
     slaves = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 }
@@ -143,7 +143,7 @@
 
     slaves = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 }
@@ -346,7 +346,7 @@
 	
 	farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 11000
 	}
 }
@@ -385,7 +385,7 @@
 	
 	farmers = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 13500
 	}
 }

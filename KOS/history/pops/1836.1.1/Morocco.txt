@@ -4,43 +4,43 @@
 1680 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 525
     }
 
     bureaucrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     officers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 7000
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 26400
     }
 
@@ -78,31 +78,31 @@
 1681 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 575
     }
 
 	clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 850
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 4500
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 52000
     }
 }
@@ -110,31 +110,31 @@
 1682 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 560
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 6800
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 3600
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 68000
     }
 }
@@ -142,31 +142,31 @@
 1683 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2300
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1400
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 39000
     }
 	
@@ -180,61 +180,61 @@
 1684 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2600
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 31000
     }
 
     aristocrats = {
         culture = numidian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = numidian
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     artisans = {
         culture = numidian
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = numidian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = numidian
-        religion = catholic
+        religion = roman_catholic
         size = 2600
     }
 }
@@ -242,31 +242,31 @@
 1685 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2300
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 6500
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 3500
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 67800
     }
 }
@@ -274,31 +274,31 @@
 2563 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1950
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1260
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 28000
     }
 }
@@ -308,73 +308,73 @@
 1686 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2600
     }
 
     bureaucrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     officers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2200
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 8000
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 59000
     }
 
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 120
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2200
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 }
@@ -382,61 +382,61 @@
 1687 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 645
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2300
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 38800
     }
 
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 985
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 135
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 4200
     }
 }
@@ -444,37 +444,37 @@
 1688 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1520
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 690
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 5600
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 4800
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 59850
     }
 
     farmers = {
         culture = numidian
-        religion = catholic
+        religion = roman_catholic
         size = 2100
     }
 }
@@ -484,31 +484,31 @@
 1689 = {
     bureaucrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 40
     }
 	
 	clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 	
 	farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 950
     }
 
@@ -519,73 +519,73 @@
 
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
 	aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 90
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 420
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 280
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 }
@@ -596,55 +596,55 @@
 1690 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 
     bureaucrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 80
     }
 
     officers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 120
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 3200
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 4500
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 51000
     }
 
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 260
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 }
@@ -652,79 +652,79 @@
 1691 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 3600
     }
 	
 	bureaucrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     officers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2600
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 	
 	artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2890
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 6900
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 87500
     }
 
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 120
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2100
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 }
@@ -732,31 +732,31 @@
 1692 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 380
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 260
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1850
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 950
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 19560
     }
 }
@@ -764,61 +764,61 @@
 1693 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 690
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 3600
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2100
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 38450
     }
 
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 }
@@ -826,31 +826,31 @@
 1694 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1600
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2900
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 4200
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 38500
     }
 }
@@ -858,31 +858,31 @@
 1695 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 90
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2500
     }
 }
@@ -890,31 +890,31 @@
 1696 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 320
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 120
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1300
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 850
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 12850
     }
 
@@ -978,13 +978,13 @@
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1650
     }
 }
@@ -992,31 +992,31 @@
 1698 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 320
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 180
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2800
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1950
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 16500
     }
 
@@ -1042,31 +1042,31 @@
 1699 = {
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 160
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1950
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 19850
     }
 }

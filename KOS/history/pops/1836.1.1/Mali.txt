@@ -40,31 +40,31 @@
 
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 12750
     }
 
@@ -150,31 +150,31 @@
 
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 12750
     }
 
@@ -248,31 +248,31 @@
 
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 10950
     }
 
@@ -346,31 +346,31 @@
 
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 1050
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 32000
     }
 
@@ -446,31 +446,31 @@
 
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 1750
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 650
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 4550
     }
 
@@ -484,31 +484,31 @@
 1796 = {
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 1050
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
@@ -582,31 +582,31 @@
 
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 1150
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 8050
     }
 
@@ -652,31 +652,31 @@
 
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 5400
     }
 
@@ -752,31 +752,31 @@
 
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 2050
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 14600
     }
 
@@ -828,7 +828,7 @@
 1803 = {
     aristocrats = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 
@@ -840,55 +840,55 @@
 
     clergymen = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     artisans = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 2500
     }
 
     soldiers = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 650
     }
 
     farmers = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 43050
     }
 
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 1150
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 17700
     }
 
@@ -930,31 +930,31 @@
 
     aristocrats = {
         culture = maghrebi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = maghrebi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = maghrebi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = maghrebi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = maghrebi
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 }
@@ -963,49 +963,49 @@
 1804 = {
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     bureaucrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     officers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 1150
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 2700
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 25550
     }
 
@@ -1140,55 +1140,55 @@
 
     aristocrats = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     clergymen = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 1900
     }
 
     soldiers = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     farmers = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 24000
     }
 
@@ -1200,25 +1200,25 @@
 
     clergymen = {
         culture = maghrebi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = maghrebi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = maghrebi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = maghrebi
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 }
@@ -1258,31 +1258,31 @@
 
     aristocrats = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = songhai
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 }
@@ -1408,31 +1408,31 @@
 
     aristocrats = {
         culture = hausa
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = hausa
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = hausa
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = hausa
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = hausa
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 }

@@ -1,5 +1,5 @@
-owner = SZA
-controller = SZA
-add_core = SZA
+owner = HUN
+controller = HUN
+add_core = HUN
 trade_goods = grain
 life_rating = 35

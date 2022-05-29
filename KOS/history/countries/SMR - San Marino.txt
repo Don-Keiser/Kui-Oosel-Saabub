@@ -48,7 +48,7 @@ upper_house = {
 }
 
 set_country_flag = existing_country
-set_country_flag = catholic_country
+set_country_flag = roman_catholic_country
 set_country_flag = micro_nation
 
 #Technologies

@@ -1,16 +1,16 @@
 #Sphere of Influence
-WEI = {
+THU = {
     value = 145        #relation
     level = 5       #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
-LIP = {
+VRN = {
     value = 130        #relation
     level = 5        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 VEN = {
-    value = 100        #relation
+    value = 120        #relation
     level = 4        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 0
 }
@@ -21,14 +21,9 @@ BOH = {
 }
 WUR = {
     value = 150        #relation
-    level = 4        #3=cordial, 4 = friendly, 5 sphere
+    level = 2        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 	military_access = yes
-}
-ALS = {
-    value = 175        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
 }
 
 leader = {

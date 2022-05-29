@@ -4,55 +4,55 @@
 1999 = {
     aristocrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     clergymen = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     aristocrats = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 11550
     }
 
@@ -133,31 +133,31 @@
 2001 = {
     aristocrats = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     soldiers = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 7350
     }
 
@@ -314,31 +314,31 @@
 
     aristocrats = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 425
     }
 
     clergymen = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 225
     }
 
     artisans = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
     soldiers = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 225
     }
 
     farmers = {
         culture = bakongo
-        religion = catholic
+        religion = roman_catholic
         size = 15225
     }
 
@@ -388,31 +388,31 @@
 2004 = {
     aristocrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     clergymen = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 

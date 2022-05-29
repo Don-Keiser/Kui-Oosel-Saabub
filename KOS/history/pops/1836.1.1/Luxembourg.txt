@@ -4,61 +4,61 @@
 397 = {
     aristocrats = {
         culture = rheinian
-        religion = protestant
+        religion = african_catholic
         size = 425
     }
 
     bureaucrats = {
         culture = rheinian
-        religion = protestant
+        religion = african_catholic
         size = 75
     }
 
     officers = {
         culture = rheinian
-        religion = protestant
+        religion = african_catholic
         size = 375
     }
 
     clergymen = {
         culture = rheinian
-        religion = protestant
+        religion = african_catholic
         size = 150
     }
 
     artisans = {
         culture = rheinian
-        religion = protestant
+        religion = african_catholic
         size = 2800
     }
 
     soldiers = {
         culture = rheinian
-        religion = protestant
+        religion = african_catholic
         size = 2250
     }
 
     farmers = {
         culture = rheinian
-        religion = protestant
+        religion = african_catholic
         size = 37580
     }
 
     farmers = {
         culture = french
-        religion = catholic
+        religion = roman_catholic
         size = 1320
     }
 
     craftsmen = {
         culture = french
-        religion = catholic
+        religion = roman_catholic
         size = 55
     }
 
     craftsmen = {
         culture = rheinian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 }

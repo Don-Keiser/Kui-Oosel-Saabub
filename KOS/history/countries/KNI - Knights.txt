@@ -50,7 +50,7 @@ upper_house =
     socialist = 0
     communist = 0
 }
-set_country_flag = catholic_country
+set_country_flag = roman_catholic_country
 set_country_flag = settle_french
 set_country_flag = theocratic_government
 # Starting Consciousness

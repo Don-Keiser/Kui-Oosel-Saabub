@@ -4,25 +4,25 @@
 251 = {
     bureaucrats = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 
     clergymen = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 23
     }
 
     artisans = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 23
     }
 
     farmers = {
         culture = inuit
-        religion = protestant
+        religion = african_catholic
         size = 1400
     }
 }
@@ -31,7 +31,7 @@
 2636 = {
     farmers = {
         culture = inuit
-        religion = protestant
+        religion = african_catholic
         size = 505
     }
 }

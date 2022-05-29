@@ -227,37 +227,37 @@
 
     aristocrats = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 2
     }
 
     aristocrats = {
         culture = cree
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
@@ -274,31 +274,31 @@
 13 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
     officers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
@@ -314,37 +314,37 @@
 
     aristocrats = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
     aristocrats = {
         culture = native_american_minor
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
@@ -358,25 +358,25 @@
 15 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
@@ -391,25 +391,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
@@ -423,25 +423,25 @@
 17 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
@@ -487,25 +487,25 @@
 19 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -519,25 +519,25 @@
 20 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -552,25 +552,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -620,31 +620,31 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
@@ -697,25 +697,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -727,7 +727,7 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 1615
     }
 }
@@ -736,25 +736,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -775,31 +775,31 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 580
     }
 
@@ -814,55 +814,55 @@
 
     aristocrats = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 2
     }
 
     aristocrats = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     aristocrats = {
         culture = cree
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     aristocrats = {
         culture = native_american_minor
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     officers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -874,7 +874,7 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 185
     }
 }
@@ -883,31 +883,31 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
     farmers = {
         culture = cree
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
@@ -957,55 +957,55 @@
 
     aristocrats = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 2
     }
 
     aristocrats = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     aristocrats = {
         culture = cree
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     aristocrats = {
         culture = native_american_minor
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     officers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -1017,7 +1017,7 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 }
@@ -1057,25 +1057,25 @@
 32 = {
     clergymen = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 910
     }
 
@@ -1114,31 +1114,31 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
@@ -1153,31 +1153,31 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
@@ -1192,25 +1192,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -1222,7 +1222,7 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 655
     }
 }
@@ -1233,25 +1233,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -1263,13 +1263,13 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     farmers = {
         culture = metis
-        religion = protestant
+        religion = african_catholic
         size = 1000
     }
 }
@@ -1278,25 +1278,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
@@ -1384,25 +1384,25 @@
 
     clergymen = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 910
     }
 }
@@ -1411,25 +1411,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -1441,7 +1441,7 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 }
@@ -1450,25 +1450,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -1480,7 +1480,7 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 }
@@ -1489,61 +1489,61 @@
 
     aristocrats = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 2
     }
 
     aristocrats = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     aristocrats = {
         culture = cree
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     aristocrats = {
         culture = native_american_minor
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     aristocrats = {
         culture = inuit
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     officers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -1555,7 +1555,7 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
@@ -1567,25 +1567,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
@@ -1600,25 +1600,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
@@ -1633,43 +1633,43 @@
 
     aristocrats = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 2
     }
 
     aristocrats = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     aristocrats = {
         culture = cree
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 2
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -1681,7 +1681,7 @@
 
     farmers = {
         culture = metis
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 }
@@ -1690,25 +1690,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 20
     }
 
@@ -1729,25 +1729,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 20
     }
 
@@ -1768,25 +1768,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 20
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
@@ -1800,25 +1800,25 @@
 53 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -1834,25 +1834,25 @@
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
@@ -1869,55 +1869,55 @@
 46 = {
     aristocrats = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 30
     }
 
     aristocrats = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 30
     }
 
     aristocrats = {
         culture = native_american_minor
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
     aristocrats = {
         culture = cree
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
     bureaucrats = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 2500
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 3100
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 38000
     }
 
@@ -1931,25 +1931,25 @@
 54 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 500
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     labourers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 8350
     }
 }
@@ -1957,25 +1957,25 @@
 55 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 1100
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 200
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 15700
     }
 }
@@ -1983,49 +1983,49 @@
 56 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 150
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 1750
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 175
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 13925
     }
 
     clergymen = {
         culture = french_canadian
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     soldiers = {
         culture = french_canadian
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 1700
     }
 }
@@ -2033,25 +2033,25 @@
 57 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 300
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 6000
     }
 
@@ -2063,25 +2063,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = french_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 3700
     }
 
@@ -2126,43 +2126,43 @@
 
     aristocrats = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     aristocrats = {
         culture = cree
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     aristocrats = {
         culture = inuit
-        religion = catholic
+        religion = roman_catholic
         size = 20
     }
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
@@ -2247,25 +2247,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
@@ -2286,73 +2286,73 @@
 58 = {
     aristocrats = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 30
     }
 
     bureaucrats = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 200
     }
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 125
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 5000
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 13425
     }
 
     aristocrats = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 30
     }
 
     bureaucrats = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 36000
     }
 }
@@ -2390,25 +2390,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 1825
     }
 }
@@ -2446,25 +2446,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 915
     }
 }
@@ -2502,25 +2502,25 @@
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 2750
     }
 }
@@ -2528,25 +2528,25 @@
 64 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 175
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     labourers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 15675
     }
 }
@@ -2554,25 +2554,25 @@
 65 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 41000
     }
 }
@@ -2580,49 +2580,49 @@
 66 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 400
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 4450
     }
 
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 10900
     }
 }
@@ -2630,25 +2630,25 @@
 67 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     soldiers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     labourers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 4500
     }
 
@@ -2659,55 +2659,55 @@
 68 = {
     bureaucrats = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 75
     }
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 275
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 750
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 150
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 17000
     }
 
     clergymen = {
         culture = acadian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = acadian
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     soldiers = {
         culture = acadian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = acadian
-        religion = catholic
+        religion = roman_catholic
         size = 10650
     }
 }
@@ -2716,34 +2716,34 @@
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 491
     }
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 63
     }
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 30
 
     }
     farmers = {
         culture = acadian
-        religion = catholic
+        religion = roman_catholic
         size = 4660
     }
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 1053
 
     }
     farmers = {
         culture = yankee
-        religion = protestant
+        religion = african_catholic
         size = 2501
     }
 
@@ -2754,25 +2754,25 @@
 70 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 1500
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 6350
     }
 }
@@ -2782,43 +2782,43 @@
 71 = {
     bureaucrats = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 4000
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 200
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 14600
     }
 
     labourers = {
         culture = acadian
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     labourers = {
         culture = afro_american
-        religion = protestant
+        religion = african_catholic
         size = 750
     }
 }
@@ -2826,31 +2826,31 @@
 72 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 750
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 125
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 9075
     }
 
     labourers = {
         culture = acadian
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 }
@@ -2858,25 +2858,25 @@
 73 = {
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     soldiers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 4650
     }
 
@@ -2887,85 +2887,85 @@
 74 = {
     aristocrats = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     bureaucrats = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     clergymen = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 75
     }
 
     artisans = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 2000
     }
 
     soldiers = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     farmers = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 8525
     }
 
     aristocrats = {
         culture = danish
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     clergymen = {
         culture = danish
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = danish
-        religion = catholic
+        religion = roman_catholic
         size = 1050
     }
 
     soldiers = {
         culture = danish
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = danish
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 
     clergymen = {
         culture = angle
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = angle
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     farmers = {
         culture = angle
-        religion = catholic
+        religion = roman_catholic
         size = 4900
     }
 }
@@ -2973,67 +2973,67 @@
 75 = {
     clergymen = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 75
     }
 
     artisans = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 1250
     }
 
     soldiers = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 250
     }
 
     farmers = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 6425
     }
 
     clergymen = {
         culture = danish
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = danish
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = danish
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     clergymen = {
         culture = angle
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = angle
-        religion = catholic
+        religion = roman_catholic
         size = 850
     }
 
     soldiers = {
         culture = angle
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = angle
-        religion = catholic
+        religion = roman_catholic
         size = 2050
     }
 }
@@ -3042,31 +3042,31 @@
 
     clergymen = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 2315
     }
 
     farmers = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 700
     }
 
@@ -3081,31 +3081,31 @@
 
     clergymen = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = vinlandic
-        religion = protestant
+        religion = african_catholic
         size = 2015
     }
 	
 	farmers = {
         culture = danish
-        religion = protestant
+        religion = african_catholic
         size = 215
     }
 
@@ -3121,31 +3121,31 @@
 77 = {
     clergymen = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 4
     }
 
     clergymen = {
         culture = french
-        religion = catholic
+        religion = roman_catholic
         size = 1
     }
 
     artisans = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 45
     }
 
     labourers = {
         culture = breton
-        religion = catholic
+        religion = roman_catholic
         size = 40
     }
 
     labourers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
@@ -3155,34 +3155,34 @@
 3280 = {
     artisans = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 400
     }
     artisans = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 70
     }
     clergymen = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 30
 
     }
     farmers = {
         culture = french_canadian
-        religion = catholic
+        religion = roman_catholic
         size = 3350
     }
     farmers = {
         culture = anglo_canadian
-        religion = protestant
+        religion = african_catholic
         size = 500
 
     }
     farmers = {
         culture = yankee
-        religion = protestant
+        religion = african_catholic
         size = 2350
     }
 

@@ -243,31 +243,31 @@
 1463 = {
     aristocrats = {
         culture = saarnordlig
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = saarnordlig
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = saarnordlig
-        religion = catholic
+        religion = roman_catholic
         size = 850
     }
 
     soldiers = {
         culture = saarnordlig
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = saarnordlig
-        religion = catholic
+        religion = roman_catholic
         size = 22800
     }
 
@@ -303,7 +303,7 @@
 
     farmers = {
         culture = saarkorge
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 
@@ -371,19 +371,19 @@
 
     clergymen = {
         culture = saarnordlig
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = saarnordlig
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = saarnordlig
-        religion = catholic
+        religion = roman_catholic
         size = 12200
     }
 

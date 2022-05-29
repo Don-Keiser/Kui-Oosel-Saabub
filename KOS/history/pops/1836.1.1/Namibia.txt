@@ -34,7 +34,7 @@
 
     farmers = {
         culture = herero
-        religion = protestant
+        religion = african_catholic
         size = 300
     }
 
@@ -70,7 +70,7 @@
 
     farmers = {
         culture = khoisan
-        religion = protestant
+        religion = african_catholic
         size = 200
     }
 }

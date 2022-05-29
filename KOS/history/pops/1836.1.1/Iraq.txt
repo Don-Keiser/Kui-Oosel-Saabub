@@ -1,4 +1,4 @@
-#Mosul Region (492000) #mashriqi-catholic = assyrian
+#Mosul Region (492000) #mashriqi-roman_catholic = assyrian
 #under the rule of Ottoman Empire in 1836
 #Mosul (228000/57000 POPS)
 923 = {
@@ -775,19 +775,19 @@
 
     clergymen = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1500
     }
 
     farmers = {
         culture = syriac
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 2425
     }
 

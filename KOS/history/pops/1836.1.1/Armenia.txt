@@ -4,13 +4,13 @@
 1098 = {
     bureaucrats = {
         culture = armenian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 500
     }
 
     clergymen = {
         culture = armenian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 500
     }
 
@@ -257,25 +257,25 @@
 
     aristocrats = {
         culture = georgian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 10
     }
 
     clergymen = {
         culture = georgian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 15
     }
 
     soldiers = {
         culture = georgian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 10
     }
 
     farmers = {
         culture = georgian
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 925
     }
 

@@ -51,7 +51,7 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = orthodox_country
+set_country_flag = thessalian_orthodox_country
 
 # Technologies
 post_napoleonic_thought = 1

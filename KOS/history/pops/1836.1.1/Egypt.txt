@@ -123,20 +123,20 @@
 
     farmers = {
         culture = hungarian
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 25
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 2950
     }
 
@@ -160,7 +160,7 @@
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1025
     }
 }
@@ -168,25 +168,25 @@
 1746 = {
     aristocrats = {
        culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 500
     }
 
     artisans = {
        culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 10000
     }
 
     artisans = {
        culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 5575
     }
 
     soldiers = {
        culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 75
     }
 
@@ -654,13 +654,13 @@
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 50
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1950
     }
 
@@ -671,7 +671,7 @@
     }
  farmers = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 6000
     }
 }
@@ -905,31 +905,31 @@
 
     aristocrats = {
         culture = outremer
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = outremer
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = outremer 
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = outremer
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = outremer
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 }
@@ -961,7 +961,7 @@
 
     farmers = {
         culture = outremer
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
@@ -1279,7 +1279,7 @@
 
     farmers = {
         culture = hungarian
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
@@ -1385,7 +1385,7 @@
 
     farmers = {
         culture = hungarian
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
@@ -1455,7 +1455,7 @@
 
     farmers = {
         culture = hungarian
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 

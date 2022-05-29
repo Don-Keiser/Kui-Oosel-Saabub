@@ -36,61 +36,61 @@
 1774 = {
     aristocrats = {
         culture = aznag
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     clergymen = {
         culture = aznag
-        religion = catholic
+        religion = roman_catholic
         size = 180
     }
 
     artisans = {
         culture = aznag
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     soldiers = {
         culture = aznag
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = aznag
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 320
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 2300
     }
 

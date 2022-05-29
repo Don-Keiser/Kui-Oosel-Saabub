@@ -58,43 +58,43 @@
 
     clergymen = {
         culture = malagasy
-        religion = catholic
+        religion = roman_catholic
         size = 5
     }
 
     artisans = {
         culture = malagasy
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     farmers = {
         culture = malagasy
-        religion = catholic
+        religion = roman_catholic
         size = 235
     }
 
     aristocrats = {
         culture = malagasy
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 
     clergymen = {
         culture = malagasy
-        religion = protestant
+        religion = african_catholic
         size = 25
     }
 
     artisans = {
         culture = malagasy
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     farmers = {
         culture = malagasy
-        religion = protestant
+        religion = african_catholic
         size = 900
     }
 }
@@ -274,43 +274,43 @@
 
     clergymen = {
         culture = malagasy
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = malagasy
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = malagasy
-        religion = catholic
+        religion = roman_catholic
         size = 925
     }
 
     aristocrats = {
         culture = malagasy
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     clergymen = {
         culture = malagasy
-        religion = protestant
+        religion = african_catholic
         size = 50
     }
 
     artisans = {
         culture = malagasy
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     farmers = {
         culture = malagasy
-        religion = protestant
+        religion = african_catholic
         size = 1800
     }
 }

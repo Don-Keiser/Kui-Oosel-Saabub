@@ -1,5 +1,5 @@
-owner = DLM
-controller = DLM
-add_core = DLM
+owner = BEC
+controller = BEC
+add_core = BEC
 trade_goods = fish
 life_rating = 35

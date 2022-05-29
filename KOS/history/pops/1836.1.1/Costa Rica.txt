@@ -4,40 +4,40 @@
 2201 = {
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 300
         militancy = 9
     }
 
     bureaucrats = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     officers = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 25
         militancy = 9
     }
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 125
         militancy = 9
     }
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 650
     }
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 525
 
         militancy = 9
@@ -45,7 +45,7 @@
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 11725
         militancy = 5
     }
@@ -54,27 +54,27 @@
 2202 = {
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 150
         militancy = 9
     }
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 50
         militancy = 9
     }
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 50
 
         militancy = 9
@@ -82,7 +82,7 @@
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 4500
         militancy = 5
     }
@@ -91,27 +91,27 @@
 2203 = {
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 50
         militancy = 9
     }
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 40
         militancy = 9
     }
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 20
 
         militancy = 9
@@ -119,7 +119,7 @@
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = roman_catholic
         size = 2000
         militancy = 5
     }

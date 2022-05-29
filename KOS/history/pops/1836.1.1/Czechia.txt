@@ -4,73 +4,73 @@
 625 = {
     bureaucrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     officers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 12100
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 8000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 100000
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 120000
     }
 
     aristocrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 2500
     }
 
     bureaucrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     officers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 }
@@ -78,97 +78,97 @@
 3483 = {
     bureaucrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     officers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 8000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 9000
     }
 
     aristocrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 2500
     }
 
     bureaucrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 2550
     }
 
     officers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 275
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 20000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 11775
     }
 }
@@ -176,73 +176,73 @@
 3333 = {
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1025
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 3100
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 35000
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 45000
     }
 
     aristocrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 3025
     }
 }
@@ -250,73 +250,73 @@
 3334 = {
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1025
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 3100
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 35000
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 45000
     }
 
     aristocrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 3025
     }
 }
@@ -324,61 +324,61 @@
 626 = {
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 4550
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 62950
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 30000
     }
 
     aristocrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 6700
     }
 }
@@ -386,55 +386,55 @@
 627 = {
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 65800
     }
 
     aristocrats = {
         culture = central_german
-        religion = protestant
+        religion = african_catholic
         size = 1300
     }
 
     clergymen = {
         culture = central_german
-        religion = protestant
+        religion = african_catholic
         size = 1250
     }
 
     artisans = {
         culture = central_german
-        religion = protestant
+        religion = african_catholic
         size = 6250
     }
 
     soldiers = {
         culture = central_german
-        religion = protestant
+        religion = african_catholic
         size = 1250
     }
 
     farmers = {
         culture = central_german
-        religion = protestant
+        religion = african_catholic
         size = 64950
     }
 }
@@ -442,55 +442,55 @@
 628 = {
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 18325
     }
 
     aristocrats = {
         culture = central_german
-        religion = protestant
+        religion = african_catholic
         size = 850
     }
 
     clergymen = {
         culture = central_german
-        religion = protestant
+        religion = african_catholic
         size = 675
     }
 
     artisans = {
         culture = central_german
-        religion = protestant
+        religion = african_catholic
         size = 3350
     }
 
     soldiers = {
         culture = central_german
-        religion = protestant
+        religion = african_catholic
         size = 1200
     }
 
     farmers = {
         culture = central_german
-        religion = protestant
+        religion = african_catholic
         size = 53825
     }
 }
@@ -498,61 +498,61 @@
 629 = {
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1600
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 16000
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 46000
     }
 
     aristocrats = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 2100
     }
 
     clergymen = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 650
     }
 
     artisans = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 8250
     }
 
     soldiers = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 650
     }
 
     farmers = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 35850
     }
 }
@@ -560,158 +560,158 @@
 630 = {
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 4650
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     bureaucrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 5300
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 40100
     }
 
     aristocrats = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 1400
     }
 
     bureaucrats = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 825
     }
 
     artisans = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 5600
     }
 
     soldiers = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = south_german
-        religion = catholic
+        religion = roman_catholic
         size = 41075
     }
 }
 3426 = {
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 40
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 265
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 55
     }
 
     bureaucrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1010
     }
 
     aristocrats = {
         culture = hungarian
-        religion = catholic
+        religion = roman_catholic
         size = 140
     }
 
     bureaucrats = {
         culture = hungarian
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     clergymen = {
         culture = hungarian
-        religion = catholic
+        religion = roman_catholic
         size = 82
     }
 
     artisans = {
         culture = hungarian
-        religion = catholic
+        religion = roman_catholic
         size = 560
     }
 
     soldiers = {
         culture = hungarian
-        religion = catholic
+        religion = roman_catholic
         size = 110
     }
 
     farmers = {
         culture = hungarian
-        religion = catholic
+        religion = roman_catholic
         size = 3007
     }
 	
 	soldiers = {
         culture = kunsag
-        religion = catholic
+        religion = roman_catholic
         size = 80
     }
 
     farmers = {
         culture = kunsag
-        religion = catholic
+        religion = roman_catholic
         size = 5007
     }
 }
@@ -721,85 +721,85 @@
 631 = {
     bureaucrats = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     officers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     clergymen = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 2025
     }
 
     artisans = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 17550
     }
 
     soldiers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 2100
     }
 
     farmers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 100000
     }
 
     farmers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 53000
     }
 
     aristocrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 1300
     }
 
     bureaucrats = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     officers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     clergymen = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 475
     }
 
     artisans = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     farmers = {
         culture = bohemish
-        religion = catholic
+        religion = roman_catholic
         size = 32925
     }
 }
@@ -807,85 +807,85 @@
 3335 = {
     bureaucrats = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 65
     }
 
     officers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 40
     }
 
     clergymen = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 525
     }
 
     artisans = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 4550
     }
 
     soldiers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     farmers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 27000
     }
 
     farmers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 12500
     }
 
     aristocrats = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     bureaucrats = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     officers = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     clergymen = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     artisans = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 5925
     }
 }
@@ -893,61 +893,61 @@
 632 = {
     clergymen = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     artisans = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     soldiers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     farmers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 20700
     }
 
     aristocrats = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 2250
     }
 
     clergymen = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 4300
     }
 
     soldiers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size =  26850
     }
 
     farmers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 31000
     }
 }
@@ -957,79 +957,79 @@
 688 = {
     bureaucrats = {
         culture = silesian
-        religion = protestant
+        religion = african_catholic
         size = 40
     }
 
     officers = {
         culture = silesian
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     clergymen = {
         culture = silesian
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     artisans = {
         culture = silesian
-        religion = protestant
+        religion = african_catholic
         size = 450
     }
 
     soldiers = {
         culture = silesian
-        religion = protestant
+        religion = african_catholic
         size = 100
     }
 
     farmers = {
         culture = silesian
-        religion = protestant
+        religion = african_catholic
         size = 5385
     }
 
     aristocrats = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     officers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 140
     }
 
     clergymen = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 1550
     }
 
     soldiers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 17610
     }
 }
@@ -1037,79 +1037,79 @@
 689 = {
     clergymen = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     artisans = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     soldiers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     farmers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 13050
     }
 
     clergymen = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 955
     }
 
     aristocrats = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     clergymen = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     artisans = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     soldiers = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = slovak
-        religion = catholic
+        religion = roman_catholic
         size = 12650
     }
 }
@@ -1117,61 +1117,61 @@
 3277 = {
     aristocrats = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size =   505
     }
 
     officers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size =  20
     }
 
     clergymen = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size =  75
     }
 
     artisans = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 1250
     }
 
     soldiers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = moravian
-        religion = catholic
+        religion = roman_catholic
         size = 11500
     }
 
     clergymen = {
         culture = silesian
-        religion = protestant
+        religion = african_catholic
         size =  25
     }
 
     artisans = {
         culture = silesian
-        religion = protestant
+        religion = african_catholic
         size = 425
     }
 
     soldiers = {
         culture = silesian
-        religion = protestant
+        religion = african_catholic
         size =   50
     }
 
     farmers = {
         culture = silesian
-        religion = protestant
+        religion = african_catholic
         size = 4000
     }
 }

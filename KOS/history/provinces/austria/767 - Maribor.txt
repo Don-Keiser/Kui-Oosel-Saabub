@@ -1,6 +1,6 @@
-owner = HUN
-controller = HUN
-add_core = HUN
+owner = HIS
+controller = HIS
+add_core = HIS
 trade_goods = coal
 life_rating = 35
 1861.1.1 = { railroad = 2 }

@@ -3,31 +3,31 @@
 475 = {
     aristocrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 1050
     }
 
     artisans = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 18850
     }
 }
@@ -36,43 +36,43 @@
 477 = {
     aristocrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     officers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     bureaucrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     artisans = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 3500
     }
 
     soldiers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     farmers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 50600
     }
 }
@@ -80,49 +80,49 @@
 478 = {
     aristocrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     clergymen = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 3500
     }
 
     soldiers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     farmers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 35700
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 3900
     }
 }
@@ -130,49 +130,49 @@
 479 = {
     aristocrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 650
     }
 
     clergymen = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 575
     }
 
     artisans = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 5500
     }
 
     soldiers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     farmers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 38675
     }
 	
 	farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 12000
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 975
     }
 }
@@ -180,31 +180,31 @@
 480 = {
     aristocrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     clergymen = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 42900
     }
 
@@ -214,49 +214,49 @@
 481 = {
     aristocrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     officers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     bureaucrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     clergymen = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     artisans = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 3500
     }
 
     soldiers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     farmers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 22700
     }
 	
 	farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 40000
     }
 }
@@ -264,31 +264,31 @@
 482 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2600
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 48750
     }
 }
@@ -296,31 +296,31 @@
 483 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 40250
     }
 }
@@ -329,43 +329,43 @@
 484 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1250
     }
 
     officers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     bureaucrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 4500
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 46650
     }
 }
@@ -373,31 +373,31 @@
 485 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1050
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2250
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 43700
     }
 }
@@ -405,31 +405,31 @@
 486 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 425
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2500
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 38725
     }
 
@@ -439,37 +439,37 @@
 487 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1550
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 62200
     }
 }
@@ -477,31 +477,31 @@
 488 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2500
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 42800
     }
 
     farmers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 }
@@ -509,43 +509,43 @@
 489 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     officers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     bureaucrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 65100
     }
 }
@@ -553,31 +553,31 @@
 490 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1075
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2200
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 5850
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 52775
     }
 }
@@ -585,31 +585,31 @@
 491 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 3500
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 65600
     }
 
@@ -619,61 +619,61 @@
 492 = {
     aristocrats = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     artisans = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 64800
     }
 
     aristocrats = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     clergymen = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 5850
     }
 }
@@ -681,85 +681,85 @@
 493 = {
     aristocrats = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     officers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     clergymen = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 375
     }
 
     artisans = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 1750
     }
 
     soldiers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     labourers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 42025
     }
 
     aristocrats = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     officers = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 225
     }
 
     artisans = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 1250
     }
 
     soldiers = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = roman_catholic
         size = 14975
     }
 }
@@ -767,43 +767,43 @@
 494 = {
     aristocrats = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 850
     }
 
     clergymen = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = suebi
-        religion = catholic
+        religion = roman_catholic
         size = 24850
     }
 	
 	soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 12000
     }
 
@@ -813,61 +813,61 @@
 495 = {
     aristocrats = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 1600
     }
 
     officers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     bureaucrats = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     clergymen = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     artisans = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 
     soldiers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 57100
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1950
     }
 }
@@ -875,61 +875,61 @@
 496 = {
     aristocrats = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     clergymen = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     artisans = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 1850
     }
 
     soldiers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     farmers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 45450
     }
 
     aristocrats = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 175
     }
 
     artisans = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 850
     }
 
     soldiers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     labourers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 6025
     }
 }
@@ -937,31 +937,31 @@
 497 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 
     clergymen = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     artisans = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 2750
     }
 
     soldiers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 52000
     }
 }
@@ -970,61 +970,61 @@
 498 = {
     aristocrats = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 850
     }
 
     clergymen = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     artisans = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 3750
     }
 
     soldiers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 1350
     }
 
     farmers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 36300
     }
 
     aristocrats = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     clergymen = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 6600
     }
 }
@@ -1032,68 +1032,68 @@
 499 = {
     aristocrats = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 1050
     }
 
     clergymen = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 850
     }
 
     artisans = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 4550
     }
 
     soldiers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 850
     }
 
     farmers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 48300
     }
 
     farmers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 }
 3433 = {
     aristocrats = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     clergymen = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     artisans = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 3600
     }
 
     soldiers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     farmers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 24000
     }
 }
@@ -1102,61 +1102,61 @@
 500 = {
     aristocrats = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     clergymen = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 2750
     }
 
     soldiers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 275
     }
 
     farmers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 30150
     }
 
     aristocrats = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     artisans = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 1250
     }
 
     soldiers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 5275
     }
 }
@@ -1164,73 +1164,73 @@
 501 = {
     aristocrats = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     soldiers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 5850
     }
 	
 	artisans = {
         culture = occitan
-        religion = catholic
+        religion = roman_catholic
         size = 2800
     }
 
     aristocrats = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     clergymen = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     artisans = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 	
 	artisans = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 4000
     }
 
     farmers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 72000
     }
 }
@@ -1238,61 +1238,61 @@
 502 = {
     aristocrats = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 8000
     }
 
     soldiers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     farmers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 46300
     }
 
     aristocrats = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     clergymen = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     labourers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 2900
     }
 
@@ -1302,97 +1302,97 @@
 503 = {
     aristocrats = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     officers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 175
     }
 
     bureaucrats = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 275
     }
 
     clergymen = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     artisans = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     farmers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 68000
     }
 
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     officers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 225
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 4000
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 }
@@ -1400,61 +1400,61 @@
 504 = {
     aristocrats = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     clergymen = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 2800
     }
 
     soldiers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 46000
     }
 
     aristocrats = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     clergymen = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 275
     }
 
     artisans = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 700
     }
 
     soldiers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = aragonese
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 }
@@ -1462,61 +1462,61 @@
 505 = {
     aristocrats = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 525
     }
 
     artisans = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 2500
     }
 
     soldiers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     farmers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 90000
     }
 
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     labourers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 4500
     }
 
@@ -1526,61 +1526,61 @@
 506 = {
     aristocrats = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 2300
     }
 
     officers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     bureaucrats = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
     clergymen = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 
     artisans = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 	
 	artisans = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 7000
     }
 
     soldiers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 
     farmers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 78000
     }
 	
 	soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 12000
     }
 }
@@ -1588,37 +1588,37 @@
 507 = {
     aristocrats = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     clergymen = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 225
     }
 
     artisans = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 23000
     }
 	
 	farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 3500
     }
 }
@@ -1626,37 +1626,37 @@
 508 = {
     aristocrats = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 1900
     }
 
     farmers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 48000
     }
 	
 	farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 8000
     }
 }
@@ -1665,55 +1665,55 @@
 509 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 
     officers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     bureaucrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 62200
     }
 }
@@ -1721,61 +1721,61 @@
 510 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1700
     }
 	
 	bureaucrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 	
     officers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 	
 	artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 	
 	artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 	
 	artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 8000
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 92000
     }
 }
@@ -1783,31 +1783,31 @@
 511 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 375
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 31375
     }
 }
@@ -1815,37 +1815,37 @@
 512 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 850
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 6500
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 64650
     }
 
@@ -1855,49 +1855,49 @@
 513 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2750
     }
 
     officers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     bureaucrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 950
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 72850
     }
 }
@@ -1905,37 +1905,37 @@
 514 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 2700
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 7500
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 78400
     }
 }
@@ -1943,37 +1943,37 @@
 515 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1650
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 5000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 26000
     }
 	
 	farmers = {
         culture = cartaginese
-        religion = catholic
+        religion = roman_catholic
         size = 28000
     }
 }
@@ -1981,31 +1981,31 @@
 516 = {
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1700
     }
 
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 60000
     }
 }
@@ -2015,85 +2015,85 @@
 2136 = {
     aristocrats = {
         culture = guanche
-        religion = catholic
+        religion = roman_catholic
         size = 825
     }
 
     officers = {
         culture = guanche
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     bureaucrats = {
         culture = guanche
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     clergymen = {
         culture = guanche
-        religion = catholic
+        religion = roman_catholic
         size = 525
     }
 
     artisans = {
         culture = guanche
-        religion = catholic
+        religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
         culture = guanche
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = guanche
-        religion = catholic
+        religion = roman_catholic
         size = 21025
     }
 	
 	aristocrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 225
     }
 
     officers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     bureaucrats = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     clergymen = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     artisans = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     farmers = {
         culture = muretannian
-        religion = catholic
+        religion = roman_catholic
         size = 8025
     }
 
@@ -2103,43 +2103,43 @@
 3287 = {
     clergymen = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     farmers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 42000
     }
 
     soldiers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     aristocrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 
     bureaucrats = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     officers = {
         culture = sevillan
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 

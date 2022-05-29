@@ -52,37 +52,37 @@
 
     labourers = {
         culture = scottish
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 20250
     }
 
     farmers = {
         culture = scottish
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 72875
     }
 
     clergymen = {
         culture = scottish
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 125
     }
 
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 5500
     }
 
     labourers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 15250
     }
 }
@@ -90,25 +90,25 @@
 255 = {
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 375
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     soldiers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     labourers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 26625
     }
 
@@ -144,13 +144,13 @@
 
     clergymen = {
         culture = scottish
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 250
     }
 
     farmers = {
         culture = scottish
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 55000
     }
 }
@@ -188,31 +188,31 @@
 
     labourers = {
         culture = scottish
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 19000
     }
 
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     soldiers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     labourers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 20500
     }
 }
@@ -220,31 +220,31 @@
 257 = {
     aristocrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 3750
     }
 
     soldiers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     labourers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 93250
     }
 
@@ -256,14 +256,14 @@
 
     farmers = {
         culture = scottish
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 10575
     }
 
 
     clergymen = {
         culture = scottish
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 50
     }
 
@@ -292,31 +292,31 @@
 258 = {
     aristocrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1250
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 7000
     }
 
     soldiers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 126750
     }
 }
@@ -330,37 +330,37 @@
 
     bureaucrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     aristocrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 9500
     }
 
     soldiers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 2500
     }
 
     farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 176250
     }
 
@@ -370,37 +370,37 @@
 261 = {
     aristocrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 30500
     }
 }
@@ -409,37 +409,37 @@
 260 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 16500
     }
 	
 	farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 560
     }
 }
@@ -448,37 +448,37 @@
 3610 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 12500
     }
 	
 	farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 }
@@ -487,37 +487,37 @@
 3611 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 2100
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 15500
     }
 	
 	farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 }
@@ -526,37 +526,37 @@
 3612 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 2100
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 16500
     }
 	
 	farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 }
@@ -565,37 +565,37 @@
 3613 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 21500
     }
 	
 	farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1600
     }
 }
@@ -604,37 +604,37 @@
 3614 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 20500
     }
 	
 	farmers = {
         culture = norse_gaelic
-        religion = reformed
+        religion = alexandrian_orthodox
         size = 5600
     }
 }
@@ -643,37 +643,37 @@
 3615 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 11500
     }
 	
 	farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 800
     }
 }
@@ -682,37 +682,37 @@
 3616 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 10500
     }
 	
 	farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1900
     }
 }
@@ -721,37 +721,37 @@
 3617 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 8500
     }
 	
 	farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 }
@@ -760,37 +760,37 @@
 3618 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 400
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 25500
     }
 	
 	farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 960
     }
 }
@@ -799,91 +799,91 @@
 3619 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     bureaucrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     officers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 90350
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 8000
     }
 
     aristocrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 900
     }
 
     bureaucrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     officers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     soldiers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 5250
     }
 }
@@ -892,43 +892,43 @@
 3629 = {
     aristocrats = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     artisans = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     farmers = {
         culture = mhummanien
-        religion = catholic
+        religion = roman_catholic
         size = 72500
     }
 	
 	farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 12500
     }
 }
@@ -938,31 +938,31 @@
 262 = {
     aristocrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 750
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 7000
     }
 
     soldiers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 124750
     }
 
@@ -985,13 +985,13 @@
 
     aristocrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     bureaucrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
@@ -1021,55 +1021,55 @@
 
     officers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 500
     }
 
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 2250
     }
 
     soldiers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 2500
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 10000
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 2000
     }
 
     farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 110375
     }
 }
@@ -1083,7 +1083,7 @@
 
     aristocrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
@@ -1101,25 +1101,25 @@
 
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 6500
     }
 
     soldiers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 104400
     }
 }
@@ -1132,7 +1132,7 @@
 
     aristocrats = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
@@ -1150,25 +1150,25 @@
 
     clergymen = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 6500
     }
 
     soldiers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     farmers = {
         culture = irish
-        religion = catholic
+        religion = roman_catholic
         size = 104400
     }
 }

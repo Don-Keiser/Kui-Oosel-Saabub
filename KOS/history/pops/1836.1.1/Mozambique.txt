@@ -4,31 +4,31 @@
 2049 = {
     aristocrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     soldiers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
@@ -327,31 +327,31 @@
 2053 = {
     aristocrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     soldiers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 1000
     }
 
@@ -455,31 +455,31 @@
 2059 = {
     aristocrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     soldiers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
@@ -818,31 +818,31 @@
 2057 = {
     aristocrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     soldiers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
@@ -1017,31 +1017,31 @@
 2060 = {
     aristocrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 275
     }
 
     clergymen = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     bureaucrats = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     soldiers = {
         culture = lusitanian
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 

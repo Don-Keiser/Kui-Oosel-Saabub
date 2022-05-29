@@ -115,7 +115,7 @@
 2497 = {
     clergymen = {
         culture = australian
-        religion = protestant
+        religion = african_catholic
         size = 15
     }
 
@@ -133,43 +133,43 @@
 
     aristocrats = {
         culture = australian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     bureaucrats = {
         culture = australian
-        religion = protestant
+        religion = african_catholic
         size = 3
     }
 
     officers = {
         culture = australian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     artisans = {
         culture = australian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
     clergymen = {
         culture = australian
-        religion = protestant
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = australian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
     farmers = {
         culture = australian
-        religion = protestant
+        religion = african_catholic
         size = 10
     }
 
@@ -442,13 +442,13 @@
 2508 = {
     clergymen = {
         culture = australian
-        religion = protestant
+        religion = african_catholic
         size = 20
     }
 
     farmers = {
         culture = australian
-        religion = protestant
+        religion = african_catholic
         size = 235
     }
 

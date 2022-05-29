@@ -238,31 +238,31 @@
 
     aristocrats = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 550
     }
 
     clergymen = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     artisans = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 1150
     }
 
     soldiers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 300
     }
 
     farmers = {
         culture = fulbe
-        religion = catholic
+        religion = roman_catholic
         size = 19700
     }
 }
@@ -272,73 +272,73 @@
 1905 = {
     aristocrats = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     bureaucrats = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     officers = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     clergymen = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 75
     }
 
     artisans = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 125
     }
 
     soldiers = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 1650
     }
 
     aristocrats = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     clergymen = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 250
     }
 
     farmers = {
         culture = mande
-        religion = catholic
+        religion = roman_catholic
         size = 19550
     }
 
@@ -382,31 +382,31 @@
 1906 = {
     aristocrats = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     clergymen = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     artisans = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 350
     }
 
     soldiers = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 2100
     }
 
     farmers = {
         culture = dyula
-        religion = catholic
+        religion = roman_catholic
         size = 3300
     }
 

@@ -1,5 +1,5 @@
-owner = SZA
-controller = SZA
-add_core = SZA
+owner = HIS
+controller = HIS
+add_core = HIS
 trade_goods = coal
 life_rating = 35

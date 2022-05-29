@@ -69,13 +69,13 @@
 
     clergymen = {
         culture = vigrid
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     farmers = {
         culture = vigrid
-        religion = catholic
+        religion = roman_catholic
         size = 3075
     }
 
@@ -150,13 +150,13 @@
 
     clergymen = {
         culture = vigrid
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     farmers = {
         culture = vigrid
-        religion = catholic
+        religion = roman_catholic
         size = 4000
     }
 

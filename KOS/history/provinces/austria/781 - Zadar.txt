@@ -1,6 +1,6 @@
-owner = LBU
-controller = LBU
-add_core = LBU
+owner = DLM
+controller = DLM
+add_core = DLM
 terrain = zadar
 trade_goods = fish
 life_rating = 35

@@ -4,43 +4,43 @@
 1731 = {
     aristocrats = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 600
     }
 
     bureaucrats = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     officers = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 1200
     }
 
     artisans = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 8000
     }
 
     soldiers = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 2600
     }
 
     farmers = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 72000
     }
 }
@@ -48,31 +48,31 @@
 1732 = {
     aristocrats = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 120
     }
 
     clergymen = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 200
     }
 
     artisans = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 1800
     }
 
     soldiers = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
     farmers = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 15000
     }
 	
@@ -86,31 +86,31 @@
 1733 = {
     aristocrats = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 230
     }
 
     clergymen = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 450
     }
 
     artisans = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 3420
     }
 
     soldiers = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 1700
     }
 
     farmers = {
         culture = african_romance
-        religion = catholic
+        religion = roman_catholic
         size = 35000
     }
 }
@@ -118,67 +118,67 @@
 1734 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1150
     }
 
     clergymen = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 75
     }
 
     artisans = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 400
     }
 
     soldiers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 75
     }
 
     farmers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 7300
     }
 
     aristocrats = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 225
     }
 
     clergymen = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 125
     }
 
     artisans = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 650
     }
 
     soldiers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1100
     }
 
     farmers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 28000
     }
 	
 	farmers = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1870
     }
 	
@@ -190,7 +190,7 @@
 
     farmers = {
         culture = tasuknit
-        religion = catholic
+        religion = roman_catholic
         size = 6000
     }
 }
@@ -200,85 +200,85 @@
 1735 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1275
     }
 
     bureaucrats = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 25
     }
 
     officers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 25
     }
 
     clergymen = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 150
     }
 
     artisans = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 735
     }
 
     soldiers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1100
     }
 
     farmers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 44025
     }
 
     aristocrats = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 175
     }
 
     clergymen = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 70
     }
 
     artisans = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 500
     }
 
     soldiers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 100
     }
 
     farmers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 8650
     }
 	
 	farmers = {
         culture = tasuknit
-        religion = catholic
+        religion = roman_catholic
         size = 6025
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 2000
     }
 
@@ -310,73 +310,73 @@
 1736 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1075
     }
 
     clergymen = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 50
     }
 
     artisans = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 250
     }
 
     soldiers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 50
     }
 
     farmers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 4575
     }
 
     aristocrats = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 125
     }
 
     clergymen = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 75
     }
 
     artisans = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 400
     }
 
     soldiers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 75
     }
 
     farmers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 17325
     }
 	
 	farmers = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 8025
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 2000
     }
 }
@@ -384,73 +384,73 @@
 1737 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1025
     }
 
     clergymen = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 50
     }
 
     artisans = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 150
     }
 
     soldiers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 25
     }
 
     farmers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 8700
     }
 
     aristocrats = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 100
     }
 
     clergymen = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 50
     }
 
     artisans = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 300
     }
 
     soldiers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 50
     }
 
     farmers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 15500
     }
 	
 	farmers = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 5500
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 3000
     }
 }
@@ -460,37 +460,37 @@
 1738 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 25
     }
 
     clergymen = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 50
     }
 
     artisans = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 150
     }
 
     soldiers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 125
     }
 
     farmers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 2750
     }
 	
 	farmers = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 8750
     }
 }
@@ -499,61 +499,61 @@
 1740 = {
     aristocrats = {
         culture = greek
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1025
     }
 
     clergymen = {
         culture = tasuknit
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = tasuknit
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     soldiers = {
         culture = tasuknit
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     farmers = {
         culture = tasuknit
-        religion = catholic
+        religion = roman_catholic
         size = 9750
     }
 
     aristocrats = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 15
     }
 
     clergymen = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 25
     }
 
     artisans = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 50
     }
 
     soldiers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 10
     }
 
     farmers = {
         culture = kurenai
-        religion = orthodox
+        religion = thessalonian_orthodox
         size = 1900
     }
 }
@@ -562,61 +562,61 @@
 
     aristocrats = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     clergymen = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     artisans = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 150
     }
 
     soldiers = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 1100
     }
 
     farmers = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 2650
     }
 
     aristocrats = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 15
     }
 
     clergymen = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 50
     }
 
     soldiers = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 10
     }
 
     farmers = {
         culture = tawjilit
-        religion = catholic
+        religion = roman_catholic
         size = 1500
     }
 
@@ -724,7 +724,7 @@
 	
 	farmers = {
         culture = tasuknit
-        religion = catholic
+        religion = roman_catholic
         size = 1875
     }
 	

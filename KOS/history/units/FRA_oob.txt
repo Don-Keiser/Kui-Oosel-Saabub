@@ -1,14 +1,4 @@
 #Sphere of Influence
-BEL = {
-    value = 125        #relation
-    level = 5       #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
-LUX = {
-    value = 145        #relation
-    level = 3        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
 LOR = {
     value = 165        #relation
     level = 5        #3=cordial, 4 = friendly, 5 sphere
@@ -19,28 +9,8 @@ GTL = {
     level = 5        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 50
 }
-BAD = {
-    value = 120        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
 WUR = {
     value = 80        #relation
-    level = 4        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
-RHI = {
-    value = 185        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
-WES = {
-    value = 115        #relation
-    level = 4        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
-MUN = {
-    value = 130        #relation
     level = 4        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
@@ -63,15 +33,21 @@ TOR = {
     influence_value = 25
 }
 
-PRO = {
-    value = 200        #relation
+TUS = {
+    value = 100        #relation
     level = 5        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 
-TUS = {
-    value = 100        #relation
+BRG = {
+    value = -100        #relation
     level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+ARN = {
+    value = 125        #relation
+    level = 2        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25
 }
 
