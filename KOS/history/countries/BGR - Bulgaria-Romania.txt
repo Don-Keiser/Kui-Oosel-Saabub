@@ -1,7 +1,7 @@
 capital = 809
 primary_culture = bulgarian
 culture = romanian
-religion = orthodox
+religion = thessalonian_orthodox
 government = hms_government
 plurality = 0.08
 nationalvalue = nv_order
@@ -39,7 +39,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 ruling_party = BUL_conservative
 upper_house = {

@@ -39,129 +39,141 @@
 
 3704 = {
     aristocrats = {
-        culture = rheinian
-        religion = african_catholic
+        culture = ostrahe
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = rheinian
-        religion = african_catholic
+        culture = ostrahe
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
-        culture = rheinian
-        religion = african_catholic
+        culture = ostrahe
+        religion = roman_catholic
         size = 300
     }
 
     soldiers = {
-        culture = rheinian
-        religion = african_catholic
+        culture = ostrahe
+        religion = roman_catholic
         size = 75
     }
 
     farmers = {
-        culture = rheinian
-        religion = african_catholic
+        culture = ostrahe
+        religion = roman_catholic
         size = 25475
     }
 }
 
 3711 = {
     aristocrats = {
-        culture = rheinian
-        religion = african_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = rheinian
-        religion = african_catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = rheinian
-        religion = african_catholic
+        culture = ostrahe
+        religion = roman_catholic
         size = 300
     }
 
+    clergymen = {
+        culture = ostrahe
+        religion = roman_catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = ostrahe
+        religion = roman_catholic
+        size = 1900
+    }
+
     soldiers = {
-        culture = rheinian
-        religion = african_catholic
-        size = 75
+        culture = ostrahe
+        religion = roman_catholic
+        size = 600
     }
 
     farmers = {
-        culture = rheinian
-        religion = african_catholic
-        size = 35475
+        culture = ostrahe
+        religion = roman_catholic
+        size = 32000
     }
 }
 
 3705 = {
     aristocrats = {
-        culture = rheinian
-        religion = african_catholic
+        culture = ostrahe
+        religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = rheinian
-        religion = african_catholic
+        culture = ostrahe
+        religion = roman_catholic
         size = 250
     }
 
     artisans = {
-        culture = rheinian
-        religion = african_catholic
-        size = 300
+        culture = ostrahe
+        religion = roman_catholic
+        size = 3000
     }
 
     soldiers = {
-        culture = rheinian
-        religion = african_catholic
-        size = 75
+        culture = ostrahe
+        religion = roman_catholic
+        size = 250
     }
 
     farmers = {
-        culture = rheinian
-        religion = african_catholic
+        culture = ostrahe
+        religion = roman_catholic
         size = 25475
     }
 }
 
 3712 = {
     aristocrats = {
-        culture = rheinian
-        religion = african_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = rheinian
-        religion = african_catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = rheinian
-        religion = african_catholic
+        culture = ostrahe
+        religion = roman_catholic
         size = 300
     }
 
+    clergymen = {
+        culture = ostrahe
+        religion = roman_catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = ostrahe
+        religion = roman_catholic
+        size = 3600
+    }
+
     soldiers = {
-        culture = rheinian
-        religion = african_catholic
-        size = 75
+        culture = ostrahe
+        religion = roman_catholic
+        size = 1200
     }
 
     farmers = {
-        culture = rheinian
-        religion = african_catholic
-        size = 35475
+        culture = ostrahe
+        religion = roman_catholic
+        size = 46000
+    }
+	
+	farmers = {
+        culture = frysk
+        religion = roman_catholic
+        size = 2200
+    }
+	
+	farmers = {
+        culture = saxon
+        religion = roman_catholic
+        size = 5600
     }
 }
 

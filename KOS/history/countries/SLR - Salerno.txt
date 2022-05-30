@@ -1,7 +1,7 @@
 capital = 754
 primary_culture = griko
 culture = romagnol
-religion = orthodox
+religion = thessalonian_orthodox
 government = democracy
 plurality = 0
 nationalvalue = nv_order

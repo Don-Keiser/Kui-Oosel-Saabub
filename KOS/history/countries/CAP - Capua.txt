@@ -1,6 +1,6 @@
 capital = 754
 primary_culture = romagnol
-religion = catholic
+religion = roman_catholic
 government = democracy
 plurality = 0
 nationalvalue = nv_order

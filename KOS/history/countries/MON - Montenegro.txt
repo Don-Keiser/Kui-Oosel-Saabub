@@ -1,6 +1,6 @@
 capital = 2583
 primary_culture = malazez
-religion = catholic
+religion = roman_catholic
 government = colonial_company
 plurality = 25.0
 nationalvalue = nv_autocracy
@@ -39,7 +39,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 set_country_flag = theocratic_government
 
 ruling_party = MON_conservative

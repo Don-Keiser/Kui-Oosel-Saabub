@@ -1,7 +1,7 @@
 ## /history/countries/TAG - Country.txt ##
 capital = 17
 primary_culture = anglo_canadian
-religion = protestant
+religion = african_catholic
 government = dominion
 plurality = 20
 nationalvalue = nv_productivity
@@ -35,7 +35,7 @@ school_reforms = low_schools
 unemployment_subsidies = trinket_subsidies
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 set_country_flag = new_world_nation
 set_country_flag = post_colonial_country
 set_country_flag = exempt_from_vassal_contribution

@@ -1,6 +1,6 @@
 capital = 2217
 primary_culture = afro_caribbean
-religion = protestant
+religion = african_catholic
 government = dominion
 plurality = 0.1
 nationalvalue = nv_productivity
@@ -37,7 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = exploitation
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 ruling_party = JAM_conservative
 upper_house = {

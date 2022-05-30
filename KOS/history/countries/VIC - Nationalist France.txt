@@ -1,6 +1,6 @@
 capital = 455
 primary_culture = french
-religion = catholic
+religion = roman_catholic
 government = democracy
 plurality = 0.1
 nationalvalue = nv_order
@@ -74,7 +74,7 @@ romanticism = 1
 interchangeable_parts = 1
 high_pressure_steam_engine = 1
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 ruling_party = FRA_conservative
 upper_house = {

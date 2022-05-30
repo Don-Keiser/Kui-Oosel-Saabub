@@ -3,7 +3,7 @@ primary_culture = finnish
 culture = ugrian
 culture = russian
 culture = sami
-religion = orthodox
+religion = thessalonian_orthodox
 government = democracy
 plurality = 0.5
 nationalvalue = nv_equality
@@ -62,7 +62,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 ruling_party = KRL_conservative
 upper_house = {

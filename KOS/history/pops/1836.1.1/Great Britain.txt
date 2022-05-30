@@ -569,7 +569,7 @@
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 3500
     }
@@ -1162,7 +1162,7 @@
     }
 
     farmers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 4000
     }
@@ -1220,7 +1220,7 @@
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 2000
     }
@@ -1238,7 +1238,7 @@
     }
 
     farmers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 9100
     }
@@ -1252,7 +1252,7 @@
 #Chester (368000/92000 POPS)
 285 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 750
     }
@@ -1270,7 +1270,7 @@
     }
 	
 	artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 3000
     }
@@ -1344,7 +1344,7 @@
     }
 	
 	labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 8875
     }
@@ -1352,13 +1352,13 @@
 #Coventry (432000/108000 POPS)
 287 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 500
     }
@@ -1382,7 +1382,7 @@
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
@@ -1394,7 +1394,7 @@
     }
 	
 	labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 20000
     }
@@ -1404,19 +1404,19 @@
 #Nottingham (484000/121000 POPS)
 288 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 750
     }
 
     officers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     bureaucrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 750
     }
@@ -1428,7 +1428,7 @@
     }
 
     capitalists = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 100
     }
@@ -1452,7 +1452,7 @@
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
@@ -1464,7 +1464,7 @@
     }
 
     farmers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 10000
     }
@@ -1472,13 +1472,13 @@
 #Leicester (404000/101000 POPS)
 289 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 250
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 375
     }
@@ -1490,7 +1490,7 @@
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
@@ -1502,7 +1502,7 @@
     }
 	
 	labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 25375
     }
@@ -1510,7 +1510,7 @@
 #Lincoln (336000/84000 POPS)
 290 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 500
     }
@@ -1528,7 +1528,7 @@
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
@@ -1546,7 +1546,7 @@
     }
 	
 	labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 10500
     }
@@ -1556,43 +1556,43 @@
 #Cambridge (308000/77000 POPS)
 291 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 500
     }
 
     officers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1750
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 500
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 5500
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 53500
     }
@@ -1606,31 +1606,31 @@
 #Ipswich (676000/169000 POPS)
 292 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1500
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 8500
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1500
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 148500
     }
@@ -1650,31 +1650,31 @@
 #Chelmsford (276000/69000 POPS)
 293 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 500
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 375
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 7500
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1500
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 57125
     }
@@ -1684,43 +1684,43 @@
 #294 : Oxford (304000/76000 POPS)
 294 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 750
     }
 
     officers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1075
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1500
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1500
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 58625
     }
@@ -1734,31 +1734,31 @@
 #St. Albans (312000/78000 POPS)
 295 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 750
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1500
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 62750
     }
@@ -1774,61 +1774,61 @@
 #Bristol (404000/101000 POPS)
 296 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 500
     }
 
     officers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 500
     }
 
     bureaucrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1550
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1625
     }
 
     capitalists = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 250
     }
 
     clerks = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 600
     }
 
     craftsmen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 12000
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 9000
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 45275
     }
@@ -1848,37 +1848,37 @@
 #Salisbury (408000/102000 POPS)
 297 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 625
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 5000
     }
 
     craftsmen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 12000
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 74375
     }
@@ -1892,36 +1892,36 @@
 #Bath (408000/102000 POPS)
 298 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1750
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1625
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 5000
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
     craftsmen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 8000
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 35625
     }
@@ -1935,13 +1935,13 @@
 #Plymouth (812000/203000 POPS)
 299 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1500
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1000
     }
@@ -1965,7 +1965,7 @@
     }
 
     farmers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 7100
     }
@@ -1999,7 +1999,7 @@
     }
 	
 	farmers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 12000
     }
@@ -2009,43 +2009,43 @@
 #London (2052000/513000 POPS)
 300 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 5500
     }
 
     officers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 2500
     }
 
     bureaucrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 18000
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 18250
     }
 
     capitalists = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 2500
     }
 
     clerks = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 12000
     }
 
     craftsmen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 116000
     }
@@ -2069,31 +2069,31 @@
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 9500
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 40000
     }
 
     farmers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 127000
     }
@@ -2151,31 +2151,31 @@
 #Canterbury (476000/98000 POPS)
 301 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 250
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 625
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 88625
     }
@@ -2183,37 +2183,37 @@
 #Brighton (404000/101000 POPS)
 302 = {
     aristocrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 250
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 8000
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1250
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 75500
     }
@@ -2221,25 +2221,25 @@
 #Portsmouth
 3269 = {
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 500
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 500
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 23000
     }
@@ -2248,31 +2248,31 @@
 #Southampton (332000/83000 POPS)
 303 = {
     officers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     bureaucrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 750
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 500
     }
 
     soldiers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 1100
     }
 
     labourers = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 68000
     }
@@ -2383,13 +2383,13 @@
     }
 
     bureaucrats = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 10
     }
 
     clergymen = {
-        culture = brettonic
+        culture = brythonic
         religion = roman_catholic
         size = 10
     }

@@ -1,6 +1,6 @@
 capital = 2187
 primary_culture = central_american
-religion = catholic
+religion = roman_catholic
 government = democracy
 plurality = 0.0
 nationalvalue = nv_equality
@@ -61,7 +61,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 ruling_party = LOS_liberal
 last_election = 1835.2.14

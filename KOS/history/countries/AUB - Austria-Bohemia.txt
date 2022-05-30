@@ -1,7 +1,7 @@
 capital = 619
 primary_culture = south_german
 culture = czech
-religion = catholic
+religion = roman_catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_autocracy
@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = regionalism
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 ruling_party = AUS_conservative
 upper_house = {

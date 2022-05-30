@@ -2,8 +2,8 @@ capital = 375
 primary_culture = dutch
 culture = flemish
 culture = wallonian
-culture = dutsk
-religion = catholic
+culture = frysk
+religion = roman_catholic
 government = absolute_monarchy
 plurality = 15.0
 nationalvalue = nv_productivity
@@ -43,7 +43,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = exploitation
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 set_country_flag = cultuurstelsel
 
 ruling_party = HOL_conservative

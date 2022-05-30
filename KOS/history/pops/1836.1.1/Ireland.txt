@@ -387,7 +387,7 @@
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 4000
     }
@@ -408,31 +408,31 @@
 #Mala (890000/224000 POPS)
 260 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 750
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 16500
     }
@@ -447,31 +447,31 @@
 #Sciobairin
 3610 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 300
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 500
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 800
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 12500
     }
@@ -486,31 +486,31 @@
 #Cloichnacoillte
 3611 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 2100
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 750
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 15500
     }
@@ -525,31 +525,31 @@
 #Cionn tSaile
 3612 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 2100
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 750
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 16500
     }
@@ -564,31 +564,31 @@
 #Eochaill
 3613 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 750
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 21500
     }
@@ -603,31 +603,31 @@
 #Garbhan
 3614 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 750
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 20500
     }
@@ -642,31 +642,31 @@
 #Beanntrai
 3615 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 750
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 11500
     }
@@ -681,31 +681,31 @@
 #Neidin
 3616 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 750
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 10500
     }
@@ -720,31 +720,31 @@
 #Orglan
 3617 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 750
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 8500
     }
@@ -759,31 +759,31 @@
 #Airne
 3618 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 750
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 25500
     }
@@ -798,61 +798,61 @@
 #Corcaigh
 3619 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 600
     }
 
     bureaucrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 2000
     }
 
     officers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 500
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1500
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1500
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 90350
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 8000
     }
@@ -891,19 +891,19 @@
 #Limerick (818000/204500 POPS)
 3629 = {
     aristocrats = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1500
     }
 
     artisans = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 10000
     }
@@ -915,13 +915,13 @@
     }
 
     soldiers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 1500
     }
 
     farmers = {
-        culture = mhummanien
+        culture = irish
         religion = roman_catholic
         size = 72500
     }

@@ -3,7 +3,7 @@ primary_culture = kreol
 culture = afro_caribbean
 culture = afro_french
 culture = amazonian
-religion = protestant
+religion = african_catholic
 government = democracy
 plurality = 0.0
 nationalvalue = nv_order
@@ -62,7 +62,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 set_country_flag = new_world_nation
 

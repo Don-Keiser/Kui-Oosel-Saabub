@@ -1,7 +1,7 @@
 capital = 409
 primary_culture = south_rheinian
-culture = lorrain
-religion = protestant
+culture = ostrahe
+religion = african_catholic
 government = democracy
 plurality = 0.0
 nationalvalue = nv_equality
@@ -60,7 +60,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 ruling_party = ALS_conservative
 upper_house = {

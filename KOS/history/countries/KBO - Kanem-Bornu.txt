@@ -3,7 +3,7 @@ primary_culture = kanuri
 culture = hausa
 culture = sara
 culture = fulbe
-religion = catholic
+religion = roman_catholic
 government = theocracy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -53,7 +53,7 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 foreign_training = yes_foreign_training
 foreign_weapons = yes_foreign_weapons

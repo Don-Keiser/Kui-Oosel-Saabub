@@ -1,7 +1,7 @@
 capital = 699
 primary_culture = north_german
 culture = polish
-religion = catholic
+religion = roman_catholic
 government = colonial_company
 plurality = 0.2
 nationalvalue = nv_liberty
@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 ruling_party = POL_conservative
 upper_house = {

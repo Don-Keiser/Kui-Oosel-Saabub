@@ -1,6 +1,6 @@
 capital = 706
 primary_culture = lendian
-religion = catholic
+religion = roman_catholic
 government = hms_government
 plurality = 0.05
 nationalvalue = nv_tradition
@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 ruling_party = KRA_conservative
 last_election = 1836.1.1

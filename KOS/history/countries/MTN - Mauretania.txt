@@ -1,6 +1,6 @@
 capital = 1691
 primary_culture = muretannian
-religion = catholic
+religion = roman_catholic
 government = colonial_company
 plurality = 10.0
 nationalvalue = nv_order

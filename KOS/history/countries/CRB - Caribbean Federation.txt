@@ -1,6 +1,6 @@
 capital = 2217
 primary_culture = afro_caribbean
-religion = protestant
+religion = african_catholic
 government = hms_government
 plurality = 10
 nationalvalue = nv_liberty
@@ -49,7 +49,7 @@ unemployment_subsidies = trinket_subsidies
 pensions = no_pensions
 school_reforms = low_schools
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 set_country_flag = new_world_nation
 
 #New Reforms

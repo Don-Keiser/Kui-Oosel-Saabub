@@ -3,7 +3,7 @@ primary_culture = ewe
 culture = east_kwa
 culture = fon
 culture = gur
-religion = catholic
+religion = roman_catholic
 government = democracy
 plurality = 0.0
 nationalvalue = nv_tradition
@@ -39,7 +39,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 set_country_flag = post_colonial_country
 

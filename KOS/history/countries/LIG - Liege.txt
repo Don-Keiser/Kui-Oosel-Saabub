@@ -1,7 +1,7 @@
 capital = 395
 primary_culture = french
 culture = north_german
-religion = catholic
+religion = roman_catholic
 government = democracy
 plurality = 0.05
 nationalvalue = nv_liberty
@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 # Technologies
 post_napoleonic_thought = 1

@@ -183,7 +183,7 @@
     }
 
     artisans = {
-        culture = dutsk
+        culture = frysk
         religion = african_catholic
         size = 5500
     }

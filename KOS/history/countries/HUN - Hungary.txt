@@ -1,10 +1,10 @@
 capital = 641
 primary_culture = hungarian
 culture = tiszai
-culture = totorok
+culture = travesz
 culture = szekely
 culture = csangok
-religion = catholic
+religion = roman_catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
@@ -64,7 +64,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 oob = "HUN_oob.txt"
 

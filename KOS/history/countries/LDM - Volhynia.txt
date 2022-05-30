@@ -1,9 +1,9 @@
 capital = 702
-primary_culture = bukkfai
+primary_culture = vizselyi
 culture = halicsiai
 culture = hungarian
 culture = csangok
-religion = catholic
+religion = roman_catholic
 government = hms_government
 plurality = 22.0
 nationalvalue = nv_order
@@ -63,7 +63,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 ruling_party = HUN_conservative
 upper_house = {

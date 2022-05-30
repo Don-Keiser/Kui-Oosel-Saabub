@@ -1,7 +1,7 @@
 capital = 619
 primary_culture = south_german
 culture = north_german
-religion = catholic
+religion = roman_catholic
 government = absolute_empire
 plurality = 10.0
 nationalvalue = nv_autocracy
@@ -41,7 +41,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 set_country_flag = serfdom_not_abolished
 
 govt_flag = { government = absolute_monarchy flag = theocracy }

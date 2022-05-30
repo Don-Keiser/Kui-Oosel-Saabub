@@ -1,7 +1,7 @@
 capital = 597
 primary_culture = rheinian
 culture = south_german
-religion = catholic
+religion = roman_catholic
 government = theocracy
 plurality = 0
 nationalvalue = nv_order

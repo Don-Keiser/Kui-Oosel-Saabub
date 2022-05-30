@@ -6,7 +6,7 @@ culture = ugrian
 culture = volga_german
 culture = alaskan
 culture = cossack
-religion = orthodox
+religion = thessalonian_orthodox
 government = absolute_empire
 plurality = 5.0
 nationalvalue = nv_autocracy
@@ -48,7 +48,7 @@ border_policy = closed_borders
 centralization = regionalism
 colonial_policy = settlement
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 ruling_party = RUS_conservative
 upper_house = {

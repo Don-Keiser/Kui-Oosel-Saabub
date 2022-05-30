@@ -2,9 +2,9 @@
 
 capital = 3251
 primary_culture = occitan
-culture = ligurian
+culture = ligur
 culture = french
-religion = catholic
+religion = roman_catholic
 government = absolute_monarchy
 plurality = 5
 nationalvalue = nv_order
@@ -66,7 +66,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 set_country_flag = micro_nation
 
 # Technologies

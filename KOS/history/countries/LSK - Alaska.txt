@@ -1,6 +1,6 @@
 capital = 1
 primary_culture = alaskan
-religion = orthodox
+religion = thessalonian_orthodox
 government = colonial_company
 plurality = 0.5
 nationalvalue = nv_liberty
@@ -59,7 +59,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 set_country_flag = new_world_nation
 
 ruling_party = LSK_conservative

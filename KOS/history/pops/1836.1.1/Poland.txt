@@ -2225,25 +2225,25 @@ clergymen = {
     }
 
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 15825
     }
@@ -2293,25 +2293,25 @@ clergymen = {
     }
 
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 12920
     }
@@ -2592,25 +2592,25 @@ clergymen = {
 #Przemysl (596000/149000 POPS)
 705 = {
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 175
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 950
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 175
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 17700
     }
@@ -2646,7 +2646,7 @@ clergymen = {
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = thessalonian_orthodox
         size = 22000
     }
@@ -2713,13 +2713,13 @@ clergymen = {
     }
 	
 	soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 1000
     }
 	
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 21000
     }

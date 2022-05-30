@@ -27,25 +27,25 @@
     }
 
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 200
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 200
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 19600
     }
@@ -133,25 +133,25 @@
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 850
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 4600
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 900
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 32650
     }
@@ -170,25 +170,25 @@
 }
 3332 = {
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 150
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 850
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 175
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 15825
     }
@@ -276,31 +276,31 @@
 #Lvov (660000/165000 POPS) #now part of Ukraine
 702 = {
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 1950
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 9900
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 1950
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 184200
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 80000
     }
@@ -362,25 +362,25 @@
 #Stryi (404000/101000 POPS) #now part of Ukraine
 951 = {
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 475
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 2550
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 500
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 50475
     }
@@ -442,25 +442,25 @@
 #Ternopil (1136000/284000 POPS) #now part of Ukraine
 952 = {
 	clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 750
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 4200
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 1000
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 92050
     }
@@ -534,25 +534,25 @@
 #Stanislavov (376000/94000 POPS) #now part of Ukraine
 953 = {
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 500
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 2650
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 525
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 40325
     }
@@ -786,31 +786,31 @@
     }
 
     aristocrats = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 125
     }
 
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 11725
     }
@@ -872,31 +872,31 @@
     }
 
     aristocrats = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 2600
     }
 
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 750
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 10375
     }
@@ -1048,43 +1048,43 @@
     }
 	
 	aristocrats = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 1050
     }
 
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 150
     }
 
     bureaucrats = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 75
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 3250
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 11540
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 500
     }
 
     officers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 25
     }

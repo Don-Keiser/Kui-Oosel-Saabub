@@ -1,6 +1,6 @@
 capital = 2247
 primary_culture = north_andean
-religion = catholic
+religion = roman_catholic
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_order
@@ -38,7 +38,7 @@ centralization = federalism
 colonial_policy = no_colonies
 
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 set_country_flag = new_world_nation
 
 ruling_party = GCO_liberal

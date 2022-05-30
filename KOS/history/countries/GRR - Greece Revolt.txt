@@ -1,6 +1,6 @@
 capital = 834
 primary_culture = greek
-religion = orthodox
+religion = thessalonian_orthodox
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
@@ -37,7 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 ruling_party = GRE_conservative
 upper_house = {

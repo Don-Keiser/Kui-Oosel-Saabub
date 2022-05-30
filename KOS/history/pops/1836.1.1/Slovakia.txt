@@ -291,7 +291,7 @@
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 2000
     }
@@ -495,31 +495,31 @@
     }
 	
 	aristocrats = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 825
     }
@@ -588,31 +588,31 @@
     }
 	
 	aristocrats = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 825
     }

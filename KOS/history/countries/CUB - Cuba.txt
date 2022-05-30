@@ -1,6 +1,6 @@
 capital = 2209
 primary_culture = caribeno
-religion = catholic
+religion = roman_catholic
 government = presidential_dictatorship
 plurality = 0.5
 nationalvalue = nv_order
@@ -59,7 +59,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 set_country_flag = existing_country
 set_country_flag = new_world_nation
 govt_flag = { government = colonial_company flag = hms_government }

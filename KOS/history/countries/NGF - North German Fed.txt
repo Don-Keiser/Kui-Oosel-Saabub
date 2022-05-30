@@ -2,7 +2,7 @@ capital = 549
 primary_culture = north_german
 culture = south_german
 culture = volga_german
-religion = protestant
+religion = african_catholic
 government = prussian_constitutionalism
 plurality = 0.15
 nationalvalue = nv_order
@@ -39,7 +39,7 @@ border_policy = open_borders
 centralization = federalism
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 ruling_party = NGF_liberal
 upper_house = {

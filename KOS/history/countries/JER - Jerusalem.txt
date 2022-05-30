@@ -2,7 +2,7 @@ capital = 917
 primary_culture = outremer
 culture = syriac
 culture = nabataean
-religion = catholic
+religion = roman_catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
@@ -37,7 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 # Technologies
 post_napoleonic_thought = 1

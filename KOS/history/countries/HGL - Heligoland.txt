@@ -1,6 +1,6 @@
 capital = 533
-primary_culture = dutsk
-religion = protestant
+primary_culture = frysk
+religion = african_catholic
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_order
@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 ruling_party = HAN_conservative_2
 upper_house = {

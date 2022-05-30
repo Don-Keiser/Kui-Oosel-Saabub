@@ -1,6 +1,6 @@
 capital = 477
 primary_culture = suebi
-religion = catholic
+religion = roman_catholic
 government = hms_government
 plurality = 0.0
 nationalvalue = nv_equality

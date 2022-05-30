@@ -1,6 +1,6 @@
 capital = 377
 primary_culture = dutch
-religion = protestant
+religion = african_catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

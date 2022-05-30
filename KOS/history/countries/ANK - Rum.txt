@@ -1,7 +1,7 @@
 capital = 876
 primary_culture = rumi
 culture = cappadocian
-religion = orthodox
+religion = thessalonian_orthodox
 government = absolute_monarchy
 plurality = 0.1
 nationalvalue = nv_tradition
@@ -51,7 +51,7 @@ upper_house = {
 	communist = 0
 }
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 # Technologies
 post_napoleonic_thought = 1

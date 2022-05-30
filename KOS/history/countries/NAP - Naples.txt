@@ -1,7 +1,7 @@
 capital = 754
 primary_culture = romagnol
 culture = griko
-religion = catholic
+religion = roman_catholic
 government = democracy
 plurality = 20
 nationalvalue = nv_order

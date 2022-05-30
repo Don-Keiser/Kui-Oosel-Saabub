@@ -1,6 +1,6 @@
 capital = 253
 primary_culture = icelandic
-religion = protestant
+religion = african_catholic
 government = democracy
 plurality = 0.5
 nationalvalue = nv_liberty
@@ -60,7 +60,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 set_country_flag = existing_country
 
 ruling_party = FRO_liberal

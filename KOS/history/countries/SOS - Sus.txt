@@ -1,7 +1,6 @@
 capital = 1694
-primary_culture = tashelhit
-culture = tamazight
-religion = catholic
+primary_culture = muretannian
+religion = roman_catholic
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_tradition
@@ -51,7 +50,7 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 # Technologies
 military_staff_system = 1

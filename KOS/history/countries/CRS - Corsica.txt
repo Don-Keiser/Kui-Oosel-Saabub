@@ -1,7 +1,7 @@
 capital = 473
 primary_culture = sardinian
 culture = french
-religion = catholic
+religion = roman_catholic
 government = democracy
 plurality = 0.1
 nationalvalue = nv_equality
@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 ruling_party = CRS_liberal
 upper_house = {

@@ -5637,19 +5637,19 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 5
     }
 
     artisans = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 220
     }
 
     farmers = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 275
     }
@@ -7048,19 +7048,19 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 75
     }
 
     artisans = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 250
     }
 
     farmers = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 5675
     }
@@ -7632,19 +7632,19 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 50
     }
 
     artisans = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 350
     }
 
     farmers = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 6600
     }
@@ -7694,19 +7694,19 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 75
     }
 
     artisans = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 500
     }
 
     farmers = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 9425
     }
@@ -7738,19 +7738,19 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 50
     }
 
     artisans = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 350
     }
 
     farmers = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 6600
     }
@@ -7800,19 +7800,19 @@
     }
 
     clergymen = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 50
     }
 
     artisans = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 400
     }
 
     farmers = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 7550
     }
@@ -9796,7 +9796,7 @@
     }
 
     farmers = {
-        culture = dutsk
+        culture = frysk
         religion = african_catholic
         size = 1850
     }
@@ -10086,7 +10086,7 @@
     }
 
     farmers = {
-        culture = dutsk
+        culture = frysk
         religion = african_catholic
         size = 3800
     }
@@ -10154,7 +10154,7 @@
     }
 
     farmers = {
-        culture = dutsk
+        culture = frysk
         religion = african_catholic
         size = 1900
     }
@@ -10317,7 +10317,7 @@
     }
 	
 	farmers = {
-        culture = dutsk
+        culture = frysk
         religion = african_catholic
         size = 1955
     }
@@ -10430,13 +10430,13 @@
     }
 	
 	artisans = {
-        culture = dutsk
+        culture = frysk
         religion = african_catholic
         size = 650
     }
 
     farmers = {
-        culture = dutsk
+        culture = frysk
         religion = african_catholic
         size = 1675
     }

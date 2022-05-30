@@ -1,7 +1,7 @@
 capital = 428
 primary_culture = french
 culture = arpitan
-religion = catholic
+religion = roman_catholic
 government = march
 plurality = 0
 nationalvalue = nv_order

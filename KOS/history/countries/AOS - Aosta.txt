@@ -1,7 +1,7 @@
 capital = 721
 primary_culture = north_italian
 culture = arpitan
-religion = catholic
+religion = roman_catholic
 government = absolute_monarchy
 plurality = 0.1
 nationalvalue = nv_equality
@@ -61,7 +61,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 ruling_party = OCC_liberal
 upper_house = {

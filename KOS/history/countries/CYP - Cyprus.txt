@@ -1,7 +1,7 @@
 capital = 855
 primary_culture = greek
 culture = armenian
-religion = orthodox
+religion = thessalonian_orthodox
 government = colonial_company
 plurality = 0.05
 nationalvalue = nv_order
@@ -60,7 +60,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 ruling_party = CYP_conservative
 upper_house = {

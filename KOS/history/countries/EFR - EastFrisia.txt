@@ -1,6 +1,6 @@
 capital = 543
-primary_culture = dutsk
-religion = catholic
+primary_culture = frysk
+religion = roman_catholic
 government = proletarian_dictatorship
 plurality = 0
 nationalvalue = nv_equality

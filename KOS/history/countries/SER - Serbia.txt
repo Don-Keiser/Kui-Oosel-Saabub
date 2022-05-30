@@ -1,6 +1,6 @@
 capital = 794
 primary_culture = serb
-religion = orthodox
+religion = thessalonian_orthodox
 government = colonial_company
 plurality = 25.0
 nationalvalue = nv_autocracy
@@ -40,7 +40,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 ruling_party = SER_conservative
 upper_house = {

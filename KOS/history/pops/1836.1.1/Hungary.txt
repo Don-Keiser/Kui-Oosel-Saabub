@@ -981,25 +981,25 @@
     }
 
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 4915
     }

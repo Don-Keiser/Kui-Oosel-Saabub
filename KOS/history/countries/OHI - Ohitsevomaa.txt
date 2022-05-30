@@ -1,7 +1,7 @@
 capital = 718
 primary_culture = ohitsemid
 culture = west_krevin
-religion = protestant
+religion = african_catholic
 government = march
 plurality = 0.6
 nationalvalue = nv_order
@@ -66,7 +66,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 ruling_party = EST_conservative
 upper_house = {

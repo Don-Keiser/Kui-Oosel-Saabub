@@ -69,46 +69,46 @@
     }
 
     farmers = {
-        culture = arpitan
-        religion = african_catholic
+        culture = french
+        religion = roman_catholic
         size = 11600
     }
 }
 3435 = {
     artisans = {
-        culture = arpitan
-        religion = african_catholic
+        culture = ligur
+        religion = roman_catholic
         size = 775
     }
 	
     farmers = {
-        culture = arpitan
-        religion = african_catholic
-        size = 5500
+        culture = ligur
+        religion = roman_catholic
+        size = 7500
     }
 	
 	farmers = {
-        culture = ligur
+        culture = burgundian
         religion = roman_catholic
-        size = 5500
+        size = 3500
     }
 }
 3434 = {
     artisans = {
-        culture = arpitan
-        religion = african_catholic
+        culture = ligur
+        religion = roman_catholic
         size = 775
     }
     farmers = {
-        culture = arpitan
-        religion = african_catholic
-        size = 6600
+        culture = ligur
+        religion = roman_catholic
+        size = 10600
     }
 	
 	farmers = {
-        culture = ligur
+        culture = burgundian
         religion = roman_catholic
-        size = 5000
+        size = 1000
     }
 }
 #Aosta (156000/39000 POPS)
@@ -144,39 +144,33 @@
     }
 
     aristocrats = {
-        culture = arpitan
-        religion = african_catholic
+        culture = burgundian
+        religion = roman_catholic
         size = 275
     }
 
     clergymen = {
-        culture = arpitan
-        religion = african_catholic
+        culture = burgundian
+        religion = roman_catholic
         size = 225
     }
 
     artisans = {
-        culture = arpitan
-        religion = african_catholic
+        culture = burgundian
+        religion = roman_catholic
         size = 1175
     }
 
     soldiers = {
-        culture = arpitan
-        religion = african_catholic
+        culture = burgundian
+        religion = roman_catholic
         size = 225
-    }
-
-    farmers = {
-        culture = arpitan
-        religion = african_catholic
-        size = 19600
     }
 
     farmers = {
         culture = burgundian
         religion = roman_catholic
-        size = 5600
+        size = 25500
     }
 }
 #Novara (212000/53000 POPS)
@@ -686,7 +680,7 @@
 #Trent (276000/69000 POPS) #now part of Italy
 734 = {
     aristocrats = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size = 60
     }
@@ -698,7 +692,7 @@
     }
 
     bureaucrats = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size = 800
     }
@@ -722,25 +716,25 @@
     }
 
     clergymen = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size = 575
     }
 
     artisans = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size = 2800
     }
 
     soldiers = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size = 550
     }
 
     farmers = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size = 20075
     }
@@ -748,31 +742,31 @@
 #Bozen (92000/23000 POPS) #now part of Italy
 735 = {
     aristocrats = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size = 250
     }
 
     clergymen = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size =  145
     }
 
     artisans = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size = 1400
     }
 
     soldiers = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size = 18000
     }
@@ -2474,7 +2468,7 @@
     }
 
     farmers = {
-        culture = south_german
+        culture = bavarian
         religion = roman_catholic
         size = 7000
     }

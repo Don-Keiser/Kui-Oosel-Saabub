@@ -1,5 +1,5 @@
-owner = DLM
-controller = DLM
-add_core = DLM
+owner = GRE
+controller = GRE
+add_core = GRE
 trade_goods = fish
 life_rating = 35

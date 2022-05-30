@@ -4,7 +4,7 @@ culture = catalan
 culture = basque
 culture = portuguese
 culture = suebi
-religion = catholic
+religion = roman_catholic
 government = hms_government
 plurality = 0.0
 nationalvalue = nv_order
@@ -41,7 +41,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 govt_flag = {
     government = presidential_dictatorship

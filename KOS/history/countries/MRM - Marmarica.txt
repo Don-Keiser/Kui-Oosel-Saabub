@@ -49,6 +49,6 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 foreign_weapons = yes_foreign_weapons

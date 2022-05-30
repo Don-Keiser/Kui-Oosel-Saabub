@@ -167,13 +167,13 @@
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 50
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 5000
     }
@@ -973,25 +973,25 @@
 }
 3422 = {
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 225
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 1250
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 25
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 5270
     }
@@ -1059,25 +1059,25 @@
 #Udvarhely (228000/57000 POPS)
 660 = {
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 400
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 3450
     }
@@ -1265,7 +1265,7 @@
     }
 	
 	farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 18000
     }
@@ -1273,25 +1273,25 @@
 #Targu Mures (344000/86000 POPS)
 2533 = {
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 250
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 1300
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 300
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 4150
     }
@@ -1397,25 +1397,25 @@
 #Suceava (204000/51000 POPS)
 663 = {
     clergymen = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 250
     }
 
     artisans = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 1250
     }
 
     soldiers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 250
     }
 
     farmers = {
-        culture = bukkfai
+        culture = vizselyi
         religion = roman_catholic
         size = 11250
     }

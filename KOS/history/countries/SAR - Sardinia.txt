@@ -1,9 +1,6 @@
 capital = 720
-primary_culture = piedmontese
-culture = arpitan
-culture = ligurian
-culture = sardinian
-religion = catholic
+primary_culture = sardinian
+religion = roman_catholic
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
@@ -41,7 +38,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 set_country_flag = sardinian_italy
 decision = italian_renamed_savoy_aosta
 

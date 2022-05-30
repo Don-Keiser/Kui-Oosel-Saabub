@@ -1,6 +1,6 @@
 capital = 1701
-primary_culture = mzab_ourgla
-religion = catholic
+primary_culture = iznaten
+religion = roman_catholic
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_tradition

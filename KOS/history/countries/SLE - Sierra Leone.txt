@@ -1,7 +1,7 @@
 capital = 1884
 primary_culture = western_nigritic
 culture = mande
-religion = protestant
+religion = african_catholic
 government = democracy
 plurality = 0.0
 nationalvalue = nv_order
@@ -36,7 +36,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 set_country_flag = post_colonial_country
 

@@ -1,8 +1,8 @@
 capital = 370
 primary_culture = danish
 culture = north_german
-culture = dutsk
-religion = protestant
+culture = frysk
+religion = african_catholic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
@@ -61,7 +61,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 ruling_party = SCH_conservative
 upper_house = {

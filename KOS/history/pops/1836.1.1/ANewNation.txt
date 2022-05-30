@@ -73,69 +73,40 @@
 #Liechtenstein
 3253 = {
     aristocrats = {
-        culture = south_german
+        culture = ostrahe
         religion = roman_catholic
-        size = 100
-    }
-    bureaucrats = {
-        culture = south_german
-        religion = roman_catholic
-        size = 10
-    }
-    clergymen = {
-        culture = south_german
-        religion = roman_catholic
-        size = 30
-    }
-
-    artisans = {
-        culture = south_german
-        religion = roman_catholic
-        size = 450
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = roman_catholic
-        size= 100
-
-    }
-
-    farmers = {
-        culture = south_german
-        religion = roman_catholic
-        size = 875
-    }
-
-    aristocrats = {
-        culture = south_german
-        religion = roman_catholic
-        size = 100
+        size = 120
     }
 
     clergymen = {
-        culture = south_german
+        culture = ostrahe
         religion = roman_catholic
-        size = 30
+        size = 120
     }
 
     artisans = {
-        culture = south_german
+        culture = ostrahe
         religion = roman_catholic
-        size = 350
+        size = 650
     }
 
     soldiers = {
-        culture = south_german
+        culture = ostrahe
         religion = roman_catholic
-        size= 75
+        size= 200
 
     }
-
+	
     farmers = {
-        culture = south_german
+        culture = ostrahe
         religion = roman_catholic
-        size = 1075
+        size = 4500
+    }
+	
+	farmers = {
+        culture = romansh
+        religion = roman_catholic
+        size = 1200
     }
 }
 

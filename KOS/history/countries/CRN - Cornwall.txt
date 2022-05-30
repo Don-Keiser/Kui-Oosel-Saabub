@@ -1,7 +1,7 @@
 capital = 299
 primary_culture = welsh
 culture = british
-religion = protestant
+religion = african_catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order

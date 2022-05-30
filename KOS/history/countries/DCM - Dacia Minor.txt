@@ -1,6 +1,6 @@
 capital = 672
 primary_culture = daci
-religion = orthodox
+religion = thessalonian_orthodox
 government = democracy
 plurality = 0.30
 nationalvalue = nv_order
@@ -38,7 +38,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 ruling_party = ROM_liberal
 upper_house = {

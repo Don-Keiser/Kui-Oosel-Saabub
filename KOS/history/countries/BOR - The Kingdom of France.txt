@@ -6,7 +6,7 @@ culture = breton
 culture = arpitan
 culture = cajun
 culture = french_canadian
-religion = catholic
+religion = roman_catholic
 government = hms_government
 plurality = 25
 nationalvalue = nv_liberty
@@ -46,7 +46,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = exploitation
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 # Technologies
 post_napoleonic_thought = 1
@@ -103,7 +103,6 @@ upper_house = {
 
 schools = culture_tech_school
 decision = france_1836_setup
-decision = lorraine_rename
 
 govt_flag = {
     government = absolute_monarchy

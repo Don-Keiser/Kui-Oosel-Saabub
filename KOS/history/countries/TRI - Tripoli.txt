@@ -1,7 +1,6 @@
 capital = 1731
 primary_culture = neo_punic
-culture = nafusi
-religion = catholic
+religion = roman_catholic
 government = presidential_dictatorship
 plurality = 10
 nationalvalue = nv_order
@@ -49,7 +48,7 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 foreign_weapons = yes_foreign_weapons
 
 # Technologies

@@ -2,7 +2,7 @@ capital = 100
 primary_culture = dixie
 culture = texan
 culture = mexican
-religion = protestant
+religion = african_catholic
 government = democracy
 plurality = 0.1
 nationalvalue = nv_liberty
@@ -39,7 +39,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 ruling_party = UNM_liberal
 last_election = 1836.1.1

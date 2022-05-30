@@ -2,7 +2,7 @@ capital = 794
 primary_culture = serb
 culture = croat
 culture = slovene
-religion = orthodox
+religion = thessalonian_orthodox
 government = hms_government
 plurality = 25.0
 nationalvalue = nv_autocracy
@@ -39,7 +39,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 ruling_party = YUG_conservative
 last_election = 1834.1.1

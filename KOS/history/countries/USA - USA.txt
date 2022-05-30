@@ -3,7 +3,7 @@ primary_culture = yankee
 culture = dixie
 culture = texan
 culture = cajun
-religion = protestant
+religion = african_catholic
 government = democracy
 plurality = 30.0
 nationalvalue = nv_liberty
@@ -43,7 +43,7 @@ border_policy = open_borders
 centralization = regionalism
 colonial_policy = settlement
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 set_country_flag = new_world_nation
 
 ruling_party = USA_conservative

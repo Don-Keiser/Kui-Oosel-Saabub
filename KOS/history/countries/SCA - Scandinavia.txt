@@ -3,7 +3,7 @@ primary_culture = swedish
 culture = finnish
 culture = norwegian
 culture = danish
-religion = protestant
+religion = african_catholic
 government = hms_government
 plurality = 0.05
 nationalvalue = nv_order
@@ -40,7 +40,7 @@ border_policy = open_borders
 centralization = federalism
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 ruling_party = SCA_conservative
 upper_house = {

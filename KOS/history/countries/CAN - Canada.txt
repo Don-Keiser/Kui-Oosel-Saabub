@@ -2,7 +2,7 @@ capital = 57
 primary_culture = anglo_canadian
 #culture = british
 culture = french_canadian
-religion = protestant
+religion = african_catholic
 government = dominion
 plurality = 0.2
 nationalvalue = nv_order
@@ -61,7 +61,7 @@ border_policy = quota_immigration
 centralization = federalism
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 set_country_flag = exempt_from_vassal_contribution
 
 ruling_party = CAN_conservative

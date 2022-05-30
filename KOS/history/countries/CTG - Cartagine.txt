@@ -1,6 +1,6 @@
 capital = 506
 primary_culture = cartaginese
-religion = catholic
+religion = roman_catholic
 government = hms_government
 plurality = 12.0
 nationalvalue = nv_liberty
@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = regionalism
 colonial_policy = civilizing
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 ruling_party = SPA_conservative
 last_election = 1834.1.1

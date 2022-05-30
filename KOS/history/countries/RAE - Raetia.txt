@@ -1,6 +1,6 @@
 capital = 611
 primary_culture = romansh
-religion = reformed
+religion = alexandrian_orthodox
 government = democracy
 plurality = 40.0
 nationalvalue = nv_liberty
@@ -36,7 +36,7 @@ border_policy = open_borders
 centralization = confederalism
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 ruling_party = SWI_conservative
 last_election = 1835.1.1

@@ -1,7 +1,7 @@
 capital = 397
 primary_culture = rheinian
 culture = french
-religion = catholic
+religion = roman_catholic
 government = absolute_monarchy
 plurality = 25.2
 nationalvalue = nv_liberty
@@ -39,7 +39,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 ruling_party = LUX_conservative
 upper_house = {

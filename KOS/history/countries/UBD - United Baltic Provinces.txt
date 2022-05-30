@@ -4,7 +4,7 @@ culture = north_german
 culture = latvian
 culture = estonian
 culture = russian
-religion = protestant
+religion = african_catholic
 government = colonial_company
 plurality = 0
 nationalvalue = nv_order
@@ -43,7 +43,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_roman_roman_catholic_country
 
 ruling_party = UBD_conservative
 upper_house = {

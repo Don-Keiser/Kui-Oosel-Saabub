@@ -2,7 +2,7 @@ capital = 846
 primary_culture = french
 culture = greek
 culture = maltese
-religion = catholic
+religion = roman_catholic
 government = theocracy
 plurality = 15
 nationalvalue = nv_order
@@ -50,7 +50,7 @@ upper_house =
     socialist = 0
     communist = 0
 }
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 set_country_flag = settle_french
 set_country_flag = theocratic_government
 # Starting Consciousness

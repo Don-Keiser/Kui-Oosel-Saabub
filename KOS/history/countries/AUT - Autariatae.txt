@@ -1,6 +1,6 @@
 capital = 783
 primary_culture = autariatai
-religion = catholic
+religion = roman_catholic
 government = presidential_dictatorship
 plurality = 2.0
 nationalvalue = nv_order
@@ -61,7 +61,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 
-set_country_flag = roman_catholic_country
+set_country_flag = roman_roman_catholic_country
 
 ruling_party = CRO_conservative
 upper_house = {

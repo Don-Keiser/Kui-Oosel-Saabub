@@ -1,6 +1,6 @@
 capital = 794
 primary_culture = dardani
-religion = orthodox
+religion = thessalonian_orthodox
 government = hms_government
 plurality = 10.5
 nationalvalue = nv_equality
@@ -61,7 +61,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 ruling_party = CRO_conservative
 upper_house = {

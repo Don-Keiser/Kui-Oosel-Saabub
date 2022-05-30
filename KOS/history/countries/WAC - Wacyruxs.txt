@@ -1,6 +1,6 @@
 capital = 664
 primary_culture = wacyruxs
-religion = orthodox
+religion = thessalonian_orthodox
 government = absolute_monarchy
 plurality = 0.08
 nationalvalue = nv_autocracy
@@ -38,7 +38,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 
-set_country_flag = thessalian_orthodox_country
+set_country_flag = thessalian_thessalonian_orthodox_country
 
 ruling_party = ROM_liberal
 upper_house = {

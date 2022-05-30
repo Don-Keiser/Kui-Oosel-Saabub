@@ -4109,7 +4109,7 @@
         size = 31075
     }
     farmers = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 1500
     }
@@ -4175,7 +4175,7 @@
         size = 2500
     }
     farmers = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 1500
     }
@@ -4242,7 +4242,7 @@
         size = 8500
     }
     farmers = {
-        culture = north_german
+        culture = saxon
         religion = african_catholic
         size = 1500
     }
