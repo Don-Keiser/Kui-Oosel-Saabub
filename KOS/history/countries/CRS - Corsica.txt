@@ -1,6 +1,6 @@
 capital = 473
 primary_culture = sardinian
-culture = french
+culture = neustrien
 religion = roman_catholic
 government = democracy
 plurality = 0.1

@@ -1,5 +1,5 @@
-owner = ETL
-controller = ETL
-add_core = ETL
-trade_goods = cattle
+owner = BAV
+controller = BAV
+add_core = BAV
+trade_goods = timber
 life_rating = 35

@@ -2363,13 +2363,13 @@
 	}
 	
 	artisans = {
-		culture = french
+		culture = neustrien
 		religion = roman_catholic
 		size = 3000
 	}
 	
 	farmers = {
-		culture = french
+		culture = neustrien
 		religion = roman_catholic
 		size = 12000
 	}

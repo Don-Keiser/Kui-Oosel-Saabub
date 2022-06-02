@@ -1,6 +1,6 @@
 capital = 73
 primary_culture = acadian
-culture = french_canadian
+culture = neustrien_canadian
 religion = roman_catholic
 government = democracy
 plurality = 0.2
@@ -61,7 +61,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = french_assimilation
+set_country_flag = neustrien_assimilation
 set_country_flag = roman_roman_catholic_country
 set_country_flag = new_world_nation
 

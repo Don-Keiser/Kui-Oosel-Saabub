@@ -1,6 +1,6 @@
-capital = 385
-primary_culture = frysk
-culture = flamsk
+capital = 377
+primary_culture = gruttfrysk
+culture = flaamsk
 religion = alexandrian_orthodox
 government = hms_government
 plurality = 45.0

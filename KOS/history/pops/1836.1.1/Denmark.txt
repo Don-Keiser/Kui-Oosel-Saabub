@@ -183,7 +183,7 @@
     }
 
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 5500
     }
@@ -201,43 +201,43 @@
     }
 
     aristocrats = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 650
     }
 
     bureaucrats = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 100
     }
 
     officers = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 150
     }
 
     clergymen = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 250
     }
 
     artisans = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 2500
     }
 
     soldiers = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 500
     }
 
     farmers = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 38850
     }
@@ -269,31 +269,31 @@
     }
 
     aristocrats = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 100
     }
 
     clergymen = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 50
     }
 
     artisans = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 250
     }
 
     soldiers = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 50
     }
 
     farmers = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 10550
     }
@@ -375,7 +375,7 @@
     }
 
     artisans = {
-        culture = angle
+        culture = jutsk
         religion = african_catholic
         size = 2300
     }

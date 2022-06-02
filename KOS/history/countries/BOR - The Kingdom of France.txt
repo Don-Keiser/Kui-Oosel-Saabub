@@ -1,11 +1,11 @@
 capital = 425
-primary_culture = french
-culture = occitan
+primary_culture = neustrien
+culture = aquitan
 culture = wallonian
 culture = breton
 culture = arpitan
 culture = cajun
-culture = french_canadian
+culture = neustrien_canadian
 religion = roman_catholic
 government = hms_government
 plurality = 25

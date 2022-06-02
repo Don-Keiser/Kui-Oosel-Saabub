@@ -3,43 +3,43 @@
 #Luxembourg (172000/43000 POPS)
 397 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 425
     }
 
     bureaucrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 75
     }
 
     officers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 375
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 150
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 2800
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 2250
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 37580
     }

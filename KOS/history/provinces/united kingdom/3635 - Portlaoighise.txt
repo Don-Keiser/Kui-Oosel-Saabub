@@ -1,5 +1,5 @@
-owner = ETL
-controller = ETL
-add_core = ETL
-trade_goods = fruit
+owner = BAV
+controller = BAV
+add_core = BAV
+trade_goods = grain
 life_rating = 35

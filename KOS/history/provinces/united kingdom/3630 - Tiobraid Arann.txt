@@ -1,5 +1,5 @@
-owner = ETL
-controller = ETL
-add_core = ETL
-trade_goods = grain
+owner = THU
+controller = THU
+add_core = THU
+trade_goods = coal
 life_rating = 35

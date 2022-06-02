@@ -1,5 +1,5 @@
 capital = 411
-primary_culture = ostrahe
+primary_culture = ostrisch
 culture = south_rheinian
 religion = roman_catholic
 government = democracy

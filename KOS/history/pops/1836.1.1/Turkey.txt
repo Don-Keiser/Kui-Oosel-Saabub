@@ -470,7 +470,7 @@
     }
 	
 	soldiers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 1204
     }

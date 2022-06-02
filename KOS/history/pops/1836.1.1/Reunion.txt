@@ -3,67 +3,67 @@
 #Reunion (98000/24500 POPS)
 2126 = {
     aristocrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 750
     }
 
     bureaucrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 50
     }
 
     clergymen = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 75
     }
 
     artisans = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 500
     }
 
     soldiers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 300
     }
 
     farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 5825
     }
 
     clergymen = {
-        culture = kreol #afro_french
+        culture = kreol #afro_neustrien
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = kreol #afro_french
+        culture = kreol #afro_neustrien
         religion = roman_catholic
         size = 850
     }
 
     soldiers = {
-        culture = kreol #afro_french
+        culture = kreol #afro_neustrien
         religion = roman_catholic
         size = 200
     }
 
     farmers = {
-        culture = kreol #afro_french
+        culture = kreol #afro_neustrien
         religion = roman_catholic
         size = 1825
     }
 
     slaves = {
-        culture = kreol #afro_french
+        culture = kreol #afro_neustrien
         religion = roman_catholic
         size = 14000
     }

@@ -1,6 +1,6 @@
 capital = 58
-primary_culture = french_canadian
-culture = french
+primary_culture = neustrien_canadian
+culture = neustrien
 religion = roman_catholic
 government = hms_government
 plurality = 0.2

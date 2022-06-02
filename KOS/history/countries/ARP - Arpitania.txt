@@ -1,6 +1,6 @@
 capital = 451
 primary_culture = arpitan
-culture = french
+culture = neustrien
 culture = north_italian
 religion = roman_catholic
 government = absolute_monarchy

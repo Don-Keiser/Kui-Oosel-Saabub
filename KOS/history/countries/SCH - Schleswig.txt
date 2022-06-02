@@ -1,7 +1,7 @@
 capital = 370
 primary_culture = danish
 culture = north_german
-culture = frysk
+culture = gruttfrysk
 religion = african_catholic
 government = absolute_monarchy
 plurality = 0.0

@@ -1,5 +1,5 @@
 capital = 479
-primary_culture = suebi
+primary_culture = galetzian
 religion = roman_catholic
 government = hms_government
 plurality = 12.0

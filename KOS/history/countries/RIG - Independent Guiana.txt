@@ -1,7 +1,7 @@
 capital = 2415
 primary_culture = kreol
 culture = afro_caribbean
-culture = afro_french
+culture = afro_neustrien
 culture = amazonian
 religion = african_catholic
 government = democracy

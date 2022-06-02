@@ -2,57 +2,57 @@
 #Amsterdam (464000/116000 POPS)
 375 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 1410
     }
     officers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 329
     }
     bureaucrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 2444
     }
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 1739
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 18800
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 7400
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 7520
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 9400
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 2256
     }
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 44911
     }
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 7990
     }
@@ -60,42 +60,42 @@
 #Rotterdam (567000/141750 POPS)
 376 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 705
     }
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 587
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 18800
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 5170
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 2115
     }
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 75200
     }
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 26437
     }
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 1034
     }
@@ -103,27 +103,27 @@
 #Utrecht (152000/38000 POPS)
 377 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 282
     }
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 164
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 11280
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 1034
     }
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 23053
     }
@@ -131,37 +131,37 @@
 #Middelburg (170000/42500 POPS)
 378 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 282
     }
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 188
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 3478
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 1034
     }
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 33182
     }
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 141
     }
     farmers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 1034
     }
@@ -170,42 +170,42 @@
 #Eindhoven (230000/57500 POPS)
 379 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 1316
     }
     officers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 100
     }
     bureaucrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 752
     }
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 752
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 2961
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 2820
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 100
     }
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 50000
     }
@@ -213,54 +213,54 @@
 #Breda (173200/43300 POPS)
 380 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 470
     }
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 376
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 3525
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 1034
     }
     labourers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 32947
     }
 }
 3344 = {
     aristocrats = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 470
     }
     clergymen = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 376
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 3525
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 1034
     }
     labourers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 32947
     }
@@ -268,67 +268,67 @@
 #Maastricht/Limburg (164200/41050 POPS)
 381 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 800
     }
 
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 600
     }
 
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 5200
     }
 
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 3200
     }
 
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 58000
     }
 
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 200
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 900
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 8100
     }
@@ -336,47 +336,47 @@
 #Arnhem (412000/103000 POPS)
 382 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 799
     }
     bureaucrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 564
     }
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 5640
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 10481
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 1316
     }
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 90569
     }
     clergymen = {
-        culture = saxon
+        culture = saksysk
         religion = african_catholic
         size = 100
     }
     artisans = {
-        culture = saxon
+        culture = saksysk
         religion = african_catholic
         size = 235
     }
     farmers = {
-        culture = saxon
+        culture = saksysk
         religion = african_catholic
         size = 3008
     }
@@ -385,47 +385,47 @@
 #Groningen (186600/46650 POPS)
 383 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 282
     }
     officers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 141
     }
     bureaucrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 752
     }
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 188
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 6580
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 2820
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 940
     }
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 33323
     }
     farmers = {
-        culture = saxon
+        culture = saksysk
         religion = african_catholic
         size = 1034
     }
@@ -433,42 +433,42 @@
 #Zwolle (238000/59500 POPS)
 384 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 470
     }
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 470
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 3666
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 2820
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 94
     }
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 38352
     }
     artisans = {
-        culture = saxon
+        culture = saksysk
         religion = african_catholic
         size = 94
     }
     farmers = {
-        culture = saxon
+        culture = saksysk
         religion = african_catholic
         size = 846
     }
@@ -476,27 +476,27 @@
 #Leeuwarden (209200/52300 POPS)
 385 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 282
     }
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 352
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 15640
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 1974
     }
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 31101
     }
@@ -504,32 +504,32 @@
 #Assen (80000/20000 POPS)
 386 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 141
     }
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 94
     }
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 1034
     }
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 1034
     }
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = african_catholic
         size = 15745
     }
     farmers = {
-        culture = saxon
+        culture = saksysk
         religion = african_catholic
         size = 1034
     }

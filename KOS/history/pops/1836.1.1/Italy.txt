@@ -69,7 +69,7 @@
     }
 
     farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 11600
     }
@@ -88,7 +88,7 @@
     }
 	
 	farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 3500
     }
@@ -106,7 +106,7 @@
     }
 	
 	farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 1000
     }
@@ -144,31 +144,31 @@
     }
 
     aristocrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 275
     }
 
     clergymen = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 225
     }
 
     artisans = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 1175
     }
 
     soldiers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 225
     }
 
     farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 25500
     }
@@ -680,7 +680,7 @@
 #Trent (276000/69000 POPS) #now part of Italy
 734 = {
     aristocrats = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 60
     }
@@ -692,7 +692,7 @@
     }
 
     bureaucrats = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 800
     }
@@ -716,25 +716,25 @@
     }
 
     clergymen = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 575
     }
 
     artisans = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 2800
     }
 
     soldiers = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 550
     }
 
     farmers = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 20075
     }
@@ -742,31 +742,31 @@
 #Bozen (92000/23000 POPS) #now part of Italy
 735 = {
     aristocrats = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 250
     }
 
     clergymen = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size =  145
     }
 
     artisans = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 1400
     }
 
     soldiers = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 18000
     }
@@ -1282,7 +1282,7 @@
     }
 
     soldiers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 110
     }
@@ -2468,7 +2468,7 @@
     }
 
     farmers = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 7000
     }

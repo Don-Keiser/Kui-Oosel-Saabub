@@ -1,5 +1,5 @@
 capital = 474
-primary_culture = suebi
+primary_culture = galetzian
 religion = roman_catholic
 government = absolute_monarchy
 plurality = 0.0

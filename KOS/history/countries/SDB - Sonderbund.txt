@@ -1,6 +1,6 @@
 capital = 605
 primary_culture = south_german
-culture = french
+culture = neustrien
 culture = arpitan
 culture = north_italian
 culture = romansh

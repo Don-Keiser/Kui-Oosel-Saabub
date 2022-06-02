@@ -2,49 +2,49 @@
 #Zurich (560000/140000 POPS)
 603 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 800
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1800
     }
 
     capitalists = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 100
     }
 
     clerks = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 200
     }
 
     craftsmen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 21800
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 2200
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 105000
     }
@@ -58,85 +58,85 @@
 #Basel (272000/68000 POPS)
 604 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 150
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 275
     }
 
     clerks = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 100
     }
 
     craftsmen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 750
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 2250
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 33540
     }
 
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 150
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 250
     }
 
     clerks = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 100
     }
 
     craftsmen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 600
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1900
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 14550
     }
@@ -144,67 +144,67 @@
 #Bern (352000/88000 POPS)
 605 = {
     aristocrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 350
     }
 
     capitalists = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 100
     }
 
     officers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 350
     }
 
     bureaucrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 800
     }
 
     clergymen = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 625
     }
 
     clerks = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 100
     }
 
     craftsmen = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 1500
     }
 
     artisans = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 4500
     }
 
     soldiers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 75000
     }
 	
 	farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 5600
     }
@@ -212,37 +212,37 @@
 #Lucerne (204000/51000 POPS)
 606 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 175
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 350
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 3500
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 13000
     }
 	
 	farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 20000
     }
@@ -252,134 +252,134 @@
 #Geneva (316000/79000 POPS)
 607 = {
     aristocrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 200
     }
 
     bureaucrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 120
     }
 
     officers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 60
     }
 
     clergymen = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 300
     }
 
     artisans = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 73320
     }
 
     aristocrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 300
     }
 
     bureaucrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 80
     }
 
     officers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 50
     }
 
     clergymen = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 350
     }
 
     artisans = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 6230
     }
 }
 3317 = {
     aristocrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 500
     }
 
     bureaucrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 200
     }
 
     officers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 110
     }
 
     clergymen = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 650
     }
 
     artisans = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 7000
     }
 
     soldiers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 2200
     }
 
     farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 67000
     }
 	
 	farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 2000
     }
@@ -387,37 +387,37 @@
 #Neuchatel (56000/14000 POPS)
 608 = {
     aristocrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 100
     }
 	
     aristocrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 50
     }
 
     clergymen = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 10625
     }
@@ -425,31 +425,31 @@
 #Sitten (72000/18000) POPS
 609 = {
     aristocrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 150
     }
 
     clergymen = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 175
     }
 
     artisans = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 16000
     }
@@ -546,55 +546,55 @@
 #Fribourg
 3250 = {
     aristocrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 800
     }
 
     bureaucrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 600
     }
 
     officers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 110
     }
 
     clergymen = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 1000
     }
 
     artisans = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 5000
     }
 
     soldiers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 52000
     }
 	
 	farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 5600
     }
 	
 	farmers = {
-        culture = occitan
+        culture = aquitan
         religion = roman_catholic
         size = 2000
     }
@@ -603,61 +603,61 @@
 #Jura (POPS Taken from Basel)
 3271 = {
     aristocrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 75
     }
 
     clergymen = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 135
     }
 
     craftsmen = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 375
     }
 
     artisans = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 2100
     }
 
     farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 28420
     }
 
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 75
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 125
     }
 
     craftsmen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 300
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 925
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 4550
     }
@@ -666,31 +666,31 @@
 #Brig (POPS taken from Sitten)
 3272 = {
     aristocrats = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 150
     }
 
     clergymen = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 90
     }
 
     artisans = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 550
     }
 
     soldiers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = burgundian
+        culture = burgundisch
         religion = roman_catholic
         size = 10035
     }
@@ -705,43 +705,43 @@
 #Schaffhausen
 3665 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1750
     }
 
     bureaucrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 105
     }
 
     officers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 300
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 4500
     }
 	
 	soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1500
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 24000
     }

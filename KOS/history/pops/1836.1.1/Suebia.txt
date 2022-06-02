@@ -1,43 +1,43 @@
 #La Coruna (796000/199000 POPS)
 474 = {
     aristocrats = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 2200
     }
 
     officers = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 450
     }
 
     bureaucrats = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 650
     }
 
     clergymen = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 3000
     }
 	
     artisans = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 720
     }
 
     soldiers = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 3000
     }
 
     farmers = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 140350
     }
@@ -45,31 +45,31 @@
 #Vigo (328000/82000 POPS)
 476 = {
     aristocrats = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 700
     }
 
     clergymen = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 800
     }
 
     artisans = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 66000
     }
@@ -77,31 +77,31 @@
 #Einheimische
 3559 = {
     aristocrats = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 420
     }
 
     clergymen = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 3200
     }
 
     soldiers = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 1000
     }
 
     farmers = {
-        culture = suebi
+        culture = galetzian
         religion = roman_catholic
         size = 23200
 	}

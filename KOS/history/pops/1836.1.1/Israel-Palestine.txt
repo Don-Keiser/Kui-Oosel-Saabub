@@ -56,19 +56,19 @@
    }
 
     clergymen = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 50
     }
 
     artisans = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 200
     }
 
     farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 200
     }
@@ -270,7 +270,7 @@ soldiers = {
     }
 
     artisans = {
-        culture = aragonese
+        culture = tarragones
         religion = roman_catholic
         size = 100
     }
@@ -542,7 +542,7 @@ farmers = {
         size = 1850
     }
  farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 360
     }

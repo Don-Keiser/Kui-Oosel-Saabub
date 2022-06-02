@@ -1,37 +1,37 @@
 #
 3702 = {
     aristocrats = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 250
     }
 
     artisans = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 300
     }
 
     soldiers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 75
     }
 
     farmers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 51000
     }
 	
 	farmers = {
-        culture = cartaginese
+        culture = cartaginesu
         religion = roman_catholic
         size = 4000
     }
@@ -39,31 +39,31 @@
 
 3704 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 250
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 300
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 75
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 25475
     }
@@ -71,31 +71,31 @@
 
 3711 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 300
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 300
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1900
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 600
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 32000
     }
@@ -103,31 +103,31 @@
 
 3705 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 250
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 250
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 25475
     }
@@ -135,43 +135,43 @@
 
 3712 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 300
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 500
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 3600
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1200
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 46000
     }
 	
 	farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 2200
     }
 	
 	farmers = {
-        culture = saxon
+        culture = saksysk
         religion = roman_catholic
         size = 5600
     }

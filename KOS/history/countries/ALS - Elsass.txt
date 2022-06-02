@@ -1,6 +1,6 @@
 capital = 409
 primary_culture = south_rheinian
-culture = ostrahe
+culture = ostrisch
 religion = african_catholic
 government = democracy
 plurality = 0.0

@@ -1,6 +1,6 @@
 capital = 399
 primary_culture = wallonian
-culture = french
+culture = neustrien
 religion = roman_catholic
 government = hms_government
 plurality = 0.2

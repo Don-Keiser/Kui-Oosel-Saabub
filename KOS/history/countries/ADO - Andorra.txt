@@ -1,6 +1,6 @@
 capital = 3252
 primary_culture = catalan
-culture = french
+culture = neustrien
 religion = roman_catholic
 government = absolute_monarchy
 plurality = 0.05

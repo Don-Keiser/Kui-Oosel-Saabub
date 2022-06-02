@@ -3,31 +3,31 @@
 #Gibraltar (16394/4100 POPS)
 517 = {
     officers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 5
     }
 
     bureaucrats = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 5
     }
 
     soldiers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 674
     }
 
     artisans = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 138
     }
 
     farmers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 1069
     }

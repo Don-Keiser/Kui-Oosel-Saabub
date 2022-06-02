@@ -1,5 +1,5 @@
 capital = 543
-primary_culture = frysk
+primary_culture = gruttfrysk
 religion = roman_catholic
 government = proletarian_dictatorship
 plurality = 0

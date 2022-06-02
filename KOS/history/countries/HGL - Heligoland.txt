@@ -1,5 +1,5 @@
 capital = 533
-primary_culture = frysk
+primary_culture = gruttfrysk
 religion = african_catholic
 government = colonial_company
 plurality = 0.0

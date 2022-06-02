@@ -1,7 +1,7 @@
 capital = 2125
 primary_culture = kreol
 culture = british
-culture = french
+culture = neustrien
 religion = roman_catholic
 government = colonial_company
 plurality = 0.0

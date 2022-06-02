@@ -1,6 +1,6 @@
 capital = 372
 primary_culture = danish
-culture = angle
+culture = jutsk
 culture = norse_gaelic
 culture = icelandic
 religion = african_catholic

@@ -1,5 +1,5 @@
 capital = 428
-primary_culture = french
+primary_culture = neustrien
 culture = arpitan
 religion = roman_catholic
 government = march

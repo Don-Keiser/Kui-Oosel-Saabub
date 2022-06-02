@@ -1,9 +1,9 @@
 #========================= H E A D E R =========================
 
 capital = 3251
-primary_culture = occitan
+primary_culture = aquitan
 culture = ligur
-culture = french
+culture = neustrien
 religion = roman_catholic
 government = absolute_monarchy
 plurality = 5

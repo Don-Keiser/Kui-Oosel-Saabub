@@ -3,37 +3,37 @@
 #Cayenne (17000/4250 POPS)
 2241 = {
     aristocrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 150
     }
 
     bureaucrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 10
     }
 
     clergymen = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 10
     }
 
     artisans = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 100
     }
 
     soldiers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 50
     }
 
     farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 80
     }
@@ -63,7 +63,7 @@
     }
 
     slaves = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 2950
     }
@@ -141,7 +141,7 @@
     }
 
     slaves = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 250
     }

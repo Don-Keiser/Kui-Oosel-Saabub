@@ -19,7 +19,7 @@
     }
 
     soldiers = {
-        culture = occitan
+        culture = aquitan
         religion = roman_catholic
         size= 100
     }
@@ -31,13 +31,13 @@
     }
 
     farmers = {
-        culture = occitan
+        culture = aquitan
         religion = roman_catholic
         size = 2850
     }
 
     bureaucrats = {
-        culture = occitan
+        culture = aquitan
         religion = roman_catholic
         size = 10
     }
@@ -47,24 +47,24 @@
 #Andorra (228000/37000 POPS)
 3252 = {
     aristocrats = {
-        culture = occitan
+        culture = aquitan
         religion = roman_catholic
         size = 200
     }
     bureaucrats = {
-        culture = occitan
+        culture = aquitan
         religion = roman_catholic
         size = 10
     }
 
     artisans = {
-        culture = occitan
+        culture = aquitan
         religion = roman_catholic
         size = 600
     }
 
     farmers = {
-        culture = occitan
+        culture = aquitan
         religion = roman_catholic
         size = 11000
     }
@@ -73,32 +73,32 @@
 #Liechtenstein
 3253 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 120
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 120
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 650
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size= 200
 
     }
 	
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 4500
     }

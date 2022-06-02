@@ -1,7 +1,7 @@
 capital = 387
-primary_culture = flemish
+primary_culture = flaamsk
 culture = dutch
-culture = frysk
+culture = gruttfrysk
 religion = roman_catholic
 government = absolute_monarchy
 plurality = 0.05

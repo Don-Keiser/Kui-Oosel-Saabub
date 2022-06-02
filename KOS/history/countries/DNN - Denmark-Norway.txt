@@ -1,7 +1,7 @@
 capital = 372
 primary_culture = danish
 culture = norwegian
-culture = angle
+culture = jutsk
 culture = skansk
 culture = icelandic
 culture = vinlandic

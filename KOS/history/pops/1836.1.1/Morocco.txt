@@ -349,31 +349,31 @@
     }
 
     aristocrats = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 300
     }
 
     clergymen = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 120
     }
 
     artisans = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 2200
     }
 
     soldiers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 300
     }
 
     farmers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 5000
     }
@@ -411,31 +411,31 @@
     }
 
     aristocrats = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 75
     }
 
     artisans = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 985
     }
 
     soldiers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 135
     }
 
     farmers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 4200
     }
@@ -554,37 +554,37 @@
     }
 
 	aristocrats = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 50
     }
 
     clergymen = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 90
     }
 
     artisans = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 420
     }
 
     soldiers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 280
     }
 
     farmers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 1200
     }
@@ -637,13 +637,13 @@
     }
 
     aristocrats = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 260
     }
 
     artisans = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 1100
     }
@@ -699,31 +699,31 @@
     }
 
     aristocrats = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 450
     }
 
     clergymen = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 120
     }
 
     artisans = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 2100
     }
 
     soldiers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 200
     }
 
     farmers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 500
     }
@@ -793,31 +793,31 @@
     }
 
     aristocrats = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 250
     }
 
     clergymen = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 1200
     }
 
     soldiers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = sevillan
+        culture = ispannu
         religion = roman_catholic
         size = 1200
     }

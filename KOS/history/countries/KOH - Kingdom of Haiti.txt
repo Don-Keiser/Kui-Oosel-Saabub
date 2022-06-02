@@ -1,5 +1,5 @@
 capital = 2213
-primary_culture = afro_french
+primary_culture = afro_neustrien
 culture = mulatto
 culture = polish
 religion = roman_catholic

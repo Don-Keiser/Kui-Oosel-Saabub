@@ -1,5 +1,5 @@
 color = { 16 99 103 }
-march = { 41 48 122 }
+march = { 83 57 114 }
 
 graphical_culture = ItalianGC
 

@@ -27,37 +27,37 @@
     }
 
     aristocrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 50
     }
 
     bureaucrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 30
     }
 
     artisans = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 180
     }
 
     clergymen = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 20
     }
 
     soldiers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 20
     }
 
     farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 200
     }

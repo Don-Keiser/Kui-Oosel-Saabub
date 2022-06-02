@@ -3,49 +3,49 @@
 #Innsbruck (236000/59000 POPS)
 612 = {
 	aristocrats = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 750 
 	}
 
 	bureaucrats = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 1375 
 	}
 
 	officers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 1250 
 	}
 
 	clergymen = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 2750
 	}
 
 	soldiers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 50325
 	}
@@ -53,31 +53,31 @@
 #Salzburg (136000/34000 POPS)
 613 = {
 	aristocrats = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 1450 
 	}
 
 	clergymen = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 1650 
 	}
 
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 13250
 	}
 
 	soldiers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 3100
 	}
 
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 74975
 	}
@@ -85,31 +85,31 @@
 #Bregenz (132000/33000 POPS)
 614 = {
 	aristocrats = {
-		culture = ostrahe
+		culture = ostrisch
 		religion = roman_catholic
 		size = 400 
 	}
 
 	clergymen = {
-		culture = ostrahe
+		culture = ostrisch
 		religion = roman_catholic
 		size = 300 
 	}
 
 	artisans = {
-		culture = ostrahe
+		culture = ostrisch
 		religion = roman_catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = ostrahe
+		culture = ostrisch
 		religion = roman_catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = ostrahe
+		culture = ostrisch
 		religion = roman_catholic
 		size = 16500
 	}
@@ -121,7 +121,7 @@
 	}
 	
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 5000
 	}
@@ -129,31 +129,31 @@
 #Lienz (52000/13000 POPS)
 615 = {
 	aristocrats = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 175 
 	}
 
 	clergymen = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 1125
 	}
 
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 8600
 	}
@@ -211,7 +211,7 @@
 	}
 	
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 3500
 	}
@@ -279,7 +279,7 @@
 	}
 	
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 4000
 	}
@@ -389,7 +389,7 @@
 	}
 	
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 1675 
 	}
@@ -531,19 +531,19 @@
 	}
 
 	clergymen = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 2020 
 	}
 
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 6980
 	}
 	
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 5000
 	}
@@ -605,7 +605,7 @@
 	}
 	
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 2000 
 	}
@@ -661,13 +661,13 @@
 	}
 	
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 4000
 	}
 	
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 3000
 	}
@@ -675,43 +675,43 @@
 #Linz (588000/147000 POPS)
 622 = {
 	aristocrats = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 2300 
 	}
 
 	clergymen = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 3200 
 	}
 
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 7650
 	}
 
 	soldiers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 1550 
 	}
 
 	soldiers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 100000
 	}
@@ -723,7 +723,7 @@
 	}
 	
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 5900
 	}
@@ -871,31 +871,31 @@
 #Liezen (136000/34000 POPS)
 3556 = {
 	aristocrats = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 450 
 	}
 
 	clergymen = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 650 
 	}
 
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 3250
 	}
 
 	soldiers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 18000
 	}
@@ -916,31 +916,31 @@
 #Steyr (136000/34000 POPS)
 3557 = {
 	aristocrats = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 450 
 	}
 
 	clergymen = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 650 
 	}
 
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 3250
 	}
 
 	soldiers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 18000
 	}
@@ -961,31 +961,31 @@
 #Spittal (136000/34000 POPS)
 3555 = {
 	aristocrats = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 450 
 	}
 
 	clergymen = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 650 
 	}
 
 	artisans = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 3250
 	}
 
 	soldiers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = bavarian
+		culture = boarisch
 		religion = roman_catholic
 		size = 18000
 	}

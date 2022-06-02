@@ -1,14 +1,14 @@
 capital = 576
 primary_culture = north_german
-culture = occitan
+culture = aquitan
 culture = wallonian
 culture = breton
 culture = arpitan
-culture = french
+culture = neustrien
 culture = south_german
 culture = volga_german
 culture = dutch
-culture = flemish
+culture = flaamsk
 culture = north_italian
 culture = south_italian
 culture = catalan

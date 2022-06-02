@@ -1,6 +1,6 @@
 capital = 573
 primary_culture = rheinian
-culture = ostrahe
+culture = ostrisch
 religion = roman_catholic
 government = absolute_monarchy
 plurality = 0.0

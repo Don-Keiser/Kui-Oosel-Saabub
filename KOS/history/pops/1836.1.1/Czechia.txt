@@ -527,31 +527,31 @@
     }
 
     aristocrats = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 2100
     }
 
     clergymen = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 650
     }
 
     artisans = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 8250
     }
 
     soldiers = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 650
     }
 
     farmers = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 35850
     }
@@ -595,37 +595,37 @@
     }
 
     aristocrats = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 1400
     }
 
     bureaucrats = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 825
     }
 
     artisans = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 5600
     }
 
     soldiers = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = bavarian
+        culture = boarisch
         religion = roman_catholic
         size = 41075
     }

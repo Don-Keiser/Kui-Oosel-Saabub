@@ -2,7 +2,7 @@
 capital = 71
 primary_culture = anglo_canadian
 culture = acadian
-culture = french_canadian
+culture = neustrien_canadian
 religion = african_catholic
 government = dominion
 plurality = 20

@@ -3,67 +3,67 @@
 #Martinique (190800/27450 POPS)
 2228 = {
     aristocrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 750
     }
 
     bureaucrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 50
     }
 
     artisans = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 900
     }
 
     soldiers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 250
     }
 
     farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 1250
     }
 
     soldiers = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 250
     }
 
     farmers = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 3400
     }
 
     slaves = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 20000
     }
@@ -71,61 +71,61 @@
 #Guadeloupe (128400/32100 POPS)
 2230 = {
     aristocrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 850
     }
 
     clergymen = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 50
     }
 
     artisans = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 1300
     }
 
     soldiers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 300
     }
 
     farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 600
     }
 
     clergymen = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 150
     }
 
     artisans = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 1500
     }
 
     soldiers = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 300
     }
 
     farmers = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 3050
     }
 
     slaves = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 24000
     }
@@ -136,13 +136,13 @@
 45 = {
 
     aristocrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 10
     }
 
     clergymen = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 25
     }
@@ -154,7 +154,7 @@
     }
 
     farmers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 500
     }

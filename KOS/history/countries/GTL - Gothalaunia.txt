@@ -1,5 +1,5 @@
 capital = 463
-primary_culture = occitan
+primary_culture = aquitan
 religion = roman_catholic
 government = colonial_company
 plurality = 0.1

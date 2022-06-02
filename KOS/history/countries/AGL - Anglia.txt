@@ -1,5 +1,5 @@
 capital = 369
-primary_culture = angle
+primary_culture = jutsk
 religion = african_catholic
 government = absolute_monarchy
 plurality = 25.0

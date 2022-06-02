@@ -3,31 +3,31 @@
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
     aristocrats = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 700
     }
 
     bureaucrats = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 25
     }
 
     clergymen = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 350
     }
 
     soldiers = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 75
     }
@@ -39,19 +39,19 @@
     }
 
     clergymen = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 500
     }
 
     soldiers = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 50
     }
@@ -70,25 +70,25 @@
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
     aristocrats = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 550
     }
 
     clergymen = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 400
     }
 
     soldiers = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 50
     }
@@ -100,19 +100,19 @@
     }
 
     clergymen = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 300
     }
 
     soldiers = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 75
     }
@@ -126,25 +126,25 @@
 }
 3403 = {
     aristocrats = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 550
     }
 
     clergymen = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 400
     }
 
     soldiers = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 50
     }
@@ -156,19 +156,19 @@
     }
 
     clergymen = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 50
     }
 
     artisans = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 300
     }
 
     soldiers = {
-        culture = afro_french
+        culture = afro_neustrien
         religion = roman_catholic
         size = 75
     }

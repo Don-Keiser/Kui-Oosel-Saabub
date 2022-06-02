@@ -8612,19 +8612,19 @@
 #Pondicherry (132000/33000 POPS)
 1312 = {
     bureaucrats = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 10
     }
 
     clergymen = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 15
     }
 
     soldiers = {
-        culture = french
+        culture = neustrien
         religion = roman_catholic
         size = 25
     }

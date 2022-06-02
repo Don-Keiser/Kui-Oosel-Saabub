@@ -1,5 +1,5 @@
 capital = 608
-primary_culture = swiss_french
+primary_culture = swiss_neustrien
 culture = swiss_german
 culture = arpitan
 religion = alexandrian_orthodox

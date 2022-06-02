@@ -1,5 +1,5 @@
 capital = 455
-primary_culture = french
+primary_culture = neustrien
 religion = roman_catholic
 government = democracy
 plurality = 0.1

@@ -8,7 +8,7 @@
     }
 
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 200
     }
@@ -20,7 +20,7 @@
     }
 
     officers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 50
     }
@@ -32,7 +32,7 @@
     }
 
     bureaucrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 120
     }
@@ -44,7 +44,7 @@
     }
 
     clergymen = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 120
     }
@@ -56,7 +56,7 @@
     }
 
     capitalists = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 50
     }
@@ -68,7 +68,7 @@
     }
 
     clerks = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 100
     }
@@ -80,7 +80,7 @@
     }
 
     craftsmen = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 3000
     }
@@ -92,7 +92,7 @@
     }
 
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 2000
     }
@@ -104,7 +104,7 @@
     }
 
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 250
     }
@@ -116,13 +116,13 @@
     }
 
     labourers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 14800
     }
 	
 	labourers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 3000
     }
@@ -178,7 +178,7 @@
     }
 	
 	artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 3000
     }
@@ -196,13 +196,13 @@
     }
 	
 	labourers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 31000
     }
 	
 	labourers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 4000
     }
@@ -210,37 +210,37 @@
 #Bruges (456000/114000 POPS)
 388 = {
     aristocrats = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 1150
     }
 
     clergymen = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 625
     }
 
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 1700
     }
 
     farmers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 72525
     }
@@ -254,37 +254,37 @@
 #Ghent (704000/176000 POPS)
 389 = {
     aristocrats = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 1750
     }
 
     clergymen = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 1250
     }
 
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 2250
     }
 
     farmers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 140750
     }
@@ -296,25 +296,25 @@
     }
 
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 1900
     }
 
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 10000
     }
@@ -323,43 +323,43 @@
 390 = {
 
     aristocrats = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 825
     }
 
     clergymen = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 575
     }
 
     craftsmen = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 500
     }
 
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 3100
     }
 
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 10000
     }
 
     soldiers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 1400
     }
 
     farmers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 67700
     }
@@ -391,31 +391,31 @@
 #Hasselt (272000/68000 POPS)
 391 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 650
     }
 
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 475
     }
 
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 3700
     }
 
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 62175
     }
@@ -423,37 +423,37 @@
 }
 3383 = {
     aristocrats = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 650
     }
 
     clergymen = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 475
     }
 
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 3700
     }
 
     soldiers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 50000
     }
 	
 	farmers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 13000
     }
@@ -523,25 +523,25 @@
     }
 
     clergymen = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 225
     }
 
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 125
     }
 
     labourers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 23000
     }
@@ -549,25 +549,25 @@
 #Tournai (292000/73000 POPS)
 393 = {
     clergymen = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 34800
     }
@@ -615,7 +615,7 @@
     }
 
     craftsmen = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 6000
     }
@@ -623,25 +623,25 @@
 #Charleroi (396000/99000 POPS)
 394 = {
     clergymen = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 1500
     }
 
     soldiers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 125
     }
 
     farmers = {
-        culture = flamsk
+        culture = flaamsk
         religion = roman_catholic
         size = 10275
     }
@@ -685,43 +685,43 @@
 #Liege (212000/53000 POPS)
 395 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 750
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 500
     }
 
     clerks = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1100
     }
 
     craftsmen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 5000
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1200
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 3100
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 20800
     }
@@ -735,43 +735,43 @@
 #Spa - Eupen-Malmedy (144000/36000 POPS)
 396 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 50
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 200
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 450
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1200
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 4375
     }
 
     artisans = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 300
     }
 
     farmers = {
-        culture = frysk
+        culture = gruttfrysk
         religion = roman_catholic
         size = 1175
     }
@@ -781,37 +781,37 @@
 #Arlon (172000/43000 POPS)
 398 = {
     aristocrats = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 450
     }
 
     clergymen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 225
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1700
     }
 
     soldiers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 1100
     }
 
     craftsmen = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 6000
     }
 
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 26625
     }
@@ -831,13 +831,13 @@
 }
 3377 = {
     farmers = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 22200
     }
 
     artisans = {
-        culture = ostrahe
+        culture = ostrisch
         religion = roman_catholic
         size = 600
     }

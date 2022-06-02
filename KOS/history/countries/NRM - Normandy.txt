@@ -1,5 +1,5 @@
 capital = 415
-primary_culture = french
+primary_culture = neustrien
 culture = british
 culture = norwegian
 religion = roman_catholic

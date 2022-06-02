@@ -3336,7 +3336,7 @@
 		size = 1000
 	}
 }
-#Pangle (1424000/356000 POPS)
+#Pjutsk (1424000/356000 POPS)
 1504 = {
 	aristocrats = {
 		culture = beifaren

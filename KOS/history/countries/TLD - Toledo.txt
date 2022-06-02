@@ -1,5 +1,5 @@
 capital = 489
-primary_culture = sevillan
+primary_culture = ispannu
 religion = roman_catholic
 government = hms_government
 plurality = 25.0
