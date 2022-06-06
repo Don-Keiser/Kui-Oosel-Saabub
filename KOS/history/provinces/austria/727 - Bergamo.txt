@@ -1,6 +1,5 @@
-owner = TOR
-controller = TOR
-add_core = TOR
+owner = LOM
+controller = LOM
 add_core = LOM
 add_core = ITA
 trade_goods = cotton

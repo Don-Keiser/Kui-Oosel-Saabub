@@ -1,5 +1,5 @@
 capital = 387
-primary_culture = wallonian
+primary_culture = picard
 religion = roman_catholic
 government = hms_government
 plurality = 25.0
@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 set_global_flag = france_rename_arlon
 set_global_flag = france_rename_liege
 set_global_flag = france_rename_luxemburg

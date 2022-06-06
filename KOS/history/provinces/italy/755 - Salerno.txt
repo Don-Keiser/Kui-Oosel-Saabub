@@ -1,6 +1,6 @@
-owner = SLR
-controller = SLR
-add_core = SLR
+owner = BNV
+controller = BNV
+add_core = BNV
 add_core = ITA
 trade_goods = fruit
 life_rating = 35

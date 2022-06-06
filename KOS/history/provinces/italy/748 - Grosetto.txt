@@ -1,12 +1,6 @@
-owner = PAP
-controller = PAP
-add_core = PAP
+owner = TUS
+controller = TUS
 add_core = TUS
 add_core = ITA
 trade_goods = cattle
 life_rating = 35
-1861.1.1 = {
-    controller = ITA
-    owner = ITA
-    add_core = ITA
-}

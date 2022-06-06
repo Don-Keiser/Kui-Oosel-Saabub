@@ -1,5 +1,5 @@
 capital = 693
-primary_culture = preitser
+primary_culture = preitsii
 religion = african_catholic
 government = presidential_dictatorship
 plurality = 15.0
@@ -37,7 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 
 ruling_party = PRU_conservative_2
 upper_house = {

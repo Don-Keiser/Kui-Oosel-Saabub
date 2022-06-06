@@ -10644,25 +10644,25 @@
 3392 = {
 
     clergymen = {
-        culture = volga_german
+        culture = north_german
         religion = roman_catholic
         size = 25
     }
 
     artisans = {
-        culture = volga_german
+        culture = north_german
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = volga_german
+        culture = north_german
         religion = roman_catholic
         size = 25
     }
 
     farmers = {
-        culture = volga_german
+        culture = north_german
         religion = roman_catholic
         size = 3875
     }

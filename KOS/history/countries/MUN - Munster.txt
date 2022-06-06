@@ -1,5 +1,5 @@
 capital = 581
-primary_culture = rheinian
+primary_culture = saksysk
 religion = african_catholic
 government = absolute_monarchy
 plurality = 0

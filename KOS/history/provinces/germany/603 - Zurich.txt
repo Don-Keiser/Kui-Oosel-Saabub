@@ -1,6 +1,6 @@
-owner = WUR
-controller = WUR
-add_core = WUR
+owner = BRG
+controller = BRG
+add_core = BRG
 trade_goods = iron
 life_rating = 34
 terrain = zurich

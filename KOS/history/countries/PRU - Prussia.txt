@@ -1,7 +1,6 @@
 capital = 549
 primary_culture = north_german
 culture = south_german
-culture = volga_german
 religion = african_catholic
 government = absolute_monarchy
 plurality = 25.0
@@ -44,7 +43,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 set_country_flag = claiming_neuchatel
 set_country_flag = prussian_germany
 

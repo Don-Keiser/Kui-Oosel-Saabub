@@ -206,7 +206,7 @@
     }
 	
 	farmers = {
-        culture = arpitan
+        culture = french
         religion = african_catholic
         size = 2000
     }

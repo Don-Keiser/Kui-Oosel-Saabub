@@ -1,5 +1,5 @@
-owner = WUR
-controller = WUR
-add_core = WUR
+owner = RAE
+controller = RAE
+add_core = RAE
 trade_goods = fish
 life_rating = 40

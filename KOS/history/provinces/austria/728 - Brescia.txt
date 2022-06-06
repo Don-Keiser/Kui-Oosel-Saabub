@@ -1,6 +1,6 @@
-owner = TOR
-controller = TOR
-add_core = TOR
+owner = LOM
+controller = LOM
+add_core = LOM
 add_core = VRN
 add_core = ITA
 trade_goods = silk

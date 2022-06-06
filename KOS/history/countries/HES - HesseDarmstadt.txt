@@ -39,7 +39,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 
 ruling_party = HED_reactionary
 upper_house = {

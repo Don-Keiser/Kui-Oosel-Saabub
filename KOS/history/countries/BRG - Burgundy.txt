@@ -1,8 +1,8 @@
 capital = 428
 primary_culture = neustrien
-culture = arpitan
+culture = burgundisch
 religion = roman_catholic
-government = march
+government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.066917

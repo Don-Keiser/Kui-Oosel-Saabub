@@ -28,7 +28,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 set_country_flag = exempt_from_vassal_contribution
 set_country_flag = the_east_india_company_flag
 

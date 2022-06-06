@@ -1,6 +1,6 @@
-owner = RMG
-controller = RMG
-add_core = RMG
+owner = KLV
+controller = KLV
+add_core = KLV
 add_core = ITA
 trade_goods = fish
 life_rating = 35

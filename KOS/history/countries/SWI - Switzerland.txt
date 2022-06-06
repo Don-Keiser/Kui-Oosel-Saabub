@@ -1,8 +1,8 @@
 capital = 605
 primary_culture = romansh
-culture = arpitan
+culture = burgundisch
 culture = romagnol
-culture = south_rheinian
+culture = ostrisch
 religion = alexandrian_orthodox
 government = democracy
 plurality = 40.0
@@ -39,7 +39,7 @@ border_policy = open_borders
 centralization = confederalism
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 
 ruling_party = SWI_conservative
 last_election = 1835.1.1

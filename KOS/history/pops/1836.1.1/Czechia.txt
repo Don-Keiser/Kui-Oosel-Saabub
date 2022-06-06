@@ -3,73 +3,73 @@
 #Prague (1726800/425200 POPS)
 625 = {
     bureaucrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 400
     }
 
     officers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 3000
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 12100
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 8000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 750
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 100000
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 120000
     }
 
     aristocrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 2500
     }
 
     bureaucrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 550
     }
 
     officers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 800
     }
@@ -77,97 +77,97 @@
 #Prague (Praha) (XXX/XXX POPS)
 3483 = {
     bureaucrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 50
     }
 
     officers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 50
     }
 
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 25
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1100
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 8000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 750
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 10000
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 9000
     }
 
     aristocrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 2500
     }
 
     bureaucrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 2550
     }
 
     officers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 800
     }
 
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 275
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 20000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 300
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 11775
     }
@@ -175,73 +175,73 @@
 #Rokycany (400000/100000 POPS)
 3333 = {
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1025
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 3100
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1500
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 250
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 35000
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 45000
     }
 
     aristocrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 800
     }
 
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 3025
     }
@@ -249,73 +249,73 @@
 #Pribram (400000/100000 POPS)
 3334 = {
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1025
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 3100
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1500
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 250
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 35000
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 45000
     }
 
     aristocrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 800
     }
 
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 3025
     }
@@ -323,61 +323,61 @@
 #Hradec Kralove (441600/110400 POPS)
 626 = {
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1100
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 4550
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 62950
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 30000
     }
 
     aristocrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 800
     }
 
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 150
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 350
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 6700
     }
@@ -385,55 +385,55 @@
 #Karlsbad (579200/144800 POPS)
 627 = {
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 300
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 450
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 250
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 65800
     }
 
     aristocrats = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 1300
     }
 
     clergymen = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 1250
     }
 
     artisans = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 6250
     }
 
     soldiers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 1250
     }
 
     farmers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 64950
     }
@@ -441,55 +441,55 @@
 #Aussig (317600/79400 POPS)
 628 = {
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 500
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 18325
     }
 
     aristocrats = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 850
     }
 
     clergymen = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 675
     }
 
     artisans = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 3350
     }
 
     soldiers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 1200
     }
 
     farmers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 53825
     }
@@ -497,31 +497,31 @@
 #Pilsen (490400/122600 POPS)
 629 = {
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1600
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 16000
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 46000
     }
@@ -559,37 +559,37 @@
 #Budejovice (405600/101400 POPS)
 630 = {
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 4650
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 550
     }
 
     bureaucrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 5300
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 40100
     }
@@ -632,37 +632,37 @@
 }
 3426 = {
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 40
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 265
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 55
     }
 
     bureaucrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 10
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 400
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1010
     }
@@ -762,43 +762,43 @@
     }
 
     aristocrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1300
     }
 
     bureaucrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 350
     }
 
     officers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 250
     }
 
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 475
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 700
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 32925
     }

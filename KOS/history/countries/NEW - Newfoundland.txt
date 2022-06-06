@@ -1,6 +1,6 @@
 capital = 74
 primary_culture = anglo_canadian
-culture = neustrien_canadian
+culture = french_canadian
 religion = roman_catholic
 government = colonial_company
 plurality = 0.2
@@ -60,7 +60,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 set_country_flag = existing_country
 set_country_flag = new_world_nation
 set_country_flag = exempt_from_vassal_contribution

@@ -1,5 +1,5 @@
 capital = 3265
-primary_culture = rheinian
+primary_culture = saksysk
 religion = roman_catholic
 government = democracy
 plurality = 0.15
@@ -36,7 +36,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = settlement
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 
 # Technologies
 post_napoleonic_thought = 1

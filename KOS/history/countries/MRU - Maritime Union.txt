@@ -1,6 +1,6 @@
 capital = 71
 primary_culture = anglo_canadian
-culture = neustrien_canadian
+culture = french_canadian
 religion = african_catholic
 government = hms_government
 plurality = 0.2
@@ -60,7 +60,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 
 ruling_party = MRU_conservative
 upper_house = {

@@ -528,20 +528,6 @@ substate = {
 
 vassal = {
 	first = FRA
-	second = TOR
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = FRA
-	second = SVY
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = FRA
 	second = TUS
 	start_date = 1836.1.1
 	end_date = 1937.1.1
@@ -791,7 +777,7 @@ vassal = {
 
 vassal = {
     first = PAP
-    second = VEN
+    second = BNV
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
@@ -815,6 +801,13 @@ substate = {
 substate = {
     first = SCN
     second = ICL
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = SCN
+    second = SCO
     start_date = 1814.11.1
     end_date = 1936.1.1
 }

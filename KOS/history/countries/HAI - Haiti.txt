@@ -1,6 +1,6 @@
 capital = 2213
 primary_culture = mulatto
-culture = afro_neustrien
+culture = afro_french
 culture = polish
 religion = roman_catholic
 government = presidential_dictatorship
@@ -40,7 +40,7 @@ border_policy = quota_immigration
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 set_country_flag = new_world_nation
 set_country_flag = slave_revolution
 

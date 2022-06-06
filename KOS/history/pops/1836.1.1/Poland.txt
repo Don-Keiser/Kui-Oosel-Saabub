@@ -239,7 +239,7 @@
     }
 
     farmers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 6000
     }
@@ -391,85 +391,85 @@
 #Liegnitz (484000/121000 POPS)
 683 = {
     aristocrats = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 2000
     }
 
     clergymen = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 925
     }
 
     artisans = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 5550
     }
 
     soldiers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 1125
     }
 
     farmers = {
-        culture = bohemish
+        culture = boarisch
         religion = roman_catholic
         size = 70925
     }
 
     craftsmen = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 1400
     }
 
     clergymen = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 100
     }
 
     artisans = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 200
     }
 
     soldiers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 3675
     }
 
     clergymen = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 100
     }
 
     artisans = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 250
     }
 
     soldiers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 24615
     }
@@ -1041,31 +1041,31 @@ clergymen = {
 #Elbing (148000/37000 POPS)
 693 = {
     aristocrats = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 700
     }
 
     clergymen = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 125
     }
 
     artisans = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 1400
     }
 
     soldiers = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 1000
     }
 
     farmers = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 27425
     }
@@ -1096,31 +1096,31 @@ clergymen = {
 }
 3326 = {
     aristocrats = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 700
     }
 
     clergymen = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 125
     }
 
     artisans = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 1400
     }
 
     soldiers = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 1000
     }
 
     farmers = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 27425
     }
@@ -1206,19 +1206,19 @@ clergymen = {
     }
 
     clergymen = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 225
     }
 
     artisans = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 1300
     }
 
     soldiers = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 250
     }
@@ -1236,7 +1236,7 @@ clergymen = {
     }
 	
 	farmers = {
-        culture = preitser
+        culture = preitsii
         religion = roman_catholic
         size = 11225
     }
@@ -1346,7 +1346,7 @@ clergymen = {
         size = 13550
     }
 	farmers = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 9000
     }
@@ -1679,25 +1679,25 @@ clergymen = {
     }
 
     soldiers = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 300
     }
 
     clergymen = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 100
     }
 
     artisans = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 1500
     }
 
     farmers = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 2560
     }
@@ -2997,7 +2997,7 @@ clergymen = {
     }
 
     farmers = {
-        culture = preitser
+        culture = preitsii
         religion = african_catholic
         size = 36000
     }
@@ -3716,49 +3716,49 @@ clergymen = {
 }
 3417 = {
     clergymen = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 25
     }
 
     soldiers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 2500
     }
 
     artisans = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 150
     }
 
     soldiers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 1500
     }
 
     farmers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 100
     }
 
     soldiers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 25
     }
@@ -3795,25 +3795,25 @@ clergymen = {
     }
 
     soldiers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 2700
     }
 
     farmers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 100
     }
 
     soldiers = {
-        culture = central_german
+        culture = dieringisch
         religion = african_catholic
         size = 25
     }

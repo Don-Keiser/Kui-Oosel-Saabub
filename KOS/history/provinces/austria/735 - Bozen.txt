@@ -1,6 +1,5 @@
-owner = BAV
-controller = BAV
-add_core = BAV
-add_core = TST
+owner = RAE
+controller = RAE
+add_core = RAE
 trade_goods = grain
 life_rating = 35

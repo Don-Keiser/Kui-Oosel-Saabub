@@ -1,7 +1,7 @@
 capital = 720
 primary_culture = ligur
 religion = roman_catholic
-government = march
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.4
@@ -59,7 +59,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 
 ruling_party = LOM_conservative
 upper_house = {

@@ -1,5 +1,5 @@
 capital = 397
-primary_culture = rheinian
+primary_culture = ostrisch
 culture = neustrien
 religion = roman_catholic
 government = absolute_monarchy
@@ -39,7 +39,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 
 ruling_party = LUX_conservative
 upper_house = {

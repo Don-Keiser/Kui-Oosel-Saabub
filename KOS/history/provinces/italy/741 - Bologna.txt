@@ -1,6 +1,6 @@
-owner = TUS
-controller = TUS
-add_core = TUS
+owner = RMG
+controller = RMG
+add_core = RMG
 add_core = ITA
 trade_goods = timber
 life_rating = 35

@@ -40,7 +40,7 @@ border_policy = open_borders
 centralization = confederalism
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 decision = swh_rename
 
 ruling_party = SWH_conservative_2

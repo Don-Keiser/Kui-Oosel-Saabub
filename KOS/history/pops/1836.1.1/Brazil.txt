@@ -787,7 +787,7 @@
     }
 
     farmers = {
-        culture = afro_neustrien
+        culture = afro_french
         religion = roman_catholic
         size = 1050
     }

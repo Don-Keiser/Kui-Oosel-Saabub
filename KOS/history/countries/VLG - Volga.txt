@@ -1,5 +1,5 @@
 capital = 1037
-primary_culture = volga_german
+primary_culture = north_german
 culture = russian
 religion = african_catholic
 government = absolute_monarchy
@@ -62,7 +62,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 set_country_flag = unreleasable_country
 
 ruling_party = UBD_conservative

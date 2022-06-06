@@ -1,5 +1,5 @@
 capital = 720
-primary_culture = arpitan
+primary_culture = burgundisch
 religion = roman_catholic
 government = colonial_company
 plurality = 0.0
@@ -37,7 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 set_country_flag = sardinian_italy
 
 ruling_party = SAR_reactionary

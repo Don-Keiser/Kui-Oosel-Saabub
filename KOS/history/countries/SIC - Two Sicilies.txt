@@ -40,7 +40,7 @@ border_policy = open_borders
 centralization = regionalism
 colonial_policy = no_colonies
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 
 govt_flag = {
     government = hms_government

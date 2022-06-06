@@ -1,12 +1,11 @@
 capital = 576
 primary_culture = north_german
 culture = aquitan
-culture = wallonian
+culture = picard
 culture = breton
-culture = arpitan
+culture = burgundisch
 culture = neustrien
 culture = south_german
-culture = volga_german
 culture = dutch
 culture = flaamsk
 culture = north_italian
@@ -50,7 +49,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 
 ruling_party = BAY_conservative_2
 upper_house = {

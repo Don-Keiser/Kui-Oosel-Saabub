@@ -1,5 +1,5 @@
 capital = 2431
-primary_culture = afro_neustrien
+primary_culture = afro_french
 culture = neustrien
 government = democracy
 plurality = 0.2
@@ -9,7 +9,7 @@ civilized = yes
 prestige = 3
 
 set_country_flag = new_world_nation
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 religion = roman_catholic
 
 # Political reforms

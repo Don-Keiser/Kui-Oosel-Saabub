@@ -39,31 +39,31 @@
     }
 
     clergymen = {
-        culture = kreol #afro_neustrien
+        culture = kreol #afro_french
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = kreol #afro_neustrien
+        culture = kreol #afro_french
         religion = roman_catholic
         size = 850
     }
 
     soldiers = {
-        culture = kreol #afro_neustrien
+        culture = kreol #afro_french
         religion = roman_catholic
         size = 200
     }
 
     farmers = {
-        culture = kreol #afro_neustrien
+        culture = kreol #afro_french
         religion = roman_catholic
         size = 1825
     }
 
     slaves = {
-        culture = kreol #afro_neustrien
+        culture = kreol #afro_french
         religion = roman_catholic
         size = 14000
     }

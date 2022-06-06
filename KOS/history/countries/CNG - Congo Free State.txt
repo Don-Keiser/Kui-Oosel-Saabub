@@ -48,7 +48,7 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 
 set_country_flag = post_colonial_country
 

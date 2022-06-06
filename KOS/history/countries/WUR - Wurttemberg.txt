@@ -1,5 +1,5 @@
 capital = 586
-primary_culture = south_rheinian
+primary_culture = ostrisch
 religion = roman_catholic
 government = absolute_monarchy
 plurality = 25.0
@@ -39,7 +39,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 
 ruling_party = WUR_reactionary
 upper_house = {

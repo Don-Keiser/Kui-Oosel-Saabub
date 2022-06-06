@@ -1,11 +1,11 @@
 capital = 425
 primary_culture = neustrien
 culture = aquitan
-culture = wallonian
+culture = picard
 culture = breton
-culture = arpitan
+culture = burgundisch
 culture = cajun
-culture = neustrien_canadian
+culture = french_canadian
 religion = roman_catholic
 government = hms_government
 plurality = 25
@@ -46,7 +46,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = exploitation
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 
 # Technologies
 post_napoleonic_thought = 1

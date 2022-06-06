@@ -53,7 +53,7 @@ upper_house = {
 }
 
 set_country_flag = existing_country
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 
 # Technologies
 post_napoleonic_thought = 1

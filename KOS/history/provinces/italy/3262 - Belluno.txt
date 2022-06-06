@@ -1,5 +1,6 @@
-owner = VRN
-controller = VRN
-add_core = VRN
+owner = RMG
+controller = RMG
+add_core = RMG
+add_core = ITA
 trade_goods = iron
 life_rating = 35

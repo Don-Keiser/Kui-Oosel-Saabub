@@ -1,6 +1,6 @@
-owner = WUR
-controller = WUR
-add_core = WUR
+owner = BRG
+controller = BRG
+add_core = BRG
 trade_goods = precious_goods
 life_rating = 32
 fort = 1

@@ -1,7 +1,7 @@
 capital = 2240
 primary_culture = kreol
 culture = afro_caribbean
-culture = afro_neustrien
+culture = afro_french
 culture = amazonian
 religion = african_catholic
 government = democracy
@@ -62,7 +62,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 
 set_country_flag = new_world_nation
 

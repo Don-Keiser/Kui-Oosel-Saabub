@@ -696,7 +696,7 @@ finnougric = {
         radicalism = 5
     }
 	halicsiai = {
-        color = { 48 105 155 }
+        color = { 44 83 210 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -752,7 +752,7 @@ finnougric = {
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
 	vizselyi = {
-        color = { 44 83 210 }
+        color = { 48 105 155 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -2260,7 +2260,6 @@ pan_romanian = {
 polish_culture_group = {
     leader = european
     unit = AustriaHungaryGC
-
     polish = {
         color = {210 100 130}
         first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil

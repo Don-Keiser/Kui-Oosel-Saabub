@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = GTL
+controller = GTL
+add_core = GTL
 add_core = OCC
 trade_goods = iron
 life_rating = 25

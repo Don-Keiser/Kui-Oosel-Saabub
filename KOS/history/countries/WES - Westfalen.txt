@@ -1,6 +1,6 @@
 capital = 581
-primary_culture = rheinian
-culture = central_german
+primary_culture = ostrisch
+culture = dieringisch
 religion = roman_catholic
 government = democracy
 plurality = 45.0
@@ -61,7 +61,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 
 ruling_party = WES_conservative_2
 upper_house = {

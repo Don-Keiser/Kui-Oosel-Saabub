@@ -1,5 +1,5 @@
 capital = 2512
-primary_culture = neustrien_australian
+primary_culture = french_australian
 religion = roman_catholic
 government = hms_government
 plurality = 0.88
@@ -39,7 +39,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 set_country_flag = new_world_nation
 set_country_flag = existing_country
 set_country_flag = unreleasable_country

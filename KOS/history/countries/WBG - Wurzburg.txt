@@ -1,5 +1,5 @@
 capital = 597
-primary_culture = rheinian
+primary_culture = dieringisch
 culture = south_german
 religion = roman_catholic
 government = theocracy

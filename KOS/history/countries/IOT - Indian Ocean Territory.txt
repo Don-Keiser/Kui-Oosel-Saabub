@@ -38,7 +38,7 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = post_colonial_country
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 
 ruling_party = ENG_liberal
 upper_house = {

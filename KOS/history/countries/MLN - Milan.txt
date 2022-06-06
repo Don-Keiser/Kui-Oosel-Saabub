@@ -1,11 +1,12 @@
-capital = 3279
-primary_culture = kurdish
-religion = sunni
+capital = 726
+primary_culture = romagnol
+religion = roman_catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0.01
 non_state_culture_literacy = 0.01
+civilized = yes
 
 # Political reforms
 slavery = yes_slavery
@@ -47,9 +48,6 @@ upper_house = {
     socialist = 0
     communist = 0
 }
-
-set_country_flag = sunni_country
-decision = kurdish_1836_setup
 
 consciousness = 0
 nonstate_consciousness = 0

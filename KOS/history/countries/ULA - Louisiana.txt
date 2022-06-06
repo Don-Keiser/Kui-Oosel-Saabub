@@ -39,7 +39,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 set_country_flag = new_world_nation
 set_country_flag = unreleasable_country
 

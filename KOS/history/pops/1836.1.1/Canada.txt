@@ -226,7 +226,7 @@
 2595 = {
 
     aristocrats = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 2
     }
@@ -1868,7 +1868,7 @@
 #Toronto (172000/43000 POPS)
 46 = {
     aristocrats = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 30
     }
@@ -2006,25 +2006,25 @@
     }
 
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = african_catholic
         size = 25
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 250
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = african_catholic
         size = 25
     }
 
     farmers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 1700
     }
@@ -2062,25 +2062,25 @@
     }
 
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = african_catholic
         size = 50
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 200
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = african_catholic
         size = 50
     }
 
     farmers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 3700
     }
@@ -2125,7 +2125,7 @@
 2592 = {
 
     aristocrats = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 5
     }
@@ -2143,25 +2143,25 @@
     }
 
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 5
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 5
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 5
     }
 
     farmers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 15
     }
@@ -2246,25 +2246,25 @@
 2593 = {
 
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 5
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 5
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 5
     }
 
     farmers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 15
     }
@@ -2321,37 +2321,37 @@
     }
 
     aristocrats = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 30
     }
 
     bureaucrats = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 500
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 400
     }
 
     farmers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 36000
     }
@@ -2389,25 +2389,25 @@
     }
 
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 50
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 100
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 25
     }
 
     farmers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 1825
     }
@@ -2445,25 +2445,25 @@
     }
 
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 25
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 50
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 10
     }
 
     farmers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 915
     }
@@ -2501,25 +2501,25 @@
     }
 
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 75
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 150
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 25
     }
 
     farmers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 2750
     }
@@ -2527,25 +2527,25 @@
 #Trois-Rivieres (68000/17000 POPS)
 64 = {
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 175
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 150
     }
 
     labourers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 15675
     }
@@ -2553,25 +2553,25 @@
 #Quebec City (188000/47000 POPS)
 65 = {
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 500
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 5000
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 500
     }
 
     farmers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 41000
     }
@@ -2603,25 +2603,25 @@
     }
 
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 250
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 700
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 10900
     }
@@ -2629,25 +2629,25 @@
 #Riviere du Loup (56000/14000 POPS)
 67 = {
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 150
     }
 
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 750
     }
 
     soldiers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 150
     }
 
     labourers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 4500
     }
@@ -2720,7 +2720,7 @@
         size = 491
     }
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 63
     }
@@ -3120,7 +3120,7 @@
 #Saint Pierre (2000/500 POPS)
 77 = {
     clergymen = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 4
     }
@@ -3159,7 +3159,7 @@
         size = 400
     }
     artisans = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 70
     }
@@ -3170,7 +3170,7 @@
 
     }
     farmers = {
-        culture = neustrien_canadian
+        culture = french_canadian
         religion = roman_catholic
         size = 3350
     }

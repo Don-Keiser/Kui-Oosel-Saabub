@@ -1821,7 +1821,7 @@
 	}
 	
 	farmers = {
-		culture = arpitan
+		culture = burgundisch
 		religion = roman_catholic
 		size = 26000
 	}

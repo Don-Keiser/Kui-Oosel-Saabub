@@ -1,7 +1,5 @@
 capital = 608
-primary_culture = swiss_neustrien
-culture = swiss_german
-culture = arpitan
+primary_culture = burgundisch
 religion = alexandrian_orthodox
 government = hms_government
 plurality = 25.0
@@ -39,7 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 
 ruling_party = SWI_conservative
 last_election = 1835.1.1

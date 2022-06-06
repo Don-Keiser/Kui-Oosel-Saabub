@@ -50,7 +50,7 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = roman_roman_catholic_country
+set_country_flag = roman_catholic_country
 
 # Technologies
 military_staff_system = 1

@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = settlement
 
-set_country_flag = african_roman_roman_catholic_country
+set_country_flag = african_roman_catholic_country
 set_country_flag = exempt_from_vassal_contribution
 
 govt_flag = {
