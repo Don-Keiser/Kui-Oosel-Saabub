@@ -1,6 +1,6 @@
-owner = DOR
-controller = DOR
-add_core = DOR
+owner = SAX
+controller = SAX
+add_core = SAX
 trade_goods = coal
 life_rating = 40
 terrain = dortmund

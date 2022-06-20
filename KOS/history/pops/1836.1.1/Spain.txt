@@ -900,37 +900,37 @@
     farmers = {
         culture = tarragones
         religion = roman_catholic
-        size = 45450
+        size = 48450
     }
 
     aristocrats = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 175
     }
 
     artisans = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 850
     }
 
     soldiers = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 250
     }
 
     labourers = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
-        size = 6025
+        size = 3025
     }
 }
 #Teruel (228000/57000 POPS)
@@ -969,63 +969,63 @@
 #Barcelona (464000/116000 POPS)
 498 = {
     aristocrats = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
         size = 850
     }
 
     clergymen = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
         size = 450
     }
 
     artisans = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
         size = 3750
     }
 
     soldiers = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
         size = 1350
     }
 
     farmers = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
-        size = 36300
+        size = 23300
     }
 
     aristocrats = {
-        culture = tarragones
+        culture = aquitan
         religion = roman_catholic
         size = 450
     }
 
     clergymen = {
-        culture = tarragones
+        culture = aquitan
         religion = roman_catholic
         size = 200
     }
 
     artisans = {
-        culture = tarragones
+        culture = aquitan
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = tarragones
+        culture = aquitan
         religion = roman_catholic
         size = 250
     }
 
     farmers = {
-        culture = tarragones
+        culture = aquitan
         religion = roman_catholic
-        size = 6600
+        size = 19600
     }
 }
 #Gerona (228000/57000 POPS)
@@ -1068,33 +1068,39 @@
 }
 3433 = {
     aristocrats = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 600
     }
 
     clergymen = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 300
     }
 
     artisans = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 3600
     }
 
     soldiers = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 800
     }
 
     farmers = {
+        culture = basque
+        religion = roman_catholic
+        size = 16000
+    }
+	
+	farmers = {
         culture = aquitan
         religion = roman_catholic
-        size = 24000
+        size = 8000
     }
 }
 

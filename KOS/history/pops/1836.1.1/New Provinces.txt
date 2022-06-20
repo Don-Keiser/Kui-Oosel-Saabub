@@ -103,33 +103,39 @@
 
 3705 = {
     aristocrats = {
-        culture = ostrisch
+        culture = boarisch
         religion = roman_catholic
         size = 100
     }
+	
+    soldiers = {
+        culture = boarisch
+        religion = roman_catholic
+        size = 2000
+    }
+	
+    farmers = {
+        culture = boarisch
+        religion = roman_catholic
+        size = 6500
+    }
 
     clergymen = {
-        culture = ostrisch
+        culture = thuringia_gothic
         religion = roman_catholic
-        size = 250
+        size = 600
     }
 
     artisans = {
-        culture = ostrisch
+        culture = thuringia_gothic
         religion = roman_catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 250
+        size = 6500
     }
 
     farmers = {
-        culture = ostrisch
+        culture = thuringia_gothic
         religion = roman_catholic
-        size = 25475
+        size = 29000
     }
 }
 

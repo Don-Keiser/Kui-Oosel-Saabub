@@ -2,19 +2,19 @@
 #Lille (620000/155000 POPS)
 399 = {
     aristocrats = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 1400
     }
 
     officers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 750
     }
 
     bureaucrats = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 1750
     }
@@ -32,13 +32,13 @@
     }
 
     artisans = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 7000
     }
 
     soldiers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 6000
     }
@@ -62,7 +62,7 @@
     }
 	
 	labourers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 11000
     }
@@ -70,7 +70,7 @@
 #Dunkirk (396000/99000 POPS)
 400 = {
     aristocrats = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 800
     }
@@ -88,19 +88,19 @@
     }
 
     soldiers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 3000
     }
@@ -124,13 +124,13 @@
     }
 
     artisans = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 2500
     }
 
     farmers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 35000
     }
@@ -138,31 +138,31 @@
 #Arras (428000/107000 POPS)
 401 = {
     aristocrats = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 850
     }
 
     clergymen = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 925
     }
 
     artisans = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 5750
     }
 
     soldiers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 1150
     }
 
     farmers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 87200
     }
@@ -176,37 +176,37 @@
 
 3314 = {
     aristocrats = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 850
     }
 
     clergymen = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 925
     }
 
     artisans = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 5750
     }
 
     soldiers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 1150
     }
 
     farmers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 87500
     }
 
     farmers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 1300
     }
@@ -244,7 +244,7 @@
 	}
 
 	farmers = {
-		culture = picard
+		culture = neustrien
 		religion = roman_catholic
 		size = 102875
 	}
@@ -288,7 +288,7 @@
 	}
 
 	farmers = {
-		culture = picard
+		culture = neustrien
 		religion = roman_catholic
 		size = 50450
 	}
@@ -338,35 +338,35 @@
 		religion = roman_catholic
 		size = 1500
 	}
-
+	
 	farmers = {
 		culture = neustrien
 		religion = roman_catholic
-		size = 40000
+		size = 100725
 	}
-	
+
 	farmers = {
-		culture = picard
+		culture = ostrisch
 		religion = roman_catholic
-		size = 80725
+		size = 20000
 	}
 }
 #Cambrai (280000/70000 POPS)
 404 = {
     aristocrats = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 600
     }
 
     clergymen = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 600
     }
 
     artisans = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 6500
     }
@@ -378,15 +378,21 @@
     }
 
     soldiers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
         size = 1000
     }
 
     farmers = {
-        culture = picard
+        culture = neustrien
         religion = roman_catholic
-        size = 61000
+        size = 41000
+    }
+	
+	    farmers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 20000
     }
 	
 	farmers = {
@@ -424,13 +430,13 @@
     farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 50000
+        size = 80000
     }
 	
 	farmers = {
         culture = neustrien
         religion = roman_catholic
-        size = 40000
+        size = 10000
     }
 }
 #Champagne Region (856000)
@@ -475,71 +481,89 @@
     farmers = {
         culture = neustrien
         religion = roman_catholic
-        size = 55900
+        size = 28000
+    }
+	
+	farmers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 28000
     }
 }
 #Chaumont (256000/64000 POPS)
 407 = {
     aristocrats = {
-        culture = neustrien
+        culture = ostrisch
         religion = roman_catholic
         size = 600
     }
 
     clergymen = {
-        culture = neustrien
+        culture = ostrisch
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = neustrien
+        culture = ostrisch
         religion = roman_catholic
         size = 3250
     }
 
     soldiers = {
-        culture = neustrien
+        culture = ostrisch
         religion = roman_catholic
         size = 1000
     }
 
     farmers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 60000
+    }
+	
+    farmers = {
         culture = neustrien
         religion = roman_catholic
-        size = 98750
+        size = 39000
     }
 }
 #Chalons (348000/87000 POPS)
 408 = {
     aristocrats = {
-        culture = neustrien
+        culture = ostrisch
         religion = roman_catholic
         size = 800
     }
 
     clergymen = {
-        culture = neustrien
+        culture = ostrisch
         religion = roman_catholic
         size = 650
     }
 
     artisans = {
-        culture = neustrien
+        culture = ostrisch
         religion = roman_catholic
         size = 5850
     }
 
     soldiers = {
-        culture = neustrien
+        culture = ostrisch
         religion = roman_catholic
         size = 1000
     }
 
     farmers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 50000
+    }
+
+    farmers = {
         culture = neustrien
         religion = roman_catholic
-        size = 78700
+        size = 29000
     }
 
 }
@@ -897,7 +921,7 @@
 	farmers = {
 		culture = ostrisch
 		religion = roman_catholic
-		size = 43225
+		size = 58225
 	}
 
     clergymen = {
@@ -921,7 +945,7 @@
     labourers = {
         culture = neustrien
         religion = roman_catholic
-        size = 31400
+        size = 16400
     }
 }
 #Epinal (412000/103000 POPS)
@@ -985,37 +1009,37 @@
 #Rouen (716000/179000 POPS)
 415 = {
 	aristocrats = {
-		culture = picard
+		culture = neustrien
 		religion = roman_catholic
 		size = 1600
 	}
 
 	officers = {
-		culture = picard
+		culture = neustrien
 		religion = roman_catholic
 		size = 650
 	}
 
 	bureaucrats = {
-		culture = picard
+		culture = neustrien
 		religion = roman_catholic
 		size = 1650
 	}
 
 	clergymen = {
-		culture = picard
+		culture = neustrien
 		religion = roman_catholic
 		size = 1600
 	}
 
 	artisans = {
-		culture = picard
+		culture = neustrien
 		religion = roman_catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = picard
+		culture = neustrien
 		religion = roman_catholic
 		size = 10000
 	}
@@ -1027,13 +1051,13 @@
 	}
 
 	soldiers = {
-		culture = picard
+		culture = neustrien
 		religion = roman_catholic
 		size = 2200
 	}
 
 	farmers = {
-		culture = picard
+		culture = neustrien
 		religion = roman_catholic
 		size = 127000
 	}
@@ -1445,7 +1469,7 @@
 	farmers = {
 		culture = neustrien
 		religion = roman_catholic
-		size = 34050
+		size = 100000
 	}
 
 	soldiers = {
@@ -1457,7 +1481,7 @@
 	farmers = {
 		culture = breton
 		religion = roman_catholic
-		size = 100000
+		size = 34000
 	}
 }
 #Ile De France Region (2132000)
@@ -1779,13 +1803,13 @@
 	farmers = {
 		culture = neustrien
 		religion = roman_catholic
-		size = 27575
+		size = 100000
 	}
 	
 	farmers = {
 		culture = aquitan
 		religion = roman_catholic
-		size = 100000
+		size = 30000
 	}
 }
 #Macon (536000/134000 POPS)
@@ -2264,51 +2288,69 @@
 #La Rochelle (454000/113500 POPS)
 442 = {
 	aristocrats = {
-		culture = neustrien
+		culture = rochelaes
 		religion = roman_catholic
-		size = 1100
+		size = 2300
 	}
 
 	officers = {
-		culture = neustrien
+		culture = rochelaes
 		religion = roman_catholic
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = neustrien
+		culture = rochelaes
 		religion = roman_catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = neustrien
+		culture = rochelaes
 		religion = roman_catholic
-		size = 825
+		size = 1200
 	}
 
 	artisans = {
-		culture = neustrien
+		culture = rochelaes
 		religion = roman_catholic
-		size = 5500
+		size = 10000
+	}
+	
+	artisans = {
+		culture = rochelaes
+		religion = roman_catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = rochelaes
+		religion = roman_catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = rochelaes
+		religion = roman_catholic
+		size = 4000
 	}
 
 	soldiers = {
-		culture = neustrien
+		culture = rochelaes
 		religion = roman_catholic
-		size = 1150
+		size = 5600
 	}
 
 	farmers = {
-		culture = neustrien
+		culture = rochelaes
 		religion = roman_catholic
-		size = 3925
+		size = 128000
 	}
 	
 	farmers = {
-		culture = rochelaes
+		culture = neustrien
 		religion = roman_catholic
-		size = 100000
+		size = 6000
 	}
 }
 #Poitiers (288000/72000 POPS)
@@ -2724,12 +2766,6 @@
 	artisans = {
 		culture = burgundisch
 		religion = roman_catholic
-		size = 10000
-	}
-	
-	artisans = {
-		culture = burgundisch
-		religion = roman_catholic
 		size = 8000
 	}
 	
@@ -2754,7 +2790,7 @@
 	farmers = {
 		culture = aquitan
 		religion = roman_catholic
-		size = 55000
+		size = 5000
 	}
 	
 	clergymen = {
@@ -2769,58 +2805,64 @@
 		size = 10000
 	}
 	
+	artisans = {
+		culture = neustrien
+		religion = roman_catholic
+		size = 10000
+	}
+	
 	farmers = {
 		culture = neustrien
 		religion = roman_catholic
-		size = 38100
+		size = 88100
 	}
 }
 #St Etienne (412000/103000 POPS)
 452 = {
 	aristocrats = {
-		culture = aquitan
+		culture = neustrien
 		religion = roman_catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = aquitan
+		culture = neustrien
 		religion = roman_catholic
 		size = 825
 	}
 
 	artisans = {
-		culture = aquitan
+		culture = neustrien
 		religion = roman_catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = aquitan
+		culture = neustrien
 		religion = roman_catholic
 		size = 5000
 	}
 
 	craftsmen = {
-		culture = aquitan
+		culture = neustrien
 		religion = roman_catholic
 		size = 9000
 	}
 	
 	soldiers = {
-		culture = aquitan
+		culture = neustrien
 		religion = roman_catholic
 		size = 1150
 	}
 
 	farmers = {
-		culture = aquitan
+		culture = neustrien
 		religion = roman_catholic
 		size = 65725
 	}
 
 	farmers = {
-		culture = neustrien
+		culture = aquitan
 		religion = roman_catholic
 		size = 20025
 	}
@@ -3029,13 +3071,13 @@
     }
 
     artisans = {
-        culture = burgundisch
+        culture = aquitan
         religion = roman_catholic
         size = 7500
     }
 
     soldiers = {
-        culture = burgundisch
+        culture = aquitan
         religion = roman_catholic
         size = 1500
     }
@@ -3043,13 +3085,19 @@
     farmers = {
         culture = aquitan
         religion = roman_catholic
-        size = 54150
+        size = 120000
+    }
+	
+	farmers = {
+        culture = ligur
+        religion = roman_catholic
+        size = 6000
     }
 
     farmers = {
         culture = burgundisch
         religion = roman_catholic
-        size = 80400
+        size = 10400
     }
 }
 #Foix (348000/87000 POPS)
@@ -3213,67 +3261,61 @@
 #Pau (676000/169000 POPS)
 460 = {
 	aristocrats = {
-		culture = neustrien
+		culture = basque
 		religion = roman_catholic
 		size = 1200
 	}
 
 	clergymen = {
-		culture = aquitan
+		culture = basque
 		religion = roman_catholic
 		size = 850
 	}
 
 	artisans = {
-		culture = aquitan
+		culture = basque
 		religion = roman_catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = aquitan
+		culture = basque
 		religion = roman_catholic
 		size = 1250
 	}
 
 	farmers = {
-		culture = aquitan
+		culture = basque
 		religion = roman_catholic
-		size = 84700
-	}
-
-	farmers = {
-		culture = neustrien
-		religion = roman_catholic
-		size = 2000
+		size = 86700
 	}
 
 	aristocrats = {
-		culture = basque
+		culture = aquitan
 		religion = roman_catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = basque
+		culture = aquitan
 		religion = roman_catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = basque
+		culture = aquitan
 		religion = roman_catholic
 		size = 5500
 	}
 
 	soldiers = {
-		culture = basque
+		culture = aquitan
 		religion = roman_catholic
 		size = 450
 	}
 
 	farmers = {
-		culture = basque
+		culture = aquitan
 		religion = roman_catholic
 		size = 20000
 	}
@@ -3325,13 +3367,13 @@
 }
 3472 = {
     aristocrats = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 1200
     }
 
     clergymen = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 550
     }
@@ -3343,25 +3385,25 @@
     }
 
     artisans = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 4000
     }
 
     artisans = {
-        culture = basque
+        culture = aquitan
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = aquitan
+        culture = basque
         religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
-        culture = basque
+        culture = aquitan
         religion = roman_catholic
         size = 250
     }
@@ -3369,13 +3411,13 @@
     farmers = {
         culture = aquitan
         religion = roman_catholic
-        size = 24700
+        size = 14700
     }
 
     farmers = {
         culture = basque
         religion = roman_catholic
-        size = 50000
+        size = 60000
     }
 
 }
@@ -3692,7 +3734,13 @@
 	farmers = {
 		culture = burgundisch
 		religion = roman_catholic
-		size = 54000
+		size = 50000
+	}
+	
+	farmers = {
+		culture = ligur
+		religion = roman_catholic
+		size = 4000
 	}
 }
 #Provence Region (1268400)
@@ -3747,7 +3795,7 @@
 	}
 	
 	craftsmen = {
-		culture = burgundisch
+		culture = aquitan
 		religion = roman_catholic
 		size = 6000
 	}
@@ -3799,19 +3847,19 @@
 	farmers = {
 		culture = aquitan
 		religion = roman_catholic
-		size = 42000
+		size = 46500
 	}
 	
 	artisans = {
-		culture = burgundisch
+		culture = ligur
 		religion = roman_catholic
 		size = 1000
 	}
 	
 	farmers = {
-		culture = burgundisch
+		culture = ligur
 		religion = roman_catholic
-		size = 9000
+		size = 4500
 	}
 }
 3432 = {
@@ -3842,45 +3890,51 @@
     farmers = {
         culture = aquitan
         religion = roman_catholic
-        size = 20625
+        size = 28000
     }
-
-    farmers = {
-        culture = burgundisch
+	
+	farmers = {
+        culture = ligur
         religion = roman_catholic
-        size = 8300
+        size = 3000
     }
 }
 #Digne (113200/31000 POPS)
 469 = {
 	aristocrats = {
-		culture = burgundisch
-		religion = african_catholic
+		culture = ligur
+		religion = roman_catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = burgundisch
-		religion = african_catholic
+		culture = ligur
+		religion = roman_catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = burgundisch
-		religion = african_catholic
+		culture = ligur
+		religion = roman_catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = burgundisch
-		religion = african_catholic
+		culture = ligur
+		religion = roman_catholic
 		size = 350
 	}
 
 	farmers = {
+		culture = ligur
+		religion = roman_catholic
+		size = 26000
+	}
+	
+	farmers = {
 		culture = burgundisch
-		religion = african_catholic
-		size = 18000
+		religion = roman_catholic
+		size = 2000
 	}
 	
 	clergymen = {
@@ -3892,45 +3946,51 @@
 	farmers = {
 		culture = aquitan
 		religion = roman_catholic
-		size = 13000
+		size = 3000
 	}
 }
 #Toulon (224000/56000 POPS)
 470 = {
 	aristocrats = {
-		culture = aquitan
+		culture = ligur
 		religion = african_catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = aquitan
+		culture = ligur
 		religion = roman_catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = aquitan
+		culture = ligur
 		religion = roman_catholic
 		size = 10000
 	}
 	
     artisans = {
-		culture = aquitan
+		culture = ligur
 		religion = roman_catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = aquitan
+		culture = ligur
 		religion = roman_catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = aquitan
+		culture = ligur
 		religion = roman_catholic
 		size = 35000
+	}
+	
+	farmers = {
+		culture = aquitan
+		religion = roman_catholic
+		size = 8000
 	}
 	
 	farmers = {
@@ -3948,39 +4008,39 @@
 #Frejus (132000/33000 POPS)
 471 = {
 	aristocrats = {
-		culture = aquitan
+		culture = ligur
 		religion = roman_catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = aquitan
+		culture = ligur
 		religion = roman_catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = aquitan
+		culture = ligur
 		religion = roman_catholic
 		size = 1600
 	}
 
 	soldiers = {
-		culture = aquitan
+		culture = ligur
 		religion = roman_catholic
 		size = 350
 	}
 
 	farmers = {
-		culture = aquitan
+		culture = ligur
 		religion = roman_catholic
-		size = 24000
+		size = 31000
 	}
 
 	farmers = {
-		culture = ligur
+		culture = neustrien
 		religion = roman_catholic
-		size = 6000
+		size = 1600
 	}
 }
 
@@ -4013,7 +4073,7 @@
 	farmers = {
 		culture = ligur
 		religion = roman_catholic
-		size = 24000
+		size = 54000
 	}
 	
     aristocrats = {
@@ -4047,15 +4107,9 @@
 	}
 	
 	bureaucrats = {
-		culture = aquitan
+		culture = neustrien
 		religion = roman_catholic
 		size = 10
-	}
-
-	farmers = {
-		culture = aquitan
-		religion = roman_catholic
-		size = 30000
 	}
 
 }
@@ -4153,13 +4207,13 @@
 	farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 26225
+        size = 36000
     }
 	
 	farmers = {
         culture = neustrien
         religion = roman_catholic
-        size = 19000
+        size = 10000
     }
 }
 
@@ -4275,12 +4329,12 @@
     farmers = {
         culture = aquitan
         religion = roman_catholic
-        size = 20000
+        size = 15000
     }
 
     farmers = {
         culture = basque
         religion = roman_catholic
-        size = 2300
+        size = 7300
     }
 }

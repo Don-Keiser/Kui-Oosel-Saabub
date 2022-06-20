@@ -1,5 +1,6 @@
-owner = AGL
-controller = AGL
+owner = FRI
+controller = FRI
+add_core = FRI
 add_core = AGL
 trade_goods = cattle
 life_rating = 40

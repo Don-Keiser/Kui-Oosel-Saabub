@@ -102,13 +102,7 @@
     farmers = {
         culture = ligur
         religion = roman_catholic
-        size = 10600
-    }
-	
-	farmers = {
-        culture = burgundisch
-        religion = roman_catholic
-        size = 1000
+        size = 14600
     }
 }
 #Aosta (156000/39000 POPS)
@@ -332,43 +326,43 @@
 #Milan (1332000/333000 POPS)
 726 = {
     aristocrats = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 3000
     }
 
     bureaucrats = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 1325
     }
 
     officers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 600
     }
 
     clergymen = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 3350
     }
 	
     artisans = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 10000
     }
 	
 	artisans = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 10000
     }
 	
 	artisans = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 10000
     }
@@ -380,13 +374,13 @@
     }
 
     soldiers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 3350
     }
 
     farmers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 280000
     }
@@ -394,36 +388,37 @@
 #Bergamo (472000/118000 POPS)
 727 = {
     aristocrats = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 1500
     }
 
     clergymen = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 1075
     }
 
     artisans = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 5400
     }
 
     soldiers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 1150
     }
 
     farmers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 74000
     }
+	
 	farmers = {
-        culture = ligur
+        culture = romansh
         religion = roman_catholic
         size = 3800
     }
@@ -431,39 +426,33 @@
 #Brescia (708000/177000 POPS)
 728 = {
     aristocrats = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 1900
     }
 
     clergymen = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 1775
     }
 
     artisans = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 8850
     }
 
     soldiers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 1750
     }
 
     farmers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
-        size = 121000
-    }
-	
-	farmers = {
-        culture = venetian
-        religion = roman_catholic
-        size = 40000
+        size = 161000
     }
 }
 #Venetia Region (2060000)
@@ -471,67 +460,67 @@
 #Venice (448000/112000 POPS)
 729 = {
     aristocrats = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 2300
     }
 
     bureaucrats = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 1600
     }
 
     officers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 1125
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 1150
     }
 
     farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 60925
     }
@@ -539,37 +528,37 @@
 #Verona (516000/129000 POPS)
 730 = {
     aristocrats = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 2650
     }
 
     clergymen = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 1300
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 1300
     }
 
     farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 111050
     }
@@ -577,31 +566,31 @@
 #Padua (564000/141000 POPS)
 731 = {
     aristocrats = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 2900
     }
 
     clergymen = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 1425
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 7500
     }
 
     soldiers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 1400
     }
 
     farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 127775
     }
@@ -609,31 +598,31 @@
 #Treviso (232000/58000 POPS)
 732 = {
     aristocrats = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 1175
     }
 
     clergymen = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 575
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 2900
     }
 
     soldiers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 550
     }
 
     farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 50300
     }
@@ -641,38 +630,38 @@
 #Udine (300000/75000 POPS)
 733 = {
     aristocrats = {
-        culture = venetian
+        culture = histri
         religion = roman_catholic
         size = 1550
     }
 
     clergymen = {
-        culture = venetian
+        culture = histri
         religion = roman_catholic
         size = 750
     }
 
     artisans = {
-        culture = venetian
+        culture = histri
         religion = roman_catholic
-        size = 3750
+        size = 4500
     }
 
     soldiers = {
-        culture = venetian
+        culture = histri
         religion = roman_catholic
-        size = 750
+        size = 2750
     }
 
     farmers = {
-        culture = venetian
-        religion = roman_catholic
-        size = 23250
-    }
-    farmers = {
         culture = histri
         religion = roman_catholic
-        size = 28000
+        size = 44000
+    }
+    farmers = {
+        culture = lombard
+        religion = roman_catholic
+        size = 10000
     }
 }
 #Tirol Region (368000) #see Austria.txt for balance of Region
@@ -680,117 +669,117 @@
 #Trent (276000/69000 POPS) #now part of Italy
 734 = {
     aristocrats = {
-        culture = boarisch
+        culture = lombard
         religion = roman_catholic
         size = 60
     }
 
     clergymen = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
-        size = 75
+        size = 600
     }
 
     bureaucrats = {
-        culture = boarisch
+        culture = lombard
         religion = roman_catholic
         size = 800
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
-        size = 200
+        size = 2200
     }
 
     soldiers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
-        size = 50
+        size = 800
     }
 
     farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
-        size = 44410
+        size = 54410
     }
 
     clergymen = {
-        culture = boarisch
+        culture = romansh
         religion = roman_catholic
-        size = 575
+        size = 175
     }
 
     artisans = {
-        culture = boarisch
+        culture = romansh
         religion = roman_catholic
-        size = 2800
+        size = 800
     }
 
     soldiers = {
-        culture = boarisch
-        religion = roman_catholic
-        size = 550
-    }
-
-    farmers = {
-        culture = boarisch
-        religion = roman_catholic
-        size = 20075
-    }
-}
-#Bozen (92000/23000 POPS) #now part of Italy
-735 = {
-    aristocrats = {
-        culture = boarisch
-        religion = roman_catholic
-        size = 250
-    }
-
-    clergymen = {
-        culture = boarisch
-        religion = roman_catholic
-        size =  145
-    }
-
-    artisans = {
-        culture = boarisch
-        religion = roman_catholic
-        size = 1400
-    }
-
-    soldiers = {
-        culture = boarisch
+        culture = romansh
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = boarisch
+        culture = romansh
+        religion = roman_catholic
+        size = 10075
+    }
+}
+#Bozen (92000/23000 POPS) #now part of Italy
+735 = {
+    aristocrats = {
+        culture = romansh
+        religion = roman_catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = romansh
+        religion = roman_catholic
+        size =  145
+    }
+
+    artisans = {
+        culture = romansh
+        religion = roman_catholic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = romansh
+        religion = roman_catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = romansh
         religion = roman_catholic
         size = 18000
     }
 
     clergymen = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size =  50
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 500
     }
 
     soldiers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 50
     }
 
     farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 3400
     }
@@ -876,13 +865,7 @@
     farmers = {
         culture = histri
         religion = roman_catholic
-        size = 35800
-    }
-
-    farmers = {
-        culture = venetian
-        religion = roman_catholic
-        size = 5000
+        size = 40800
     }
 }
 #Emilia Region (1120000)
@@ -890,140 +873,146 @@
 #Parma (472000/118000 POPS)
 738 = {
     aristocrats = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 2500
     }
 
     bureaucrats = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 175
     }
 
     officers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 125
     }
 
     clergymen = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 1200
     }
 
     artisans = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 7500
     }
 
     soldiers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 2000
     }
 
     farmers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
-        size = 64000
+        size = 100000
     }
 	
 	farmers = {
-        culture = romagnol
+        culture = ligur
         religion = roman_catholic
-        size = 40000
+        size = 4000
     }
 }
 #under the rule of Modena in 1836
 #Modena (484000/121000 POPS)
 739 = {
     aristocrats = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 2650
     }
 
     bureaucrats = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 225
     }
 
     officers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 150
     }
 
     clergymen = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 1225
     }
 
     artisans = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 2000
     }
 
     farmers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
-        size = 58000
+        size = 100000
     }
 	
 	farmers = {
         culture = romagnol
         religion = roman_catholic
-        size = 50000
+        size = 8000
     }
 }
 #Massa (164000/41000 POPS)
 740 = {
     aristocrats = {
-        culture = ligur
+        culture = romagnol
         religion = roman_catholic
         size = 900
     }
 
     clergymen = {
-        culture = ligur
+        culture = romagnol
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = ligur
+        culture = romagnol
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = ligur
+        culture = romagnol
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = ligur
+        culture = romagnol
         religion = roman_catholic
-        size = 30000
+        size = 25000
     }
 	
 	farmers = {
-        culture = romagnol
+        culture = lombard
         religion = roman_catholic
         size = 6000
+    }
+	
+	farmers = {
+        culture = ligur
+        religion = roman_catholic
+        size = 5000
     }
 }
 #Romagna Region (844000)
@@ -1031,55 +1020,55 @@
 #Bologna (416000/104000 POPS)
 741 = {
     aristocrats = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 2175
     }
 
     bureaucrats = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 425
     }
 
     officers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 1050
     }
 
     artisans = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = romagnol
+        culture = lombard
         religion = roman_catholic
         size = 7500
     }
 
     soldiers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 2000
     }
 
     farmers = {
-        culture = ligur
+        culture = lombard
         religion = roman_catholic
         size = 30000
     }
 	
 	farmers = {
-        culture = romagnol
+        culture = lombard
         religion = roman_catholic
         size = 50000
     }
@@ -1087,31 +1076,31 @@
 #Ferrara (180000/45000 POPS)
 742 = {
     aristocrats = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 950
     }
 
     clergymen = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 425
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 6500
     }
 
     soldiers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 450
     }
 
     farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 34000
     }
@@ -1125,31 +1114,31 @@
 #Ravenna (248000/62000 POPS)
 743 = {
     aristocrats = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 1300
     }
 
     clergymen = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 625
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 5000
     }
 
     soldiers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 650
     }
 
     farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 24000
     }
@@ -1193,11 +1182,17 @@
         religion = roman_catholic
         size = 10000
     }
+	
+	artisans = {
+        culture = romagnol
+        religion = roman_catholic
+        size = 6000
+    }
 
     artisans = {
         culture = ligur
         religion = roman_catholic
-        size = 9500
+        size = 3500
     }
 
     soldiers = {
@@ -1209,13 +1204,13 @@
     farmers = {
         culture = romagnol
         religion = roman_catholic
-        size = 128000
+        size = 148000
     }
 	
 	farmers = {
         culture = ligur
         religion = roman_catholic
-        size = 22000
+        size = 2000
     }
 }
 #Livorno (380000/95000 POPS)
@@ -1239,7 +1234,7 @@
     }
 
     artisans = {
-        culture = ligur
+        culture = romagnol
         religion = roman_catholic
         size = 8000
     }
@@ -1253,13 +1248,7 @@
     farmers = {
         culture = romagnol
         religion = roman_catholic
-        size = 81000
-    }
-	
-	farmers = {
-        culture = ligur
-        religion = roman_catholic
-        size = 4000
+        size = 85000
     }
 }
 3396 = {
@@ -1327,7 +1316,7 @@
     clergymen = {
         culture = romagnol
         religion = roman_catholic
-        size = 2800
+        size = 3000
     }
 
     artisans = {
@@ -1339,25 +1328,25 @@
     artisans = {
         culture = romagnol
         religion = roman_catholic
-        size = 2000
+        size = 7000
     }
 
     farmers = {
         culture = romagnol
         religion = roman_catholic
-        size = 46000
+        size = 50000
     }
 
     clergymen = {
         culture = griko
         religion = thessalonian_orthodox
-        size = 300
+        size = 100
     }
 
     artisans = {
         culture = griko
         religion = thessalonian_orthodox
-        size = 6000
+        size = 1000
     }
 	
     soldiers = {
@@ -1369,7 +1358,7 @@
     farmers = {
         culture = griko
         religion = thessalonian_orthodox
-        size = 6000
+        size = 2000
     }
 }
 3398 = {
@@ -1398,8 +1387,8 @@
     }
 
     soldiers = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 200
     }
 
@@ -1426,13 +1415,7 @@
     aristocrats = {
         culture = romagnol
         religion = roman_catholic
-        size = 600
-    }
-	
-	aristocrats = {
-        culture = ligur
-        religion = roman_catholic
-        size = 1800
+        size = 2400
     }
 
     clergymen = {
@@ -1456,13 +1439,7 @@
     farmers = {
         culture = romagnol
         religion = roman_catholic
-        size = 82000
-    }
-	
-	farmers = {
-        culture = ligur
-        religion = roman_catholic
-        size = 3000
+        size = 85000
     }
 }
 #Grosseto (184000/46000 POPS)
@@ -1545,7 +1522,7 @@
     farmers = {
         culture = romagnol
         religion = roman_catholic
-        size = 14000
+        size = 18500
     }
 	
 	farmers = {
@@ -1779,26 +1756,26 @@
 #Naples (1304000/326000 POPS)
 754 = {
     aristocrats = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 6000
     }
 
     bureaucrats = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 500
     }
 
     officers = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 360
     }
 
     clergymen = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 2800
     }
 
@@ -1815,14 +1792,14 @@
     }
 
     artisans = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 10000
     }
 
     artisans = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 10000
     }
 
@@ -1845,59 +1822,59 @@
     }
 
     soldiers = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 2000
     }
 
     farmers = {
         culture = romagnol
         religion = roman_catholic
-        size = 106000
+        size = 65000
     }
 	
 	farmers = {
         culture = griko
         religion = thessalonian_orthodox
-        size = 85000
+        size = 126000
     }
 }
 #Salerno (572000/143000 POPS)
 755 = {
     aristocrats = {
-        culture = griko
-        religion = thessalonian_orthodox
+        culture = romagnol
+        religion = roman_catholic
         size = 3600
     }
 
     clergymen = {
-        culture = griko
-        religion = thessalonian_orthodox
+        culture = romagnol
+        religion = roman_catholic
         size = 1475
     }
 
     artisans = {
-        culture = griko
-        religion = thessalonian_orthodox
+        culture = romagnol
+        religion = roman_catholic
         size = 7000
     }
 
     soldiers = {
-        culture = griko
-        religion = thessalonian_orthodox
+        culture = romagnol
+        religion = roman_catholic
         size = 2000
     }
 
     farmers = {
-        culture = griko
-        religion = thessalonian_orthodox
-        size = 52000
+        culture = romagnol
+        religion = roman_catholic
+        size = 42000
     }
 	
 	farmers = {
-        culture = romagnol
-        religion = roman_catholic
-        size = 26000
+        culture = griko
+        religion = thessalonian_orthodox
+        size = 36000
     }
 }
 #Gaeta (436000/109000 POPS)
@@ -1987,39 +1964,39 @@
 #Foggia (572000/143000 POPS)
 757 = {
     aristocrats = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 3750
     }
 
     clergymen = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 1450
     }
 
     artisans = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 7000
     }
 
     soldiers = {
-        culture = romagnol
-        religion = roman_catholic
+        culture = griko
+        religion = thessalonian_orthodox
         size = 2000
     }
 
     farmers = {
-        culture = romagnol
-        religion = roman_catholic
-        size = 120000
+        culture = griko
+        religion = thessalonian_orthodox
+        size = 90000
     }
 	
 	farmers = {
-        culture = griko
-        religion = thessalonian_orthodox
-        size = 8000
+        culture = romagnol
+        religion = roman_catholic
+        size = 38000
     }
 }
 #Brindisi (280000/70000 POPS)
@@ -2444,33 +2421,33 @@
 #Belluno - (4000/1000 POPS)
 3262 = {
     clergymen = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 500
     }
 
     soldiers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 300
     }
 
     farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
-        size = 10600
+        size = 15500
     }
 
     farmers = {
         culture = boarisch
         religion = roman_catholic
-        size = 7000
+        size = 1500
     }
 
 }
@@ -2585,45 +2562,45 @@
 #Campagna
 3708 = {
     aristocrats = {
-        culture = griko
-        religion = thessalonian_orthodox
+        culture = romagnol
+        religion = roman_catholic
         size = 2600
     }
 
     clergymen = {
-        culture = griko
-        religion = thessalonian_orthodox
+        culture = romagnol
+        religion = roman_catholic
         size = 1000
     }
 
     artisans = {
-        culture = griko
-        religion = thessalonian_orthodox
+        culture = romagnol
+        religion = roman_catholic
         size = 10000
     }
 	
 	artisans = {
-        culture = griko
-        religion = thessalonian_orthodox
+        culture = romagnol
+        religion = roman_catholic
         size = 4000
     }
 
     soldiers = {
-        culture = griko
-        religion = thessalonian_orthodox
+        culture = romagnol
+        religion = roman_catholic
         size = 2000
-    }
-
-    farmers = {
-        culture = griko
-        religion = thessalonian_orthodox
-        size = 98000
     }
 
     farmers = {
         culture = romagnol
         religion = roman_catholic
-        size = 15000
+        size = 78000
+    }
+
+    farmers = {
+        culture = griko
+        religion = thessalonian_orthodox
+        size = 35000
     }
 
 }
@@ -2671,39 +2648,33 @@
 #Termele
 3710 = {
     aristocrats = {
-        culture = tosk
+        culture = romagnol
         religion = roman_catholic
-        size = 150
+        size = 1600
     }
 
     clergymen = {
-        culture = tosk
+        culture = romagnol
         religion = roman_catholic
-        size = 75
+        size = 3000
     }
 
     artisans = {
-        culture = tosk
+        culture = romagnol
         religion = roman_catholic
-        size = 900
+        size = 10000
     }
 
     soldiers = {
-        culture = tosk
+        culture = romagnol
         religion = roman_catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = tosk
-        religion = roman_catholic
-        size = 8911
+        size = 6500
     }
 
     farmers = {
         culture = romagnol
         religion = roman_catholic
-        size = 2814
+        size = 28000
     }
 
 }

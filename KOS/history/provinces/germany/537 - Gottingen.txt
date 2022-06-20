@@ -1,6 +1,6 @@
-owner = MAG
-controller = MAG
-add_core = MAG
+owner = SAX
+controller = SAX
+add_core = SAX
 trade_goods = iron
 life_rating = 40
 1861.1.1 = { railroad = 3 }

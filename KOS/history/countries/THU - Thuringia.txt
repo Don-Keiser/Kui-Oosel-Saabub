@@ -2,11 +2,11 @@ capital = 554
 primary_culture = north_german
 religion = roman_catholic
 government = absolute_monarchy
-plurality = 0
+plurality = 15.0
 nationalvalue = nv_order
-literacy = 0.317677
-
+literacy = 0.7
 civilized = yes
+prestige = 72
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -72,4 +72,5 @@ post_nelsonian_thought = 1
 private_banks = 1
 the_command_principle = 1
 piston_steam_engine = 1
-prestige=0
+
+oob = "THU_oob.txt"

@@ -11,55 +11,25 @@
     clergymen = {
         culture = histri
         religion = roman_catholic
-        size = 200
+        size = 450
     }
 
     artisans = {
         culture = histri
         religion = roman_catholic
-        size = 1450
+        size = 3000
     }
 
     soldiers = {
         culture = histri
         religion = roman_catholic
-        size = 225
+        size = 1200
     }
 
     farmers = {
         culture = histri
         religion = roman_catholic
-        size = 32875
-    }
-
-    clergymen = {
-        culture = travesz
-        religion = roman_catholic
-        size = 225
-    }
-
-    artisans = {
-        culture = travesz
-        religion = roman_catholic
-        size = 900
-    }
-
-    soldiers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 250
-    }
-
-    farmers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 8625
-    }
-
-    farmers = {
-        culture = gypsy
-        religion = roman_catholic
-        size = 300
+        size = 42000
     }
 }
 #Croatia Region (870000)
@@ -115,7 +85,7 @@
     }
 	
 	farmers = {
-        culture = kunsag
+        culture = hungarian
         religion = roman_catholic
         size = 4050
     }
@@ -337,7 +307,7 @@
     }
 
     farmers = {
-        culture = kunsag
+        culture = hungarian
         religion = roman_catholic
         size = 1600
     }
@@ -401,7 +371,7 @@
     farmers = {
         culture = travesz
         religion = roman_catholic
-        size = 26400
+        size = 14400
     }
 	
 	artisans = {
@@ -414,12 +384,6 @@
         culture = hungarian
         religion = roman_catholic
         size = 700
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 8000
     }
 
     clergymen = {
@@ -444,6 +408,12 @@
         culture = jassic
         religion = african_catholic
         size = 2125
+    }
+	
+	farmers = {
+        culture = histri
+        religion = roman_catholic
+        size = 20000
     }
 }
 #Senj (96000/24000 POPS)
@@ -481,7 +451,7 @@
     farmers = {
         culture = travesz
         religion = roman_catholic
-        size = 16325
+        size = 12325
     }
 
     clergymen = {
@@ -505,7 +475,13 @@
     farmers = {
         culture = hungarian
         religion = roman_catholic
-        size = 4225
+        size = 2225
+    }
+	
+	farmers = {
+        culture = travesz
+        religion = roman_catholic
+        size = 6500
     }
 }
 #Varadzin (68000/17000 POPS)
@@ -726,30 +702,6 @@
 }
 #Fiume (52000/13000 POPS)
 778 = {
-    clergymen = {
-        culture = travesz
-        religion = roman_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = travesz
-        religion = roman_catholic
-        size = 1200
-    }
-
-    soldiers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 4700
-    }
-
     aristocrats = {
         culture = histri
         religion = roman_catholic
@@ -759,49 +711,49 @@
     clergymen = {
         culture = histri
         religion = roman_catholic
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = histri
         religion = roman_catholic
-        size = 1300
+        size = 2500
     }
 
     soldiers = {
         culture = histri
         religion = roman_catholic
-        size = 100
+        size = 500
     }
 
     farmers = {
         culture = histri
         religion = roman_catholic
-        size = 4425
+        size = 9400
     }
 
     clergymen = {
-        culture = hungarian
+        culture = travesz
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = hungarian
+        culture = travesz
         religion = roman_catholic
         size = 250
     }
 
     soldiers = {
-        culture = hungarian
+        culture = travesz
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = hungarian
+        culture = travesz
         religion = roman_catholic
-        size = 700
+        size = 500
     }
 }
 #Baranya Region (180000) #see Hungary.txt for balance of Region
@@ -1362,7 +1314,7 @@
     farmers = {
         culture = travesz
         religion = roman_catholic
-        size = 7575
+        size = 1575
     }
 
     clergymen = {
@@ -1404,6 +1356,6 @@
 	farmers = {
         culture = histri
         religion = roman_catholic
-        size = 200
+        size = 6200
     }
 }

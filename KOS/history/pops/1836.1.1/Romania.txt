@@ -29,11 +29,11 @@
     farmers = {
         culture = tiszai
         religion = roman_catholic
-        size = 90900
+        size = 50900
     }
 
     farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 5000
     }
@@ -77,7 +77,7 @@
     farmers = {
         culture = hungarian
         religion = roman_catholic
-        size = 71000
+        size = 111000
     }
 
     clergymen = {
@@ -333,7 +333,7 @@
     }
 	
 	farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 7000
     }
@@ -437,13 +437,13 @@
     }
 	
 	craftsmen = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 40000
     }
 
     farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 22000
     }
@@ -600,7 +600,7 @@
     }
 
     farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 9000
     }
@@ -752,7 +752,7 @@
     }
 	
 	farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 26000
     }
@@ -760,19 +760,19 @@
 #Nagyszeben/Sibiu (276000/69000 POPS)
 657 = {
     artisans = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 1800
     }
 
     soldiers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 350
     }
 
     farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 31500
     }
@@ -1553,37 +1553,37 @@
 #Tirgu Jiu (172000/43000 POPS)
 665 = {
     aristocrats = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 750
     }
 
     clergymen = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 400
     }
 
     artisans = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 1950
     }
 
     soldiers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 1100
     }
 	
 	craftsmen = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 8500
     }
 
     farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 30500
     }
@@ -1639,13 +1639,13 @@
     }
 
     farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 1000
     }
 
     farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 9000
     }
@@ -1663,7 +1663,7 @@
     }
 
     farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 25000
     }
@@ -2426,7 +2426,7 @@
     }
 
     farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 2800
     }
@@ -2522,51 +2522,6 @@
     }
 }
 
-#Zargidava
-3639 = {
-    aristocrats = {
-        culture = costoboci
-        religion = roman_catholic
-        size = 600
-    }
-
-    clergymen = {
-        culture = costoboci
-        religion = roman_catholic
-        size = 700
-    }
-
-    artisans = {
-        culture = costoboci
-        religion = roman_catholic
-        size = 4200
-    }
-
-    soldiers = {
-        culture = costoboci
-        religion = roman_catholic
-        size = 3300
-    }
-
-    farmers = {
-        culture = costoboci
-        religion = roman_catholic
-        size = 23000
-    }
-
-    farmers = {
-        culture = csangok
-        religion = roman_catholic
-        size = 9400
-    }
-	
-    farmers = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 2500
-    }
-}
-
 #Polondava
 3640 = {
     aristocrats = {
@@ -2657,7 +2612,7 @@
     }
 	
 	artisans = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 2300
     }
@@ -2672,25 +2627,25 @@
     }
 
     clergymen = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 400
     }
 
     artisans = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 2100
     }
 
     soldiers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 900
     }
 
     farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 18000
     }
@@ -2711,51 +2666,6 @@
         culture = getae
         religion = thessalonian_orthodox
         size = 3000
-    }
-}
-
-#Terendava
-3646 = {
-    aristocrats = {
-        culture = carpi
-        religion = thessalonian_orthodox
-        size = 600
-    }
-
-    clergymen = {
-        culture = carpi
-        religion = thessalonian_orthodox
-        size = 700
-    }
-
-    artisans = {
-        culture = carpi
-        religion = thessalonian_orthodox
-        size = 6200
-    }
-
-    soldiers = {
-        culture = carpi
-        religion = thessalonian_orthodox
-        size = 4200
-    }
-
-    farmers = {
-        culture = carpi
-        religion = thessalonian_orthodox
-        size = 48000
-    }
-
-    farmers = {
-        culture = costoboci
-        religion = roman_catholic
-        size = 3200
-    }
-	
-    farmers = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 1800
     }
 }
 

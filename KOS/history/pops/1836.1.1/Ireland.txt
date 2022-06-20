@@ -756,45 +756,6 @@
     }
 }
 
-#Airne
-3618 = {
-    aristocrats = {
-        culture = irish
-        religion = roman_catholic
-        size = 400
-    }
-
-    clergymen = {
-        culture = irish
-        religion = roman_catholic
-        size = 400
-    }
-
-    artisans = {
-        culture = irish
-        religion = roman_catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = irish
-        religion = roman_catholic
-        size = 750
-    }
-
-    farmers = {
-        culture = irish
-        religion = roman_catholic
-        size = 25500
-    }
-	
-	farmers = {
-        culture = irish
-        religion = roman_catholic
-        size = 960
-    }
-}
-
 #Corcaigh
 3619 = {
     aristocrats = {

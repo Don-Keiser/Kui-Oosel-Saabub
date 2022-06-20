@@ -534,3 +534,36 @@
         size = 1034
     }
 }
+	
+#Kuresikor
+3645 = {
+    aristocrats = {
+        culture = gruttfrysk
+        religion = african_catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = gruttfrysk
+        religion = african_catholic
+        size = 80
+    }
+
+    artisans = {
+        culture = gruttfrysk
+        religion = african_catholic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = gruttfrysk
+        religion = african_catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = gruttfrysk
+        religion = african_catholic
+        size = 500
+    }
+}

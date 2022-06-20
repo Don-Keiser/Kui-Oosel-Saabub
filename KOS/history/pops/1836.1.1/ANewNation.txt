@@ -1,47 +1,52 @@
 #Monaco (170800/22700 POPS)
 3251 = {
-    aristocrats = {
-        culture = ligur
+    bureaucrats = {
+        culture = neustrien
         religion = roman_catholic
-        size = 250
+        size = 400
+    }
+
+    aristocrats = {
+        culture = neustrien
+        religion = roman_catholic
+        size = 1300
     }
 
     clergymen = {
-        culture = ligur
+        culture = neustrien
         religion = roman_catholic
-        size = 25
+        size = 1500
     }
 
     artisans = {
         culture = ligur
         religion = roman_catholic
-        size = 500
+        size = 6500
     }
 
     soldiers = {
-        culture = aquitan
+        culture = ligur
         religion = roman_catholic
-        size= 100
+        size= 6000
     }
 
     farmers = {
         culture = ligur
         religion = roman_catholic
-        size = 1225
+        size = 38000
     }
 
     farmers = {
-        culture = aquitan
+        culture = lombard
         religion = roman_catholic
-        size = 2850
+        size = 18000
     }
-
-    bureaucrats = {
-        culture = aquitan
+	
+	farmers = {
+        culture = neustrien
         religion = roman_catholic
-        size = 10
+        size = 5000
     }
-
 }
 
 #Andorra (228000/37000 POPS)
@@ -69,47 +74,6 @@
         size = 11000
     }
 }
-
-#Liechtenstein
-3253 = {
-    aristocrats = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 120
-    }
-
-    clergymen = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 120
-    }
-
-    artisans = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 650
-    }
-
-    soldiers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size= 200
-
-    }
-	
-    farmers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 4500
-    }
-	
-	farmers = {
-        culture = romansh
-        religion = roman_catholic
-        size = 1200
-    }
-}
-
 
 #Rimini
 3266 = {
@@ -150,7 +114,7 @@
     }
 
     farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 3000
     }

@@ -73,7 +73,7 @@
         size = 200
     }
  farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 200
     }
@@ -476,7 +476,7 @@ farmers = {
         size = 900
     }
     farmers = {
-        culture = venetian
+        culture = lombard
         religion = roman_catholic
         size = 400
     }

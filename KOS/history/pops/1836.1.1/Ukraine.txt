@@ -51,43 +51,43 @@
     }
 
     aristocrats = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 700
     }
 
     bureaucrats = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 30
     }
 
     officers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 60
     }
 
     clergymen = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 300
     }
 
     soldiers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 3810
     }
@@ -133,19 +133,19 @@
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
     clergymen = {
-        culture = vizselyi
+        culture = hungarian
         religion = roman_catholic
         size = 850
     }
 
     artisans = {
-        culture = vizselyi
+        culture = hungarian
         religion = roman_catholic
         size = 4600
     }
 
     soldiers = {
-        culture = vizselyi
+        culture = hungarian
         religion = roman_catholic
         size = 900
     }
@@ -153,19 +153,19 @@
     farmers = {
         culture = vizselyi
         religion = roman_catholic
-        size = 32650
+        size = 30000
     }
 	
 	farmers = {
         culture = hungarian
         religion = roman_catholic
-        size = 33650
+        size = 41000
     }
 	
 	farmers = {
         culture = szekely
         religion = roman_catholic
-        size = 20650
+        size = 17000
     }
 }
 3332 = {
@@ -248,25 +248,25 @@
     }
 
     clergymen = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 750
     }
 
     soldiers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 13975
     }
@@ -306,31 +306,31 @@
     }
 
     aristocrats = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 6500
     }
 
     clergymen = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 700
     }
 
     artisans = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 3400
     }
 
     soldiers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 700
     }
 
     farmers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 50700
     }
@@ -386,31 +386,31 @@
     }
 
     aristocrats = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 5000
     }
 
     clergymen = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 425
     }
 
     artisans = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 2100
     }
 
     soldiers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 450
     }
 
     farmers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 24025
     }
@@ -466,43 +466,43 @@
     }
 
     aristocrats = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 3750
     }
 
     bureaucrats = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 1300
     }
 
     officers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 750
     }
 
     clergymen = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 775
     }
 
     artisans = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 3250
     }
 
     soldiers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 650
     }
 
     farmers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 24725
     }
@@ -558,31 +558,31 @@
     }
 
     aristocrats = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 2150
     }
 
     clergymen = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 325
     }
 
     artisans = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 1650
     }
 
     soldiers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 325
     }
 
     farmers = {
-        culture = halicsiai
+        culture = vizselyi
         religion = roman_catholic
         size = 12550
     }
@@ -3853,51 +3853,6 @@
 
 }
 
-#Iasikavan
-3620 = {
-    aristocrats = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 800
-    }
-
-    clergymen = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 700
-    }
-
-    artisans = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 2600
-    }
-
-    soldiers = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 4200
-    }
-
-    farmers = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 32000
-    }
-
-    farmers = {
-        culture = etelkozi
-        religion = roman_catholic
-        size = 2000
-    }
-	
-    farmers = {
-        culture = bulgar_tatar
-        religion = thessalonian_orthodox
-        size = 1800
-    }
-}
-
 #Kisfalucska
 3628 = {
     aristocrats = {
@@ -3958,140 +3913,5 @@
         culture = bastarnae
         religion = roman_catholic
         size = 8500
-    }
-}
-
-#Otideva
-3630 = {
-    aristocrats = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 900
-    }
-
-    clergymen = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 1200
-    }
-
-    artisans = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 4200
-    }
-
-    soldiers = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 3500
-    }
-
-    farmers = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 44000
-    }
-
-    farmers = {
-        culture = etelkozi
-        religion = roman_catholic
-        size = 3500
-    }
-	
-    farmers = {
-        culture = volgmyi
-        religion = roman_catholic
-        size = 6500
-    }
-}
-
-#Petredeva
-3633 = {
-    aristocrats = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 300
-    }
-
-    clergymen = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 600
-    }
-
-    artisans = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 3100
-    }
-
-    soldiers = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 4500
-    }
-
-    farmers = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 36000
-    }
-
-    farmers = {
-        culture = etelkozi
-        religion = roman_catholic
-        size = 1500
-    }
-	
-    farmers = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 2600
-    }
-}
-
-#Karabava
-3635 = {
-    aristocrats = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 300
-    }
-
-    clergymen = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 600
-    }
-
-    artisans = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 1800
-    }
-
-    soldiers = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 3600
-    }
-
-    farmers = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 24000
-    }
-
-    farmers = {
-        culture = etelkozi
-        religion = roman_catholic
-        size = 1100
-    }
-	
-    farmers = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 1200
     }
 }

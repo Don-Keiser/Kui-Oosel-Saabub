@@ -1,31 +1,3 @@
-#Sphere of Influence
-THU = {
-    value = 145        #relation
-    level = 5       #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
-VRN = {
-    value = 130        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
-VEN = {
-    value = 120        #relation
-    level = 4        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 0
-}
-BOH = {
-    value = 140        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
-WUR = {
-    value = 150        #relation
-    level = 2        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-	military_access = yes
-}
-
 leader = {
     name = "Pappenheim"
     date = 1815.1.1

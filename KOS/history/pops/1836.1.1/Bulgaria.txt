@@ -147,31 +147,31 @@
 #Vidin (124000/31000 POPS)
 810 = {
     aristocrats = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 650
     }
 
     clergymen = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 110
     }
 
     artisans = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 800
     }
 
     soldiers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 500
     }
 
     farmers = {
-        culture = dunaszoreny
+        culture = kunsag
         religion = african_catholic
         size = 1125
     }

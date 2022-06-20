@@ -316,6 +316,27 @@ low_germanic = {
     }
 }
 
+gothic_group = {
+    leader = european
+    unit = EuropeanGC
+    thuringia_gothic = {
+        color = { 141 181 181 }
+        first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
+        Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
+        Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jürgen Karl
+        Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto
+        Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
+
+        last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Herwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree
+        "Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg"         "von Boyen" "von Braunschweig" "von Bülow" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover"
+        "von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld"
+        "von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg"
+        "von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen"
+        "von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin"
+        "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
+    }
+}
+
 jewish_cultures = {
     leader = european
     unit = EuropeanGC
@@ -1622,7 +1643,7 @@ italian = {
         radicalism = 10
     }
     venetian = {
-        color = { 58 146 96 }
+        color = { 58 146 61 }
         first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
         Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
         Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
@@ -1635,8 +1656,8 @@ italian = {
         Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
         Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
     }
-    tuscan = {
-        color = { 58 146 61 }
+    lombard = {
+        color = { 58 146 96 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
         Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
         Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -2351,6 +2372,34 @@ polish_culture_group = {
     }
     sorbian = {
         color = {132 62 81}
+        first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
+        Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
+        Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
+        Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel
+        Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
+	
+        last_names = { Bem Bór-Komorowski Brzóska Chalasinski Chlaposwski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy
+        Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
+        Mikolajczyk Mokronowski Niepokólczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
+        Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
+        Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
+    }
+	stodoranie = {
+        color = {175 88 112}
+        first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
+        Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
+        Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
+        Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel
+        Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
+	
+        last_names = { Bem Bór-Komorowski Brzóska Chalasinski Chlaposwski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy
+        Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
+        Mikolajczyk Mokronowski Niepokólczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
+        Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
+        Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
+    }
+	white_serb = {
+        color = {127 86 105}
         first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
         Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
         Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
@@ -3858,7 +3907,43 @@ afro_romance = {
         Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz
         Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz
         Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
-    }	
+    }
+	toletzianu = {
+		color = {179 163 20}
+		first_names = { Aljamí Alj Alejandro Alfonso Abdul Antonio "Antonio María" Arsenio Augusto Baldomero
+		Baltasar Benito Bernardino Bernardo Citi Carlos Celestino Claudio Cristobal Dámaso
+		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Muahid
+		"Francisco Javier" Gabino Gabriel Gaspar Habdela Hilal Iben Ibn Jacobo Jaime
+		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+		Luis Manuel Marcelo Mariano Mateo Muza Miguel Nicolás Pablo Pascual
+		Pedro Rafael Raimundo Theodomiro Ricardo Santiago Umar Segismundo Zanom }
+		
+	last_names = { Abba Aguirre Aryent Alcañiz Alonso "ben Illan" "ben Sancho" Aranda Meres Buelo
+		Biklaris Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "ben Juan"
+		"de Carvajal" "de la Fuente" "al Muqtadir" Daudi Kaiso Qorayonayra Ibenanunar Laytarola Huerva 
+		García "García de la Noceda" González Heredia Forqasa Herrera Hevia "Iben Froila" Linares Turtuja 
+		Maroto Márquez Nabiello Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
+		Narváez O'Donnell Ortega Pavía Pérez Plantayn "Queipo de Llano" Ramellus Rojo Ruiz 
+		Sayyid Sid Salim Topete Valdés Varela Yarbo Waliyo Zanon Zaute }
+	}
+	ulisianu = {
+		color = {144 161 61}
+		first_names = { Aljamí Alj Alejandro Alfonso Abdul Antonio "Antonio María" Arsenio Augusto Baldomero
+		Baltasar Benito Bernardino Bernardo Citi Carlos Celestino Claudio Cristobal Dámaso
+		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Muahid
+		"Francisco Javier" Gabino Gabriel Gaspar Habdela Hilal Iben Ibn Jacobo Jaime
+		Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
+		Luis Manuel Marcelo Mariano Mateo Muza Miguel Nicolás Pablo Pascual
+		Pedro Rafael Raimundo Theodomiro Ricardo Santiago Umar Segismundo Zanom }
+		
+	last_names = { Abba Aguirre Aryent Alcañiz Alonso "ben Illan" "ben Sancho" Aranda Meres Buelo
+		Biklaris Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "ben Juan"
+		"de Carvajal" "de la Fuente" "al Muqtadir" Daudi Kaiso Qorayonayra Ibenanunar Laytarola Huerva 
+		García "García de la Noceda" González Heredia Forqasa Herrera Hevia "Iben Froila" Linares Turtuja 
+		Maroto Márquez Nabiello Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
+		Narváez O'Donnell Ortega Pavía Pérez Plantayn "Queipo de Llano" Ramellus Rojo Ruiz 
+		Sayyid Sid Salim Topete Valdés Varela Yarbo Waliyo Zanon Zaute }
+	}	
 }
 
 peninsular_arabic = {
@@ -4249,6 +4334,78 @@ iranian_turanian = {
 	
 	jassic = {
 		color = {100 180 10}
+			first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
+	
+	black_serb = {
+		color = {142 96 105}
+			first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
+	
+	black_croat = {
+		color = {158 107 89}
+			first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
+	
+	red_croat = {
+		color = {160 91 69}
+			first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
+			}
+	}
+	
+	rughan = {
+		color = {113 103 85}
 			first_names = {
 			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
 			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
