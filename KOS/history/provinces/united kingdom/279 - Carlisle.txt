@@ -1,6 +1,6 @@
-owner = NRH
-controller = NRH
-add_core = NRH
+owner = SRH
+controller = SRH
+add_core = SRH
 trade_goods = coal
 life_rating = 35
 terrain = hills

@@ -1,5 +1,6 @@
-owner = CMU
-controller = CMU
+owner = CAI
+controller = CAI
+add_core = CAI
 add_core = CMU
 trade_goods = grain
 life_rating = 45

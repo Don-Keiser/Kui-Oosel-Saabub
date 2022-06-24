@@ -1,6 +1,6 @@
-owner = ICN
-controller = ICN
-add_core = ICN
+owner = PWS
+controller = PWS
+add_core = PWS
 trade_goods = coal
 life_rating = 35
 1861.1.1 = { railroad = 3 }

@@ -1,5 +1,6 @@
-owner = DYF
-controller = DYF
+owner = DUM
+controller = DUM
+add_core = DUM
 add_core = DYF
 trade_goods = coal
 naval_base = 2

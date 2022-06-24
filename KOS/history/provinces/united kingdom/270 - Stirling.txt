@@ -1,6 +1,6 @@
-owner = SCO
-controller = SCO
-add_core = SCO
+owner = ALC
+controller = ALC
+add_core = ALC
 trade_goods = coal
 life_rating = 35
 terrain = hills

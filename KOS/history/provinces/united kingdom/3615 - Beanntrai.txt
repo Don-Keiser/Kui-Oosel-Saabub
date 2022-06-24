@@ -1,5 +1,5 @@
-owner = IRE
-controller = IRE
-add_core = IRE
-trade_goods = fish
+owner = PWS
+controller = PWS
+add_core = PWS
+trade_goods = timber
 life_rating = 35

@@ -1,6 +1,5 @@
 owner = BNV
 controller = BNV
 add_core = BNV
-add_core = ITA
 trade_goods = timber
 life_rating = 35

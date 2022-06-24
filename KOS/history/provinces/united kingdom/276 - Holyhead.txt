@@ -1,5 +1,6 @@
-owner = GWY
-controller = GWY
+owner = SRH
+controller = SRH
+add_core = SRH
 add_core = GWY
 trade_goods = coal
 life_rating = 35

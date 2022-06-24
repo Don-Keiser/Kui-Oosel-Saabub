@@ -1,6 +1,6 @@
-owner = NRH
-controller = NRH
-add_core = NRH
+owner = SRH
+controller = SRH
+add_core = SRH
 trade_goods = coal
 naval_base = 2
 life_rating = 35
