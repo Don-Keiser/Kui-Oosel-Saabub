@@ -14,39 +14,33 @@
     }
 
     officers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 100
     }
 
     clergymen = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 175
     }
 
     artisans = {
-        culture = kvaani
+        culture = gotish
         religion = asatru
         size = 2000
     }
 
     soldiers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 1100
     }
-
-    farmers = {
-        culture = kvaani
-        religion = asatru
-        size = 8125
-    }
 	
 	farmers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
-        size = 12125
+        size = 23000
     }
 	
 	farmers = {
@@ -58,9 +52,33 @@
 #Sundsvall (80000/20000 POPS)
 318 = {
     aristocrats = {
-        culture = kvaani
+        culture = gotish
         religion = asatru
         size = 50
+    }
+
+    clergymen = {
+        culture = gotish
+        religion = asatru
+        size = 100
+    }
+
+    artisans = {
+        culture = gotish
+        religion = asatru
+        size = 2300
+    }
+
+    soldiers = {
+        culture = gotish
+        religion = asatru
+        size = 1850
+    }
+
+    farmers = {
+        culture = gotish
+        religion = asatru
+        size = 18100
     }
 
     clergymen = {
@@ -72,57 +90,51 @@
     artisans = {
         culture = kvaani
         religion = asatru
-        size = 1100
+        size = 850
     }
 
     soldiers = {
         culture = kvaani
         religion = asatru
-        size = 3250
-    }
-
-    farmers = {
-        culture = kvaani
-        religion = asatru
-        size = 18100
+        size = 300
     }
 	
 	farmers = {
-        culture = finnish
-        religion = african_catholic
-        size = 1100
+        culture = kvaani
+        religion = asatru
+        size = 3200
     }
 }
 #Ostersund (44000/11000 POPS)
 319 = {
     clergymen = {
-        culture = sami
-        religion = animist
-        size = 50
+        culture = gotish
+        religion = asatru
+        size = 210
     }
 
     artisans = {
-        culture = sami
-        religion = animist
-        size = 500
+        culture = gotish
+        religion = asatru
+        size = 1200
     }
 
     soldiers = {
-        culture = sami
-        religion = animist
-        size = 100
-    }
-
-    labourers = {
-        culture = sami
-        religion = animist
-        size = 9350
-    }
-
-    labourers = {
-        culture = kvaani
+        culture = gotish
         religion = asatru
-        size = 1100
+        size = 800
+    }
+
+    labourers = {
+        culture = gotish
+        religion = asatru
+        size = 14350
+    }
+
+    labourers = {
+        culture = sami
+        religion = animist
+        size = 3200
     }
 }
 #Umea (56000/14000 POPS)
@@ -267,27 +279,27 @@
     }
 
     officers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 500
     }
 
     clergymen = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 250
     }
 
     artisans = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 10000
     }
 
     artisans = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
-        size = 10000
+        size = 3000
     }
 
     artisans = {
@@ -297,21 +309,21 @@
     }
 
     soldiers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 1000
     }
 
     farmers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
-        size = 20250
+        size = 32250
     }
 	
 	farmers = {
@@ -323,37 +335,37 @@
 #Falun (144000/36000 POPS)
 323 = {
     aristocrats = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 250
     }
 
     clergymen = {
-        culture = swedish
+        culture = gotish
         religion = asatru
         size = 250
     }
 
     artisans = {
-        culture = swedish
+        culture = gotish
         religion = asatru
         size = 1750
     }
 
     soldiers = {
-        culture = swedish
+        culture = gotish
         religion = asatru
         size = 1100
     }
 
     farmers = {
-        culture = swedish
+        culture = gotish
         religion = asatru
         size = 20750
     }
 	
 	farmers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 12750
     }
@@ -367,63 +379,63 @@
     }
 
     clergymen = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 125
     }
 
     artisans = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 1250
     }
 
     soldiers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 1100
     }
 
     farmers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
-        size = 16525
+        size = 21000
     }
 	
 	farmers = {
         culture = finnish
         religion = african_catholic
-        size = 3525
+        size = 6525
     }
 }
 #Norrkoping (221000/55250 POPS)
 325 = {
     aristocrats = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 250
     }
 
     clergymen = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 250
     }
 
     artisans = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 1100
     }
 
     farmers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 50750
     }
@@ -437,13 +449,13 @@
     }
 
     clergymen = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 250
     }
 
     artisans = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 2050
     }
@@ -455,13 +467,13 @@
     }
 
     soldiers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 1100
     }
 
     farmers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 44750
     }
@@ -475,77 +487,89 @@
 #Orebro (127000/31750 POPS)
 327 = {
     aristocrats = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 250
     }
 
     clergymen = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 125
     }
 
     artisans = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 1500
     }
 
     soldiers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
         size = 1100
     }
 
     farmers = {
-        culture = swedish
+        culture = gotish
         religion = african_catholic
-        size = 28975
+        size = 29000
     }
 }
 #Karlstad (190000/47500 POPS)
 328 = {
     aristocrats = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 400
     }
 
     clergymen = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
         size = 300
     }
 
     artisans = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 2500
+        size = 4500
     }
 
     soldiers = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 1100
     }
 
     farmers = {
-        culture = norwegian
-        religion = african_catholic
-        size = 19300
-    }
-	
-	farmers = {
-        culture = swedish
-        religion = african_catholic
-        size = 15300
-    }
-	
-	farmers = {
         culture = skansk
         religion = african_catholic
-        size = 9300
+        size = 40000
+    }
+	
+    clergymen = {
+        culture = gotish
+        religion = african_catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = gotish
+        religion = african_catholic
+        size = 1200
+    }
+
+    soldiers = {
+        culture = gotish
+        religion = african_catholic
+        size = 150
+    }
+	
+	farmers = {
+        culture = gotish
+        religion = african_catholic
+        size = 4300
     }
 
 }
@@ -553,19 +577,19 @@
 #Goteborg (168000/42000 POPS)
 329 = {
     aristocrats = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 650
     }
 
     officers = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 250
     }
@@ -576,7 +600,7 @@
         size = 250
     }
 	
- craftsmen = {
+	craftsmen = {
         culture = skansk
         religion = african_catholic
         size = 4200
@@ -595,7 +619,7 @@
     }
 
     soldiers = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 1100
     }
@@ -603,57 +627,63 @@
     farmers = {
         culture = skansk
         religion = african_catholic
-        size = 22750
-    }
-	
-	farmers = {
-        culture = swedish
-        religion = african_catholic
-        size = 8750
-    }
-	
-	farmers = {
-        culture = danish
-        religion = african_catholic
-        size = 3750
+        size = 34000
     }
 }
 #Boras (220000/55000 POPS)
 330 = {
     aristocrats = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
         size = 500
     }
 
     clergymen = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
         size = 250
     }
 
     artisans = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
-        size = 2500
+        size = 4500
     }
 
     soldiers = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
         size = 1100
     }
 
     farmers = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
-        size = 43750
+        size = 46000
+    }
+	
+    clergymen = {
+        culture = gotish
+        religion = african_catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = gotish
+        religion = african_catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = gotish
+        religion = african_catholic
+        size = 100
     }
 	
 	farmers = {
-        culture = skansk
+        culture = gotish
         religion = african_catholic
-        size = 7750
+        size = 2300
     }
 }
 #Visby (40000/10000 POPS)
@@ -691,77 +721,125 @@
 #Kalmar (182000/45500 POPS)
 332 = {
     aristocrats = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
         size = 300
     }
 
     clergymen = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
-        size = 225
+        size = 230
     }
 
     artisans = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
-        size = 2500
+        size = 2100
     }
 
     soldiers = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
-        size = 1100
+        size = 1800
     }
 
     farmers = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
-        size = 41475
+        size = 17000
+    }
+	
+    clergymen = {
+        culture = gotish
+        religion = african_catholic
+        size = 180
+    }
+
+    artisans = {
+        culture = gotish
+        religion = african_catholic
+        size = 2600
+    }
+
+    soldiers = {
+        culture = gotish
+        religion = african_catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = gotish
+        religion = african_catholic
+        size = 24000
     }
 }
 #Vaxjo (276000/69000 POPS)
 333 = {
     aristocrats = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
         size = 500
     }
 
     clergymen = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
         size = 375
     }
 
     artisans = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
         size = 3500
     }
 
     soldiers = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
         size = 1100
     }
 
     farmers = {
-        culture = swedish
+        culture = skansk
         religion = african_catholic
-        size = 63625
+        size = 60000
+    }
+	
+    clergymen = {
+        culture = gotish
+        religion = african_catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = gotish
+        religion = african_catholic
+        size = 850
+    }
+
+    soldiers = {
+        culture = gotish
+        religion = african_catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = gotish
+        religion = african_catholic
+        size = 5500
     }
 }
 #Malmo (312000/77000 POPS)
 334 = {
     aristocrats = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 750
     }
 
     bureaucrats = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 800
     }
@@ -779,7 +857,7 @@
     }
 
     soldiers = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 1100
     }
@@ -787,19 +865,13 @@
     farmers = {
         culture = skansk
         religion = african_catholic
-        size = 60125
-    }
-	
-	farmers = {
-        culture = danish
-        religion = african_catholic
-        size = 9125
+        size = 70000
     }
 }
 #Karlskrona (259000/64750 POPS)
 335 = {
     aristocrats = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 625
     }
@@ -817,7 +889,7 @@
     }
 
     soldiers = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 1100
     }
@@ -825,15 +897,8 @@
     farmers = {
         culture = skansk
         religion = african_catholic
-        size = 52625
+        size = 62000
     }
-	
-	farmers = {
-        culture = danish
-        religion = african_catholic
-        size = 8625
-    }
-
 }
 #Jan Mayen, now St Barths
 3246 = {

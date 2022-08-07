@@ -1,4 +1,6 @@
-add_core = KAZ
+owner = REG
+controller = REG
+add_core = REG
 terrain = semidesert
 trade_goods = fish
 life_rating = 30

@@ -4338,3 +4338,141 @@
         size = 7300
     }
 }
+
+3750 = {
+    aristocrats = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 3200
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 42000
+    }
+	
+    farmers = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 8600
+    }
+	
+    farmers = {
+        culture = neustrien
+        religion = roman_catholic
+        size = 1400
+    }
+}
+
+3751 = {
+    aristocrats = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 350
+    }
+
+    artisans = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 2100
+    }
+
+    soldiers = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 32000
+    }
+	
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1800
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 8500
+    }
+}
+
+3752 = {
+    aristocrats = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 80
+    }
+
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 600
+    }
+
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 800
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 9000
+    }
+	
+    farmers = {
+        culture = neustrien
+        religion = roman_catholic
+        size = 300
+    }
+}

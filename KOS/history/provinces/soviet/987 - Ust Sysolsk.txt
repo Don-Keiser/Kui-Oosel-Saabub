@@ -1,6 +1,6 @@
-owner = FIN
-controller = FIN
+owner = TAR
+controller = TAR
+add_core = TAR
 trade_goods = timber
-life_rating = 35
+life_rating = 25
 terrain = boreal
-colonial = 2

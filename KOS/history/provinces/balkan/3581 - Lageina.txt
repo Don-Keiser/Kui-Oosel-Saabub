@@ -1,5 +1,5 @@
-owner = PHR
-controller = PHR
-add_core = PHR
+owner = LWI
+controller = LWI
+add_core = LWI
 trade_goods = wool
 life_rating = 35

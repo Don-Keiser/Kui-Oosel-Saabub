@@ -1,6 +1,6 @@
-owner = ASY
-controller = ASY
-add_core = ASY
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = fish
 terrain = marsh
 life_rating = 35

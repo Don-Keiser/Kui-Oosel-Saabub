@@ -1,8 +1,6 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = TKM
+controller = TKM
 add_core = TKM
-add_core = KHR
 trade_goods = timber
 life_rating = 35
 terrain = montane_forest

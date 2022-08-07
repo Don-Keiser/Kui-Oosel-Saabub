@@ -1,5 +1,5 @@
-owner = MRM
-controller = MRM
-add_core = MRM
+owner = COP
+controller = COP
+add_core = COP
 trade_goods = wool
-life_rating = 20
+life_rating = 30

@@ -1,6 +1,6 @@
-owner = JER
-controller = JER
-add_core = JER
+owner = COP
+controller = COP
+add_core = COP
 trade_goods = fruit
 life_rating = 20
 terrain = coastal_desert

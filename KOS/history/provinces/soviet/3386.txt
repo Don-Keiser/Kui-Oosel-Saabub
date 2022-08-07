@@ -1,5 +1,5 @@
-owner = ARM
-controller = ARM
-add_core = ARM
+owner = SHV
+controller = SHV
+add_core = SHV
 trade_goods = wool
 life_rating = 35

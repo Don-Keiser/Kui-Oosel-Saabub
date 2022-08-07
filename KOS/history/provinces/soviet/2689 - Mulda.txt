@@ -1,7 +1,6 @@
-owner = FIN
-controller = FIN
+owner = TAR
+controller = TAR
+add_core = TAR
 trade_goods = precious_metal
 terrain = montane_tundra
-life_rating = 15
-colonial = 2
-
+life_rating = 20

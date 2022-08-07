@@ -1,5 +1,5 @@
-owner = AVR
-controller = AVR
-add_core = AVR
+owner = CUM
+controller = CUM
+add_core = CUM
 trade_goods = fruit
 life_rating = 35

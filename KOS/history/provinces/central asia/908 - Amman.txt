@@ -1,6 +1,6 @@
-owner = AZH
-controller = AZH
-add_core = AZH
+owner = SYR
+controller = SYR
+add_core = SYR
 trade_goods = grain
 life_rating = 35
 terrain = semidesert

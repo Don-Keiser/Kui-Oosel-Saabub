@@ -228,14 +228,10 @@
         religion = roman_catholic
         size = 125
     }
-soldiers = {
+	
+	soldiers = {
         culture = syriac
         religion = syriac
-        size = 125
-    }
-soldiers = {
-       culture = neapolitan
-        religion = roman_catholic
         size = 125
     }
 
@@ -380,16 +376,13 @@ soldiers = {
         religion = roman_catholic
         size = 3750
     }
-farmers = {
+	
+	farmers = {
         culture = hungarian
         religion = roman_catholic
         size = 45
     }
-farmers = {
-        culture = neapolitan
-        religion = roman_catholic
-        size = 55
-    }
+	
     clergymen = {
         culture = syriac
         religion = syriac

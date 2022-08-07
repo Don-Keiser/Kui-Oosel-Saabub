@@ -1,5 +1,5 @@
-owner = CLC
-controller = CLC
-add_core = CLC
+owner = TBA
+controller = TBA
+add_core = TBA
 trade_goods = fish
 life_rating = 35

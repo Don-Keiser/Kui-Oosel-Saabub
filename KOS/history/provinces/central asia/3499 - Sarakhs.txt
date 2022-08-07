@@ -1,7 +1,5 @@
-owner = PER
-controller = PER
-add_core = PER
-add_core = KHR
+owner = TKM
+controller = TKM
 add_core = TKM
 trade_goods = fruit
 terrain = farmlands

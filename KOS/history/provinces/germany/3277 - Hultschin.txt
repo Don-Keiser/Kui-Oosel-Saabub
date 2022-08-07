@@ -1,7 +1,5 @@
-owner = POL
-controller = POL
-add_core = POL
-trade_goods = coal
+owner = PNJ
+controller = PNJ
+add_core = PNJ
+trade_goods = grain
 life_rating = 35
-
-1861.1.1 = { railroad = 2 }

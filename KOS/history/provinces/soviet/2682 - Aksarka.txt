@@ -1,7 +1,3 @@
-owner = YML
-controller = YML
-add_core = YML
-add_core = KTA
 trade_goods = timber
 terrain = boreal
 life_rating = 10

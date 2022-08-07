@@ -1,5 +1,5 @@
-owner = OSS
-controller = OSS
-add_core = OSS
+owner = GEO
+controller = GEO
+add_core = GEO
 trade_goods = wool
 life_rating = 35

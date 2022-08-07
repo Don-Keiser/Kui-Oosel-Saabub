@@ -1,6 +1,6 @@
-owner = PHR
-controller = PHR
-add_core = PHR
+owner = LWI
+controller = LWI
+add_core = LWI
 trade_goods = fruit
 life_rating = 35
 terrain = ankara

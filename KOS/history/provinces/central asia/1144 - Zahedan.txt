@@ -1,8 +1,6 @@
-owner = KAL
-controller = KAL
-add_core = KAL
-add_core = MAK
-add_core = BLC
+owner = SIS
+controller = SIS
+add_core = SIS
 trade_goods = wool
 life_rating = 35
 terrain = semi_desert_mountains

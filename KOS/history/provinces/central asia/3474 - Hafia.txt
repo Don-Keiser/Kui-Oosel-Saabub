@@ -1,6 +1,6 @@
-owner = JER
-controller = JER
-add_core = JER
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = fruit
 life_rating = 35
 terrain = semidesert

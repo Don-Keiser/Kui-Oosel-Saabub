@@ -59,242 +59,104 @@
 }
 3302 = {
     aristocrats = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 900
     }
 
     bureaucrats = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 225
     }
 
     clergymen = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 300
     }
 
     artisans = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 1500
+        size = 3500
     }
 
     soldiers = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 1700
     }
 
     farmers = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 39000
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 200
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 400
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 400
-    }
-
-    farmers = {
-        culture = armenian
-        religion = coptic
-        size = 500
-    }
-
-    clergymen = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 175
-    }
-
-    artisans = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 8000
-    }
-
-    soldiers = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 11525
+        size = 49000
     }
 }
 
 3470 = {
-    aristocrats = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 90
-    }
-
-    bureaucrats = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 22
-    }
-
     clergymen = {
-        culture = thraikes
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 17
+        size = 300
     }
 
     artisans = {
-        culture = thraikes
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 100
+        size = 2900
     }
 
     soldiers = {
-        culture = thraikes
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 110
+        size = 1200
     }
 
     farmers = {
-        culture = thraikes
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 1782
-    }
-
-    clergymen = {
-        culture = thracian
-        religion = thessalonian_orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = thracian
-        religion = thessalonian_orthodox
-        size = 900
-    }
-
-    soldiers = {
-        culture = thracian
-        religion = thessalonian_orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = thracian
-        religion = thessalonian_orthodox
-        size = 3000
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 20
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 40
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 40
-    }
-
-    farmers = {
-        culture = armenian
-        religion = coptic
-        size = 50
+        size = 26000
     }
 }
 
 #Gelibolu (80000/20000 POPS)
 859 = {
     aristocrats = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 375
+        size = 1200
+    }
+
+    officers = {
+        culture = bulgar_tatar
+        religion = thessalonian_orthodox
+        size = 120
     }
 
     clergymen = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 300
     }
 
     artisans = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 1200
+        size = 3200
     }
 
     soldiers = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 1400
     }
 
     farmers = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 39000
-    }
-
-    aristocrats = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 120
-    }
-
-    officers = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 120
-    }
-
-    soldiers = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 300
-    }
-
-    clergymen = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 200
-    }
-
-    artisans = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 2000
-    }
-
-    farmers = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 5475
+        size = 46000
     }
 }
 #Istanbul Region (1268000)
@@ -302,183 +164,81 @@
 #Istanbul (764000/191000 POPS)
 860 = {
     aristocrats = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 900
+        size = 1100
     }
 
     bureaucrats = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 700
+        size = 300
     }
 
     officers = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 280
     }
 
     clergymen = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 1700
     }
 
     artisans = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 10000
     }
-	
-    artisans = {
-        culture = thracian
-        religion = thessalonian_orthodox
-        size = 5000
-    }
 
     soldiers = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 6300
     }
 
     farmers = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 94000
+        size = 74000
     }
 
     aristocrats = {
-        culture = armenian
-        religion = coptic
-        size = 120
+        culture = rughan
+        religion = thessalonian_orthodox
+        size = 1300
     }
 
     officers = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    soldiers = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    clergymen = {
-        culture = armenian
-        religion = coptic
-        size = 120
-    }
-
-    artisans = {
-        culture = armenian
-        religion = coptic
-        size = 5000
-    }
-
-    farmers = {
-        culture = armenian
-        religion = coptic
-        size = 12475
-    }
-	
-    aristocrats = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 120
-    }
-
-    officers = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
         size = 120
     }
 
     soldiers = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
-        size = 300
+        size = 2500
     }
 
     clergymen = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
-        size = 225
+        size = 800
     }
 
     artisans = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
-        size = 5000
+        size = 6800
     }
 
     farmers = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
-        size = 14775
-    }
-	
-	artisans = {
-        culture = outremer
-        religion = roman_catholic
-        size = 6775
-    }
-
-    clergymen = {
-        culture = crimean
-        religion = thessalonian_orthodox
-        size = 1000
-    }
-
-    artisans = {
-        culture = crimean
-        religion = thessalonian_orthodox
-        size = 7750
-    }
-
-    soldiers = {
-        culture = crimean
-        religion = thessalonian_orthodox
-        size = 200
-    }
-
-    farmers = {
-        culture = crimean
-        religion = thessalonian_orthodox
-        size = 1000
-    }
-
-    farmers = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = circassian
-        religion = thessalonian_orthodox
-        size = 600
-    }
-
-    artisans = {
-        culture = cuman
-        religion = thessalonian_orthodox
-        size = 3500
-    }
-	
-	soldiers = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 1204
-    }
-	
-	artisans = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 6000
+        size = 21000
     }
 }
 #Uskudar (188000/47000 POPS)
@@ -513,52 +273,28 @@
         size = 29250
     }
 
-    soldiers = {
-        culture = bithynian
-        religion = thessalonian_orthodox
-        size = 125
-    }
-
     clergymen = {
-        culture = bithynian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 125
+        size = 350
     }
 
     artisans = {
-        culture = bithynian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 3500
+        size = 5000
     }
-
-    farmers = {
-        culture = bithynian
-        religion = thessalonian_orthodox
-        size = 8375
-    }
-
+	
     soldiers = {
-        culture = thracian
-        religion = coptic
-        size = 120
-    }
-
-    clergymen = {
-        culture = thracian
-        religion = coptic
-        size = 120
-    }
-
-    artisans = {
-        culture = thracian
-        religion = coptic
-        size = 2500
+        culture = bulgar_tatar
+        religion = thessalonian_orthodox
+        size = 2800
     }
 
     farmers = {
-        culture = thracian
-        religion = coptic
-        size = 3450
+        culture = bulgar_tatar
+        religion = thessalonian_orthodox
+        size = 14000
     }
 }
 #Izmit (316000/79000 POPS)
@@ -1007,33 +743,33 @@
 #Chanakkale (132000/33000 POPS)
 865 = {
     aristocrats = {
-        culture = trojan
+        culture = aeolic
         religion = thessalonian_orthodox
-        size = 350
+        size = 500
     }
 
     clergymen = {
-        culture = trojan
+        culture = aeolic
         religion = thessalonian_orthodox
-        size = 275
+        size = 500
     }
 
     artisans = {
-        culture = trojan
+        culture = aeolic
         religion = thessalonian_orthodox
-        size = 1500
+        size = 2500
     }
 
     soldiers = {
-        culture = trojan
+        culture = aeolic
         religion = thessalonian_orthodox
         size = 325
     }
 
     farmers = {
-        culture = trojan
+        culture = aeolic
         religion = thessalonian_orthodox
-        size = 27000
+        size = 38000
     }
 	
 	farmers = {
@@ -1042,34 +778,34 @@
         size = 7600
     }
 
-    soldiers = {
-        culture = trojan
+    aristocrats = {
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 120
+        size = 1000
     }
 
     clergymen = {
-        culture = trojan
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 120
+        size = 100
     }
 
     artisans = {
-        culture = trojan
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 150
+        size = 800
+    }
+
+    soldiers = {
+        culture = bulgar_tatar
+        religion = thessalonian_orthodox
+        size = 1500
     }
 
     farmers = {
-        culture = trojan
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 6800
-    }
-	
-	farmers = {
-        culture = aeolic
-        religion = thessalonian_orthodox
-        size = 4000
+        size = 2000
     }
 }
 #Karahisar Region (336000)
@@ -7287,31 +7023,31 @@
 #Physkos
 3585 = {
     aristocrats = {
-        culture = carian
+        culture = aeolic
         religion = thessalonian_orthodox
         size = 175
     }
 
     clergymen = {
-        culture = carian
+        culture = aeolic
         religion = thessalonian_orthodox
         size = 150
     }
 
     artisans = {
-        culture = carian
+        culture = aeolic
         religion = thessalonian_orthodox
         size = 350
     }
 
     soldiers = {
-        culture = carian
+        culture = aeolic
         religion = thessalonian_orthodox
         size = 600
     }
 
     farmers = {
-        culture = carian
+        culture = aeolic
         religion = thessalonian_orthodox
         size = 16425
     }

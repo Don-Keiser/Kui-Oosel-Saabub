@@ -1,8 +1,6 @@
-owner = KND
-controller = KND
-add_core = BLC
-add_core = KHT
-add_core = HND
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = wool
 terrain = semi_desert_mountains
 life_rating = 25

@@ -1,6 +1,6 @@
-owner = CYR
-controller = CYR
-add_core = CYR
+owner = COP
+controller = COP
+add_core = COP
 trade_goods = grain
 life_rating = 32
 terrain = coastal_desert

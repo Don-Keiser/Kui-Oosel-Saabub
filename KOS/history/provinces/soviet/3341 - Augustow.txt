@@ -1,5 +1,5 @@
-owner = PRE
-controller = PRE
-add_core = PRE
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = grain
 life_rating = 35

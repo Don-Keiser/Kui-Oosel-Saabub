@@ -3,81 +3,51 @@
 #Sarajevo (148000/37000 POPS)
 783 = {
     aristocrats = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
-        size = 750
+        size = 1100
     }
 
     bureaucrats = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
-        size = 275
+        size = 300
     }
 
     officers = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 325
-    }
-
-    soldiers = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 1500
-    }
-
-    clergymen = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
         size = 200
     }
 
-    artisans = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 6000
-    }
-
-    farmers = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 44000
-    }
-
-    aristocrats = {
-        culture = dalmatae
-        religion = roman_catholic
-        size = 100
-    }
-
-    officers = {
-        culture = dalmatae
-        religion = roman_catholic
-        size = 100
-    }
-
     soldiers = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
-        size = 200
+        size = 4800
     }
 
     clergymen = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
-        size = 100
+        size = 1800
     }
 
     artisans = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
-        size = 475
+        size = 10000
+    }
+	
+    artisans = {
+        culture = beceneg
+        religion = roman_catholic
+        size = 3500
     }
 
     farmers = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
-        size = 3050
+        size = 74000
     }
 }
 #Bihac (100000/25000 POPS)
@@ -91,25 +61,25 @@
     soldiers = {
         culture = travesz
         religion = roman_catholic
-        size = 100
+        size = 300
     }
 
     clergymen = {
         culture = travesz
         religion = roman_catholic
-        size = 100
+        size = 200
     }
 
     artisans = {
         culture = travesz
         religion = roman_catholic
-        size = 750
+        size = 1200
     }
 
     farmers = {
         culture = travesz
         religion = roman_catholic
-        size = 21675
+        size = 25000
     }
 
     soldiers = {
@@ -137,51 +107,27 @@
     }
 
     soldiers = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
         size = 200
     }
 
     farmers = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
         size = 1650
-    }
-	
-	soldiers = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 3650
     }
 }
 #Banja Luka (116000/29000 POPS)
@@ -241,25 +187,25 @@
     }
 
     soldiers = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
         size = 3675
     }
@@ -267,281 +213,185 @@
 #Tuzla (168000/42000 POPS)
 786 = {
     aristocrats = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
         size = 700
     }
 
     soldiers = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
-        size = 200
+        size = 2500
     }
 
     clergymen = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
-        size = 200
+        size = 300
     }
 
     artisans = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
-        size = 1900
+        size = 3900
     }
 
     farmers = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
-        size = 40000
-    }
-
-    soldiers = {
-        culture = dardani
-        religion = roman_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = dardani
-        religion = roman_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = dardani
-        religion = roman_catholic
-        size = 250
-    }
-
-    farmers = {
-        culture = dardani
-        religion = roman_catholic
-        size = 4675
+        size = 46000
     }
 }
 #Foca (92000/23000 POPS)
 787 = {
     aristocrats = {
-        culture = dardani
-        religion = roman_catholic
-        size = 400
-    }
-
-    soldiers = {
-        culture = dardani
-        religion = roman_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = dardani
-        religion = roman_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = dardani
-        religion = roman_catholic
-        size = 600
-    }
-
-    farmers = {
-        culture = dardani
-        religion = roman_catholic
-        size = 5925
-    }
-
-    soldiers = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 500
-    }
-
-    farmers = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 15300
-    }
-}
-#Mostar (104000/26000 POPS)
-788 = {
-    aristocrats = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 450
-    }
-
-    soldiers = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 600
-    }
-
-    farmers = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 3900
-    }
-
-    soldiers = {
-        culture = dalmatae
-        religion = roman_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = dalmatae
-        religion = roman_catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = dalmatae
-        religion = roman_catholic
-        size = 700
-    }
-
-    farmers = {
-        culture = dalmatae
-        religion = roman_catholic
-        size = 21000
-    }
-}
-#Livno (136000/34000 POPS)
-789 = {
-    aristocrats = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
         size = 350
     }
 
     soldiers = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
-        size = 200
+        size = 1400
     }
 
     clergymen = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
-        size = 200
+        size = 250
     }
 
     artisans = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
-        size = 850
+        size = 2400
     }
 
     farmers = {
-        culture = dalmatae
+        culture = beceneg
         religion = roman_catholic
-        size = 18000
+        size = 25000
+    }
+}
+#Mostar (104000/26000 POPS)
+788 = {
+    aristocrats = {
+        culture = beceneg
+        religion = roman_catholic
+        size = 500
     }
 
     soldiers = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
-        size = 100
+        size = 1900
     }
 
     clergymen = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
-        size = 100
+        size = 600
     }
 
     artisans = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
-        size = 800
+        size = 3800
     }
 
     farmers = {
-        culture = autariatai
+        culture = beceneg
         religion = roman_catholic
-        size = 14000
+        size = 45000
+    }
+}
+#Livno (136000/34000 POPS)
+789 = {
+    aristocrats = {
+        culture = beceneg
+        religion = roman_catholic
+        size = 560
+    }
+
+    soldiers = {
+        culture = beceneg
+        religion = roman_catholic
+        size = 1100
+    }
+
+    clergymen = {
+        culture = beceneg
+        religion = roman_catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = beceneg
+        religion = roman_catholic
+        size = 3800
+    }
+
+    farmers = {
+        culture = beceneg
+        religion = roman_catholic
+        size = 32000
     }
 }
 
 #Daesitia (116000/29000 POPS)
 3591 = {
     aristocrats = {
-        culture = autariatai
+        culture = travesz
         religion = roman_catholic
         size = 500
     }
 
     soldiers = {
-        culture = autariatai
+        culture = travesz
         religion = roman_catholic
-        size = 200
+        size = 1200
     }
 
     clergymen = {
-        culture = autariatai
+        culture = travesz
         religion = roman_catholic
         size = 200
     }
 
     artisans = {
-        culture = autariatai
+        culture = travesz
         religion = roman_catholic
         size = 1300
     }
 
     farmers = {
-        culture = autariatai
+        culture = travesz
         religion = roman_catholic
-        size = 23000
+        size = 20000
     }
 
     soldiers = {
-        culture = travesz
+        culture = beceneg
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = travesz
+        culture = beceneg
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = travesz
+        culture = beceneg
         religion = roman_catholic
-        size = 150
+        size = 450
     }
 
     farmers = {
-        culture = travesz
+        culture = beceneg
         religion = roman_catholic
-        size = 3675
+        size = 7000
     }
 }

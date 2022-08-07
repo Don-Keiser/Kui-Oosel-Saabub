@@ -49,7 +49,7 @@ high_germanic = {
         "von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
     }
 	dieringisch = {
-        color = { 121 118 81 }
+        color = { 119 142 130 }
         first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
         Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
         Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jürgen Karl
@@ -65,7 +65,7 @@ high_germanic = {
         "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
     }
 	burgundisch = { 
-		color = {122 142 165}
+		color = {107 133 142}
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
 		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
 		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
@@ -79,7 +79,7 @@ high_germanic = {
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}
 	ostrisch = { 
-		color = {93 108 127}
+		color = {140 159 165}
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
 		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
 		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
@@ -128,7 +128,7 @@ low_germanic = {
         "von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
     }
 	jutsk = {
-        color = { 119 100 81 }
+        color = { 119 100 109 }
         first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
         Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
         Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jürgen Karl
@@ -144,7 +144,7 @@ low_germanic = {
         "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
     }
 	gruttfrysk = {
-        color = { 170 90 30 }
+        color = { 142 104 99 }
 
         first_names = {
             Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
@@ -201,7 +201,7 @@ low_germanic = {
         }
     }
 	lytsfrysk = {
-        color = { 190 105 46 }
+        color = { 165 120 116 }
 
         first_names = {
             Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
@@ -258,7 +258,7 @@ low_germanic = {
         }
     }
 	flaamsk = {
-        color = { 250 180 80 }
+        color = { 158 114 74 }
 
         first_names = {
             Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
@@ -320,6 +320,22 @@ gothic_group = {
     leader = european
     unit = EuropeanGC
     thuringia_gothic = {
+        color = { 141 181 181 }
+        first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
+        Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
+        Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jürgen Karl
+        Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto
+        Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
+
+        last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Herwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree
+        "Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg"         "von Boyen" "von Braunschweig" "von Bülow" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover"
+        "von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld"
+        "von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg"
+        "von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen"
+        "von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin"
+        "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
+    }
+    moesogothic = {
         color = { 141 181 181 }
         first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
         Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
@@ -586,20 +602,6 @@ beneluxian = {
 rhaeto_romance = {
     leader = european
     unit = EuropeanGC
-	romansh = {
-        color = { 120 140 110 }
-        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
-        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
-        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
-        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
-        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
-
-        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
-        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
-        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
-        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
-        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
-    }
 	ladin = {
         color = { 71 88 119 }
         first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
@@ -658,7 +660,7 @@ scandinavian = {
         Stemman Suenson "Suzannet de la Forest" Thygeson Trampe Urne "von Glücksburg" "von Holstein" "von Oldenburg" Wedel-Heinen Zytphen-Adeler }
     }
     norwegian = {
-        color = { 140 20 140 }
+        color = { 90 42 104 }
         first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
         Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman
         Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd }
@@ -676,7 +678,7 @@ scandinavian = {
         Hermannsson Johánesson Jónsson Magnússon Stefánsson Steinthosson Thórdarson Thórhallson Thorláksson Thurs }
     }
 	skansk = {
-        color = { 219 100 100 }
+        color = { 56 42 104 }
         first_names = { Aage Adam Albert Anders Asmund Axel Bent Carl Charles Christen Christian Edvard Edvin
         Enevold Erik Ernst Folke Frederik Georg Gregers Gunnar Gustav Hagbard Hannibal Hans Harald Henrik Herman Hugo Ivar Immanuel
         Jacob Jens Johan Johannes Julius Knud Ludvig Magnus Michael Niels Olav Otto Osvald Oktavius
@@ -687,8 +689,20 @@ scandinavian = {
         "Le Normand de Bretteville" Leuenbach Lovenbalk Marselis Marstrand Meier Morgenstierne Mylius Neergaard Obelitz Oxholm Pretorius Quaade Rantzau Reventlow Rosenkrantz Sand Schack-Schackenborg
         Stemman Suenson "Suzannet de la Forest" Thygeson Trampe Urne "von Glücksburg" "von Holstein" "von Oldenburg" Wedel-Heinen Zytphen-Adeler }
     }
+    gotish = {
+        color = { 90 74 104 }
+        first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
+        Elias Emil Erik Esaias Fabian Frans Fredrik Gunnar Gustav Henrik
+        Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
+        Nils Olof Oscar Per Rudolf Sten Theodor Verner Viktor Vilhelm }
+
+        last_names = { Abelin Bernardotte Bildt Björnstjerna Brahe Brakenhielm Breitholtz Chrsiterson Crusebjörn Dyrssen
+        Ehnemark Ehrenstam Gyllengranat Gyndestolpe Ingelman Leijonhufvud Lindman Mörner Nordenskiöld "Palanger af Vega"
+        Palmstierna Peyron Rappe Reuterskiöld Rosensvärd Ryding Sprengtportem Ström Taube Tawast
+        Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
+    }
 	vinlandic = {
-		color = {153 30 0}
+		color = {56 42 70}
 		first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
 		Hermann Jón Kristján Magnús Ólafur Pétur Sigurdur Stefán Sveinn Tryggvi }
 		
@@ -1657,7 +1671,7 @@ italian = {
         Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
     }
     lombard = {
-        color = { 58 146 96 }
+        color = { 175 54 76 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
         Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
         Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -1667,7 +1681,7 @@ italian = {
         Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
     }
 	romagnol = {
-        color = { 77 162 77 }
+        color = { 150 46 65 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
         Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
         Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -1676,48 +1690,19 @@ italian = {
         "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
         Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
     }
-    sardinian = {
-        color = { 120 162 77 }
-        first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
-        Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
-        Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
-	
-        last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
-        "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
-        Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
-    }
-    neapolitan = {
-        color = { 51 102 51 }
-        first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
-        Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
-        Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
-	
-        last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
-        "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
-        Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
-    }
-    mediano = {
-        color = { 26 125 62 }
+	romansh = {
+        color = { 198 61 86 }
         first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
         Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
         Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
         Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
         Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
-	
+
         last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
         Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
         "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
         Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
         Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
-    }
-    maltese = {
-        color = {100 150 120}
-        primary = MLT
-        first_names = { Alessandru Beru Duminku Enrico Fernardu Frangisku Gabriel Ferlad Gorg Joseph
-        Karmenu Lawrenz Marju Mikiel Ninu Pawlu Rokku Saber Ugo Valent }
-
-        last_names = { Abela Adami Azzopardi Boffa Borg Buhagiar Cassar Farrugia Frendo Gonzi
-        Howard Mifsud Mintoff Mizzi Muscat Olivier Puli Pullicino Strickland Vella }
     }
 
     union = ITA
@@ -2258,23 +2243,6 @@ pan_romanian = {
         Salajan Samsonovici Schitiu Scodrea Slaniceanu Steflea Tatarascu Tenescu Vaitoianu Zottu
         }
     }
-	beceneg = {
-		color = {130 119 76}
-		first_names = { Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
-		Adrian Alexandru Andrei Anton Artur Bogdan Carol Cezar Constantin Constin
-        Cosmin Daniel Dumitru Emanuel Eremia Eugen Ferdinand Flaviu Florea Gheorghe
-        Grigore Henric Horatiu Iacob Ilie Ioan Ion "Ion Emanuel" Iosif Iulian
-        Iuliu Laurentiu Leontin Luca Lucian Mihai Mircea Nicolae Ovidiu Petru
-        Radu Sergiu Silviu Simion Stefan Valeriu Vasile Victor Vintila Vlad	
-		}
-		last_names = { Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
-		Angelescu Antonescu Argetoianu Averescu Baldescu Barozzi Berindei Cernat Christecu Cihoski
-        Ciuperca Coanda Crainiceanu Critescu Culcer Cuza "de Hohenzollern" Dona Dragalina Dumitrescu
-        Falcoianu Florescu Gardescu Grigorescu Froza Harjeu Holban Iancovescu Iliasevici Iliescu
-        Ionascu Ionescu Ionitiu Koslinski Lahovary Lupescu Mardarescu Murgescu Poenaru Prezan
-        Salajan Samsonovici Schitiu Scodrea Slaniceanu Steflea Tatarascu Tenescu Vaitoianu Zottu
-		}
-	}
     union = ROM
 }
 
@@ -2861,7 +2829,7 @@ hellenic = {
         }
     }
 	griko = {
-		color = { 176 93 149 }
+		color = { 80 150 185 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2878,7 +2846,7 @@ hellenic = {
 		radicalism = 10
 	}
 	makedones = {
-        color = { 179  51  136 }
+        color = { 90  152  181 }
         first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
         Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
         Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2941,24 +2909,8 @@ hellenic = {
 		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
 		}
 	}
-	thraikes = {
-		color = { 188 92 185 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
-		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
-		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
 	aeolic = {
-		color = { 159 50 156 }
+		color = { 40 133 175 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -2990,7 +2942,7 @@ hellenic = {
 		}
 	}
 	maniot = {
-		color = { 171 62 134 }
+		color = { 80 145 175 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3006,7 +2958,7 @@ hellenic = {
 		}
 	}
 	cretan = {
-		color = { 156 62 171 }
+		color = { 80 145 155 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -3037,8 +2989,56 @@ hellenic = {
 		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
 		}
 	}
+	moreote  = {
+		color = { 120  180  210 }
+		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
+		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
+		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		}
+
+		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+		}
+	}
+	dalmatoi = {
+		color = { 120  159  172 }
+		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
+		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
+		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		}
+
+		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+		}
+	}
+	epirote = {
+		color = { 124  160  204 }
+		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
+		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
+		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		}
+
+		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+		}
+	}
 	sicilian = {
-        color = { 124 109 104 }
+        color = { 124 112 119 }
         first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
         Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
         Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
@@ -3047,6 +3047,23 @@ hellenic = {
         "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
         Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
     }
+	beceneg = {
+		color = {62 112 119}
+		first_names = { Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
+		Adrian Alexandru Andrei Anton Artur Bogdan Carol Cezar Constantin Constin
+        Cosmin Daniel Dumitru Emanuel Eremia Eugen Ferdinand Flaviu Florea Gheorghe
+        Grigore Henric Horatiu Iacob Ilie Ioan Ion "Ion Emanuel" Iosif Iulian
+        Iuliu Laurentiu Leontin Luca Lucian Mihai Mircea Nicolae Ovidiu Petru
+        Radu Sergiu Silviu Simion Stefan Valeriu Vasile Victor Vintila Vlad	
+		}
+		last_names = { Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
+		Angelescu Antonescu Argetoianu Averescu Baldescu Barozzi Berindei Cernat Christecu Cihoski
+        Ciuperca Coanda Crainiceanu Critescu Culcer Cuza "de Hohenzollern" Dona Dragalina Dumitrescu
+        Falcoianu Florescu Gardescu Grigorescu Froza Harjeu Holban Iancovescu Iliasevici Iliescu
+        Ionascu Ionescu Ionitiu Koslinski Lahovary Lupescu Mardarescu Murgescu Poenaru Prezan
+        Salajan Samsonovici Schitiu Scodrea Slaniceanu Steflea Tatarascu Tenescu Vaitoianu Zottu
+		}
+	}
 }
 
 armenian_group = {
@@ -3943,7 +3960,17 @@ afro_romance = {
 		Maroto Márquez Nabiello Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz 
 		Narváez O'Donnell Ortega Pavía Pérez Plantayn "Queipo de Llano" Ramellus Rojo Ruiz 
 		Sayyid Sid Salim Topete Valdés Varela Yarbo Waliyo Zanon Zaute }
-	}	
+	}
+    sardinian = {
+        color = { 120 162 77 }
+        first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
+        Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
+        Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
+	
+        last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
+        "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
+        Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
+    }	
 }
 
 peninsular_arabic = {
@@ -6887,7 +6914,7 @@ west_african = {
         }
 
         last_names = { Diogo Butiyi Agidi Tona Avumbe Kpengla Abagba Muna Atasa Agodo
-        }
+        }	
     }
     fon = {
         color = {188 92 47}
@@ -6999,14 +7026,6 @@ west_african = {
         }
 
         last_names = { Torkula Akperan Orshi Aluor Dzakpe
-        }
-    }
-    tuareg = {
-        color = {84 75 240}
-        first_names = { Attici Musa Aytarel Ahmad "Ag Mama" Moussa Majila Islaman "In Tayaden" Abareybon Hasso Kiddu
-        }
-
-        last_names = { "ag Sidi" al-Hajj "ag Muhammad" "ag Amellal" "ag Amastan"
         }
     }
     wolof = {

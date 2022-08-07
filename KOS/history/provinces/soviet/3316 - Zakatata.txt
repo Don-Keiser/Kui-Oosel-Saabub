@@ -1,5 +1,5 @@
-owner = AVR
-controller = AVR
-add_core = AVR
+owner = GEO
+controller = GEO
+add_core = GEO
 trade_goods = grain
 life_rating = 35

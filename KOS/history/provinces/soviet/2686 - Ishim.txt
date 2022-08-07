@@ -1,5 +1,2 @@
-owner = SHR
-controller = SHR
-add_core = SHR
 trade_goods = sulphur
 life_rating = 35

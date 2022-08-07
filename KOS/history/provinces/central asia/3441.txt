@@ -1,6 +1,6 @@
-owner = WHU
-controller = WHU
-add_core = WHU
+owner = KWA
+controller = KWA
+add_core = KWA
 trade_goods = wool
 terrain = semidesert
 life_rating = 30

@@ -1,7 +1,6 @@
-owner = WHU
-controller = WHU
-add_core = WHU
-add_core = SHH
+owner = KKT
+controller = KKT
+add_core = KKT
 trade_goods = timber
 life_rating = 35
 terrain = montane_forest

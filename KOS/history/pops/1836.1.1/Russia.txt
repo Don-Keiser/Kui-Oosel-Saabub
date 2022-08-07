@@ -1773,19 +1773,19 @@
     }
 
     artisans = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 10000
     }
 
     artisans = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 10000
     }
 
     artisans = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 10000
     }
@@ -1875,19 +1875,19 @@
     }
 
     artisans = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 550
     }
 
     soldiers = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 10
     }
 
     farmers = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 48925
     }
@@ -1927,31 +1927,31 @@
 #Luga (132000/33000 POPS)
 996 = {
     aristocrats = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 500
     }
 
     clergymen = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 325
     }
 
     artisans = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 1650
     }
 
     soldiers = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 3200
     }
 
     farmers = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 32325
     }
@@ -1971,31 +1971,31 @@
 #Gdov (120000/30000 POPS)
 997 = {
     aristocrats = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 475
     }
 
     clergymen = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 275
     }
 
     artisans = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 1400
     }
 
     soldiers = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 3200
     }
 
     farmers = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 42800
     }
@@ -2088,13 +2088,13 @@
     }
 
     clergymen = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 10
     }
 
     farmers = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 6000
     }
@@ -2172,7 +2172,7 @@
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 38850
     }
@@ -2184,62 +2184,62 @@
     }
 
     clergymen = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     artisans = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 550
     }
 
     soldiers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 13250
     }
 }
 3419 = {
     aristocrats = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 1700
     }
 
     clergymen = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 950
     }
 
     artisans = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 4500
     }
 
     soldiers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 1000
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 38850
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 50000
     }
@@ -2301,25 +2301,25 @@
     }
 
     clergymen = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 75
     }
 
     artisans = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 500
     }
 
     soldiers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 9325
     }
@@ -2409,7 +2409,7 @@
     }
 
     farmers = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 10000
     }
@@ -2445,19 +2445,19 @@
     }
 	
 	artisans = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 4000
     }
 	
 	artisans = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 100
     }
@@ -2551,7 +2551,7 @@
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 8000
     }
@@ -2559,37 +2559,37 @@
 #Pskov (472000/118000 POPS)
 1006 = {
     aristocrats = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 2000
     }
 
     clergymen = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 650
     }
 
     artisans = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 4550
     }
 
     soldiers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 1150
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 54500
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 50000
     }
@@ -2619,25 +2619,25 @@
     }
 
     clergymen = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     artisans = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 150
     }
 
     soldiers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 8775
     }
@@ -2645,37 +2645,37 @@
 #Velikiye Luki (320000/80000 POPS)
 1007 = {
     aristocrats = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 1525
     }
 
     clergymen = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 800
     }
 
     artisans = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 4000
     }
 
     soldiers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 800
     }
 
     farmers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 2875
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 70000
     }
@@ -4950,7 +4950,7 @@
         size = 4600
     }
 }
-#Temen/Novorossiysk (60000/15000 POPS)
+#Temen/Noestonianssiysk (60000/15000 POPS)
 1049 = {
         clergymen = {
         culture = crimean

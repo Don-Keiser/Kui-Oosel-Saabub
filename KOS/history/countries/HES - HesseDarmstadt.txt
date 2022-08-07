@@ -1,6 +1,5 @@
-capital = 2560
-primary_culture = north_german
-culture = south_german
+capital = 564
+primary_culture = ostrisch
 religion = african_catholic
 government = absolute_monarchy
 plurality = 25.0

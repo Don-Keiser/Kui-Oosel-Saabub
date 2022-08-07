@@ -1,7 +1,3 @@
-owner = FIN
-controller = FIN
-add_core = NNT
 trade_goods = timber
 terrain = boreal
 life_rating = 10
-colonial = 2

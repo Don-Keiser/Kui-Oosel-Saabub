@@ -991,6 +991,14 @@ LOV		= "countries/Lovikindlus.txt"
 SYV		= "countries/Syvahusko.txt"
 TRV		= "countries/Traveszurszag.txt"
 ATE     = "countries/Aterno.txt"
+HGN	    = "countries/Hagenau.txt"
+GTC	    = "countries/Gothica.txt"
+LWI	    = "countries/Luwia.txt"
+CPD	    = "countries/Cappadocia.txt"
+SHV	    = "countries/Shirvan.txt"
+KKT	    = "countries/Kara Khitai.txt"
+SIS	    = "countries/Sistan.txt"
+KWA	    = "countries/Khwarazmia.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

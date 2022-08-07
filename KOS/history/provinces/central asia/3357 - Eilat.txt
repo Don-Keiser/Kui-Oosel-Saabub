@@ -1,6 +1,6 @@
-owner = JER
-controller = JER
-add_core = JER
+owner = SYR
+controller = SYR
+add_core = SYR
 trade_goods = wool
 life_rating = 10
 terrain = desert

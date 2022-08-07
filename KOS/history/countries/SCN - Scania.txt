@@ -6,7 +6,7 @@ plurality = 10
 nationalvalue = nv_productivity
 literacy = 0.8
 civilized = yes
-prestige = 25
+prestige = 30
 
 # Political reforms
 slavery = yes_slavery
@@ -86,3 +86,5 @@ consciousness = 2
 nonstate_consciousness = 0
 
 schools = industrial_tech_school
+
+oob = "SCN_oob.txt"

@@ -1,5 +1,5 @@
-owner = VAA
-controller = VAA
-add_core = VAA
+owner = CUM
+controller = CUM
+add_core = CUM
 trade_goods = cattle
 life_rating = 35

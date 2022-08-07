@@ -1,6 +1,6 @@
-owner = CAI
-controller = CAI
-add_core = CAI
+owner = PWS
+controller = PWS
+add_core = PWS
 trade_goods = iron
 life_rating = 35
 fort = 1

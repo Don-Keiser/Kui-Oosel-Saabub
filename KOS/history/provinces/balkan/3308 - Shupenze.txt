@@ -1,5 +1,4 @@
-owner = ALB
-controller = ALB
-add_core = ALB
-trade_goods = timber
-life_rating = 35
+trade_goods = wool
+terrain = desert
+life_rating = 25
+colonial = 2

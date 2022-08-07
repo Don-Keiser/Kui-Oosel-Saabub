@@ -1,6 +1,6 @@
 color = { 178 165 196 }
-colonial_company = { 175 98 107 }
-dominion = { 175 98 107 }
+colonial_company = { 125  100  95 }
+dominion = { 125  100  95 }
 graphical_culture = AustriaHungaryGC
 
 party = {

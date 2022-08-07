@@ -100,153 +100,146 @@
     farmers = {
         culture = albanian
         religion = roman_catholic
-        size = 12000
+        size = 21000
     }
-	
-    farmers = {
-        culture = greek
-        religion = roman_catholic
-        size = 300
-    }
-
 }
 852 = {
     aristocrats = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 573
     }
 	
     clergymen = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 500
     }
 	
     artisans = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 1331
     }
 	
     soldiers = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 286
     }
 	
     farmers = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 21000
     }
 }
 853 = {
     aristocrats = {
-        culture = tosk
+        culture = epirote
         religion = roman_catholic
         size = 307
     }
 	
     clergymen = {
-        culture = tosk
+        culture = epirote
         religion = roman_catholic
         size = 300
     }
 	
     soldiers = {
-        culture = tosk
+        culture = epirote
         religion = roman_catholic
         size = 1000
     }
 	
     artisans = {
-        culture = tosk
+        culture = epirote
         religion = roman_catholic
         size = 500
     }
 	
     farmers = {
-        culture = tosk
+        culture = epirote
         religion = roman_catholic
-        size = 14000
+        size = 9000
     }
 
     soldiers = {
-        culture = greek
+        culture = albanian
         religion = roman_catholic
         size = 122
     }
 	
     clergymen = {
-        culture = greek
+        culture = albanian
         religion = roman_catholic
         size = 100
     }
 	
     artisans = {
-        culture = greek
+        culture = albanian
         religion = roman_catholic
         size = 245
     }
 	
     farmers = {
-        culture = greek
+        culture = albanian
         religion = roman_catholic
-        size = 1799
+        size = 7000
     }
 }
 3307 = {
     aristocrats = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 307
     }
 	
     clergymen = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 300
     }
 	
     soldiers = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 600
     }
 	
     artisans = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 500
     }
 	
     farmers = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 16000
     }
 	
     soldiers = {
-        culture = makedones
+        culture = red_croat
         religion = roman_catholic
         size = 300
     }
 	
     clergymen = {
-        culture = makedones
+        culture = red_croat
         religion = roman_catholic
         size = 200
     }
 	
     artisans = {
-        culture = makedones
+        culture = red_croat
         religion = roman_catholic
         size = 500
     }
 	
     farmers = {
-        culture = makedones
+        culture = red_croat
         religion = roman_catholic
         size = 1300
     }
@@ -283,25 +276,25 @@
     }
 	
     soldiers = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 122
     }
 	
     clergymen = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 100
     }
 	
     artisans = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 245
     }
 	
     farmers = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 1799
     }

@@ -1,5 +1,5 @@
-owner = MKN
-controller = MKN
-add_core = MKN
+owner = AZB
+controller = AZB
+add_core = AZB
 trade_goods = timber
 life_rating = 35

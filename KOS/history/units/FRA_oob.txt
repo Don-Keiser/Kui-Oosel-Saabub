@@ -21,12 +21,6 @@ PAP = {
     influence_value = 25
 }
 
-SVY = {
-    value = 200        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
-
 TOR = {
     value = 150        #relation
     level = 5        #3=cordial, 4 = friendly, 5 sphere

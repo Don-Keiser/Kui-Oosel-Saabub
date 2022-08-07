@@ -209,25 +209,25 @@
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 8100
     }

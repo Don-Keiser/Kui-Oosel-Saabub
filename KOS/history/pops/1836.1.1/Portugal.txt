@@ -84,29 +84,34 @@
     }
 
     clergymen = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 1500
     }
 
     artisans = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 7250
     }
 
     soldiers = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 1500
     }
 
     farmers = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
-        size = 86500
+        size = 92000
     }
 
+    farmers = {
+        culture = toletzianu
+        religion = roman_catholic
+        size = 4800
+    }
 }
 #Beira-Estremadura Region (1060000)
 #Lisbon (348000/87000 POPS)
@@ -130,27 +135,33 @@
     }
 
     clergymen = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 1100
     }
 
     artisans = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 8500
     }
 
     soldiers = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 3000
     }
 
     farmers = {
+        culture = ulisianu
+        religion = roman_catholic
+        size = 47000
+    }
+	
+    farmers = {
         culture = ispannu
         religion = roman_catholic
-        size = 48500
+        size = 3500
     }
 }
 #Coimbra (460000/115000 POPS)
@@ -162,33 +173,39 @@
     }
 
     clergymen = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 600
     }
 
     artisans = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 5000
     }
 
     artisans = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 400
     }
 
     soldiers = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 1000
     }
 
     farmers = {
+        culture = ulisianu
+        religion = roman_catholic
+        size = 69000
+    }
+	
+    farmers = {
         culture = ispannu
         religion = roman_catholic
-        size = 70400
+        size = 2500
     }
 }
 3473 = {
@@ -199,33 +216,39 @@
     }
 
     clergymen = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 600
     }
 
     artisans = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 5000
     }
 
     artisans = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 400
     }
 
     soldiers = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 1000
     }
 
     farmers = {
+        culture = ulisianu
+        religion = roman_catholic
+        size = 30000
+    }
+	
+    farmers = {
         culture = ispannu
         religion = roman_catholic
-        size = 29400
+        size = 1000
     }
 }
 #Abrantes (140000/35000 POPS)
@@ -237,27 +260,33 @@
     }
 
     clergymen = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 350
     }
 
     artisans = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 2250
     }
 
     soldiers = {
-        culture = ispannu
+        culture = ulisianu
         religion = roman_catholic
         size = 400
     }
 
     farmers = {
+        culture = ulisianu
+        religion = roman_catholic
+        size = 40000
+    }
+	
+    farmers = {
         culture = ispannu
         religion = roman_catholic
-        size = 41550
+        size = 4000
     }
 }
 #Setubal (112000/28000 POPS)
@@ -289,9 +318,14 @@
     farmers = {
         culture = ispannu
         religion = roman_catholic
-        size = 42800
+        size = 39000
     }
-
+	
+    farmers = {
+        culture = ulisianu
+        religion = roman_catholic
+        size = 5000
+    }
 }
 #Alentejo-Algarve Region (372000)
 #Evora (156000/39000 POPS)
@@ -335,7 +369,13 @@
     farmers = {
         culture = ispannu
         religion = roman_catholic
-        size = 44250
+        size = 30000
+    }
+	
+    farmers = {
+        culture = ulisianu
+        religion = roman_catholic
+        size = 15000
     }
 }
 #Beja (96000/24000 POPS)

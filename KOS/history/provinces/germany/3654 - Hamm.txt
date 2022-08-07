@@ -1,6 +1,5 @@
-owner = SAX
-controller = SAX
-add_core = SAX
+owner = JOD
+controller = JOD
+add_core = JOD
 trade_goods = grain
 life_rating = 35
-1861.1.1 = { railroad = 3 }

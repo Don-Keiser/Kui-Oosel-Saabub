@@ -1,7 +1,5 @@
-owner = CYP
-controller = CYP
-add_core = CYP
-add_core = GRE
-trade_goods = fish
-life_rating = 35
-naval_base = 1
+owner = REG
+controller = REG
+add_core = REG
+trade_goods = wool
+life_rating = 30

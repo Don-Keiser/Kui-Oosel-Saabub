@@ -136,42 +136,6 @@ vassal = {
     end_date = 1848.12.12
 }
 
-#Afghanistan
-vassal = {
-    first = AFG
-    second = KND
-    start_date = 1815.1.1
-    end_date = 1848.12.12
-}
-
-vassal = {
-    first = AFG
-    second = KSN
-    start_date = 1815.1.1
-    end_date = 1848.12.12
-}
-
-vassal = {
-    first = AFG
-    second = HNZ
-    start_date = 1815.1.1
-    end_date = 1848.12.12
-}
-
-vassal = {
-    first = AFG
-    second = CRL
-    start_date = 1815.1.1
-    end_date = 1848.12.12
-}
-
-vassal = {
-    first = AFG
-    second = MYN
-    start_date = 1815.1.1
-    end_date = 1848.12.12
-}
-
 #Kunduz
 vassal = {
     first = KUN
@@ -445,56 +409,6 @@ substate = {
 	end_date = 1937.1.1
 }
 
-#Armenian Empire
-substate = {
-	first = ARM
-	second = DJK
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-substate = {
-	first = ARM
-	second = MKN
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-vassal = {
-	first = ARM
-	second = BHT
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-vassal = {
-	first = ARM
-	second = CLC
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-vassal = {
-	first = ARM
-	second = KHA
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-vassal = {
-	first = ARM
-	second = GEO
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-vassal = {
-	first = ARM
-	second = ABK
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-vassal = {
-	first = ARM
-	second = CYP
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
 #Albania
 substate = {
 	first = ALB
@@ -597,28 +511,6 @@ vassal = {
 vassal = {
     first = MEX
     second = ELS
-    start_date = 1814.11.1
-    end_date = 1936.1.1
-}
-
-#White Huns
-vassal = {
-    first = WHU
-    second = SHH
-    start_date = 1814.11.1
-    end_date = 1936.1.1
-}
-
-vassal = {
-    first = WHU
-    second = HRT
-    start_date = 1814.11.1
-    end_date = 1936.1.1
-}
-
-vassal = {
-    first = WHU
-    second = KHR
     start_date = 1814.11.1
     end_date = 1936.1.1
 }

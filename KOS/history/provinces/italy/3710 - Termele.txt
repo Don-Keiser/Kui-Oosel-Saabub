@@ -2,5 +2,6 @@ owner = ATE
 controller = ATE
 add_core = ATE
 add_core = RMG
+add_core = ITA
 trade_goods = timber
 life_rating = 35

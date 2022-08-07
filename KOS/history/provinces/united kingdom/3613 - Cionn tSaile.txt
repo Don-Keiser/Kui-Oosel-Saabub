@@ -1,5 +1,5 @@
-owner = IRE
-controller = IRE
-add_core = IRE
-trade_goods = fish
+owner = KDS
+controller = KDS
+add_core = KDS
+trade_goods = grain
 life_rating = 35

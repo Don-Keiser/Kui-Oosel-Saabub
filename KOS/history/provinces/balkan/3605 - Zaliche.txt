@@ -1,5 +1,5 @@
-owner = PNT
-controller = PNT
-add_core = PNT
+owner = CUM
+controller = CUM
+add_core = CUM
 trade_goods = fish
 life_rating = 35

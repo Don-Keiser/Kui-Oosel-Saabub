@@ -11,7 +11,7 @@
     artisans = {
         culture = csangok
         religion = roman_catholic
-        size = 400
+        size = 4000
     }
 
     soldiers = {
@@ -23,31 +23,7 @@
     farmers = {
         culture = csangok
         religion = roman_catholic
-        size = 9425
-    }
-
-    clergymen = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 19600
+        size = 20000
     }
 
     aristocrats = {
@@ -71,25 +47,25 @@
     clergymen = {
         culture = vizselyi
         religion = roman_catholic
-        size = 100
+        size = 300
     }
 
     artisans = {
         culture = vizselyi
         religion = roman_catholic
-        size = 300
+        size = 1500
     }
 
     soldiers = {
         culture = vizselyi
         religion = roman_catholic
-        size = 100
+        size = 500
     }
 
     farmers = {
         culture = vizselyi
         religion = roman_catholic
-        size = 3810
+        size = 14000
     }
 
     bureaucrats = {
@@ -3858,19 +3834,19 @@
     aristocrats = {
         culture = volgmyi
         religion = roman_catholic
-        size = 800
+        size = 900
     }
 
     clergymen = {
         culture = volgmyi
         religion = roman_catholic
-        size = 1000
+        size = 1200
     }
 
     artisans = {
         culture = volgmyi
         religion = roman_catholic
-        size = 3200
+        size = 4300
     }
 
     soldiers = {
@@ -3882,36 +3858,12 @@
     farmers = {
         culture = volgmyi
         religion = roman_catholic
-        size = 35000
+        size = 33000
     }
 
     farmers = {
         culture = etelkozi
         religion = roman_catholic
         size = 2500
-    }
-
-    aristocrats = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 850
-    }
-
-    farmers = {
-        culture = bastarnae
-        religion = roman_catholic
-        size = 8500
     }
 }

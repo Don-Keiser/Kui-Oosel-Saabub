@@ -1,8 +1,6 @@
-owner = KHT
-controller = KHT
-add_core = PER
-add_core = KHT
-add_core = KHR
+owner = TKM
+controller = TKM
+add_core = TKM
 trade_goods = dye
 life_rating = 35
 terrain = semi_desert_mountains

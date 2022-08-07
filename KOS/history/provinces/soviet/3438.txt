@@ -1,5 +1,4 @@
-owner = BSP
-controller = BSP
-add_core = BSP
-trade_goods = cattle
-life_rating = 35
+trade_goods = wool
+terrain = desert
+life_rating = 25
+colonial = 2

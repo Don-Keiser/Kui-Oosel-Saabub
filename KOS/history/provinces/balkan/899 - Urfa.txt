@@ -1,5 +1,5 @@
-owner = BHT
-controller = BHT
-add_core = BHT
+owner = SYR
+controller = SYR
+add_core = SYR
 trade_goods = grain
 life_rating = 35

@@ -3,25 +3,25 @@
 #Riga (220000/55000 POPS)
 354 = {
     clergymen = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 325
     }
 
     artisans = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 1500
     }
 
     soldiers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 2400
     }
 
     farmers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 24775
     }
@@ -113,25 +113,25 @@
 #Valmeira (516000/129000 POPS)
 355 = {
     clergymen = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 1100
     }
 
     artisans = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 3350
     }
 
     soldiers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 2150
     }
 
     farmers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 112375
     }
@@ -223,25 +223,25 @@
 }
 3424 = {
     clergymen = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 1100
     }
 
     artisans = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 3350
     }
 
     soldiers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 2150
     }
 
     farmers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 21237
     }
@@ -334,25 +334,25 @@
 #Daugavpils (136000/34000 POPS)
 356 = {
     clergymen = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 175
     }
 
     artisans = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 650
     }
 
     soldiers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 250
     }
 
     farmers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 29800
     }
@@ -382,37 +382,37 @@
     }
 
     aristocrats = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     clergymen = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     artisans = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     soldiers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 5050
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 6850
     }
@@ -450,31 +450,31 @@
     }
 
     farmers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 2000
     }
 
     aristocrats = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 1150
     }
 
     clergymen = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 200
     }
 
     artisans = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 200
     }

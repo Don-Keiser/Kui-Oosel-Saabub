@@ -3801,7 +3801,7 @@
     }
 
     clergymen = {
-        culture = thraikes
+        culture = chichimec
         religion = roman_catholic
         size = 175
     }

@@ -1,5 +1,5 @@
-owner = GRE
-controller = GRE
-add_core = GRE
-trade_goods = wool
+owner = BER
+controller = BER
+add_core = BER
+trade_goods = fish
 life_rating = 35

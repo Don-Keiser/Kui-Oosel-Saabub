@@ -2,88 +2,83 @@
 #Trondheim (140000/35000 POPS)
 305 = {
     aristocrats = {
-        culture = sami
-        religion = animist
-        size = 300
+        culture = norwegian
+        religion = african_catholic
+        size = 600
     }
 
     bureaucrats = {
-        culture = sami
-        religion = animist
-        size = 300
+        culture = norwegian
+        religion = african_catholic
+        size = 150
     }
 
     officers = {
-        culture = sami
-        religion = animist
+        culture = norwegian
+        religion = african_catholic
         size = 50
     }
 
     clergymen = {
-        culture = sami
-        religion = animist
-        size = 150
+        culture = norwegian
+        religion = african_catholic
+        size = 560
     }
 
     artisans = {
-        culture = sami
-        religion = animist
-        size = 3250
+        culture = norwegian
+        religion = african_catholic
+        size = 5600
     }
 
     soldiers = {
-        culture = sami
-        religion = animist
+        culture = norwegian
+        religion = african_catholic
         size = 2000
     }
 
     farmers = {
-        culture = sami
-        religion = animist
-        size = 20000
-    }
-    farmers = {
         culture = norwegian
         religion = african_catholic
-        size = 11250
+        size = 45000
     }
 }
 #Bodo (56000/14000 POPS)
 306 = {
     clergymen = {
-        culture = sami
-        religion = animist
-        size = 50
+        culture = norwegian
+        religion = african_catholic
+        size = 150
     }
 
     aristocrats = {
-        culture = sami
-        religion = animist
-        size = 100
+        culture = norwegian
+        religion = african_catholic
+        size = 300
     }
 
     artisans = {
-        culture = sami
-        religion = animist
-        size = 750
+        culture = norwegian
+        religion = african_catholic
+        size = 2100
     }
 
     soldiers = {
-        culture = sami
-        religion = animist
-        size = 100
+        culture = norwegian
+        religion = african_catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = norwegian
+        religion = african_catholic
+        size = 20000
     }
 
     farmers = {
         culture = sami
         religion = animist
-        size = 13100
-    }
-
-    farmers = {
-        culture = sami
-        religion = animist
-        size = 7050
+        size = 4050
     }
 }
 #Hammerfest (36000/9000 POPS)
@@ -129,33 +124,57 @@
 #Alesund (72000/18000 POPS)
 308 = {
     aristocrats = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 200
+        size = 800
     }
 
     clergymen = {
+        culture = skansk
+        religion = african_catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = skansk
+        religion = african_catholic
+        size = 1200
+    }
+
+    soldiers = {
+        culture = skansk
+        religion = african_catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = skansk
+        religion = african_catholic
+        size = 9900
+    }
+	
+    clergymen = {
         culture = norwegian
         religion = african_catholic
-        size = 75
+        size = 180
     }
 
     artisans = {
         culture = norwegian
         religion = african_catholic
-        size = 1100
+        size = 3600
     }
 
     soldiers = {
         culture = norwegian
         religion = african_catholic
-        size = 100
+        size = 800
     }
 
     farmers = {
         culture = norwegian
         religion = african_catholic
-        size = 17825
+        size = 18000
     }
 
 }
@@ -170,19 +189,19 @@
     }
 	
 	aristocrats = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 500
     }
 
     officers = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 100
     }
@@ -200,7 +219,7 @@
     }
 	
 	artisans = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 1300
     }
@@ -212,7 +231,7 @@
     }
 	
 	soldiers = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 1000
     }
@@ -220,83 +239,107 @@
     farmers = {
         culture = norwegian
         religion = african_catholic
-        size = 34200
+        size = 30200
     }
 	
 	farmers = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
-        size = 4200
+        size = 8200
     }
 }
 #Stavanger (82000/20500 POPS)
 3490 = {
     aristocrats = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 200
-    }
-	
-	aristocrats = {
-        culture = danish
-        religion = african_catholic
-        size = 100
+        size = 450
     }
 
     clergymen = {
+        culture = skansk
+        religion = african_catholic
+        size = 450
+    }
+
+    artisans = {
+        culture = skansk
+        religion = african_catholic
+        size = 3200
+    }
+
+    soldiers = {
+        culture = skansk
+        religion = african_catholic
+        size = 3600
+    }
+
+    farmers = {
+        culture = skansk
+        religion = african_catholic
+        size = 23000
+    }
+	
+    clergymen = {
         culture = norwegian
         religion = african_catholic
-        size = 90
+        size = 230
     }
 
     artisans = {
         culture = norwegian
         religion = african_catholic
-        size = 900
-    }
-
-    soldiers = {
-        culture = norwegian
-        religion = african_catholic
-        size = 1000
+        size = 1900
     }
 	
 	soldiers = {
-        culture = danish
-        religion = african_catholic
-        size = 2000
-    }
-
-    farmers = {
-        culture = norwegian
-        religion = african_catholic
-        size = 15500
-    }
-	
-	farmers = {
-        culture = danish
-        religion = african_catholic
-        size = 2500
-    }
-}
-#Christiansand (82000/20500 POPS)
-310 = {
-    aristocrats = {
         culture = norwegian
         religion = african_catholic
         size = 200
     }
 	
-	aristocrats = {
-        culture = danish
+	farmers = {
+        culture = norwegian
         religion = african_catholic
-        size = 100
+        size = 18000
+    }
+}
+#Christiansand (82000/20500 POPS)
+310 = {
+    aristocrats = {
+        culture = skansk
+        religion = african_catholic
+        size = 300
     }
 
     clergymen = {
+        culture = skansk
+        religion = african_catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = skansk
+        religion = african_catholic
+        size = 5100
+    }
+
+    soldiers = {
+        culture = skansk
+        religion = african_catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = skansk
+        religion = african_catholic
+        size = 28000
+    }
+	
+    clergymen = {
         culture = norwegian
         religion = african_catholic
-        size = 90
+        size = 75
     }
 
     artisans = {
@@ -308,83 +351,77 @@
     soldiers = {
         culture = norwegian
         religion = african_catholic
-        size = 2000
-    }
-	
-	soldiers = {
-        culture = danish
-        religion = african_catholic
-        size = 1000
+        size = 100
     }
 
     farmers = {
         culture = norwegian
         religion = african_catholic
-        size = 19500
+        size = 6500
     }
 }
 #Skien (68000/17000 POPS)
 311 = {
     aristocrats = {
-        culture = norwegian
-        religion = african_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = norwegian
-        religion = african_catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = norwegian
-        religion = african_catholic
-        size = 750
-    }
-
-    soldiers = {
-        culture = norwegian
-        religion = african_catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = norwegian
-        religion = african_catholic
-        size = 17075
-    }
-}
-#Drammen (132000/33000 POPS)
-312 = {
-    aristocrats = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
         size = 300
     }
 
     clergymen = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 125
+        size = 450
     }
 
     artisans = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 2000
+        size = 3750
     }
 
     soldiers = {
-        culture = norwegian
+        culture = skansk
+        religion = african_catholic
+        size = 1300
+    }
+
+    farmers = {
+        culture = skansk
+        religion = african_catholic
+        size = 22000
+    }
+}
+#Drammen (132000/33000 POPS)
+312 = {
+    aristocrats = {
+        culture = skansk
+        religion = african_catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = skansk
+        religion = african_catholic
+        size = 600
+    }
+
+    artisans = {
+        culture = skansk
+        religion = african_catholic
+        size = 6000
+    }
+
+    soldiers = {
+        culture = skansk
         religion = african_catholic
         size = 5000
     }
 
     farmers = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 27375
+        size = 32000
     }
 
 }
@@ -392,87 +429,63 @@
 #Christiania (108000/27000 POPS)
 313 = {
     aristocrats = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 300
-    }
-	
-	aristocrats = {
-        culture = danish
-        religion = african_catholic
-        size = 800
+        size = 900
     }
 
     bureaucrats = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 200
+        size = 500
     }
 	
-	bureaucrats = {
-        culture = danish
+    capitalists = {
+        culture = skansk
         religion = african_catholic
-        size = 300
+        size = 25
     }
 
     officers = {
-        culture = danish
+        culture = skansk
         religion = african_catholic
         size = 100
     }
 
     clergymen = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
         size = 125
     }
 	
 	craftsmen = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
         size = 3800
     }
 	
     clerks = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
         size = 200
     }
 
     artisans = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 6500
-    }
-	
-	artisans = {
-        culture = danish
-        religion = african_catholic
-        size = 1200
+        size = 10000
     }
 
     soldiers = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 4000
-    }
-	
-	soldiers = {
-        culture = danish
-        religion = african_catholic
-        size = 2000
+        size = 6000
     }
 
     farmers = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 15275
-    }
-
-    capitalists = {
-        culture = danish
-        religion = african_catholic
-        size = 5
+        size = 35000
     }
 }
 #Hamar (80000/20000 POPS)
@@ -480,9 +493,65 @@
     aristocrats = {
         culture = norwegian
         religion = african_catholic
-        size = 200
+        size = 400
     }
 
+    clergymen = {
+        culture = norwegian
+        religion = african_catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = norwegian
+        religion = african_catholic
+        size = 3200
+    }
+
+    soldiers = {
+        culture = norwegian
+        religion = african_catholic
+        size = 850
+    }
+
+    farmers = {
+        culture = norwegian
+        religion = african_catholic
+        size = 23000
+    }
+}
+#Lillehammer (96000/24000 POPS)
+315 = {
+    aristocrats = {
+        culture = skansk
+        religion = african_catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = skansk
+        religion = african_catholic
+        size = 360
+    }
+
+    artisans = {
+        culture = skansk
+        religion = african_catholic
+        size = 5000
+    }
+
+    soldiers = {
+        culture = skansk
+        religion = african_catholic
+        size = 2600
+    }
+
+    farmers = {
+        culture = skansk
+        religion = african_catholic
+        size = 35000
+    }
+	
     clergymen = {
         culture = norwegian
         religion = african_catholic
@@ -492,39 +561,7 @@
     artisans = {
         culture = norwegian
         religion = african_catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = norwegian
-        religion = african_catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = norwegian
-        religion = african_catholic
-        size = 19750
-    }
-}
-#Lillehammer (96000/24000 POPS)
-315 = {
-    aristocrats = {
-        culture = norwegian
-        religion = african_catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = norwegian
-        religion = african_catholic
-        size = 125
-    }
-
-    artisans = {
-        culture = norwegian
-        religion = african_catholic
-        size = 1250
+        size = 1200
     }
 
     soldiers = {
@@ -536,51 +573,57 @@
     farmers = {
         culture = norwegian
         religion = african_catholic
-        size = 23425
+        size = 11000
+    }
+	
+    farmers = {
+        culture = gotish
+        religion = african_catholic
+        size = 3500
     }
 }
 #Frederiksstad (68000/17000 POPS)
 316 = {
     aristocrats = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
-        size = 150
-    }
-
-    clergymen = {
-        culture = norwegian
-        religion = african_catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = norwegian
-        religion = african_catholic
-        size = 750
-    }
-
-    soldiers = {
-        culture = norwegian
-        religion = african_catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = norwegian
-        religion = african_catholic
-        size = 16025
-    }
-
-    craftsmen = {
-        culture = norwegian
-        religion = african_catholic
-        size = 3800
+        size = 500
     }
 	
     clerks = {
-        culture = norwegian
+        culture = skansk
         religion = african_catholic
         size = 200
+    }
+	
+    craftsmen = {
+        culture = skansk
+        religion = african_catholic
+        size = 3800
+    }
+
+    clergymen = {
+        culture = skansk
+        religion = african_catholic
+        size = 650
+    }
+
+    artisans = {
+        culture = skansk
+        religion = african_catholic
+        size = 8750
+    }
+
+    soldiers = {
+        culture = skansk
+        religion = african_catholic
+        size = 1800
+    }
+
+    farmers = {
+        culture = skansk
+        religion = african_catholic
+        size = 21000
     }
 
 }

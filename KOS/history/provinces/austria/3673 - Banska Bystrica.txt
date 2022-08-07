@@ -1,6 +1,5 @@
-owner = HUN
-controller = HUN
-add_core = SLV
-add_core = HUN
+owner = BER
+controller = BER
+add_core = BER
 trade_goods = wool
 life_rating = 35

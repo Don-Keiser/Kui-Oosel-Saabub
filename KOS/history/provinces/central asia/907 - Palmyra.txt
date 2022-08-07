@@ -1,5 +1,5 @@
-owner = SYR
-controller = SYR
-add_core = SYR
+owner = AZH
+controller = AZH
+add_core = AZH
 trade_goods = wool
 life_rating = 20

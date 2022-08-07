@@ -1,6 +1,6 @@
-owner = LOR
-controller = LOR
-add_core = LOR
+owner = PAL
+controller = PAL
+add_core = PAL
 trade_goods = fruit
 life_rating = 40
 1861.1.1 = { railroad = 3 }

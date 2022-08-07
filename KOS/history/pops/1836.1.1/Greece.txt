@@ -86,6 +86,12 @@
         religion = thessalonian_orthodox
         size = 45000
     }
+	
+    farmers = {
+        culture = red_croat
+        religion = thessalonian_orthodox
+        size = 3000
+    }
 }
 #Polygyros (100000/25000 POPS) #now part of Greece
 822 = {
@@ -122,81 +128,81 @@
 #Kavala (160000/40000 POPS) #now part of Greece
 823 = {
     aristocrats = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
         size = 400
     }
 
     bureaucrats = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
         size = 100
     }
 
     officers = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
         size = 150
     }
 
     clergymen = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
         size = 125
     }
 
     artisans = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
         size = 1200
     }
 
     soldiers = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
         size = 400
     }
 
     farmers = {
-        culture = thraikes
+        culture = rughan
         religion = thessalonian_orthodox
         size = 2525
     }
 
     aristocrats = {
-        culture = thracian
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 125
     }
 
     officers = {
-        culture = thracian
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 125
     }
 
     clergymen = {
-        culture = thracian
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 200
     }
 
     soldiers = {
-        culture = thracian
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 400
     }
 
     artisans = {
-        culture = thracian
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 300
     }
 
     farmers = {
-        culture = thracian
+        culture = red_croat
         religion = thessalonian_orthodox
-        size = 28000
+        size = 48000
     }
 
     aristocrats = {
@@ -232,29 +238,35 @@
     farmers = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 23175
+        size = 19000
     }
 }
 #Monastir Region (384000) #see Greece.txt for balance of region
 #under the rule of Ottoman Empire in 1836
 #Florina (116000/29000 POPS) #now part of Greece
 819 = {
+    aristocrats = {
+        culture = makedones
+        religion = thessalonian_orthodox
+        size = 475
+    }
+	
     clergymen = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 500
+        size = 600
     }
 
     artisans = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 500
+        size = 2800
     }
 
     soldiers = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 800
+        size = 1400
     }
 
     farmers = {
@@ -262,91 +274,43 @@
         religion = thessalonian_orthodox
         size = 36000
     }
-
-    aristocrats = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 475
-    }
-
-    clergymen = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 800
-    }
-
-    soldiers = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 300
-    }
-
+	
     farmers = {
-        culture = greek
+        culture = red_croat
         religion = thessalonian_orthodox
-        size = 2325
+        size = 6500
     }
 }
 #Grevena (140000/35000 POPS) #now part of Greece
 820 = {
-    clergymen = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 300
-    }
-
-    artisans = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 850
-    }
-
-    soldiers = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 300
-    }
-
-    farmers = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 40550
-    }
-
     aristocrats = {
         culture = makedones
         religion = thessalonian_orthodox
         size = 350
     }
-
+	
     clergymen = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 100
+        size = 300
     }
 
     artisans = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 900
+        size = 2800
     }
 
     soldiers = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 350
+        size = 850
     }
 
     farmers = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 1400
+        size = 44000
     }
 }
 #Edessa (128000/32000 POPS) #now part of Greece
@@ -354,55 +318,25 @@
     clergymen = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 225
+        size = 600
     }
 
     artisans = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 650
+        size = 3600
     }
 
     soldiers = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 500
+        size = 2100
     }
 
     farmers = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 33125
-    }
-	
-    aristocrats = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 750
-    }
-
-    clergymen = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 300
-    }
-
-    artisans = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 1100
-    }
-
-    soldiers = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 700
-    }
-
-    farmers = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 8800
+        size = 43000
     }
 }
 #Epirus Region (724000) #see Albania.txt for balance of region
@@ -410,124 +344,100 @@
 #Janina (504000/126000 POPS)
 824 = {
     aristocrats = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 2800
     }
 
     bureaucrats = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 125
     }
 
     officers = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 250
     }
 
     clergymen = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
-        size = 400
+        size = 1200
     }
 
     artisans = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
-        size = 1900
+        size = 3200
     }
 
     soldiers = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
-        size = 1300
+        size = 4500
     }
 
     farmers = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
-        size = 23000
-    }
-
-    clergymen = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 750
-    }
-
-    artisans = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 800
-    }
-
-    soldiers = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 2250
-    }
-	
-	farmers = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 52000
+        size = 75000
     }
 }
 3306 = {
     aristocrats = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
         size = 125
     }
 
     bureaucrats = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
         size = 125
     }
 
     officers = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
         size = 250
     }
 
     clergymen = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
         size = 1100
     }
 
     artisans = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
         size = 1700
     }
 
     soldiers = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
         size = 3500
     }
 
     farmers = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
-        size = 60000
+        size = 65000
     }
 
     artisans = {
-        culture = tosk
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 250
+        size = 1200
     }
 
     farmers = {
-        culture = tosk
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 1560
+        size = 7000
     }
 }
 #Arta (220000/55000 POPS)
@@ -547,7 +457,7 @@
     artisans = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 675
+        size = 1800
     }
 
     soldiers = {
@@ -559,37 +469,31 @@
     farmers = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 20000
+        size = 39000
     }
 
     clergymen = {
-        culture = thraikes
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 425
     }
 
     artisans = {
-        culture = thraikes
+        culture = red_croat
         religion = thessalonian_orthodox
-        size = 2150
+        size = 1200
     }
 
     soldiers = {
-        culture = thraikes
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 425
     }
 	
     farmers = {
-        culture = thraikes
+        culture = red_croat
         religion = thessalonian_orthodox
-        size = 22500
-    }
-	
-	farmers = {
-        culture = thracian
-        religion = thessalonian_orthodox
-        size = 8500
+        size = 12500
     }
 }
 #Ionian Islands Region (188000)
@@ -597,73 +501,73 @@
 #Corfu (112200/28000 POPS)
 826 = {
     aristocrats = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 475
     }
 
     bureaucrats = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 75
     }
 
     officers = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 25
     }
 
     clergymen = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 2436
     }
 
     soldiers = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 1275
     }
 
     farmers = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 10157
     }
 
     aristocrats = {
-        culture = greek
+        culture = albanian
         religion = roman_catholic
         size = 150
     }
 
     soldiers = {
-        culture = greek
+        culture = albanian
         religion = roman_catholic
         size = 150
     }
 
     clergymen = {
-        culture = greek
+        culture = albanian
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = albanian
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = greek
+        culture = albanian
         religion = roman_catholic
         size = 3200
     }
@@ -671,31 +575,31 @@
 #Zante (76000/19000 POPS)
 827 = {
     aristocrats = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 300
     }
 
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 6700
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 1280
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 25138
     }
@@ -704,114 +608,114 @@
 #under the rule of Ottoman Empire in 1836
 #Xanthe (72000/18000 POPS)
 829 = {
-    aristocrats = {
-        culture = thraikes
-        religion = thessalonian_orthodox
-        size = 425
-    }
-
     clergymen = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
         size = 400
     }
 
     artisans = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
         size = 1900
     }
 
     soldiers = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 3500
+        size = 500
     }
 
     farmers = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 18350
+        size = 8500
+    }
+
+    aristocrats = {
+        culture = bulgar_tatar
+        religion = thessalonian_orthodox
+        size = 425
     }
 
     soldiers = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 300
+        size = 3300
     }
 
     clergymen = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 300
     }
 
     artisans = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 300
+        size = 4300
     }
 
     farmers = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 27000
+        size = 37000
     }
 }
 
 3304 = {
     aristocrats = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 425
     }
 
     clergymen = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 500
     }
 
     artisans = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 1800
+        size = 4800
     }
 
     soldiers = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
-        size = 3500
+        size = 2500
     }
 
     farmers = {
-        culture = thracian
+        culture = bulgar_tatar
         religion = thessalonian_orthodox
         size = 39000
     }
 
     soldiers = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
         size = 400
     }
 
     clergymen = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
         size = 200
     }
 
     artisans = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
         size = 450
     }
 
     farmers = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 5350
+        size = 5500
     }
 }
 #Thessaly Region (408000)
@@ -819,45 +723,21 @@
 #Larisa (140000/35000 POPS)
 831 = {
     aristocrats = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
         size = 600
     }
 
     bureaucrats = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
         size = 150
     }
 
     officers = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
         size = 100
-    }
-
-    clergymen = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 750
-    }
-
-    soldiers = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 350
-    }
-	
-    farmers = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 38000
     }
 
     clergymen = {
@@ -869,81 +749,105 @@
     artisans = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 650
+        size = 3600
     }
 
     soldiers = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 350
+        size = 1200
     }
 	
     farmers = {
         culture = makedones
         religion = thessalonian_orthodox
-        size = 10650
+        size = 58000
     }
 }
 #Volos (224000/56000 POPS)
 832 = {
     aristocrats = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
         size = 2100
     }
 
     clergymen = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 550
+        size = 600
     }
 
     artisans = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 2300
+        size = 3800
     }
 
     soldiers = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 1400
+        size = 2000
     }
 
     farmers = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 60000
+        size = 50000
+    }
+	
+    clergymen = {
+        culture = moreote
+        religion = thessalonian_orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = moreote
+        religion = thessalonian_orthodox
+        size = 1000
+    }
+
+    soldiers = {
+        culture = moreote
+        religion = thessalonian_orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = moreote
+        religion = thessalonian_orthodox
+        size = 10000
     }
 }
 #Trikala (44000/11000 POPS)
 833 = {
     aristocrats = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
         size = 200
     }
 
     clergymen = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
         size = 200
     }
 
     artisans = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
         size = 600
     }
 
     soldiers = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
         size = 500
     }
 
     farmers = {
-        culture = greek
+        culture = makedones
         religion = thessalonian_orthodox
         size = 41000
     }
@@ -953,80 +857,92 @@
 #Athens (308000/77000 POPS)
 834 = {
     aristocrats = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 500
     }
     bureaucrats = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 850
     }
 
     officers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 200
     }
 
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 775
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
-        size = 1000
+        size = 2300
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 2100
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 40175
     }
 
-    artisans = {
-        culture = albanian
+    clergymen = {
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 250
+        size = 200
+    }
+
+    artisans = {
+        culture = makedones
+        religion = thessalonian_orthodox
+        size = 1200
+    }
+
+    soldiers = {
+        culture = makedones
+        religion = thessalonian_orthodox
+        size = 800
     }
 
     farmers = {
-        culture = albanian
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 1075
+        size = 5000
     }
 }
 #Amfissa (76000/19000 POPS)
 835 = {
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 150
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 500
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 400
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 10050
     }
@@ -1034,25 +950,25 @@
 #Lamia (44000/11000 POPS)
 836 = {
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 500
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 400
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 9200
     }
@@ -1060,63 +976,69 @@
 #Missolonghi (140000/35000 POPS)
 837 = {
     aristocrats = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
         size = 1800
     }
 
     officers = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
         size = 50
     }
 
     clergymen = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
         size = 350
     }
 
     artisans = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
         size = 350
     }
 
     soldiers = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
         size = 1100
     }
 
     farmers = {
-        culture = greek
+        culture = epirote
         religion = thessalonian_orthodox
-        size = 39150
+        size = 22000
+    }
+	
+    farmers = {
+        culture = moreote
+        religion = thessalonian_orthodox
+        size = 18000
     }
 }
 #Khalkis (68000/17000 POPS)
 838 = {
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 150
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 350
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 500
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 9100
     }
@@ -1126,31 +1048,31 @@
 #Nafplion (72000/18000 POPS)
 839 = {
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 170
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 300
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 500
     }
 
     soldiers = {
-        culture = tosk
+        culture = albanian
         religion = roman_catholic
         size = 600
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 5070
     }
@@ -1170,25 +1092,25 @@
 #Corinth (40000/10000 POPS)
 840 = {
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 500
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 400
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 9100
     }
@@ -1208,25 +1130,25 @@
 #Kalamai (68000/17000 POPS)
 841 = {
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 150
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 350
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 400
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 9000
     }
@@ -1234,43 +1156,43 @@
 #Patrai (40000/10000 POPS)
 842 = {
     aristocrats = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 1100
     }
 
     bureaucrats = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 100
     }
 
     officers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 60
     }
 
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 400
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 1100
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 41000
     }
@@ -1280,31 +1202,31 @@
 #Cyclades (40000/10000 POPS)
 845 = {
     bureaucrats = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 50
     }
 
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 700
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 5600
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 1500
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 22000
     }
@@ -1358,31 +1280,31 @@
 #Mytilene (44000/11000 POPS)
 844 = {
     aristocrats = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
         size = 100
     }
 
     clergymen = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
         size = 220
     }
 
     artisans = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
         size = 800
     }
 
     soldiers = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
         size = 400
     }
 
     farmers = {
-        culture = thraikes
+        culture = makedones
         religion = thessalonian_orthodox
         size = 10000
     }
@@ -1534,31 +1456,31 @@
 #Kythira (32000/8000 POPS)
 3586 = {
     aristocrats = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 75
     }
 
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 100
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 100
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 1675
     }
@@ -1626,31 +1548,31 @@
 #Sporadhes (32000/8000 POPS)
 3589 = {
     aristocrats = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 75
     }
 
     clergymen = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 320
     }
 
     artisans = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 400
     }
 
     soldiers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 300
     }
 
     farmers = {
-        culture = greek
+        culture = moreote
         religion = thessalonian_orthodox
         size = 4800
     }
@@ -1693,57 +1615,57 @@
 #Gumenice (32000/8000 POPS)
 3602 = {
     aristocrats = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 75
     }
 
     clergymen = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 1500
     }
 
     soldiers = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
         size = 1000
     }
 
     farmers = {
-        culture = tosk
+        culture = epirote
         religion = thessalonian_orthodox
-        size = 33675
-    }
-
-    soldiers = {
-        culture = greek
-        religion = thessalonian_orthodox
-        size = 150
+        size = 36000
     }
 
     clergymen = {
-        culture = greek
+        culture = albanian
         religion = thessalonian_orthodox
         size = 120
     }
 
     artisans = {
-        culture = greek
+        culture = albanian
         religion = thessalonian_orthodox
         size = 250
     }
 
-    farmers = {
-        culture = greek
+    soldiers = {
+        culture = albanian
         religion = thessalonian_orthodox
-        size = 8900
+        size = 150
+    }
+
+    farmers = {
+        culture = albanian
+        religion = thessalonian_orthodox
+        size = 700
     }
 
 }

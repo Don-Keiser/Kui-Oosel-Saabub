@@ -1,6 +1,6 @@
-owner = KHR
-controller = KHR
-add_core = KHR
+owner = SIS
+controller = SIS
+add_core = SIS
 trade_goods = wool
 terrain = desert
 life_rating = 25

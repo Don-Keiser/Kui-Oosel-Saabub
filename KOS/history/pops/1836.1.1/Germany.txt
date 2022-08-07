@@ -2265,7 +2265,13 @@
     farmers = {
         culture = dieringisch
         religion = roman_catholic
-        size = 47350
+        size = 45000
+    }
+	
+    farmers = {
+        culture = thuringia_gothic
+        religion = roman_catholic
+        size = 2350
     }
 }
 #Hesse Region (1719600)
@@ -4243,13 +4249,19 @@
     farmers = {
         culture = dieringisch
         religion = roman_catholic
-        size = 50000
+        size = 48000
     }
 	
     farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 16000
+        size = 14000
+    }
+	
+    farmers = {
+        culture = thuringia_gothic
+        religion = roman_catholic
+        size = 4000
     }
 }
 #Bayreuth (536000/134000 POPS)

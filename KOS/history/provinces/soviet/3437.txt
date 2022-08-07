@@ -1,5 +1,5 @@
-owner = BSP
-controller = BSP
-add_core = BSP
-trade_goods = cattle
+owner = REG
+controller = REG
+add_core = REG
+trade_goods = grain
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = TAR
-controller = TAR
-add_core = TAR
+owner = CUM
+controller = CUM
+add_core = CUM
 trade_goods = wool
 life_rating = 35

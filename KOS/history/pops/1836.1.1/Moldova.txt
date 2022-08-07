@@ -3,177 +3,153 @@
 #Chisinau (332000/83000 POPS)
 676 = {
     aristocrats = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 1000
     }
 
     officers = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 1700
     }
 
     artisans = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 5000
     }
 
     soldiers = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 8750
     }
 
     farmers = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
-        size = 65750
-    }
-	
-    farmers = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 3600
-    }
-
-    farmers = {
-        culture = costoboci
-        religion = roman_catholic
-        size = 2100
+        size = 74000
     }
 }
 #Balti (320000/80000 POPS)
 677 = {
     aristocrats = {
-        culture = beceneg
+        culture = rughan
         religion = thessalonian_orthodox
         size = 3000
     }
 	
 	officers = {
-		culture = beceneg
+		culture = rughan
 		religion = thessalonian_orthodox
 		size = 300
 	}
 
     clergymen = {
-        culture = beceneg
+        culture = rughan
         religion = thessalonian_orthodox
         size = 2000
     }
 
     artisans = {
-        culture = beceneg
+        culture = rughan
         religion = thessalonian_orthodox
         size = 12000
     }
 
     soldiers = {
-        culture = beceneg
+        culture = rughan
         religion = thessalonian_orthodox
         size = 8500
     }
 
     farmers = {
-        culture = beceneg
+        culture = rughan
         religion = thessalonian_orthodox
-        size = 68000
-    }
-
-    farmers = {
-        culture = bulgar_tatar
-        religion = thessalonian_orthodox
-        size = 8000
+        size = 78000
     }
 }
 
 #Balteva
 3563 = {
     aristocrats = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 800
     }
 	
     officers = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 175
     }
 
     clergymen = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 700
     }
 
     artisans = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 4200
     }
 
     farmers = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
-        size = 24000
-    }
-
-    farmers = {
-        culture = costoboci
-        religion = roman_catholic
-        size = 1400
+        size = 26000
     }
 }
 
 #Otena
 3562 = {
     aristocrats = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 400
     }
 
     officers = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 175
     }
 
     clergymen = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 600
     }
 
     artisans = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 1000
     }
 	
 	soldiers = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 3600
     }
 
     farmers = {
-        culture = bastarnae
+        culture = rughan
         religion = roman_catholic
         size = 15000
     }
@@ -208,56 +184,32 @@
 #Ismail (332000/83000 POPS)
 678 = {
     aristocrats = {
-        culture = bulgar_tatar
+        culture = rughan
         religion = thessalonian_orthodox
         size = 2100
     }
 
     clergymen = {
-        culture = bulgar_tatar
+        culture = rughan
         religion = thessalonian_orthodox
-        size = 700
+        size = 820
     }
 
     artisans = {
-        culture = bulgar_tatar
+        culture = rughan
         religion = thessalonian_orthodox
-        size = 3200
+        size = 5000
     }
 
     soldiers = {
-        culture = bulgar_tatar
+        culture = rughan
         religion = thessalonian_orthodox
-        size = 800
+        size = 1600
     }
 
     farmers = {
-        culture = bulgar_tatar
+        culture = rughan
         religion = thessalonian_orthodox
-        size = 50800
-    }
-
-    clergymen = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 120
-    }
-
-    artisans = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 1200
-    }
-
-    soldiers = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 300
-    }
-
-    farmers = {
-        culture = beceneg
-        religion = thessalonian_orthodox
-        size = 20000
+        size = 75000
     }
 }

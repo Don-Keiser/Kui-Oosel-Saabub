@@ -1,5 +1,5 @@
-owner = PHR
-controller = PHR
-add_core = PHR
+owner = CUM
+controller = CUM
+add_core = CUM
 trade_goods = grain
 life_rating = 35

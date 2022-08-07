@@ -1,6 +1,6 @@
-owner = IRE
-controller = IRE
-add_core = IRE
-trade_goods = fish
-life_rating = 35
-naval_base = 2 #Base in Cobh, important since pre-Napoleonic times
+owner = SYR
+controller = SYR
+add_core = SYR
+trade_goods = wool
+life_rating = 25
+terrain = semi_desert_mountains

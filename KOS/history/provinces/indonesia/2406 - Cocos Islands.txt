@@ -1,5 +1,3 @@
-owner = KAU
-controller = KAU
-add_core = KAU
-trade_goods = fish
-life_rating = 35
+trade_goods = timber
+terrain = boreal
+life_rating = 15

@@ -1,7 +1,5 @@
-owner = KLV
-controller = KLV
-add_core = KLV
-add_core = ITA
-trade_goods = fish
-naval_base = 1
-life_rating = 40
+owner = SIN
+controller = SIN
+add_core = SIN
+trade_goods = cattle
+life_rating = 35

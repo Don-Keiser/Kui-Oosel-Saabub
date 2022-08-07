@@ -1,7 +1,7 @@
 owner = CLC
 controller = CLC
 add_core = CLC
-add_core = BHT
+add_core = KDS
 trade_goods = fruit
 life_rating = 35
 terrain = hills

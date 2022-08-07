@@ -2,11 +2,6 @@
 #under the rule of Ottoman Empire in 1836
 #Skopje (424000/106000 POPS)
 806 = {
-    aristocrats = {
-        culture = makedones
-        religion = thessalonian_orthodox
-        size = 2450
-    }
 
     clergymen = {
         culture = albanian
@@ -29,79 +24,79 @@
     farmers = {
         culture = albanian
         religion = thessalonian_orthodox
-        size = 22225
+        size = 8000
     }
-
+	
     aristocrats = {
-        culture = makedones
+        culture = rughan
         religion = thessalonian_orthodox
-        size = 125
+        size = 2600
     }
 
     officers = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 110
     }
 
     soldiers = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 200
     }
 
     clergymen = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 125
     }
 
     artisans = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 2100
     }
 
     farmers = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
-        size = 56350
+        size = 65000
     }
 
     aristocrats = {
-        culture = paeonian
+        culture = makedones
         religion = thessalonian_orthodox
         size = 110
     }
 
     officers = {
-        culture = paeonian
+        culture = makedones
         religion = thessalonian_orthodox
         size = 110
     }
 
     soldiers = {
-        culture = paeonian
+        culture = makedones
         religion = thessalonian_orthodox
         size = 200
     }
 
     clergymen = {
-        culture = paeonian
+        culture = makedones
         religion = thessalonian_orthodox
         size = 110
     }
 
     artisans = {
-        culture = paeonian
+        culture = makedones
         religion = thessalonian_orthodox
         size = 1200
     }
 
     farmers = {
-        culture = paeonian
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 15000
+        size = 20000
     }
 }
 #Monastir Region (268000) #see Greece.txt for balance of region
@@ -109,93 +104,93 @@
 #Bitola (268000/67000 POPS)
 807 = {
     soldiers = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 1200
     }
 
     clergymen = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 110
     }
 
     artisans = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 425
     }
 
     farmers = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
-        size = 31000
+        size = 35000
     }
 
     soldiers = {
-        culture = paeonian
+        culture = makedones
         religion = thessalonian_orthodox
         size = 400
     }
 
     clergymen = {
-        culture = paeonian
+        culture = makedones
         religion = thessalonian_orthodox
         size = 300
     }
 
     artisans = {
-        culture = paeonian
+        culture = makedones
         religion = thessalonian_orthodox
         size = 500
     }
 
     farmers = {
-        culture = paeonian
+        culture = makedones
         religion = thessalonian_orthodox
-        size = 13000
+        size = 9000
     }
 	
     aristocrats = {
-        culture = thracian
+        culture = rughan
         religion = thessalonian_orthodox
         size = 1500
     }
 
     bureaucrats = {
-        culture = thracian
+        culture = rughan
         religion = thessalonian_orthodox
         size = 225
     }
 
     officers = {
-        culture = thracian
+        culture = rughan
         religion = thessalonian_orthodox
         size = 175
     }
 
     clergymen = {
-        culture = thracian
+        culture = rughan
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = thracian
+        culture = rughan
         religion = thessalonian_orthodox
         size = 1300
     }
 
     soldiers = {
-        culture = thracian
+        culture = rughan
         religion = thessalonian_orthodox
         size = 1100
     }
 
     farmers = {
-        culture = thracian
+        culture = rughan
         religion = thessalonian_orthodox
-        size = 1975
+        size = 1000
     }
 }
 
@@ -226,85 +221,26 @@
     }
 
     soldiers = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 175
     }
 
     clergymen = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 110
     }
 
     artisans = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 250
     }
 
     farmers = {
-        culture = makedones
+        culture = red_croat
         religion = thessalonian_orthodox
         size = 14000
-    }
-
-}
-
-#Strumica
-3291 = {
-
-    soldiers = {
-        culture = makedones
-        religion = thessalonian_orthodox
-        size = 500
-    }
-
-    clergymen = {
-        culture = makedones
-        religion = thessalonian_orthodox
-        size = 50
-    }
-
-    artisans = {
-        culture = makedones
-        religion = thessalonian_orthodox
-        size = 500
-    }
-
-    farmers = {
-        culture = makedones
-        religion = thessalonian_orthodox
-        size = 17500
-    }
-
-    aristocrats = {
-        culture = thracian
-        religion = roman_catholic
-        size = 150
-    }
-
-    clergymen = {
-        culture = thracian
-        religion = roman_catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = thracian
-        religion = roman_catholic
-        size = 500
-    }
-
-    soldiers = {
-        culture = thracian
-        religion = roman_catholic
-        size = 50
-    }
-
-    farmers = {
-        culture = thracian
-        religion = roman_catholic
-        size = 1200
     }
 }

@@ -2462,43 +2462,43 @@
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 250
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 4625
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 2900
     }
@@ -2592,37 +2592,37 @@
 #Lomza (200000/50000 POPS)
 709 = {
     aristocrats = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 1150
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 425
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 2150
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 50275
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 5000
     }
@@ -2768,55 +2768,55 @@
 #Bialystok (320000/80000 POPS)
 719 = {
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 325
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 250
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 19275
     }
 
     aristocrats = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 1900
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 250
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 1500
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 25500
     }
@@ -2846,43 +2846,43 @@
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 4525
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 250
     }
 
     aristocrats = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 1250
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 8575
     }
@@ -2897,79 +2897,79 @@
 
 3341 = {
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 32
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 25
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 10
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 1927
     }
 
     aristocrats = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 190
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 25
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 10
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 1500
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 2550
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 10
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 10
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 75
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 1235
     }

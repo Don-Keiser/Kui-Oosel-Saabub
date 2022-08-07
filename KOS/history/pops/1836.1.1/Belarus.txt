@@ -4,43 +4,43 @@
 936 = {
 
     aristocrats = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     bureaucrats = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 200
     }
 
     officers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 425
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 550
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 3200
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 30025
     }
@@ -82,55 +82,55 @@
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 700
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 13025
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     officers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 200
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 41000
     }
@@ -180,91 +180,91 @@
 #Pruzhany (324000/81000 POPS)
 937 = {
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 400
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 3100
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 12375
     }
 
     aristocrats = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 1950
     }
 
     bureaucrats = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 450
     }
 
     officers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 175
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 150
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 2200
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 24050
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 400
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 14925
     }
@@ -327,43 +327,43 @@
 940 = {
 
     aristocrats = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 1600
     }
 
     officers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 300
     }
 
     bureaucrats = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 650
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 2200
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 3400
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 27000
     }
@@ -493,37 +493,37 @@
     }
 
     aristocrats = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 500
     }
 
     officers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 175
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 975
     }
@@ -645,25 +645,25 @@
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 750
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 6125
     }
@@ -725,25 +725,25 @@
     }
 
     clergymen = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 200
     }
 
     artisans = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 850
     }
 
     soldiers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 200
     }
 
     farmers = {
-        culture = vaala
+        culture = preitsii
         religion = roman_catholic
         size = 10900
     }
@@ -1007,25 +1007,25 @@
 #Vitebsk (272000/68000 POPS)
 945 = {
     clergymen = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 500
     }
 
     artisans = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 2750
     }
 
     soldiers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 1000
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 59825
     }
@@ -1043,43 +1043,43 @@
     }
 
     officers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 350
     }
 
     clergymen = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 50
     }
 
     artisans = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 250
     }
 
     soldiers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 50
     }
 
     farmers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 7200
     }
 	
     bureaucrats = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 150
     }
 
     officers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 200
     }
@@ -1141,31 +1141,31 @@
     }
 	
 	aristocrats = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 1800
     }
 
     clergymen = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 300
     }
 
     artisans = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 2750
     }
 
     soldiers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 300
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 18125
     }
@@ -1173,25 +1173,25 @@
 #Pastavy (348000/87000 POPS)
 947 = {
     clergymen = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 550
     }
 
     artisans = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 600
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 30850
     }
@@ -1221,31 +1221,31 @@
     }
 
     aristocrats = {
-        culture = voro
+        culture = estonian
         religion = roman_catholic
         size = 1800
     }
 
     clergymen = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     artisans = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 250
     }
 
     soldiers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 5850
     }

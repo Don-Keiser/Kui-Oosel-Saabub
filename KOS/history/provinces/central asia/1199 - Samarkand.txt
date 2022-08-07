@@ -1,6 +1,6 @@
-owner = WHU
-controller = WHU
-add_core = WHU
+owner = KKT
+controller = KKT
+add_core = KKT
 trade_goods = grain
 life_rating = 35
 terrain = samarkand

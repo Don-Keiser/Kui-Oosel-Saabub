@@ -1,6 +1,6 @@
-owner = GWI
-controller = GWI
-add_core = GWI
+owner = CAI
+controller = CAI
+add_core = CAI
 trade_goods = fish
 life_rating = 35
 fort = 1

@@ -1,7 +1,5 @@
-owner = LDM
-controller = LDM
-add_core = LDM
-add_core = HLC
-add_core = SLV
-trade_goods = wool
+owner = BER
+controller = BER
+add_core = BER
+trade_goods = fish
 life_rating = 35

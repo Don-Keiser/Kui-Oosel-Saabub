@@ -1,5 +1,4 @@
-owner = GRE
-controller = GRE
-add_core = GRE
-trade_goods = grain
-life_rating = 35
+trade_goods = wool
+terrain = semidesert
+life_rating = 25
+colonial = 2

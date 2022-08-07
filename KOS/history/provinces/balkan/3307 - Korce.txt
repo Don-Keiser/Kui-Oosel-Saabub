@@ -1,5 +1,5 @@
-owner = ALB
-controller = ALB
-add_core = ALB
-trade_goods = timber
+owner = KKT
+controller = KKT
+add_core = KKT
+trade_goods = grain
 life_rating = 35

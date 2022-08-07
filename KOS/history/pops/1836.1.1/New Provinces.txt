@@ -27,11 +27,17 @@
     farmers = {
         culture = ispannu
         religion = roman_catholic
-        size = 51000
+        size = 49000
     }
 	
 	farmers = {
         culture = cartaginesu
+        religion = roman_catholic
+        size = 4000
+    }
+	
+	farmers = {
+        culture = toletzianu
         religion = roman_catholic
         size = 4000
     }

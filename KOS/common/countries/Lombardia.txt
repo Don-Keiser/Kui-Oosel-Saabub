@@ -1,4 +1,4 @@
-color = { 254 245 160 }
+color = { 91 140 125 }
 graphical_culture = ItalianGC
 party = {
     name = "LOM_reactionary"

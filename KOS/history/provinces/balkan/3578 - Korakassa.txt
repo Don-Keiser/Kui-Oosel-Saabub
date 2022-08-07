@@ -1,5 +1,5 @@
-owner = PHR
-controller = PHR
-add_core = PHR
-trade_goods = fish
+owner = PER
+controller = PER
+add_core = PER
+trade_goods = cattle
 life_rating = 35

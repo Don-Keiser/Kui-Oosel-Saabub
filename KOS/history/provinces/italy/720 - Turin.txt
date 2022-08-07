@@ -2,6 +2,7 @@ owner = TOR
 controller = TOR
 add_core = TOR
 add_core = ITA
+add_core = OCC
 trade_goods = fruit
 life_rating = 40
 terrain = turin

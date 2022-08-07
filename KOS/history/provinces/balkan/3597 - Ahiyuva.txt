@@ -1,5 +1,5 @@
-owner = PHR
-controller = PHR
-add_core = PHR
+owner = GEO
+controller = GEO
+add_core = GEO
 trade_goods = grain
 life_rating = 35

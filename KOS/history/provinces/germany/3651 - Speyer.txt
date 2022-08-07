@@ -1,6 +1,6 @@
-owner = LOR
-controller = LOR
-add_core = LOR
+owner = SPE
+controller = SPE
+add_core = SPE
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = { railroad = 3 }

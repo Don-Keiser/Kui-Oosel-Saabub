@@ -1,6 +1,6 @@
-owner = LOR
-controller = LOR
-add_core = LOR
+owner = SIM
+controller = SIM
+add_core = SIM
 trade_goods = iron
 life_rating = 40
 1861.1.1 = { railroad = 3 }

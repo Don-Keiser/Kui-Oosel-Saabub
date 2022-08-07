@@ -81,25 +81,7 @@
     farmers = {
         culture = travesz
         religion = roman_catholic
-        size = 22050
-    }
-	
-	farmers = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 4050
-    }
-
-    farmers = {
-        culture = jassic
-        religion = african_catholic
-        size = 2300
-    }
-
-    farmers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 12000
+        size = 22000
     }
 
     aristocrats = {
@@ -141,7 +123,19 @@
     farmers = {
         culture = hungarian
         religion = roman_catholic
-        size = 12750
+        size = 15000
+    }
+	
+	farmers = {
+        culture = histri
+        religion = roman_catholic
+        size = 5000
+    }
+	
+    farmers = {
+        culture = jassic
+        religion = african_catholic
+        size = 2300
     }
 }
 #Sisak (116000/29000 POPS)
@@ -309,7 +303,7 @@
     farmers = {
         culture = hungarian
         religion = roman_catholic
-        size = 1600
+        size = 2900
     }
 
     clergymen = {
@@ -333,13 +327,13 @@
     farmers = {
         culture = jassic
         religion = african_catholic
-        size = 12225
+        size = 10000
     }
 	
 	farmers = {
-        culture = hungarian
+        culture = histri
         religion = roman_catholic
-        size = 1225
+        size = 3000
     }
 }
 #Karlovac (184000/46000 POPS)
@@ -430,12 +424,6 @@
         size = 125
     }
 
-    bureaucrats = {
-        culture = travesz
-        religion = roman_catholic
-        size = 200
-    }
-
     artisans = {
         culture = travesz
         religion = roman_catholic
@@ -451,7 +439,13 @@
     farmers = {
         culture = travesz
         religion = roman_catholic
-        size = 12325
+        size = 13500
+    }
+	
+    bureaucrats = {
+        culture = hungarian
+        religion = roman_catholic
+        size = 200
     }
 
     clergymen = {
@@ -479,9 +473,15 @@
     }
 	
 	farmers = {
-        culture = travesz
+        culture = histri
         religion = roman_catholic
-        size = 6500
+        size = 5000
+    }
+	
+	farmers = {
+        culture = histri
+        religion = roman_catholic
+        size = 1000
     }
 }
 #Varadzin (68000/17000 POPS)
@@ -849,168 +849,173 @@
 #Split (140000/35000 POPS)
 780 = {
     aristocrats = {
-        culture = dalmatae
+        culture = dalmatoi
         religion = roman_catholic
-        size = 400
+        size = 900
     }
 
     clergymen = {
-        culture = dalmatae
+        culture = dalmatoi
         religion = roman_catholic
-        size = 350
+        size = 450
     }
 
     artisans = {
-        culture = dalmatae
+        culture = dalmatoi
         religion = roman_catholic
-        size = 2000
+        size = 3600
     }
 
     soldiers = {
-        culture = dalmatae
+        culture = dalmatoi
         religion = roman_catholic
-        size = 350
+        size = 800
     }
 
     farmers = {
-        culture = dalmatae
+        culture = dalmatoi
         religion = roman_catholic
-        size = 28500
+        size = 28000
     }
 
-    farmers = {
-        culture = liburni
+    artisans = {
+        culture = greek
         religion = roman_catholic
-        size = 1000
+        size = 1800
     }
-
 }
 #Sibenik (140000/35000 POPS)
 3573 = {
     aristocrats = {
-        culture = liburni
+        culture = dalmatoi
         religion = roman_catholic
-        size = 400
+        size = 850
     }
 
     clergymen = {
-        culture = liburni
-        religion = roman_catholic
-        size = 450
-    }
-
-    artisans = {
-        culture = liburni
-        religion = roman_catholic
-        size = 2500
-    }
-
-    soldiers = {
-        culture = liburni
-        religion = roman_catholic
-        size = 450
-    }
-
-    farmers = {
-        culture = liburni
-        religion = roman_catholic
-        size = 21000
-    }
-
-    clergymen = {
-        culture = dalmatae
-        religion = roman_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = dalmatae
+        culture = dalmatoi
         religion = roman_catholic
         size = 500
     }
 
+    artisans = {
+        culture = dalmatoi
+        religion = roman_catholic
+        size = 2600
+    }
+
     soldiers = {
-        culture = dalmatae
+        culture = dalmatoi
+        religion = roman_catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = dalmatoi
+        religion = roman_catholic
+        size = 32000
+    }
+
+    clergymen = {
+        culture = greek
+        religion = roman_catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = greek
+        religion = roman_catholic
+        size = 1800
+    }
+
+    soldiers = {
+        culture = greek
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = dalmatae
+        culture = greek
         religion = roman_catholic
-        size = 1450
+        size = 1300
     }
 }
 #Zadar (128000/32000 POPS)
 781 = {
     aristocrats = {
-        culture = liburni
+        culture = dalmatoi
         religion = roman_catholic
-        size = 250
+        size = 1800
     }
 
     bureaucrats = {
-        culture = liburni
+        culture = dalmatoi
         religion = roman_catholic
         size = 100
     }
 
     officers = {
-        culture = liburni
+        culture = dalmatoi
         religion = roman_catholic
-        size = 75
+        size = 150
     }
 
     clergymen = {
-        culture = liburni
+        culture = dalmatoi
         religion = roman_catholic
-        size = 325
+        size = 1000
     }
 
     artisans = {
-        culture = liburni
+        culture = dalmatoi
         religion = roman_catholic
-        size = 900
+        size = 10000
+    }
+	
+    artisans = {
+        culture = dalmatoi
+        religion = roman_catholic
+        size = 7500
     }
 
     soldiers = {
-        culture = liburni
+        culture = dalmatoi
         religion = roman_catholic
-        size = 325
+        size = 5400
     }
 
     farmers = {
-        culture = liburni
+        culture = dalmatoi
         religion = roman_catholic
-        size = 27000
+        size = 39000
     }
 	
 	bureaucrats = {
-        culture = dalmatae
+        culture = greek
         religion = roman_catholic
-        size = 75
+        size = 120
     }
 
     clergymen = {
-        culture = dalmatae
+        culture = greek
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = dalmatae
+        culture = greek
         religion = roman_catholic
         size = 700
     }
 
     soldiers = {
-        culture = dalmatae
+        culture = greek
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = dalmatae
+        culture = greek
         religion = roman_catholic
         size = 2125
     }
@@ -1018,61 +1023,61 @@
 #Dubrovnik (52000/13000 POPS)
 782 = {
     aristocrats = {
-        culture = dalmatae
+        culture = dalmatoi
         religion = roman_catholic
-        size = 100
+        size = 1200
     }
 
     clergymen = {
-        culture = dalmatae
+        culture = dalmatoi
         religion = roman_catholic
-        size = 200
+        size = 300
     }
 
     artisans = {
-        culture = dalmatae
+        culture = dalmatoi
         religion = roman_catholic
-        size = 600
+        size = 2500
     }
 
     soldiers = {
-        culture = dalmatae
+        culture = dalmatoi
         religion = roman_catholic
-        size = 200
+        size = 900
     }
 
     farmers = {
-        culture = dalmatae
+        culture = dalmatoi
         religion = roman_catholic
-        size = 13000
+        size = 23000
     }
 	
 	aristocrats = {
-        culture = liburni
+        culture = greek
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = liburni
+        culture = greek
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = liburni
+        culture = greek
         religion = roman_catholic
         size = 500
     }
 
     soldiers = {
-        culture = liburni
+        culture = greek
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = liburni
+        culture = greek
         religion = roman_catholic
         size = 400
     }

@@ -1,6 +1,5 @@
-owner = CYR
-controller = CYR
-add_core = CYR
-add_core = TRI
+owner = ARI
+controller = ARI
+add_core = ARI
 trade_goods = wool
 life_rating = 32

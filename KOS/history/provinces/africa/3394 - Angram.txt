@@ -1,5 +1,5 @@
-owner = ARI
-controller = ARI
-add_core = ARI
+owner = TUN
+controller = TUN
+add_core = TUN
 life_rating = 32
 trade_goods = wool

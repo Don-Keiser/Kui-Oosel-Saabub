@@ -1,6 +1,6 @@
-owner = WHU
-controller = WHU
-add_core = WHU
+owner = TKM
+controller = TKM
+add_core = TKM
 terrain = semidesert
 trade_goods = opium
 life_rating = 35

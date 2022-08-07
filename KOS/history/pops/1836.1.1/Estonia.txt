@@ -289,31 +289,31 @@
     }
 
     clergymen = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 10
     }
 
     artisans = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 10
     }
 
     soldiers = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 10
     }
 
     farmers = {
-        culture = ingrian
+        culture = estonian
         religion = african_catholic
         size = 2110
     }
 	
 	farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 1110
     }
@@ -333,19 +333,19 @@
     }
 
     artisans = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 900
     }
 
     soldiers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 3000
     }
@@ -383,25 +383,25 @@
     }
 
     clergymen = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     artisans = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 550
     }
 
     soldiers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = voro
+        culture = estonian
         religion = african_catholic
         size = 100
     }
@@ -431,25 +431,25 @@
     }
 
     clergymen = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     artisans = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     soldiers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = seto
+        culture = estonian
         religion = african_catholic
         size = 1325
     }

@@ -1,5 +1,5 @@
-owner = BSP
-controller = BSP
-add_core = BSP
+owner = ABK
+controller = ABK
+add_core = ABK
 trade_goods = grain
 life_rating = 35
