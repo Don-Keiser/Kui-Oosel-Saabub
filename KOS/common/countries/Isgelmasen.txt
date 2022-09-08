@@ -1,4 +1,4 @@
-color = { 224  163  184 }
+color = { 175  109  109 }
 graphical_culture = MoroccoGC
 
 party = {

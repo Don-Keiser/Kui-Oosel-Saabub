@@ -1,7 +1,7 @@
 capital = 846
 primary_culture = neustrien
 culture = greek
-culture = maltese
+culture = sicilian
 religion = roman_catholic
 government = theocracy
 plurality = 15

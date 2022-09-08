@@ -476,6 +476,25 @@ SIS;Sagestan;;;;;;;;;;;;;
 SIS_ADJ;Sagestani;;;;;;;;;;;;;
 KWA;Khwarazmia;;;;;;;;;;;;;
 KWA_ADJ;Khwarazmian;;;;;;;;;;;;;
+LRC;La Rochéle;x;;;;
+LRC_ADJ;Rochelæs;x;;;;
+LRC_fascist_disctatorship;Révachol;;;;;;;;;;;;;
+LRC_absolute_monarchy;Réyàum Rochelæs;;;;;;;;;;;;;
+LRC_prussian_constitutionalism;Réyàum Rochelæs;;;;;;;;;;;;;
+LRC_hms_government;Réyàum Rochelæs;;;;;;;;;;;;;
+LRC_elective_monarchy;Duchæ de La Rochéle;;;;;;;;;;;;;
+LRC_democracy;Républlicq Rochelæse;;;;;;;;;;;;;
+LRC_proletarian_dictatorship;Républlicq Révolùjhiùnære Rochelæse;;;;;;;;;;;;;
+LRC_presidential_dictatorship;Républlicq Rochelæse;;;;;;;;;;;;;
+LRC_bourgeois_dictatorship;Républlicq Rochelæse;;;;;;;;;;;;;
+LRC_parliamentary_republic;Républlicq Rochelæse;;;;;;;;;;;;;
+LRC_oligarchic_republic;Républlicq Rochelæse;;;;;;;;;;;;;
+AQT;Aquitània;x                                                
+AQT_ADJ;Aquitan;x                                           
+AQT_fascist_dictatorship;Empire of the Aquitania;x
+AQT_proletarian_dictatorship;Mediterranean Commune;x
+AQT_presidential_dictatorship;Nova Roma;x
+AQT_democracy;Republica Aquitan;x
 OOS_conservative;Konstitutsionalistid Kliik;x;;;;
 OOS_liberal;Hyvinvointi Parteix;;;;
 OOS_reactionary;Ehejumalikunig Kildkond;x;;;;
@@ -547,6 +566,24 @@ KAU_radical_2;Reformierakond;x;;;;
 KAU_socialist;Sotsialistlik Partei;x;;;;
 KAU_communist;Tooliste Liikumine;x;;;;
 KAU_fascist;Radikaalne Rahvusrinne;x;;;;
+LRC_reactionary;Najhiùnalisces Rochelæs;x;;;;
+LRC_reactionary_2;Lécqæ Rochelæse;x;;;;
+LRC_liberal;Démocrates;x;;;;
+LRC_liberal_2;Facqjhiùn Réformisce;x;;;;
+LRC_conservative;Préncipalesces;x;;;;
+LRC_conservative_2;L'Réyale Alliajhiùn;x;;;;
+FRA_socialist;Facqjhiùn Sùciale;x;;;;
+LRC_socialist_2;L'Movemen Sùciàu;x;;;;
+LRC_radical;Révijhiùnisces;x;;;;
+LRC_communist;Facqjhiùn Popùlære;x;;;;
+LRC_fascist;Acqjhiùn Rochelæse;x;;;;
+AQT_reactionary;Partit Reiau-Alo;x
+AQT_liberal;Partit de lo Popolo;x
+AQT_conservative;Partit Counservadouro;x
+AQT_socialist;Partit Soucialisto;x
+AQT_radical;Vinardos;x
+AQT_communist;Partit Comunisto;x
+AQT_fascist;Partit Faissisto;x
 ooselid;Ööselid;x;;;;
 neo_nordic;Neo-Nordic;x;;;;
 tibetic;Tibetic;x;;;;
@@ -701,7 +738,7 @@ lendian;Lendian;x;;;;
 korsian;Korsian;x;;;;
 ingrian;Ingrian;x;;;;
 votic;Votic;x;;;;
-rochelaes;Rochelaes;x;;;;
+rochelaes;Rochelæs;x;;;;
 neustrien;Neustrien;x;;;;
 ligur;Ligur;x;;;;
 arpitan;Patouès;x;;;;

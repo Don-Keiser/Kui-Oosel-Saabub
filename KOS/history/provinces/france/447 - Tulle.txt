@@ -1,7 +1,7 @@
-owner = FRA
-controller = FRA
+owner = AQT
+controller = AQT
+add_core = AQT
 add_core = FRA
-
 add_core = OCC
 trade_goods = cattle
 life_rating = 30

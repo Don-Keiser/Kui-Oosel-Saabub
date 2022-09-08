@@ -1,4 +1,6 @@
 color = { 69 85 130 }
+oligarchic_republic = { 65 56 112 }
+march = { 65 56 112 }
 graphical_culture = ItalianGC
 
 party = {

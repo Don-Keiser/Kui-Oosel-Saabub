@@ -1,4 +1,4 @@
-color = { 168  168  151 }
+color = { 178  178  128 }
 proletarian_dictatorship = { 218 25 25 }
 graphical_culture = EuropeanGC
 

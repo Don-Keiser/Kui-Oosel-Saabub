@@ -1,5 +1,5 @@
 capital = 754
-primary_culture = neapolitan
+primary_culture = griko
 culture = sicilian
 religion = roman_catholic
 government = absolute_monarchy

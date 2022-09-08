@@ -461,6 +461,20 @@ vassal = {
 	end_date = 1937.1.1
 }
 
+vassal = {
+	first = FRA
+	second = LRC
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRA
+	second = AQT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 #Mali Empire
 vassal = {
 	first = MLI

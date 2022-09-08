@@ -1,4 +1,4 @@
-color = { 148  30  70 }
+color = { 127  33  66 }
 
 graphical_culture = FrenchGC
 

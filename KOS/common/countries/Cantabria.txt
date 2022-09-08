@@ -1,4 +1,4 @@
-color = { 224  221  82 }
+color = { 163  174  97 }
 proletarian_dictatorship = { 218 15 15 }
 graphical_culture = SpanishGC
 

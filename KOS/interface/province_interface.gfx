@@ -1962,6 +1962,60 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_terrainimg_fontenay"
+		texturefile = "gfx\\interface\\terrain_fontenay.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_nantes"
+		texturefile = "gfx\\interface\\terrain_nantes.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_parthenay"
+		texturefile = "gfx\\interface\\terrain_parthenay.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_angouleme"
+		texturefile = "gfx\\interface\\terrain_angouleme.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_poitiers"
+		texturefile = "gfx\\interface\\terrain_poitiers.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_saintes"
+		texturefile = "gfx\\interface\\terrain_saintes.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_retz"
+		texturefile = "gfx\\interface\\terrain_retz.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_chatellerault"
+		texturefile = "gfx\\interface\\terrain_chatellerault.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_gueret"
+		texturefile = "gfx\\interface\\terrain_gueret.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_terrainimg_pola"
 		texturefile = "gfx\\interface\\terrain_pola.tga"
 		norefcount = yes

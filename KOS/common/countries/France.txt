@@ -1,4 +1,4 @@
-color = { 95 65 130 }
+color = { 76 65 130 }
 proletarian_dictatorship = { 160 0 0 }
 fascist_dictatorship = { 0 37 99 }
 presidential_dictatorship = { 0 37 99 }

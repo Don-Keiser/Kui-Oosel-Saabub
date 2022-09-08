@@ -999,6 +999,8 @@ SHV	    = "countries/Shirvan.txt"
 KKT	    = "countries/Kara Khitai.txt"
 SIS	    = "countries/Sistan.txt"
 KWA	    = "countries/Khwarazmia.txt"
+LRC	    = "countries/La Rochelle.txt"
+AQT		= "countries/Aquitaine.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

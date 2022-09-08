@@ -1,5 +1,5 @@
-owner = MSA
-controller = MSA
-add_core = MSA
-trade_goods = cotton
-life_rating = 35
+owner = ISG
+controller = ISG
+add_core = ISG
+trade_goods = wool
+life_rating = 32

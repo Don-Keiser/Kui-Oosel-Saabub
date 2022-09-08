@@ -3221,11 +3221,11 @@ categories =  {
     larochelle = {
         movement_cost = 1.0
         color = { 22 44 66 }
-        farm_rgo_size = 0.0
-        farm_rgo_eff = 0.0
+        farm_rgo_size = 0.25
+        farm_rgo_eff = 0.025
         mine_rgo_size = 0.0
         mine_rgo_eff = 0.0
-        supply_limit = 10
+        supply_limit = 20
     }
 
     hanoi = {
@@ -3890,6 +3890,96 @@ categories =  {
     managua = {
         movement_cost = 1.0
         color = { 22 44 66 }
+        farm_rgo_size = 0.2
+        farm_rgo_eff = 0.00
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+        supply_limit = 10
+    }
+	
+	fontenay = {
+        movement_cost = 1.0
+        color = { 137 104 165 }
+        farm_rgo_size = 0.2
+        farm_rgo_eff = 0.00
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+        supply_limit = 10
+    }
+	
+	nantes = {
+        movement_cost = 1.0
+        color = { 137 104 165 }
+        farm_rgo_size = 0.2
+        farm_rgo_eff = 0.00
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+        supply_limit = 10
+    }
+	
+	parthenay = {
+        movement_cost = 1.0
+        color = { 137 104 165 }
+        farm_rgo_size = 0.2
+        farm_rgo_eff = 0.00
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+        supply_limit = 10
+    }
+	
+	angouleme = {
+        movement_cost = 1.0
+        color = { 137 104 165 }
+        farm_rgo_size = 0.2
+        farm_rgo_eff = 0.00
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+        supply_limit = 10
+    }
+	
+	poitiers = {
+        movement_cost = 1.0
+        color = { 137 104 165 }
+        farm_rgo_size = 0.2
+        farm_rgo_eff = 0.00
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+        supply_limit = 10
+    }
+	
+	saintes = {
+        movement_cost = 1.0
+        color = { 137 104 165 }
+        farm_rgo_size = 0.2
+        farm_rgo_eff = 0.00
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+        supply_limit = 15
+    }
+	
+	retz = {
+        movement_cost = 1.0
+        color = { 137 104 165 }
+        farm_rgo_size = 0.2
+        farm_rgo_eff = 0.00
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+        supply_limit = 10
+    }
+	
+	chatellerault = {
+        movement_cost = 1.0
+        color = { 137 104 165 }
+        farm_rgo_size = 0.2
+        farm_rgo_eff = 0.00
+        mine_rgo_size = 0.0
+        mine_rgo_eff = 0.0
+        supply_limit = 10
+    }
+	
+	gueret = {
+        movement_cost = 1.0
+        color = { 137 104 165 }
         farm_rgo_size = 0.2
         farm_rgo_eff = 0.00
         mine_rgo_size = 0.0

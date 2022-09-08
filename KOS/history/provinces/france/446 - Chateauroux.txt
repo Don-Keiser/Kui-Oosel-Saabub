@@ -1,8 +1,8 @@
-owner = FRA
-controller = FRA
+owner = LRC
+controller = LRC
+add_core = LRC
 add_core = FRA
-
-add_core = OCC
 trade_goods = cattle
 life_rating = 30
+terrain = gueret
 1861.1.1 = { railroad = 3 }
