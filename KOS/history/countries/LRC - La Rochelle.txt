@@ -98,3 +98,5 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+govt_flag = { government = elective_monarchy flag = theocracy }

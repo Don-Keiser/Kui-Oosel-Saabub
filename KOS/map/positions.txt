@@ -135209,3 +135209,47 @@
 3767 = {
     text_scale = 1.4
 }
+
+3768 = {
+    text_scale = 1.4
+}
+
+3769 = {
+    text_scale = 1.4
+}
+
+3770 = {
+    text_scale = 1.4
+}
+
+3771 = {
+    text_scale = 1.4
+}
+
+3772 = {
+    text_scale = 1.4
+}
+
+3773 = {
+    text_scale = 1.4
+}
+
+3774 = {
+    text_scale = 1.4
+}
+
+3775 = {
+    text_scale = 1.4
+}
+
+3776 = {
+    text_scale = 1.4
+}
+
+3777 = {
+    text_scale = 1.4
+}
+
+3778 = {
+    text_scale = 1.4
+}

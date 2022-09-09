@@ -415,7 +415,7 @@
 414;48;128;224;Epinal;x
 415;144;32;192;Rouen;x
 416;176;96;128;Evreux;x
-417;16;32;192;Alencon;x
+417;16;32;192;Belleme;x
 418;144;160;64;Caen;x
 419;183;142;84;Channel Islands;x
 420;208;224;128;Brest;x
@@ -444,7 +444,7 @@
 443;208;32;192;Poitiers;x
 444;80;32;192;Angouleme;x
 445;48;96;0;Limoges;x
-446;80;160;192;Chateauroux;x
+446;80;160;192;La Marche;x
 447;176;96;0;Tulle;x
 448;112;192;96;Clermont-Ferrand;x
 449;240;192;96;Aurillac;x
@@ -3766,6 +3766,17 @@
 3765;45;45;45;Uzes;x
 3766;48;48;48;Monsegur;x
 3767;51;51;51;Velay;x
+3768;53;53;53;Perche;x
+3769;56;56;56;Harcourt;x
+3770;58;58;58;Elbeuf;x
+3771;61;61;61;Rouen;x
+3772;63;63;63;Longueville;x
+3773;66;66;66;Vendome;x
+3774;68;68;68;Chateauroux;x
+3775;71;71;71;Sancerre;x
+3776;73;73;73;Macon;x
+3777;76;76;76;Semur;x
+3778;79;79;79;Nevers;x
 ;111;17;245;Lake of the Woods;x
 ;111;17;246;Lake Nipissing;x
 ;111;17;247;Lake Simcoe;x

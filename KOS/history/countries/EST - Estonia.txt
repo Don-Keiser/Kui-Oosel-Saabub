@@ -1,7 +1,7 @@
 capital = 349
 primary_culture = estonian
+culture = livonian
 culture = votic
-culture = ingrian
 religion = african_catholic
 government = absolute_monarchy
 plurality = 0.2

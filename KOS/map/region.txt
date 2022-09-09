@@ -198,7 +198,7 @@ BEL_394 = { 394 392 393 395 398 3377 3639 } #Wallonia
 
 ### France
 
-FRA_399 = { 403 402 2570 } #Picardie
+FRA_399 = { 403 402 } #Picardie
 
 FRA_406 = { 406 405 408 407 413 2622 } #Champagne
 
@@ -210,17 +210,17 @@ FRA_432 = { 432 3312 433 } #Franche-Comt�
 
 FRA_412 = { 409 410 3409 3665 3703 } #Alsace-Lorraine
 
-FRA_418 = { 418 415 416 417 3408 } #Normandie
+FRA_418 = { 418 415 416 3408 3768 3769 3770 3771 3772 } #Normandie
 
 FRA_420 = { 420 421 422 } #Bretagne
 
-FRA_425 = { 425 426 427 3399 } #Ile de France
+FRA_425 = { 425 426 427 2570 3399 } #Ile de France
 
-FRA_428 = { 428 429 430 431 } #Bourgogne
+FRA_428 = { 428 429 430 431 3775 3777 3778 } #Bourgogne
 
-FRA_435 = { 435 424 436 } #Loire
+FRA_435 = { 435 417 424 436 } #Loire
 
-FRA_438 = { 438 439 440 441 } #Region Centre
+FRA_438 = { 438 439 440 441 3773 3774 3776 } #Region Centre
 
 FRA_442 = { 442 423 444 443 446 434 437 3561 3750 3752 } #Poitou
 
