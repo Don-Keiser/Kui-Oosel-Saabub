@@ -1,5 +1,5 @@
-owner = ALB
-controller = ALB
-add_core = ALB
+owner = BEC
+controller = BEC
+add_core = BEC
 trade_goods = iron
 life_rating = 35

@@ -1,8 +1,6 @@
 capital = 1380
 primary_culture = saarmagi
-culture = saarhalaslik
 culture = saarnordlig
-culture = saarkorge
 religion = ooselskia
 government = hms_government
 plurality = 30.0

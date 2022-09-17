@@ -1,6 +1,7 @@
-owner = BRG
-controller = BRG
+owner = TOR
+controller = TOR
+add_core = TOR
 add_core = BRG
-add_core = FRA
+add_core = ITA
 trade_goods = iron
 life_rating = 35

@@ -1,6 +1,5 @@
 owner = BLG
 controller = BLG
 add_core = BLG
-add_core = GRE
 trade_goods = timber
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = PRE
-controller = PRE
-add_core = PRE
+owner = LIV
+controller = LIV
+add_core = LIV
 trade_goods = cattle
 life_rating = 40
 terrain = konigsberg

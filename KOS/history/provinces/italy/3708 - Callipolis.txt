@@ -1,6 +1,6 @@
-owner = BNV
-controller = BNV
-add_core = BNV
+owner = TUN
+controller = TUN
+add_core = TUN
 add_core = ITA
 trade_goods = fish
 naval_base = 1

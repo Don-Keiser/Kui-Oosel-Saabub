@@ -756,3 +756,11 @@ vassal = {
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
+
+#Estonia
+vassal = {
+    first = EST
+    second = LIV
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}

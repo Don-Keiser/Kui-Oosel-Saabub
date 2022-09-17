@@ -10,12 +10,6 @@ GTL = {
     influence_value = 50
 }
 
-PAP = {
-    value = 200        #relation
-    level = 5        #3=cordial, 4 = friendly, 5 sphere
-    influence_value = 25
-}
-
 TOR = {
     value = 150        #relation
     level = 5        #3=cordial, 4 = friendly, 5 sphere
@@ -59,6 +53,24 @@ DUM = {
 }
 
 BSQ = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+ALS = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+ROT = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+ULM = {
     value = 125        #relation
     level = 5        #3=cordial, 4 = friendly, 5 sphere
     influence_value = 25

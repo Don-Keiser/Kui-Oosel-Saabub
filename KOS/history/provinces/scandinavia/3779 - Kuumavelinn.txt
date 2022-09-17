@@ -1,0 +1,6 @@
+owner = EST
+controller = EST
+add_core = EST
+trade_goods = fish
+life_rating = 32
+naval_base = 1

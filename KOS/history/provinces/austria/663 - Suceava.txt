@@ -1,5 +1,6 @@
-owner = LDM
-controller = LDM
+owner = BLG
+controller = BLG
+add_core = BLG
 add_core = LDM
 trade_goods = cattle
 life_rating = 35

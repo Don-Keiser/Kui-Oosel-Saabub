@@ -1,6 +1,6 @@
-owner = BNV
-controller = BNV
-add_core = BNV
+owner = PAP
+controller = PAP
+add_core = PAP
 add_core = ITA
 trade_goods = fish
 life_rating = 35

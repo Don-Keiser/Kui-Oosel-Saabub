@@ -78,14 +78,3 @@ upper_house = {
     socialist = 0
     communist = 0
 }
-
-decision = vojvodina_rename_hun
-decision = banat_rename_hun
-decision = northern_transylvania_rename_hun
-decision = southern_transylvania_rename_hun
-decision = slovakia_rename_hun
-decision = transdanubia_rename_hun
-decision = central_hungary_rename_hun
-decision = croatia_rename_hun
-decision = slavonia_rename_hun
-decision = burgenland_rename

@@ -1,5 +1,5 @@
-owner = PRE
-controller = PRE
-add_core = PRE
+owner = MOO
+controller = MOO
+add_core = MOO
 trade_goods = grain
 life_rating = 35
