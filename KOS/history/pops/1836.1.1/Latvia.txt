@@ -4,109 +4,109 @@
 354 = {
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 325
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 1500
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 2400
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 24775
     }
 
     aristocrats = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 850
     }
 
     bureaucrats = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 200
     }
 
     officers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 250
     }
 
     clergymen = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 175
     }
 
     farmers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 51000
     }
 
     artisans = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 8725
     }
 
     soldiers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 1500
     }
 
     aristocrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     bureaucrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     officers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 1500
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 150
     }
 	
 	farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 12150
     }
 }
@@ -114,109 +114,109 @@
 355 = {
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 1100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 3350
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 2150
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 112375
     }
 
     aristocrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 1250
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 600
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     aristocrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 250
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 180
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 2200
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 200
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 12550
     }
 
     aristocrats = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 500
     }
 
     clergymen = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 150
     }
 
     artisans = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 200
     }
 
     soldiers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 100
     }
 
     farmers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 8200
     }
 
@@ -224,109 +224,109 @@
 3424 = {
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 1100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 3350
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 2150
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 21237
     }
 
     aristocrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 1250
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 600
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     aristocrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 250
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 8550
     }
 
     aristocrats = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 500
     }
 
     clergymen = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 250
     }
 
     artisans = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 2200
     }
 
     soldiers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 200
     }
 
     farmers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 3200
     }
 
@@ -335,91 +335,91 @@
 356 = {
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 175
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 650
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 250
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 29800
     }
 
     aristocrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 700
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 4200
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     aristocrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 5050
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 6850
     }
 
     farmers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 4025
     }
 }
@@ -427,55 +427,55 @@
 357 = {
     clergymen = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 225
     }
 
     artisans = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 250
     }
 
     soldiers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 250
     }
 
     farmers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 28275
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 2000
     }
 
     aristocrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 1150
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 200
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 2000
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 200
     }
 }
@@ -483,110 +483,110 @@
 358 = {
     clergymen = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 225
     }
 
     artisans = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 300
     }
 
     soldiers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 275
     }
 
     farmers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 29450
     }
 
     aristocrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 1200
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 700
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 1500
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 250
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 950
     }
 }
 3423 = {
     aristocrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 1200
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 1800
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 200
     }
 
     farmers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 8500
     }
 }
@@ -594,73 +594,73 @@
 359 = {
     clergymen = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 175
     }
 
     artisans = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 150
     }
 
     soldiers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 200
     }
 
     farmers = {
         culture = livonian
-        religion = roman_catholic
+        religion = uralic
         size = 21475
     }
 
     aristocrats = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 550
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 400
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     clergymen = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     artisans = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 200
     }
 
     soldiers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 100
     }
 
     farmers = {
         culture = estonian
-        religion = african_catholic
+        religion = uralic
         size = 750
     }
 

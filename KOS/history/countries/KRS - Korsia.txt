@@ -1,6 +1,6 @@
 capital = 547
 primary_culture = korsian
-religion = african_catholic
+religion = vulgar
 government = democracy
 plurality = 0.2
 nationalvalue = nv_productivity

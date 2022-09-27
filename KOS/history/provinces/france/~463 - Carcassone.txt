@@ -1,0 +1,7 @@
+owner = GTL
+controller = GTL
+add_core = GTL
+add_core = OCC
+trade_goods = cotton
+life_rating = 30
+1861.1.1 = { railroad = 3 }

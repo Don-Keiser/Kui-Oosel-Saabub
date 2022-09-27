@@ -1,7 +1,7 @@
 capital = 1557
 primary_culture = oirat
 culture = amdo
-religion = gelugpa
+religion = mahayana
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition

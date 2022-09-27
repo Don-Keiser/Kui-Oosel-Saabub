@@ -2,5 +2,5 @@ owner = MOO
 controller = MOO
 add_core = MOO
 add_core = OHI
-trade_goods = wool
+trade_goods = grain
 life_rating = 35

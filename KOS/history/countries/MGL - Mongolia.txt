@@ -1,6 +1,6 @@
 capital = 146
 primary_culture = mongol
-religion = gelugpa
+religion = tengri
 government = absolute_empire
 plurality = 0.0
 nationalvalue = nv_tradition

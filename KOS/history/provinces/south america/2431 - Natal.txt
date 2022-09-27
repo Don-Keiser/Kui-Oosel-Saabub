@@ -1,6 +1,3 @@
-owner = LBN
-controller = LBN
-add_core = LBN
 trade_goods = cotton
 terrain = savanna
 life_rating = 35

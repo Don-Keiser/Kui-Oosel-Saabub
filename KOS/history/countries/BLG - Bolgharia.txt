@@ -1,6 +1,6 @@
 capital = 674
 primary_culture = bulgar_tatar
-religion = thessalonian_orthodox
+religion = zalmoxis
 government = absolute_monarchy
 plurality = 0.08
 nationalvalue = nv_order

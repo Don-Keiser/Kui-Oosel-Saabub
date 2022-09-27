@@ -3,8 +3,17 @@ controller = LRC
 add_core = LRC
 add_core = FRA
 trade_goods = fish
-life_rating = 32
+life_rating = 40
 terrain = saintes
+party_loyalty = {
+    ideology = reactionary
+    loyalty_value = 20
+}
+state_building = {
+    level = 1
+    building = winery
+    upgrade = yes
+}
 1861.1.1 = {
     state_building = {
         level = 1

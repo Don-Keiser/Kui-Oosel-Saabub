@@ -1,6 +1,6 @@
 capital = 955
 primary_culture = volgmyi
-religion = roman_catholic
+religion = thessalonian_orthodox
 government = colonial_company
 plurality = 62.0
 nationalvalue = nv_liberty

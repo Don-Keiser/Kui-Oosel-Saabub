@@ -3,4 +3,4 @@ controller = KVE
 add_core = KVE
 trade_goods = fish
 terrain = hammerfest
-life_rating = 25
+life_rating = 30

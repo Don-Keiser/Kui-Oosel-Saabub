@@ -1,0 +1,6 @@
+owner = GYO
+controller = GYO
+add_core = GYO
+add_core = OOS
+trade_goods = tobacco
+life_rating = 40

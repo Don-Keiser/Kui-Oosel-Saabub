@@ -2,4 +2,4 @@ owner = VUT
 controller = VUT
 add_core = VUT
 trade_goods = fish
-life_rating = 34
+life_rating = 35

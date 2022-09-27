@@ -1,6 +1,6 @@
 capital = 665
 primary_culture = kunsag
-religion = roman_catholic
+religion = thessalonian_orthodox
 government = march
 plurality = 5.0
 nationalvalue = nv_tradition

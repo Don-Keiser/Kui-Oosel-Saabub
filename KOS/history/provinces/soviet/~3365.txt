@@ -1,0 +1,6 @@
+owner = THU
+controller = THU
+add_core = THU
+trade_goods = timber
+terrain = forest
+life_rating = 40

@@ -3,4 +3,4 @@ controller = REG
 add_core = REG
 terrain = semidesert
 trade_goods = fish
-life_rating = 30
+life_rating = 35

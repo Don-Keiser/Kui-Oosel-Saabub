@@ -2,7 +2,17 @@ owner = EST
 controller = EST
 add_core = EST
 trade_goods = grain
-life_rating = 40
+life_rating = 45
 terrain = reval
 fort = 1
 naval_base = 2
+state_building = {
+    level = 2
+    building = canned_food_factory
+    upgrade = yes
+}
+state_building = {
+    level = 2
+    building = furniture_factory
+    upgrade = yes
+}

@@ -1,6 +1,6 @@
 capital = 1706
 primary_culture = numidian
-religion = roman_catholic
+religion = african_catholic
 government = absolute_monarchy
 plurality = 5.0
 nationalvalue = nv_order

@@ -1,7 +1,7 @@
 capital = 1926
 primary_culture = yoruba
 culture = fon
-religion = roman_catholic
+religion = fetishist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

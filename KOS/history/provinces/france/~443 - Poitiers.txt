@@ -1,0 +1,8 @@
+owner = LRC
+controller = LRC
+add_core = LRC
+add_core = FRA
+trade_goods = grain
+life_rating = 30
+terrain = poitiers
+1861.1.1 = { railroad = 3 }

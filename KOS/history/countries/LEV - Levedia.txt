@@ -1,6 +1,6 @@
 capital = 978
 primary_culture = levedi
-religion = roman_catholic
+religion = asatru
 government = democracy
 plurality = 62.0
 nationalvalue = nv_liberty

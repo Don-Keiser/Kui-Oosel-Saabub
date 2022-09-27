@@ -1,6 +1,6 @@
 capital = 112
 primary_culture = native_american_minor
-religion = animist
+religion = tengri
 government = colonial_company
 plurality = 0
 nationalvalue = nv_order

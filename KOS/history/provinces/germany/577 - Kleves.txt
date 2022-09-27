@@ -2,6 +2,6 @@ owner = FRI
 controller = FRI
 add_core = FRI
 trade_goods = coal
-life_rating = 40
+life_rating = 35
 terrain = mining_district
 1861.1.1 = { railroad = 3 }

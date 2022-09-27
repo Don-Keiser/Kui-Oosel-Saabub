@@ -1,6 +1,6 @@
 capital = 1204
 primary_culture = turkmen
-religion = tengri
+religion = zoroastrian
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

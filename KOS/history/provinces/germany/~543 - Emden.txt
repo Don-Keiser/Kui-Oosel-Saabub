@@ -1,0 +1,7 @@
+owner = FRI
+controller = FRI
+add_core = FRI
+trade_goods = fish
+life_rating = 40
+naval_base = 1
+terrain = marsh

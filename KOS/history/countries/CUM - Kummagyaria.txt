@@ -1,7 +1,7 @@
 capital = 1036
 primary_culture = kummagyar
 culture = cuman
-religion = roman_catholic
+religion = uralic
 government = hms_government
 plurality = 32.0
 nationalvalue = nv_equality

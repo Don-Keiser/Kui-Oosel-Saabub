@@ -1,6 +1,6 @@
 capital = 296
 primary_culture = welsh
-religion = roman_catholic
+religion = african_catholic
 government = elective_monarchy
 plurality = 0.1
 nationalvalue = nv_order

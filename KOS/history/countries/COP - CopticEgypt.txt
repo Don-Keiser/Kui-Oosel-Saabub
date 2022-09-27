@@ -1,7 +1,7 @@
 capital = 1745
 primary_culture = copt
 culture = kushite
-religion = coptic
+religion = alexandrian_orthodox
 government = absolute_monarchy
 plurality = 0.20
 nationalvalue = nv_tradition

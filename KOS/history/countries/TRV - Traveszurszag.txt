@@ -1,6 +1,6 @@
 capital = 771
 primary_culture = travesz
-religion = roman_catholic
+religion = thessalonian_orthodox
 government = colonial_company
 plurality = 5.0
 nationalvalue = nv_tradition

@@ -1,0 +1,6 @@
+owner = LBN
+controller = LBN
+add_core = LBN
+trade_goods = cotton
+terrain = new_world_semidesert
+life_rating = 25

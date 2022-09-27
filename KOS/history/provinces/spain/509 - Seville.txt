@@ -2,13 +2,16 @@ owner = SEV
 controller = SEV
 add_core = SEV
 trade_goods = coal
-life_rating = 35
+life_rating = 45
 terrain = seville
-1861.1.1 = {
-    state_building = {
-        level = 1
-        building = fabric_factory
-        upgrade = yes
-    }
+state_building = {
+    level = 1
+    building = ammunition_factory
+    upgrade = yes
 }
-1861.1.1 = { railroad = 1 }
+state_building = {
+    level = 1
+    building = fabric_factory
+    upgrade = yes
+}
+1861.1.1 = { railroad = 2 }

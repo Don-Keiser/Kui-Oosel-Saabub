@@ -2,17 +2,5 @@ owner = TLD
 controller = TLD
 add_core = TLD
 trade_goods = cattle
-life_rating = 40
+life_rating = 35
 terrain = madrid
-fort = 1
-#state_building = {
-#    level = 1
-#    building = ammunition_factory
-#    upgrade = yes
-#}
-#state_building = {
-#    level = 1
-#    building = small_arms_factory
-#    upgrade = yes
-#}
-1861.1.1 = { railroad = 2 }

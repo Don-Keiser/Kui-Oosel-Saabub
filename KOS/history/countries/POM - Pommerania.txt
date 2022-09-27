@@ -1,7 +1,7 @@
 capital = 546
 primary_culture = pomeranian
 culture = kashubian
-religion = african_catholic
+religion = vulgar
 government = march
 plurality = 0
 nationalvalue = nv_order

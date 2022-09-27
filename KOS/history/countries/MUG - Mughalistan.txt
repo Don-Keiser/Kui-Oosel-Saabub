@@ -1,7 +1,7 @@
 capital = 1236
 primary_culture = panjabi
 culture = avadhi
-religion = sunni
+religion = mahayana
 government = absolute_empire
 plurality = 0.0
 nationalvalue = nv_tradition

@@ -2,4 +2,4 @@ owner = KIK
 controller = KIK
 add_core = KIK
 trade_goods = iron
-life_rating = 32
+life_rating = 35

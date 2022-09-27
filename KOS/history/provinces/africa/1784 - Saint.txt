@@ -1,8 +1,8 @@
-owner = LBN
-controller = LBN
+owner = MLI
+controller = MLI
+add_core = MLI
 add_core = WOL
 add_core = TOO
 trade_goods = cotton
 terrain = coastal_desert
 life_rating = 35
-colonial = 2

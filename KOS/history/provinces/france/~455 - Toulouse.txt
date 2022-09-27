@@ -1,0 +1,9 @@
+owner = AQT
+controller = AQT
+add_core = AQT
+add_core = FRA
+add_core = OCC
+trade_goods = tobacco
+life_rating = 35
+terrain = toulouse
+1861.1.1 = { railroad = 2 }

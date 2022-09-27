@@ -1,7 +1,7 @@
 capital = 116
 primary_culture = khaliji
 culture = bahrani
-religion = animist
+religion = manichaean
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

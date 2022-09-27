@@ -2,4 +2,4 @@ owner = FRI
 controller = FRI
 add_core = FRI
 trade_goods = coal
-life_rating = 35
+life_rating = 40

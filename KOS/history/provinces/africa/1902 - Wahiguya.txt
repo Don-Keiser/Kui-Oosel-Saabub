@@ -3,4 +3,4 @@ controller = MLI
 add_core = MLI
 trade_goods = fruit
 terrain = semidesert
-life_rating = 32
+life_rating = 35

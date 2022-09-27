@@ -1,7 +1,7 @@
 capital = 902
 primary_culture = syriac
 culture = assyrian
-religion = syriac
+religion = alexandrian_orthodox
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

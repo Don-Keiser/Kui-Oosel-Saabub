@@ -1,7 +1,7 @@
 capital = 1469
 primary_culture = tatar
 culture = mongol
-religion = tengri
+religion = uralic
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

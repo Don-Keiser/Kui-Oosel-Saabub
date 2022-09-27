@@ -1,0 +1,5 @@
+add_core = KIK
+trade_goods = grain
+terrain = coastal_desert
+life_rating = 20
+colonial = 2

@@ -6,12 +6,12 @@ christian = {
 
     roman_catholic = {
         icon = 1
-        color = { 0.8 0.8 0 }
+        color = { 0.7 0.8 0.5 }
     }
 
     african_catholic = {
         icon = 2
-        color = { 0 0 0.7 }
+        color = { 0.5 0.6 0.4 }
     }
 
     alexandrian_orthodox = {
@@ -31,13 +31,13 @@ christian = {
 
     thessalonian_orthodox = {
         icon = 3
-        color = { 0.7 0.5 0 }
+        color = { 0.7 0.6 0.7 }
 
     }
 	
     coptic = {
         icon = 4
-        color = { 0 0.5 0.7 }
+        color = { 0.8 0.3 0.6 }
 
     }
 	
@@ -49,19 +49,25 @@ christian = {
 	
     syriac = {
         icon = 21
-        color = { 0 0.5 0.7 }
+        color = { 0.2 0.5 0.7 }
 
     }
 	
 	arianism = {
         icon = 30
-        color = { 0.6 0.4 0 }
+        color = { 0.2 0.2 0.1 }
 
     }
 	
 	manichaean = {
         icon = 31
         color = { 0.4 0.1 0.1 }
+
+    }
+	
+	vulgar = {
+        icon = 33
+        color = { 0.4 0.5 0.6 }
 
     }
 }
@@ -183,6 +189,14 @@ modern_pagan = {
 	}
 	kemetic = {
 		icon = 32
-		color = { 0.5 0.6 0.4 }
+		color = { 0.7 0.7 0 }
+	}
+	uralic = {
+		icon = 34
+		color = { 0.4 0 0.6 }
+	}
+	zalmoxis = {
+		icon = 35
+		color = { 0.3 0 0.1 }
 	}
 }

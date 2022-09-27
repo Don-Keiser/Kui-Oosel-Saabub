@@ -1,6 +1,6 @@
 capital = 2638
 primary_culture = persian
-religion = manichaean
+religion = zoroastrian
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

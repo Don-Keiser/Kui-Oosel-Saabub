@@ -4,4 +4,4 @@ add_core = FIN
 add_core = KRL
 trade_goods = timber
 terrain = boreal
-life_rating = 10
+life_rating = 30

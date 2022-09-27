@@ -1,7 +1,7 @@
-owner = LBN
-controller = LBN
+owner = MLI
+controller = MLI
+add_core = MLI
 add_core = WOL
 trade_goods = fish
 terrain = coastal_desert
 life_rating = 35
-colonial = 2

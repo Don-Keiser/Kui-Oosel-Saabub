@@ -1,7 +1,7 @@
 capital = 269
 primary_culture = gaidhlig
 culture = cumbric
-religion = alexandrian_orthodox
+religion = vulgar
 government = march
 plurality = 0.1
 nationalvalue = nv_order

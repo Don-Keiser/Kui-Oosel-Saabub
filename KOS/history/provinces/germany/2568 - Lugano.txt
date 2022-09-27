@@ -2,4 +2,4 @@ owner = BRG
 controller = BRG
 add_core = BRG
 trade_goods = wool
-life_rating = 32
+life_rating = 35

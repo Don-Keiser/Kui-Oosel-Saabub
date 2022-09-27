@@ -2,5 +2,5 @@ owner = MOO
 controller = MOO
 add_core = MOO
 trade_goods = cattle
-life_rating = 15
+life_rating = 35
 terrain = marsh

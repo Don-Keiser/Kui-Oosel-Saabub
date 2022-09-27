@@ -1,6 +1,6 @@
 capital = 719
 primary_culture = vaala
-religion = african_catholic
+religion = uralic
 government = absolute_monarchy
 plurality = 2.0
 nationalvalue = nv_order

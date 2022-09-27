@@ -2,5 +2,5 @@ owner = COP
 controller = COP
 add_core = COP
 trade_goods = wool
-life_rating = 10
+life_rating = 20
 terrain = coastal_desert

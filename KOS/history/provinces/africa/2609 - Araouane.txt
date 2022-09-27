@@ -1,2 +1,5 @@
+owner = SOS
+controller = SOS
+add_core = SOS
 trade_goods = wool
-life_rating = 18
+life_rating = 30

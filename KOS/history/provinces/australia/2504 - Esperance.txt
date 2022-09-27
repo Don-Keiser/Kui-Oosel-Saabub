@@ -3,4 +3,4 @@ controller = VUT
 add_core = VUT
 trade_goods = wool
 terrain = dryhills
-life_rating = 32
+life_rating = 35

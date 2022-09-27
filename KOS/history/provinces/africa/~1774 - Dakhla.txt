@@ -1,0 +1,6 @@
+owner = SOS
+controller = SOS
+add_core = SOS
+trade_goods = fish
+terrain = coastal_desert
+life_rating = 25

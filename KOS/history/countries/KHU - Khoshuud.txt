@@ -1,6 +1,6 @@
 capital = 1558
 primary_culture = kham
-religion = gelugpa
+religion = mahayana
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition

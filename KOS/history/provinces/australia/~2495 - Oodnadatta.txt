@@ -1,0 +1,4 @@
+add_core = VUT
+trade_goods = wool
+terrain = semidesert
+life_rating = 15

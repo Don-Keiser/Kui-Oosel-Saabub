@@ -3,8 +3,12 @@ controller = LRC
 add_core = LRC
 add_core = FRA
 trade_goods = coal
-life_rating = 30
+life_rating = 40
 terrain = fontenay
+party_loyalty = {
+    ideology = reactionary
+    loyalty_value = 20
+}
 1861.1.1 = {
     naval_base = 2
 }

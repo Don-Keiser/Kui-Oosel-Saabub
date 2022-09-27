@@ -3,4 +3,4 @@ controller = GTL
 add_core = GTL
 add_core = OCC
 trade_goods = wool
-life_rating = 30
+life_rating = 35

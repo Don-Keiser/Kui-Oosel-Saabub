@@ -1,0 +1,7 @@
+owner = AQT
+controller = AQT
+add_core = AQT
+add_core = FRA
+add_core = OCC
+trade_goods = iron
+life_rating = 30

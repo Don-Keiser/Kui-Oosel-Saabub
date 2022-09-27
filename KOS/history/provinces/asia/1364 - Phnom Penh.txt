@@ -2,5 +2,5 @@ owner = MGI
 controller = MGI
 add_core = MGI
 trade_goods = tropical_wood
-life_rating = 40
+life_rating = 35
 terrain = floodplain_farmland

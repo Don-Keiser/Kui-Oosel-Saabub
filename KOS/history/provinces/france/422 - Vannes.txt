@@ -3,4 +3,4 @@ controller = DUM
 add_core = DUM
 add_core = BRT
 trade_goods = fish
-life_rating = 30
+life_rating = 35

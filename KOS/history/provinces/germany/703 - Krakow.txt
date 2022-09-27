@@ -2,6 +2,6 @@ owner = LDM
 controller = LDM
 add_core = LDM
 trade_goods = coal
-life_rating = 40
+life_rating = 42
 terrain = krakow
 1861.1.1 = { railroad = 3 }

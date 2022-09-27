@@ -2,4 +2,4 @@ owner = FRI
 controller = FRI
 add_core = FRI
 trade_goods = cattle
-life_rating = 40
+life_rating = 35

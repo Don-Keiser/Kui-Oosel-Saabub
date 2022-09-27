@@ -1428,6 +1428,18 @@
 		size = 8000
 	}
 	
+	clerks = {
+		culture = rochelaes
+		religion = roman_catholic
+		size = 100
+	}
+	
+	craftsmen = {
+		culture = rochelaes
+		religion = roman_catholic
+		size = 4000
+	}
+	
 	soldiers = {
 		culture = rochelaes
 		religion = roman_catholic
@@ -1437,7 +1449,7 @@
 	labourers = {
 		culture = rochelaes
 		religion = roman_catholic
-		size = 45000
+		size = 42000
 	}
 	
 	labourers = {
@@ -2356,7 +2368,13 @@
 	clerks = {
 		culture = rochelaes
 		religion = roman_catholic
-		size = 300
+		size = 800
+	}
+	
+	craftsmen = {
+		culture = rochelaes
+		religion = roman_catholic
+		size = 10000
 	}
 	
 	craftsmen = {
@@ -2392,7 +2410,7 @@
 	farmers = {
 		culture = rochelaes
 		religion = roman_catholic
-		size = 100000
+		size = 92000
 	}
 	
 	farmers = {
@@ -2488,6 +2506,18 @@
 		religion = roman_catholic
 		size = 2000
 	}
+	
+	clerks = {
+		culture = rochelaes
+		religion = roman_catholic
+		size = 100
+	}
+	
+	craftsmen = {
+		culture = rochelaes
+		religion = roman_catholic
+		size = 4500
+	}
 
 	soldiers = {
 		culture = rochelaes
@@ -2498,7 +2528,7 @@
 	farmers = {
 		culture = rochelaes
 		religion = roman_catholic
-		size = 53000
+		size = 60000
 	}
 
 	farmers = {
@@ -2510,7 +2540,7 @@
 	farmers = {
 		culture = aquitan
 		religion = roman_catholic
-		size = 18000
+		size = 10000
 	}
 	
 }
@@ -4435,6 +4465,18 @@
         religion = roman_catholic
         size = 1400
     }
+	
+	clerks = {
+		culture = rochelaes
+		religion = roman_catholic
+		size = 100
+	}
+	
+	craftsmen = {
+		culture = rochelaes
+		religion = roman_catholic
+		size = 6000
+	}
 
     soldiers = {
         culture = rochelaes
@@ -4445,7 +4487,7 @@
     farmers = {
         culture = rochelaes
         religion = roman_catholic
-        size = 52000
+        size = 48000
     }
 	
     farmers = {

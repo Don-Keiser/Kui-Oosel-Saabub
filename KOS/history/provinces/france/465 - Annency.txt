@@ -4,4 +4,4 @@ add_core = BRG
 add_core = FRA
 trade_goods = coal
 terrain = annecy
-life_rating = 30
+life_rating = 35

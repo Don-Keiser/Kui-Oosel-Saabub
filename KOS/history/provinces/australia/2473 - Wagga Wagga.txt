@@ -3,4 +3,4 @@ controller = VUT
 add_core = VUT
 trade_goods = grain
 terrain = savanna
-life_rating = 30
+life_rating = 35

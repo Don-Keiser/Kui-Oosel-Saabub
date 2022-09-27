@@ -1,6 +1,6 @@
 capital = 770
 primary_culture = histri
-religion = roman_catholic
+religion = thessalonian_orthodox
 government = democracy
 plurality = 90.0
 nationalvalue = nv_liberty

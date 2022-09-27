@@ -1,5 +1,5 @@
 capital = 1731
-primary_culture = neo_punic
+primary_culture = african_romance
 religion = roman_catholic
 government = presidential_dictatorship
 plurality = 10

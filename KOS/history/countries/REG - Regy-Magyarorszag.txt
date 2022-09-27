@@ -1,7 +1,7 @@
 capital = 1037
 primary_culture = regymagyar
 culture = nogay_tatar
-religion = roman_catholic
+religion = uralic
 government = absolute_monarchy
 plurality = 12.0
 nationalvalue = nv_order

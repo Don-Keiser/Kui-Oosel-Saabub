@@ -2,5 +2,5 @@ owner = CTG
 controller = CTG
 add_core = CTG
 trade_goods = fruit
-life_rating = 35
+life_rating = 40
 1861.1.1 = { railroad = 2 }

@@ -1,7 +1,7 @@
 capital = 718
 primary_culture = ohitsemid
 culture = west_krevin
-religion = african_catholic
+religion = uralic
 government = march
 plurality = 0.6
 nationalvalue = nv_order

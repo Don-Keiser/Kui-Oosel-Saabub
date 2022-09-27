@@ -1,7 +1,7 @@
 capital = 1113
 primary_culture = mazanderani
 culture = persian
-religion = shiite
+religion = zoroastrian
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

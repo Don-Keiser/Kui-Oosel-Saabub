@@ -2,5 +2,11 @@ owner = TLD
 controller = TLD
 add_core = TLD
 trade_goods = iron
-life_rating = 35
+life_rating = 40
+fort = 1
+state_building = {
+    level = 1
+    building = ammunition_factory
+    upgrade = yes
+}
 1861.1.1 = { railroad = 2 }

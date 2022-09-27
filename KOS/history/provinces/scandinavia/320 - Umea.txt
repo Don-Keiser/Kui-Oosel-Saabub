@@ -3,4 +3,4 @@ controller = KVE
 add_core = KVE
 trade_goods = timber
 terrain = boreal
-life_rating = 30
+life_rating = 35

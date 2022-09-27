@@ -1,0 +1,6 @@
+owner = SCN
+controller = SCN
+colonial = 2
+add_core = ASH
+trade_goods = cattle
+life_rating = 25

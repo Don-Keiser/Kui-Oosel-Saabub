@@ -1,0 +1,5 @@
+owner = TRV
+controller = TRV
+add_core = TRV
+trade_goods = fruit
+life_rating = 35

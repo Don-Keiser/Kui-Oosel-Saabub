@@ -1,6 +1,6 @@
 capital = 409
 primary_culture = ostrisch
-religion = african_catholic
+religion = roman_catholic
 government = democracy
 plurality = 0.0
 nationalvalue = nv_equality

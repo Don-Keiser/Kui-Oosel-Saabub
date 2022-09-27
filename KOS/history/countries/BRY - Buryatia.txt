@@ -1,7 +1,7 @@
 capital = 2670
 primary_culture = mongol
 culture = russian
-religion = gelugpa
+religion = uralic
 government = absolute_monarchy
 plurality = 0.02
 nationalvalue = nv_order

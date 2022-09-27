@@ -1,7 +1,7 @@
 capital = 343
 primary_culture = finnish
 culture = karelian
-religion = african_catholic
+religion = uralic
 government = absolute_monarchy
 plurality = 0.5
 nationalvalue = nv_productivity

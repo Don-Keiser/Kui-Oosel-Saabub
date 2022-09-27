@@ -3,5 +3,5 @@ controller = AKV
 add_core = AKV
 add_core = OOS
 trade_goods = cotton
-life_rating = 35
+life_rating = 40
 terrain = jungle_farmland

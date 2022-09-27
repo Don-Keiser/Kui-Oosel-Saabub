@@ -2,6 +2,6 @@ owner = HES
 controller = HES
 add_core = HES
 trade_goods = iron
-life_rating = 40
+life_rating = 35
 terrain = farmlands
 1861.1.1 = { railroad = 3 }

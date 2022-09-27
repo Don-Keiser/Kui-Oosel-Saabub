@@ -1,6 +1,6 @@
 capital = 325
 primary_culture = swedish
-religion = african_catholic
+religion = vulgar
 government = absolute_monarchy
 plurality = 15.0
 nationalvalue = nv_order

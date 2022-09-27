@@ -1,10 +1,8 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = SHN
+controller = SHN
 add_core = CHI
+add_core = SHN
 add_core = GNG
 trade_goods = precious_goods
 life_rating = 35
 terrain = macao
-
-colonial = 2

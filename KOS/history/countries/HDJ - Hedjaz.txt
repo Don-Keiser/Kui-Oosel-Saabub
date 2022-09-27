@@ -1,7 +1,7 @@
 capital = 1151
 primary_culture = hijazi
 culture = najdi
-religion = sunni
+religion = manichaean
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

@@ -1,6 +1,6 @@
 capital = 575
-primary_culture = north_german
-religion = roman_catholic
+primary_culture = saksysk
+religion = african_catholic
 government = theocracy
 plurality = 0
 nationalvalue = nv_order

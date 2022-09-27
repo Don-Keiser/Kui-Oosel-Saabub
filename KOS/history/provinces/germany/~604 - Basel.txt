@@ -1,0 +1,11 @@
+owner = BRG
+controller = BRG
+add_core = BRG
+trade_goods = precious_goods
+life_rating = 32
+fort = 1
+state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = yes
+}

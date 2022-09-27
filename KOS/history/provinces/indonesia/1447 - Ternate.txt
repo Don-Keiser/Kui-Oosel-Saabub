@@ -3,5 +3,5 @@ controller = AKV
 add_core = AKV
 add_core = OOS
 trade_goods = fish
-life_rating = 34
+life_rating = 35
 naval_base = 1

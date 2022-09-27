@@ -1,6 +1,6 @@
 capital = 509
 primary_culture = ispannu
-religion = roman_catholic
+religion = african_catholic
 government = absolute_monarchy
 plurality = 0.02
 nationalvalue = nv_order

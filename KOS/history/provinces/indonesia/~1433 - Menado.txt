@@ -1,0 +1,11 @@
+owner = AKV
+controller = AKV
+add_core = AKV
+add_core = OOS
+trade_goods = dye
+life_rating = 34
+state_building = {
+    level = 1
+    building = fabric_factory
+    upgrade = yes
+}

@@ -3,5 +3,9 @@ controller = LRC
 add_core = LRC
 add_core = FRA
 trade_goods = fish
-life_rating = 30
+life_rating = 35
 terrain = retz
+party_loyalty = {
+    ideology = reactionary
+    loyalty_value = 15
+}

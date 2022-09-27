@@ -2,18 +2,32 @@ owner = LRC
 controller = LRC
 add_core = LRC
 add_core = FRA
-trade_goods = precious_metal
-life_rating = 38
+trade_goods = precious_goods
+life_rating = 45
 naval_base = 2
 terrain = larochelle
+party_loyalty = {
+    ideology = reactionary
+    loyalty_value = 20
+}
 state_building = {
     level = 1
-    building = fabric_factory
+    building = steel_factory
     upgrade = yes
 }
 state_building = {
     level = 1
+    building = canned_food_factory
+    upgrade = yes
+}
+state_building = {
+    level = 2
     building = winery
+    upgrade = yes
+}
+state_building = {
+    level = 2
+    building = small_arms_factory
     upgrade = yes
 }
 1861.1.1 = { railroad = 3 }

@@ -1,5 +1,10 @@
 owner = EST
 controller = EST
 add_core = EST
-trade_goods = fish
-life_rating = 35
+trade_goods = grain
+life_rating = 40
+state_building = {
+    level = 1
+    building = fabric_factory
+    upgrade = yes
+}

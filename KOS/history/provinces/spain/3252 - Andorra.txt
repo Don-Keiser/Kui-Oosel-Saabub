@@ -3,5 +3,5 @@ controller = GTL
 add_core = GTL
 add_core = OCC
 trade_goods = iron
-life_rating = 25
+life_rating = 35
 1861.1.1 = { railroad = 2 }

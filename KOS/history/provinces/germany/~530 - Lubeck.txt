@@ -1,0 +1,8 @@
+owner = SCN
+controller = SCN
+add_core = SCN
+trade_goods = fish
+life_rating = 40
+naval_base = 1
+terrain = lubeck
+1861.1.1 = { railroad = 3 }

@@ -1,6 +1,6 @@
 capital = 37
 primary_culture = metis
-religion = roman_catholic
+religion = tengri
 government = colonial_company
 plurality = 5.0
 nationalvalue = nv_liberty

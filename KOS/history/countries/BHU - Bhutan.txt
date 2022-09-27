@@ -1,6 +1,6 @@
 capital = 1329
 primary_culture = dzongkha
-religion = gelugpa
+religion = mahayana
 government = colonial_company
 plurality = 0.0
 nationalvalue = nv_tradition

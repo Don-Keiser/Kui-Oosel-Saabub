@@ -1,0 +1,6 @@
+owner = DUM
+controller = DUM
+add_core = DUM
+add_core = BRT
+trade_goods = fish
+life_rating = 30

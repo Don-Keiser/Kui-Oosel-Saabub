@@ -1,6 +1,6 @@
 capital = 506
 primary_culture = cartaginesu
-religion = roman_catholic
+religion = african_catholic
 government = hms_government
 plurality = 12.0
 nationalvalue = nv_liberty

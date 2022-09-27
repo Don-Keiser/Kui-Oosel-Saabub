@@ -1,7 +1,6 @@
 capital = 972
 primary_culture = etelkozi
-culture = bulgar_tatar
-religion = roman_catholic
+religion = thessalonian_orthodox
 government = hms_government
 plurality = 32.0
 nationalvalue = nv_order

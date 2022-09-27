@@ -1,6 +1,6 @@
 capital = 894
 primary_culture = armenian
-religion = coptic
+religion = alexandrian_orthodox
 government = oligarchic_republic
 plurality = 0.0
 nationalvalue = nv_order

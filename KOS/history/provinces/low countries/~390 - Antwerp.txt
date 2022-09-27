@@ -1,0 +1,8 @@
+owner = FRI
+controller = FRI
+add_core = FRI
+trade_goods = cattle
+life_rating = 35
+terrain = antwerp
+railroad = 1
+1861.1.1 = { railroad = 3 }

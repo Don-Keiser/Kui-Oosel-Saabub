@@ -1,5 +1,5 @@
 owner = TBT
 controller = TBT
 add_core = TBT
-trade_goods = wool
+trade_goods = fruit
 life_rating = 32

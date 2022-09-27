@@ -1,5 +1,5 @@
 add_core = VUT
 trade_goods = fish
-life_rating = 32
+life_rating = 30
 terrain = perth
 colonial = 2

@@ -2,5 +2,5 @@ owner = LDM
 controller = LDM
 add_core = LDM
 trade_goods = coal
-life_rating = 35
+life_rating = 40
 terrain = lvov

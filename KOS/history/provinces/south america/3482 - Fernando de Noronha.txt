@@ -1,5 +1,2 @@
-owner = LBN
-controller = LBN
-add_core = LBN
 trade_goods = fish
 life_rating = 35
