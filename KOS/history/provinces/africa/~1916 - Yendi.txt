@@ -1,5 +1,0 @@
-owner = MOS
-controller = MOS
-add_core = MOS
-trade_goods = cattle
-life_rating = 25

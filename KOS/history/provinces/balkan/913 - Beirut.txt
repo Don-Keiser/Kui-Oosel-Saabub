@@ -1,6 +1,6 @@
-owner = LBN
-controller = LBN
-add_core = LBN
+owner = SYR
+controller = SYR
+add_core = SYR
 trade_goods = fish
 life_rating = 35
 terrain = semidesert

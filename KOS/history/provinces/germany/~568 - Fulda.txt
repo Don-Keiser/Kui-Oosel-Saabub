@@ -1,5 +1,0 @@
-owner = HES
-controller = HES
-add_core = HES
-trade_goods = timber
-life_rating = 40

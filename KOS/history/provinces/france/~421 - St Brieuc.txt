@@ -1,6 +1,0 @@
-owner = DUM
-controller = DUM
-add_core = DUM
-add_core = BRT
-trade_goods = grain
-life_rating = 30

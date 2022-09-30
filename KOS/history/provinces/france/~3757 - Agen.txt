@@ -1,7 +1,0 @@
-owner = AQT
-controller = AQT
-add_core = AQT
-add_core = FRA
-add_core = OCC
-trade_goods = silk
-life_rating = 32

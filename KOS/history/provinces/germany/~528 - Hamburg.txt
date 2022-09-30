@@ -1,9 +1,0 @@
-owner = FRI
-controller = FRI
-add_core = FRI
-trade_goods = fish
-life_rating = 42
-terrain = hamburg
-fort = 1
-naval_base = 1
-1861.1.1 = { railroad = 3 }

@@ -1,7 +1,0 @@
-owner = LBN
-controller = LBN
-add_core = WOL
-trade_goods = fish
-terrain = coastal_desert
-life_rating = 35
-colonial = 2

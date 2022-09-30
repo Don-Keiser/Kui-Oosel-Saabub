@@ -1,7 +1,0 @@
-owner = LOV
-controller = LOV
-add_core = LOV
-add_core = OOS
-trade_goods = fish
-terrain = small_island
-life_rating = 32

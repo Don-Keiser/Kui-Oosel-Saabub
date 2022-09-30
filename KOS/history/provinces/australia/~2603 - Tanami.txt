@@ -1,4 +1,0 @@
-add_core = KIK
-trade_goods = wool
-terrain = semidesert
-life_rating = 15

@@ -1,6 +1,0 @@
-owner = THU
-controller = THU
-add_core = THU
-terrain = chemnitz
-trade_goods = iron
-life_rating = 40

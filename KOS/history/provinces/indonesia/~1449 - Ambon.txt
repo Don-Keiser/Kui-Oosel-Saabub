@@ -1,7 +1,0 @@
-owner = AKV
-controller = AKV
-add_core = AKV
-add_core = OOS
-trade_goods = grain
-life_rating = 34
-terrain = jungle_mountains

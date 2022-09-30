@@ -1,6 +1,0 @@
-owner = OOS
-controller = OOS
-add_core = OOS
-trade_goods = grain
-life_rating = 31
-terrain = jungle_mountains

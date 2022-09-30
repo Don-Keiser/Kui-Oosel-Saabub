@@ -1,5 +1,0 @@
-add_core = VUT
-trade_goods = fish
-life_rating = 32
-terrain = perth
-colonial = 2

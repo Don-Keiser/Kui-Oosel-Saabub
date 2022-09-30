@@ -1,7 +1,0 @@
-owner = LRC
-controller = LRC
-add_core = LRC
-add_core = FRA
-add_core = OCC
-trade_goods = fish
-life_rating = 30

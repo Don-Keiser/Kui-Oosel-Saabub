@@ -1,6 +1,0 @@
-owner = KIK
-controller = KIK
-add_core = KIK
-trade_goods = grain
-terrain = savanna
-life_rating = 32

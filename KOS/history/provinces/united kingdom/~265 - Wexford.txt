@@ -1,7 +1,0 @@
-owner = AKV
-controller = AKV
-add_core = AKV
-add_core = OOS
-trade_goods = cotton
-life_rating = 35
-terrain = jungle_farmland

@@ -1,9 +1,0 @@
-owner = LOV
-controller = LOV
-add_core = LOV
-add_core = OOS
-trade_goods = tropical_wood
-life_rating = 42
-terrain = singapore
-fort = 1
-naval_base = 2

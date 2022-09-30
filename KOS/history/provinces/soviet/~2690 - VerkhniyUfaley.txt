@@ -1,5 +1,0 @@
-owner = REG
-controller = REG
-add_core = REG
-trade_goods = wool
-life_rating = 30
