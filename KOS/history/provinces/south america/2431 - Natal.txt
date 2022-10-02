@@ -1,3 +1,6 @@
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = cotton
 terrain = savanna
 life_rating = 35

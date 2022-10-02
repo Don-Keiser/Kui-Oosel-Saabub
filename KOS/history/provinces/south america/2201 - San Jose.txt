@@ -1,6 +1,3 @@
-owner = UCA
-controller = UCA
-add_core = COS
 trade_goods = fish
 life_rating = 39
 terrain = san_jose

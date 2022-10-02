@@ -135261,3 +135261,27 @@
 3780 = {
     text_scale = 1.4
 }
+
+3781 = {
+    text_scale = 1.4
+}
+
+3782 = {
+    text_scale = 1.4
+}
+
+3783 = {
+    text_scale = 1.4
+}
+
+3784 = {
+    text_scale = 1.4
+}
+
+3785 = {
+    text_scale = 1.4
+}
+
+3786 = {
+    text_scale = 1.4
+}

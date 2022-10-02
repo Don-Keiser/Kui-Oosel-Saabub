@@ -1,6 +1,2 @@
-owner = RGS
-controller = RGS
-add_core = RGS
-add_core = BRZ
 trade_goods = tobacco
 life_rating = 35

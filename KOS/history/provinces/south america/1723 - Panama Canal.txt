@@ -1,7 +1,3 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = PNM
 terrain = panama
 trade_goods = fruit
 life_rating = 32

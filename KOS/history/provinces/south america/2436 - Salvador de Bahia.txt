@@ -1,5 +1,2 @@
-owner = OYO
-controller = OYO
-add_core = OYO
 trade_goods = tobacco
 life_rating = 35

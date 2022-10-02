@@ -1,6 +1,6 @@
-owner = OYO
-controller = OYO
-add_core = OYO
+owner = MLI
+controller = MLI
+add_core = MLI
 trade_goods = cotton
 terrain = farmlands
 life_rating = 35

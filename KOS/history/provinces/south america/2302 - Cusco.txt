@@ -1,6 +1,2 @@
-owner = SPU
-controller = SPU
-add_core = SPU
-add_core = PEU
 trade_goods = wool
 life_rating = 37

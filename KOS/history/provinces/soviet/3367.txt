@@ -1,5 +1,5 @@
 owner = EST
 controller = EST
 add_core = EST
-trade_goods = wood
+trade_goods = timber
 life_rating = 35

@@ -115,31 +115,3 @@ army = {
     }
 
 }
-
-army = {
-    name = "Colorado Rebels"
-    location = 2345
-
-    regiment = {
-        name = "1.Regimiento Colorado"
-        type = infantry
-        home = 2344
-    }
-}
-
-army = {
-    name = "Colorado Rebels"
-    location = 2346
-
-    regiment = {
-        name = "1.Regimiento Colorado"
-        type = infantry
-        home = 2344
-    }
-
-regiment = {
-        name = "2.Regimiento Colorado"
-        type = infantry
-        home = 2344
-    }
-}

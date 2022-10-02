@@ -374,7 +374,7 @@ CMU;Caercolun;x;;;;
 CMU_ADJ;Caercolun;x;;;;
 CAI;Caint-Rhegin;x;;;;
 CAI_ADJ;Caint-Rhegin;x;;;;
-RAE;Resiano;x;;;;
+RAE;Resia;x;;;;
 RAE_ADJ;Resiano;x;;;;
 RAE_theocracy;Arcidiocesi de Chéira;;;;;;;;;;;;;
 AMF;Amalfi;x;;;;
@@ -503,6 +503,8 @@ AQT_fascist_dictatorship;Empire of the Aquitania;x
 AQT_proletarian_dictatorship;Mediterranean Commune;x
 AQT_presidential_dictatorship;Nova Roma;x
 AQT_democracy;Republica Aquitan;x
+ALB;Arbëni;;;;;;;;;;;;
+ALB_ADJ;Arbëneshë;;;;;;;;;;;;
 OOS_conservative;Konstitutsionalistid Kliik;x;;;;
 OOS_liberal;Hyvinvointi Parteix;;;;
 OOS_reactionary;Ehejumalikunig Kildkond;x;;;;

@@ -1,7 +1,3 @@
-owner = VNR
-controller = VNR
-add_core = VNR
-add_core = VNZ
 trade_goods = coffee
 terrain = montane_forest
 life_rating = 33
