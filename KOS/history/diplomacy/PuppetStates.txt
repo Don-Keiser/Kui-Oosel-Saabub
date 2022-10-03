@@ -726,6 +726,27 @@ vassal = {
     end_date = 1936.1.1
 }
 
+substate = {
+    first = FRI
+    second = FWK
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+substate = {
+    first = FRI
+    second = PWK
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+substate = {
+    first = FRI
+    second = TJK
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
 #Poland
 vassal = {
     first = POL

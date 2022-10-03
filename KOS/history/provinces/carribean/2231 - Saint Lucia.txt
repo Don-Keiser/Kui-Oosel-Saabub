@@ -1,6 +1,6 @@
-owner = HUN
-controller = HUN
+owner = FWK
+controller = FWK
+add_core = FWK
 trade_goods = cotton
 life_rating = 35
-colonial = 2
 terrain = new_world_small_island

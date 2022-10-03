@@ -2,9 +2,9 @@ capital = 377
 primary_culture = gruttfrysk
 culture = flaamsk
 religion = african_catholic
-government = hms_government
-plurality = 45.0
-nationalvalue = nv_equality
+government = oligarchic_republic
+plurality = 30.0
+nationalvalue = nv_productivity
 literacy = 0.0693069
 prestige = 48
 
@@ -43,8 +43,8 @@ ruling_party = HOL_liberal
 upper_house =
 {
     fascist = 0
-    liberal = 14
-    conservative = 84
+    liberal = 60
+    conservative = 35
     reactionary = 2
     radical = 0
     socialist = 0

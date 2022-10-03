@@ -1,6 +1,6 @@
-owner = FRI
-controller = FRI
-add_core = FRI
+owner = FWK
+controller = FWK
+add_core = FWK
 trade_goods = grain
 life_rating = 40
 terrain = buenosaires

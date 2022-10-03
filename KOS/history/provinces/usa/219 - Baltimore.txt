@@ -1,6 +1,6 @@
-owner = FRI
-controller = FRI
-add_core = FRI
+owner = TJK
+controller = TJK
+add_core = TJK
 trade_goods = tobacco
 life_rating = 35
 naval_base = 2

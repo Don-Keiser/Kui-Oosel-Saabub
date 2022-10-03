@@ -1,5 +1,2 @@
-owner = FRI
-controller = FRI
-add_core = FRI
 trade_goods = iron
 life_rating = 35

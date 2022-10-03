@@ -503,6 +503,12 @@ AQT_fascist_dictatorship;Empire of the Aquitania;x
 AQT_proletarian_dictatorship;Mediterranean Commune;x
 AQT_presidential_dictatorship;Nova Roma;x
 AQT_democracy;Republica Aquitan;x
+FWK;Feriene Westerlânske Kompanjy;;;;;;;;;;;;
+FWK_ADJ;Westerlânske;;;;;;;;;;;;
+PWK;Pârânâwasuske Kompanjy;;;;;;;;;;;;
+PWK_ADJ;Pârânâwasuske;;;;;;;;;;;;
+TJK;Tsjesepjukske Kompanjy;;;;;;;;;;;;
+TJK_ADJ;Tsjesepjukske;;;;;;;;;;;;
 ALB;Arbëni;;;;;;;;;;;;
 ALB_ADJ;Arbëneshë;;;;;;;;;;;;
 OOS_conservative;Konstitutsionalistid Kliik;x;;;;

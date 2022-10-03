@@ -1001,6 +1001,9 @@ SIS	    = "countries/Sistan.txt"
 KWA	    = "countries/Khwarazmia.txt"
 LRC	    = "countries/La Rochelle.txt"
 AQT		= "countries/Aquitaine.txt"
+FWK		= "countries/United Western Company.txt"
+PWK		= "countries/Para Company.txt"
+TJK		= "countries/Chesapeake Company.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
