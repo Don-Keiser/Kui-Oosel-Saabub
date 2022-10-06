@@ -95982,25 +95982,25 @@
 
 2287 = {
     text_position = {
-        x = 1601.518333
-        y = 849.351667
+        x = 1590.920000
+        y = 852.400000
     }
 
-    text_rotation = 5.697968
+    text_rotation = 5.859875
     text_scale = 3
     unit = {
-        x = 1612.405000
-        y = 838.583333
+        x = 1585.640000
+        y = 852.960000
     }
 
     factory = {
-        x = 1589.000000
-        y = 881.000000
+        x = 1588.920000
+        y = 859.120000
     }
 
     building_construction = {
-        x = 1611.340000
-        y = 856.451667
+        x = 1598.200000
+        y = 847.280000
     }
 
     building_position = {
@@ -96086,30 +96086,30 @@
 
 2290 = {
     text_position = {
-        x = 1581.093333
-        y = 835.303333
+        x = 1587.450000
+        y = 839.950000
     }
 
-    text_rotation = 5.815053
-    text_scale = 3.2
+    text_rotation = 0.423311
+    text_scale = 2.4
     unit = {
-        x = 1583.086667
-        y = 838.753333
+        x = 1584.850000
+        y = 837.300000
     }
 
     city = {
-        x = 1587.456667
-        y = 829.553333
+        x = 1582.200000
+        y = 840.950000
     }
 
     factory = {
-        x = 1588.836667
-        y = 841.283333
+        x = 1587.200000
+        y = 842.800000
     }
 
     building_construction = {
-        x = 1573.810000
-        y = 843.966667
+        x = 1590.500000
+        y = 838.200000
     }
 
     military_construction = {
@@ -96233,36 +96233,41 @@
 
 2293 = {
     text_position = {
-        x = 1615.145000
-        y = 796.550000
+        x = 1613.396667
+        y = 800.585000
     }
 
-    text_rotation = 5.913852
-    text_scale = 4.799999
+    text_rotation = 5.590379
+    text_scale = 3
     unit = {
-        x = 1619.660000
-        y = 777.545000
+        x = 1616.238333
+        y = 803.116667
+    }
+
+    city = {
+        x = 1611.898333
+        y = 804.770000
     }
 
     factory = {
-        x = 1609.000000
-        y = 814.000000
+        x = 1615.773333
+        y = 805.855000
     }
 
     building_construction = {
-        x = 1610.000000
-        y = 801.000000
+        x = 1616.496667
+        y = 797.381667
     }
 
     military_construction = {
-        x = 1617.900024
-        y = 787.099976
+        x = 1616.910000
+        y = 793.713333
     }
 
     building_position = {
         fort = {
-            x = 1629.215000
-            y = 801.905000
+            x = 1608.540000
+            y = 806.010000
         }
 
     }
@@ -96356,15 +96361,20 @@
 
 2296 = {
     text_position = {
-        x = 1631.520000
-        y = 758.975000
+        x = 1637.680000
+        y = 747.460000
     }
 
     text_rotation = 5.785843
-    text_scale = 4
+    text_scale = 2.6
     unit = {
         x = 1634.750000
         y = 753.465000
+    }
+
+    city = {
+        x = 1638.520000
+        y = 745.360000
     }
 
     factory = {
@@ -96378,14 +96388,14 @@
     }
 
     military_construction = {
-        x = 1638.075000
-        y = 747.575000
+        x = 1640.080000
+        y = 753.580000
     }
 
     building_position = {
         fort = {
-            x = 1640.545000
-            y = 766.765000
+            x = 1641.280000
+            y = 743.500000
         }
 
     }
@@ -135498,46 +135508,243 @@
 }
 
 3796 = {
-    text_scale = 1.4
+    text_position = {
+        x = 1558.250000
+        y = 855.500000
+    }
+
+    text_rotation = 5.679864
+    text_scale = 2.4
 }
 
 3797 = {
-    text_scale = 1.4
+    text_rotation = 5.423193
+    text_scale = 3
 }
 
 3798 = {
-    text_scale = 1.4
+    text_position = {
+        x = 1565.250000
+        y = 841.500000
+    }
+
+    text_rotation = 5.254527
+    text_scale = 1.9
 }
 
 3799 = {
-    text_scale = 1.4
+    text_position = {
+        x = 1583.400000
+        y = 810.450000
+    }
+
+    text_rotation = 5.416119
+    text_scale = 2
 }
 
 3800 = {
-    text_scale = 1.4
+    text_position = {
+        x = 1591.050000
+        y = 811.350000
+    }
+
+    text_rotation = 5.437363
+    text_scale = 1.8
 }
 
 3801 = {
-    text_scale = 1.4
+    text_position = {
+        x = 1595.400000
+        y = 784.250000
+    }
+
+    text_rotation = 5.383995
+    text_scale = 1.8
 }
 
 3802 = {
+    text_rotation = 5.781440
     text_scale = 1.4
 }
 
 3803 = {
-    text_scale = 1.4
+    text_position = {
+        x = 1604.200000
+        y = 766.550000
+    }
+
+    text_rotation = 5.679864
+    text_scale = 1.5
+    city = {
+        x = 1603.450000
+        y = 767.750000
+    }
+
     factory = {
         x = 1604.700000
         y = 764.700000
     }
 
+    building_position = {
+        naval_base = {
+            x = 1600.300000
+            y = 767.550000
+        }
+
+    }
+
 }
 
 3804 = {
-    text_scale = 1.4
+    text_rotation = 5.604523
+    text_scale = 2.6
 }
 
 3805 = {
+    text_position = {
+        x = 1604.900000
+        y = 780.600000
+    }
+
+    text_rotation = 5.511971
+    text_scale = 2.1
+}
+
+3806 = {
+    text_position = {
+        x = 1599.400000
+        y = 860.100000
+    }
+
+    text_rotation = 5.826264
+    text_scale = 1.7
+}
+
+3807 = {
     text_scale = 1.4
+}
+
+3808 = {
+    text_position = {
+        x = 1610.650000
+        y = 851.200000
+    }
+
+    text_rotation = 0.191502
+    text_scale = 2
+}
+
+3809 = {
+    text_position = {
+        x = 1613.160000
+        y = 837.260000
+    }
+
+    text_rotation = 0.400950
+    text_scale = 2.3
+}
+
+3810 = {
+    text_position = {
+        x = 1600.033333
+        y = 826.453333
+    }
+
+    text_rotation = 5.722992
+    text_scale = 2.2
+}
+
+3811 = {
+    text_position = {
+        x = 1587.700000
+        y = 825.150000
+    }
+
+    text_rotation = 5.529805
+    text_scale = 2.1
+}
+
+3812 = {
+    text_position = {
+        x = 1596.800000
+        y = 795.700000
+    }
+
+    text_rotation = 5.394948
+    text_scale = 2.3
+}
+
+3813 = {
+    text_position = {
+        x = 1603.760000
+        y = 799.333333
+    }
+
+    text_rotation = 5.444457
+    text_scale = 2
+}
+
+3814 = {
+    text_position = {
+        x = 1604.850000
+        y = 811.750000
+    }
+
+    text_rotation = 0.707542
+    text_scale = 1.7
+}
+
+3815 = {
+    text_position = {
+        x = 1615.500000
+        y = 813.550000
+    }
+
+    text_rotation = 5.709129
+    text_scale = 1.9
+}
+
+3816 = {
+    text_rotation = 5.465770
+    text_scale = 2.4
+}
+
+3817 = {
+    text_position = {
+        x = 1611.950000
+        y = 784.550000
+    }
+
+    text_rotation = 5.497787
+    text_scale = 2.3
+}
+
+3818 = {
+    text_position = {
+        x = 1616.700000
+        y = 774.750000
+    }
+
+    text_rotation = 0.353486
+    text_scale = 1.1
+}
+
+3819 = {
+    text_position = {
+        x = 1629.626667
+        y = 794.213333
+    }
+
+    text_rotation = 5.533233
+    text_scale = 3.5
+}
+
+3820 = {
+    text_position = {
+        x = 1632.371667
+        y = 763.923333
+    }
+
+    text_rotation = 0.412124
+    text_scale = 4
 }
