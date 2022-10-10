@@ -1,0 +1,6 @@
+owner = PEU
+controller = PEU
+add_core = PEU
+trade_goods = precious_metal
+terrain = dryhills
+life_rating = 25
