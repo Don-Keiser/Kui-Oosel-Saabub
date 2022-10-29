@@ -1,6 +1,6 @@
-owner = HES
-controller = HES
-add_core = HES
+owner = SAX
+controller = SAX
+add_core = SAX
 trade_goods = iron
 life_rating = 35
 terrain = farmlands

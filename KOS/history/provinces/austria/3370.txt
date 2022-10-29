@@ -1,5 +1,5 @@
-owner = HIS
-controller = HIS
-add_core = HIS
+owner = HUN
+controller = HUN
+add_core = HUN
 trade_goods = coal
 life_rating = 35

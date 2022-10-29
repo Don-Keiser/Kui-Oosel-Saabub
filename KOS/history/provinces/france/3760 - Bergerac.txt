@@ -1,6 +1,5 @@
-owner = AQT
-controller = AQT
-add_core = AQT
+owner = FRA
+controller = FRA
 add_core = FRA
 add_core = OCC
 trade_goods = cattle

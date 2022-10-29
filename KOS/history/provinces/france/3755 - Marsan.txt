@@ -1,7 +1,6 @@
-owner = AQT
-controller = AQT
-add_core = AQT
-add_core = FRA
-add_core = OCC
+owner = LOM
+controller = LOM
+add_core = LOM
+add_core = ITA
 trade_goods = fruit
 life_rating = 35

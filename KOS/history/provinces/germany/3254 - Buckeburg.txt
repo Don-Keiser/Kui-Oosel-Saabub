@@ -1,6 +1,6 @@
-owner = SAX
-controller = SAX
-add_core = SAX
+owner = FRI
+controller = FRI
+add_core = FRI
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = { railroad = 3 }
