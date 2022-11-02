@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = WLL
+owner = FLA
+controller = FLA
+add_core = FLA
 add_core = FRA
 trade_goods = iron
 life_rating = 35

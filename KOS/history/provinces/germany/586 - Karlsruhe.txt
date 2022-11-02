@@ -1,6 +1,6 @@
-owner = WUR
-controller = WUR
-add_core = WUR
+owner = ALS
+controller = ALS
+add_core = ALS
 trade_goods = fruit
 life_rating = 40
 terrain = karlsruhe

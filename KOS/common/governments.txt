@@ -125,6 +125,28 @@ elective_monarchy = {
     flagType = monarchy
 }
 
+imperial_duchy = {
+    liberal = yes
+    conservative = yes
+    reactionary = yes
+
+
+    election = no
+    appoint_ruling_party = yes
+    flagType = monarchy
+}
+
+imperial_county = {
+    liberal = yes
+    conservative = yes
+    reactionary = yes
+
+
+    election = no
+    appoint_ruling_party = yes
+    flagType = monarchy
+}
+
 march = {
     liberal = yes
     conservative = yes

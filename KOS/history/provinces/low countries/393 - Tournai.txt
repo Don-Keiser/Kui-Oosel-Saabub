@@ -1,8 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = FLA
+controller = FLA
 add_core = FLA
-add_core = WLL
+add_core = FRA
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

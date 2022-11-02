@@ -1,6 +1,5 @@
-owner = FRA
-controller = FRA
-add_core = FRA
-add_core = OCC
+owner = ISE
+controller = ISE
+add_core = ISE
 trade_goods = cattle
 life_rating = 35

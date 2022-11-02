@@ -76,6 +76,54 @@ ULM = {
     influence_value = 25
 }
 
+SEI = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+ANJ = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+ORL = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+RET = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+GIS = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+FLA = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+LIG = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+REN = {
+    value = 125        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
 
 
 

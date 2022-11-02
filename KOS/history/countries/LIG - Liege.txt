@@ -1,11 +1,10 @@
 capital = 395
 primary_culture = neustrien
-culture = north_german
 religion = roman_catholic
-government = democracy
+government = theocracy
 plurality = 0.05
-nationalvalue = nv_liberty
-literacy = 0.28
+nationalvalue = nv_order
+literacy = 0.5
 civilized = yes
 
 # Political reforms

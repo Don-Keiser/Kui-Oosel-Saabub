@@ -387,6 +387,13 @@ vassal = {
 	end_date = 1937.1.1
 }
 
+substate = {
+	first = HUN
+	second = SRB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
 #Greece
 vassal = {
 	first = GRE
@@ -456,13 +463,6 @@ substate = {
 
 vassal = {
 	first = FRA
-	second = BRG
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = FRA
 	second = LRC
 	start_date = 1836.1.1
 	end_date = 1937.1.1
@@ -471,6 +471,76 @@ vassal = {
 vassal = {
 	first = FRA
 	second = AQT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRA
+	second = REN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRA
+	second = ANJ
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRA
+	second = ORL
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRA
+	second = GIS
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRA
+	second = RET
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRA
+	second = SEI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRA
+	second = FLA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRA
+	second = LIG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRA
+	second = BRG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = FRA
+	second = REN
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }

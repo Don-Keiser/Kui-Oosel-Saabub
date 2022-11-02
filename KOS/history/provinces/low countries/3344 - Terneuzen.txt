@@ -1,5 +1,7 @@
-owner = FRI
-controller = FRI
+owner = FLA
+controller = FLA
+add_core = FLA
+add_core = FRA
 add_core = FRI
 trade_goods = cattle
 life_rating = 35

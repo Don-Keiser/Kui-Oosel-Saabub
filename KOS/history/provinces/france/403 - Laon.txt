@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
+owner = GIS
+controller = GIS
+add_core = GIS
 add_core = FRA
 trade_goods = timber
 life_rating = 35

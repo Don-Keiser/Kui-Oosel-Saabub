@@ -1,6 +1,6 @@
-owner = TOR
-controller = TOR
-add_core = TOR
+owner = IVR
+controller = IVR
+add_core = IVR
 add_core = ITA
 add_core = OCC
 trade_goods = fruit

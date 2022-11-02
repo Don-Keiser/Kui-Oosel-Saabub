@@ -1004,6 +1004,17 @@ AQT		= "countries/Aquitaine.txt"
 FWK		= "countries/United Western Company.txt"
 PWK		= "countries/Para Company.txt"
 TJK		= "countries/Chesapeake Company.txt"
+REN		= "countries/Rennes.txt"
+ANJ		= "countries/Anjou.txt"
+ORL		= "countries/Orleans.txt"
+GIS		= "countries/Guise.txt"
+RET		= "countries/Rethel.txt"
+SEI		= "countries/Seigneurie.txt"
+SRB		= "countries/Sorbia.txt"
+VIG		= "countries/Viguera.txt"
+IVR		= "countries/Counties of Ivrea.txt"
+ISE		= "countries/Isenburg.txt"
+SAY		= "countries/Sayn.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

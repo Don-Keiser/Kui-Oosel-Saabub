@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
+owner = ANJ
+controller = ANJ
+add_core = ANJ
 add_core = FRA
 trade_goods = coal
 life_rating = 35

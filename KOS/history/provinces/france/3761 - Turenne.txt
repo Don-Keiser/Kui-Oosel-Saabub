@@ -1,5 +1,5 @@
-owner = BSQ
-controller = BSQ
-add_core = BSQ
+owner = VIG
+controller = VIG
+add_core = VIG
 trade_goods = cattle
 life_rating = 35

@@ -135950,3 +135950,7 @@
     text_rotation = 5.972528
     text_scale = 2
 }
+
+3840 = {
+    text_scale = 1.4
+}

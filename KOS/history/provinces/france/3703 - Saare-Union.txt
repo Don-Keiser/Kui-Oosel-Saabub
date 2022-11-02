@@ -1,5 +1,5 @@
-owner = LOR
-controller = LOR
-add_core = LOR
+owner = SAY
+controller = SAY
+add_core = SAY
 trade_goods = iron
 life_rating = 35

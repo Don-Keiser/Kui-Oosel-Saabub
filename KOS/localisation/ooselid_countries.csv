@@ -30,6 +30,7 @@ CTG;Cartaginnia;x;;;;
 CTG_ADJ;Cartaginnian;x;;;;
 GTL;Gothalaunia;x;;;;
 GTL_ADJ;Gothalaunians;x;;;;
+GTL_march;Marcha de Gothalaunia;x;;;;
 MTN;Muretannia;x;;;;
 MTN_ADJ;Muretannian;x;;;;
 ISG;Agawa;x;;;;
@@ -486,11 +487,12 @@ KWA;Khwarazmia;;;;;;;;;;;;;
 KWA_ADJ;Khwarazmian;;;;;;;;;;;;;
 LRC;La Rochéle;x;;;;
 LRC_ADJ;Rochelæs;x;;;;
+LRC_imperial_duchy;Duchæ de La Rochéle;;;;;;;;;;;;;
 LRC_fascist_disctatorship;Révachol;;;;;;;;;;;;;
 LRC_absolute_monarchy;Réyàum Rochelæs;;;;;;;;;;;;;
 LRC_prussian_constitutionalism;Réyàum Rochelæs;;;;;;;;;;;;;
 LRC_hms_government;Réyàum Rochelæs;;;;;;;;;;;;;
-LRC_elective_monarchy;Duchæ de La Rochéle;;;;;;;;;;;;;
+LRC_elective_monarchy;Réyàum Rochelæs;;;;;;;;;;;;;
 LRC_democracy;Républlicq Rochelæse;;;;;;;;;;;;;
 LRC_proletarian_dictatorship;Républlicq Révolùjhiùnære Rochelæse;;;;;;;;;;;;;
 LRC_presidential_dictatorship;Républlicq Rochelæse;;;;;;;;;;;;;
@@ -498,11 +500,14 @@ LRC_bourgeois_dictatorship;Républlicq Rochelæse;;;;;;;;;;;;;
 LRC_parliamentary_republic;Républlicq Rochelæse;;;;;;;;;;;;;
 LRC_oligarchic_republic;Républlicq Rochelæse;;;;;;;;;;;;;
 AQT;Aquitània;x                                                
-AQT_ADJ;Aquitan;x                                           
+AQT_ADJ;Aquitan;x         
+AQT_imperial_duchy;Ducat d'Aquitània;;;;;;;;;;;;;                                  
 AQT_fascist_dictatorship;Empire of the Aquitania;x
 AQT_proletarian_dictatorship;Mediterranean Commune;x
 AQT_presidential_dictatorship;Nova Roma;x
 AQT_democracy;Republica Aquitan;x
+AQT_elective_monarchy;Reiaume d'Aquitània;;;;;;;;;;;;;
+AQT_absolute_monarchy;Reiaume d'Aquitània;;;;;;;;;;;;;
 FWK;Feriene Westerlânske Kompanjy;;;;;;;;;;;;
 FWK_ADJ;Westerlânske;;;;;;;;;;;;
 PWK;Pârânâwasuske Kompanjy;;;;;;;;;;;;
@@ -511,6 +516,41 @@ TJK;Tsjesepjukske Kompanjy;;;;;;;;;;;;
 TJK_ADJ;Tsjesepjukske;;;;;;;;;;;;
 ALB;Arbëni;;;;;;;;;;;;
 ALB_ADJ;Arbëneshë;;;;;;;;;;;;
+GTC;Gothica;x                                                
+GTC_ADJ;Gothic;x  
+ORL;Orléans;;;;;;;;;;;;;
+ORL_ADJ;Orléanais;;;;;;;;;;;;;
+ORL_imperial_duchy;Duché d'Orléans;;;;;;;;;;;;;
+REN;Rennes;;;;;;;;;;;;;
+REN_ADJ;Rennais;;;;;;;;;;;;;
+REN_imperial_county;Comté de Rennes;;;;;;;;;;;;;
+SEI;Bellême;;;;;;;;;;;;;
+SEI_ADJ;Bellêmois;;;;;;;;;;;;;
+SEI_imperial_county;Comté de Bellême;;;;;;;;;;;;;
+ANJ;Anjou;;;;;;;;;;;;;
+ANJ_ADJ;Angevin;;;;;;;;;;;;;
+ANJ_imperial_duchy;Duché d'Anjou;;;;;;;;;;;;;
+GIS;Guise;;;;;;;;;;;;;
+GIS_ADJ;Guisard;;;;;;;;;;;;;
+GIS_imperial_duchy;Duché de Rethel;;;;;;;;;;;;;
+RET;Rethel;;;;;;;;;;;;;
+RET_ADJ;Rethélois;;;;;;;;;;;;;
+RET_imperial_county;Comté de Rethel;;;;;;;;;;;;;
+FLA;Flaanderen;;;;;;;;;;;;;
+FLA_ADJ;Flaamsk;;;;;;;;;;;;;
+FLA_imperial_duchy;Hartochdom fan Flaanderen;;;;;;;;;;;;;
+SRB;Boika;;;;;;;;;;;;;
+SRB_ADJ;Serbska;;;;;;;;;;;;;
+SRB_march;Szorb Gyepu;;;;;;;;;;;;;
+VIG;Viguera;;;;;;;;;;;;;
+VIG_ADJ;Viguerako;;;;;;;;;;;;;
+VIG_absolute_monarchy;Viguerako Erresuma;;;;;;;;;;;;;
+IVR;Anscarid States;;;;;;;;;;;;;
+IVR_ADJ;Anscarid;;;;;;;;;;;;;
+ISE;Isenburg;;;;;;;;;;;;;
+ISE_ADJ;Isenburger;;;;;;;;;;;;;
+SAY;Sayn;;;;;;;;;;;;;
+SAY_ADJ;Sayner;;;;;;;;;;;;;
 OOS_conservative;Konstitutsionalistid Kliik;x;;;;
 OOS_liberal;Hyvinvointi Parteix;;;;
 OOS_reactionary;Ehejumalikunig Kildkond;x;;;;
@@ -977,6 +1017,10 @@ CRI_hms_government;Crimean Khanate;;;;;;;;;;;;;
 elective_monarchy;Elective Monarchy;x;;;;
 oligarchic_republic;Oligarchic Republic;x;;;;
 march;March;x;;;;
+imperial_duchy;Imperial Duchy;x;;;;
+imperial_county;Imperial County;x;;;;
 elective_monarchy_ruler;King;x;;;;
 oligarchic_republic_ruler;Your Majesty;x;;;;
 march_ruler;Lord;x;;;;
+imperial_duchy_ruler;Duke;x;;;;
+imperial_county_ruler;Count;x;;;;

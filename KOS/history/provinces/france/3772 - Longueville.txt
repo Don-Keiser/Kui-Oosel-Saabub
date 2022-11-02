@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
+owner = RET
+controller = RET
+add_core = RET
 add_core = FRA
 trade_goods = fish
 life_rating = 35
