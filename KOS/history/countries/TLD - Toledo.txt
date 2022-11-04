@@ -1,5 +1,5 @@
 capital = 489
-primary_culture = ispannu
+primary_culture = toletzianu
 religion = african_catholic
 government = hms_government
 plurality = 25.0

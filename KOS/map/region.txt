@@ -247,13 +247,13 @@ FRA_467 = { 467 469 470 471 472 3251 3432 3434 } #Provence
 
 ### Spain & Portugal
 
-SPA_474 = { 474 476 518 519 } #Galicia
+SPA_474 = { 474 476 518 519 3559 } #Galicia
 
-SPA_477 = { 477 479 480 475 478 494 3559 } #Le�n-Castilla
+SPA_477 = { 477 479 480 475 478 494 } #Le�n-Castilla
 
-SPA_484 = { 484 486 3287 } #Extremadura
+SPA_484 = { 484 485 486 491 3287 } #Extremadura
 
-SPA_487 = { 487 483 481 488 489 490 491 3702 } #Castilla la Nueva
+SPA_487 = { 487 481 488 489 490 } #Castilla la Nueva
 
 SPA_492 = { 492 460 3433 3471 3472 3761 } #Vasconia-Arag�n
 
@@ -263,9 +263,9 @@ SPA_503 = { 503 502 504 505 506 507 508 } #Valencia
 
 SPA_512 = { 512 509 510 511 517 } #Andalucia
 
-SPA_513 = { 513 514 515 516 } #Granada
+SPA_513 = { 513 514 515 516 3702 } #Granada
 
-POR_518 = { 482 485 520 522 3473 } #Douro
+POR_518 = { 482 483 520 522 3473 3841 } #Douro
 
 POR_521 = { 521 523 524 } #Lusitania
 

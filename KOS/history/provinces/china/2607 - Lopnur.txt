@@ -1,5 +1,6 @@
-owner = WHU
-controller = WHU
-add_core = WHU
+owner = KHU
+controller = KHU
+add_core = KHU
+add_core = TIB
 trade_goods = wool
 life_rating = 32

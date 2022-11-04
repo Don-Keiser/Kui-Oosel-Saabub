@@ -1,7 +1,6 @@
-owner = MUG
-controller = MUG
-add_core = MUG
-add_core = HND
+owner = EHI
+controller = EHI
+add_core = EHI
 trade_goods = fruit
 life_rating = 32
 terrain = delhi

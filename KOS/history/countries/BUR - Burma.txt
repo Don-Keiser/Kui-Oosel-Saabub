@@ -11,7 +11,6 @@ plurality = 40.0
 nationalvalue = nv_tradition
 non_state_culture_literacy = 0.46
 literacy = 0.52
-civilized = yes
 
 # Political reforms
 slavery = yes_slavery

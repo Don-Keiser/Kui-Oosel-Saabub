@@ -1,6 +1,6 @@
-owner = REG
-controller = REG
-add_core = REG
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = coal
 life_rating = 30
 terrain = steppe

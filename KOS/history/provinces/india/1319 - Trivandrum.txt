@@ -1,7 +1,6 @@
-owner = TRA
-controller = TRA
-add_core = TRA
-add_core = HND
+owner = COA
+controller = COA
+add_core = COA
 trade_goods = fruit
 life_rating = 32
 terrain = jungle_farmland

@@ -1,6 +1,5 @@
-owner = NAG
-controller = NAG
-add_core = NAG
-add_core = HND
+owner = EHI
+controller = EHI
+add_core = EHI
 trade_goods = dye
 life_rating = 32

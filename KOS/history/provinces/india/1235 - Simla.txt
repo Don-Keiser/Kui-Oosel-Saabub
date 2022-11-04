@@ -1,9 +1,6 @@
-owner = NEP
-controller = NEP
-add_core = SHI
-add_core = NEP
-add_core = PNJ
-add_core = HND
+owner = EHI
+controller = EHI
+add_core = EHI
 trade_goods = timber
 life_rating = 32
 terrain = montane_forest

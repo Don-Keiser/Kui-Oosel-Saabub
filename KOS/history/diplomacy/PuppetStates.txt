@@ -855,3 +855,19 @@ vassal = {
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
+
+#Africa
+vassal = {
+    first = TUN
+    second = SRD
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Dumnonia
+vassal = {
+    first = DUM
+    second = GLC
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}

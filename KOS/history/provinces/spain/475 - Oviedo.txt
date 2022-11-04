@@ -1,6 +1,6 @@
-owner = GLC
-controller = GLC
-add_core = GLC
+owner = CNT
+controller = CNT
+add_core = CNT
 trade_goods = coal
 life_rating = 35
 1861.1.1 = { railroad = 3 }

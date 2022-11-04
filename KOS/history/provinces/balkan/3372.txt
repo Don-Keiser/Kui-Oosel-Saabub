@@ -1,5 +1,5 @@
-owner = BHP
-controller = BHP
-add_core = BHP
+owner = EHI
+controller = EHI
+add_core = EHI
 trade_goods = grain
 life_rating = 35

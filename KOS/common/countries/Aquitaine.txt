@@ -1,5 +1,5 @@
 color = { 192  40  247 }
-elective_monarchy = { 65 56 112 }
+imperial_duchy = { 65 56 112 }
 graphical_culture = EuropeanGC
 
 party = {

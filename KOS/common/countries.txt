@@ -1015,6 +1015,9 @@ VIG		= "countries/Viguera.txt"
 IVR		= "countries/Counties of Ivrea.txt"
 ISE		= "countries/Isenburg.txt"
 SAY		= "countries/Sayn.txt"
+SLM		= "countries/Salamanca.txt"
+EHI		= "countries/Ediz Hind.txt"
+COA		= "countries/Chola.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

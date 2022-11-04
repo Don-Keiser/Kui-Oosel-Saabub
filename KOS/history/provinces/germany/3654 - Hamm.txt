@@ -1,5 +1,5 @@
-owner = JOD
-controller = JOD
-add_core = JOD
+owner = EHI
+controller = EHI
+add_core = EHI
 trade_goods = grain
 life_rating = 35

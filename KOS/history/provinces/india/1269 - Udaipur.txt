@@ -1,6 +1,5 @@
-owner = MEW
-controller = MEW
-add_core = MEW
-add_core = HND
+owner = EHI
+controller = EHI
+add_core = EHI
 trade_goods = opium
 life_rating = 32

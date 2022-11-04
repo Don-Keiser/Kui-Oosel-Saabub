@@ -1,6 +1,6 @@
-owner = CAM
-controller = CAM
-add_core = CAM
+owner = DAI
+controller = DAI
+add_core = DAI
 trade_goods = timber
 life_rating = 33
 terrain = jungle_mountains

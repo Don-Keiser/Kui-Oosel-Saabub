@@ -1,6 +1,6 @@
 owner = SEV
 controller = SEV
 add_core = SEV
-trade_goods = wool
+trade_goods = coal
 life_rating = 40
 1861.1.1 = { railroad = 3 }

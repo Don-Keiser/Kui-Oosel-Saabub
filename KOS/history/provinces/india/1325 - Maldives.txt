@@ -1,3 +1,6 @@
+owner = COA
+controller = COA
+add_core = COA
 trade_goods = fish
 life_rating = 32
 terrain = small_island

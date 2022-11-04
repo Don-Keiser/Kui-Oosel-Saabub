@@ -1,8 +1,6 @@
-owner = JAI
-controller = JAI
-add_core = JAI
-add_core = MEW
-add_core = HND
+owner = EHI
+controller = EHI
+add_core = EHI
 trade_goods = cotton
 life_rating = 32
 terrain = semidesert
