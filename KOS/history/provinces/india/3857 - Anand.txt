@@ -1,0 +1,7 @@
+owner = EHI
+controller = EHI
+add_core = EHI
+trade_goods = tobacco
+life_rating = 32
+naval_base = 2
+terrain = plains

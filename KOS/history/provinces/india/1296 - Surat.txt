@@ -1,8 +1,6 @@
-owner = BER
-controller = BER
-add_core = HND
-add_core = BER
-add_core = MAH
+owner = EHI
+controller = EHI
+add_core = EHI
 trade_goods = grain
 life_rating = 32
 terrain = plains

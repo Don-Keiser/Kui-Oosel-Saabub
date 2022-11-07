@@ -1,7 +1,6 @@
 owner = COA
 controller = COA
 add_core = COA
-trade_goods = precious_goods
+trade_goods = grain
 life_rating = 32
 terrain = pondicherry
-colonial = 2

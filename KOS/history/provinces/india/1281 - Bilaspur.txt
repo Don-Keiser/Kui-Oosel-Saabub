@@ -1,6 +1,6 @@
-owner = EHI
-controller = EHI
-add_core = EHI
+owner = NAG
+controller = NAG
+add_core = NAG
 trade_goods = grain
 life_rating = 32
 terrain = dryhills

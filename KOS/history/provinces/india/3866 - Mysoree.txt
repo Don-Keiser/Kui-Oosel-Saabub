@@ -1,0 +1,6 @@
+owner = MYS
+controller = MYS
+add_core = MYS
+trade_goods = silk
+life_rating = 32
+terrain = dryhills

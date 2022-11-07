@@ -1,0 +1,6 @@
+owner = EHI
+controller = EHI
+add_core = EHI
+trade_goods = cotton
+life_rating = 32
+terrain = floodplain_farmland

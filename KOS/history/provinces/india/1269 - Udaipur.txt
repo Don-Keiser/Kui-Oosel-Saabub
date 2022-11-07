@@ -3,3 +3,4 @@ controller = EHI
 add_core = EHI
 trade_goods = opium
 life_rating = 32
+terrain = steppe

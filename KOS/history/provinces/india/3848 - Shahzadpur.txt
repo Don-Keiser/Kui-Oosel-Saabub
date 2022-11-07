@@ -1,0 +1,5 @@
+owner = EHI
+controller = EHI
+add_core = EHI
+trade_goods = cattle
+life_rating = 32

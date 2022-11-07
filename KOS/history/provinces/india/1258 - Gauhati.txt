@@ -1,7 +1,6 @@
-owner = ASM
-controller = ASM
-add_core = ASM
+owner = BUR
+controller = BUR
 add_core = BUR
 trade_goods = silk
 life_rating = 32
-terrain = jungle_hills
+terrain = jungle_farmland

@@ -135958,3 +135958,415 @@
 3841 = {
     text_scale = 1.4
 }
+
+3842 = {
+    text_scale = 1.4
+}
+
+3843 = {
+    text_scale = 1.4
+}
+
+3844 = {
+    text_scale = 1.4
+}
+
+3845 = {
+    text_scale = 1.4
+}
+
+3846 = {
+    text_scale = 1.4
+}
+
+3847 = {
+    text_scale = 1.4
+}
+
+3848 = {
+    text_scale = 1.4
+}
+
+3849 = {
+    text_scale = 1.4
+}
+
+3850 = {
+    text_scale = 1.4
+}
+
+3851 = {
+    text_scale = 1.4
+}
+
+3852 = {
+    text_scale = 1.4
+}
+
+3853 = {
+    text_scale = 1.4
+}
+
+3854 = {
+    text_scale = 1.4
+}
+
+3855 = {
+    text_scale = 1.4
+}
+
+3856 = {
+    text_scale = 1.4
+}
+
+3857 = {
+    text_scale = 1.4
+}
+
+3858 = {
+    text_scale = 1.4
+}
+
+3859 = {
+    text_scale = 1.4
+}
+
+3860 = {
+    text_scale = 1.4
+}
+
+3861 = {
+    text_scale = 1.4
+}
+
+3862 = {
+    text_scale = 1.4
+}
+
+3863 = {
+    text_scale = 1.4
+}
+
+3864 = {
+    text_scale = 1.4
+}
+
+3865 = {
+    text_scale = 1.4
+}
+
+3866 = {
+    text_scale = 1.4
+}
+
+3867 = {
+    text_scale = 1.4
+}
+
+3868 = {
+    text_scale = 1.4
+}
+
+3869 = {
+    text_scale = 1.4
+}
+
+3870 = {
+    text_scale = 1.4
+}
+
+3871 = {
+    text_scale = 1.4
+}
+
+3872 = {
+    text_scale = 1.4
+}
+
+3873 = {
+    text_scale = 1.4
+}
+
+3874 = {
+    text_scale = 1.4
+}
+
+3875 = {
+    text_scale = 1.4
+}
+
+3876 = {
+    text_scale = 1.4
+}
+
+3877 = {
+    text_scale = 1.4
+}
+
+3878 = {
+    text_scale = 1.4
+}
+
+3879 = {
+    text_scale = 1.4
+}
+
+3880 = {
+    text_scale = 1.4
+}
+
+3881 = {
+    text_scale = 1.4
+}
+
+3882 = {
+    text_scale = 1.4
+}
+
+3883 = {
+    text_scale = 1.4
+}
+
+3884 = {
+    text_scale = 1.4
+}
+
+3885 = {
+    text_scale = 1.4
+}
+
+3886 = {
+    text_scale = 1.4
+}
+
+3887 = {
+    text_scale = 1.4
+}
+
+3888 = {
+    text_scale = 1.4
+}
+
+3889 = {
+    text_scale = 1.4
+}
+
+3890 = {
+    text_scale = 1.4
+}
+
+3891 = {
+    text_scale = 1.4
+}
+
+3892 = {
+    text_scale = 1.4
+}
+
+3893 = {
+    text_scale = 1.4
+}
+
+3894 = {
+    text_scale = 1.4
+}
+
+3895 = {
+    text_scale = 1.4
+}
+
+3896 = {
+    text_scale = 1.4
+}
+
+3897 = {
+    text_scale = 1.4
+}
+
+3898 = {
+    text_scale = 1.4
+}
+
+3899 = {
+    text_scale = 1.4
+}
+
+3900 = {
+    text_scale = 1.4
+}
+
+3901 = {
+    text_scale = 1.4
+}
+
+3902 = {
+    text_scale = 1.4
+}
+
+3903 = {
+    text_scale = 1.4
+}
+
+3904 = {
+    text_scale = 1.4
+}
+
+3905 = {
+    text_scale = 1.4
+}
+
+3906 = {
+    text_scale = 1.4
+}
+
+3907 = {
+    text_scale = 1.4
+}
+
+3908 = {
+    text_scale = 1.4
+}
+
+3909 = {
+    text_scale = 1.4
+}
+
+3910 = {
+    text_scale = 1.4
+}
+
+3911 = {
+    text_scale = 1.4
+}
+
+3912 = {
+    text_scale = 1.4
+}
+
+3913 = {
+    text_scale = 1.4
+}
+
+3914 = {
+    text_scale = 1.4
+}
+
+3915 = {
+    text_scale = 1.4
+}
+
+3916 = {
+    text_scale = 1.4
+}
+
+3917 = {
+    text_scale = 1.4
+}
+
+3918 = {
+    text_scale = 1.4
+}
+
+3919 = {
+    text_scale = 1.4
+}
+
+3920 = {
+    text_scale = 1.4
+}
+
+3921 = {
+    text_scale = 1.4
+}
+
+3922 = {
+    text_scale = 1.4
+}
+
+3923 = {
+    text_scale = 1.4
+}
+
+3924 = {
+    text_scale = 1.4
+}
+
+3925 = {
+    text_scale = 1.4
+}
+
+3926 = {
+    text_scale = 1.4
+}
+
+3927 = {
+    text_scale = 1.4
+}
+
+3928 = {
+    text_scale = 1.4
+}
+
+3929 = {
+    text_scale = 1.4
+}
+
+3930 = {
+    text_scale = 1.4
+}
+
+3931 = {
+    text_scale = 1.4
+}
+
+3932 = {
+    text_scale = 1.4
+}
+
+3933 = {
+    text_scale = 1.4
+}
+
+3934 = {
+    text_scale = 1.4
+}
+
+3935 = {
+    text_scale = 1.4
+}
+
+3936 = {
+    text_scale = 1.4
+}
+
+3937 = {
+    text_scale = 1.4
+}
+
+3938 = {
+    text_scale = 1.4
+}
+
+3939 = {
+    text_scale = 1.4
+}
+
+3940 = {
+    text_scale = 1.4
+}
+
+3941 = {
+    text_scale = 1.4
+}
+
+3942 = {
+    text_scale = 1.4
+}
+
+3943 = {
+    text_scale = 1.4
+}
+
+3944 = {
+    text_scale = 1.4
+}

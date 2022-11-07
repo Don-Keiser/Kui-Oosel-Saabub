@@ -1,0 +1,6 @@
+owner = BNG
+controller = BNG
+add_core = BNG
+trade_goods = silk
+life_rating = 32
+terrain = jungle_farmland

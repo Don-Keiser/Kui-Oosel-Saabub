@@ -4,3 +4,4 @@ add_core = KHU
 add_core = TIB
 trade_goods = cotton
 life_rating = 32
+terrain = semi_desert_mountains

@@ -1,0 +1,7 @@
+owner = KHU
+controller = KHU
+add_core = KHU
+add_core = TIB
+trade_goods = wool
+life_rating = 32
+terrain = semi_desert_mountains

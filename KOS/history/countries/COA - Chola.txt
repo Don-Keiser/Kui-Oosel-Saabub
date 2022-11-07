@@ -1,7 +1,7 @@
-capital = 1304
+capital = 1309
 primary_culture = tamil
 culture = kannada
-religion = syriac
+religion = hindu
 government = oligarchic_republic
 plurality = 0.0
 nationalvalue = nv_tradition

@@ -1,7 +1,6 @@
-owner = LAD
-controller = LAD
-add_core = TIB
-add_core = LAD
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = wool
 life_rating = 30
 terrain = himalayan_mountains

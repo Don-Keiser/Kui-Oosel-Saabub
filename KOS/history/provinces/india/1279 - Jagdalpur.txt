@@ -1,6 +1,5 @@
-owner = BAS
-controller = BAS
-add_core = BAS
-add_core = HND
-trade_goods = timber
+owner = NAG
+controller = NAG
+add_core = NAG
+trade_goods = cotton
 life_rating = 32

@@ -1,0 +1,6 @@
+owner = SIK
+controller = SIK
+add_core = SIK
+trade_goods = opium
+life_rating = 32
+terrain = jungle_farmland
