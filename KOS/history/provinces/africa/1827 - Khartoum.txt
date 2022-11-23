@@ -1,5 +1,5 @@
-owner = DTW
-controller = DTW
-add_core = DTW
+owner = COP
+controller = COP
+add_core = COP
 trade_goods = fruit
 life_rating = 35

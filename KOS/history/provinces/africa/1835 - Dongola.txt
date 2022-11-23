@@ -1,8 +1,6 @@
-owner = DTW
-controller = DTW
-add_core = DTW
-add_core = SUD
+owner = COP
+controller = COP
+add_core = COP
 trade_goods = fruit
 life_rating = 32
 terrain = semidesert
-colonial = 2

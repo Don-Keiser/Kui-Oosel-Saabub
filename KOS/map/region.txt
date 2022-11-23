@@ -251,7 +251,7 @@ SPA_474 = { 474 476 518 519 3559 } #Galicia
 
 SPA_477 = { 477 479 480 475 478 494 } #Le�n-Castilla
 
-SPA_484 = { 484 485 486 491 3287 } #Extremadura
+SPA_484 = { 485 491 516 3702 } #Extremadura
 
 SPA_487 = { 487 481 488 489 490 } #Castilla la Nueva
 
@@ -259,17 +259,17 @@ SPA_492 = { 492 460 3433 3471 3472 3761 } #Vasconia-Arag�n
 
 SPA_498 = { 501 493 495 496 497 500 } #Tarragona
 
-SPA_503 = { 503 502 504 505 506 507 508 } #Valencia
+SPA_503 = { 503 502 504 505 506 507 508 515 } #Valencia
 
-SPA_512 = { 512 509 510 511 517 } #Andalucia
+SPA_512 = { 509 510 511 3287 } #Ispaddia
 
-SPA_513 = { 513 514 515 516 3702 } #Granada
+SPA_513 = { 512 513 514 517 } #Gadiria
 
-POR_518 = { 482 483 520 522 3473 3841 } #Douro
+POR_518 = { 482 483 } #Douro
 
-POR_521 = { 521 523 524 } #Lusitania
+POR_521 = { 521 520 522 523 3473 3841 } #Ulissia
 
-POR_525 = { 525 526 527 } #Alentejo
+POR_525 = { 525 484 486 524 526 527 } #Lusitania
 
 POR_2134 = { 2134 2135 2136 } #Macaronesia
 
