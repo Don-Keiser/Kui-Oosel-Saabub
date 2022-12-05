@@ -1,6 +1,6 @@
-owner = HAL
-controller = HAL
-add_core = HAL
+owner = TAY
+controller = TAY
+add_core = TAY
 trade_goods = wool
-life_rating = 20
+life_rating = 32
 terrain = desert

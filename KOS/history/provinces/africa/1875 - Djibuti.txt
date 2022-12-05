@@ -1,6 +1,7 @@
-add_core = AWS
-add_core = WRL
+owner = YEM
+controller = YEM
+add_core = YEM
+add_core = ETH
 trade_goods = cattle
 terrain = coastal_desert
-life_rating = 10
-colonial = 1
+life_rating = 32

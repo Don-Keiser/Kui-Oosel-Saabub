@@ -1,6 +1,6 @@
-owner = HDJ
-controller = HDJ
-add_core = HDJ
+owner = YEM
+controller = YEM
+add_core = YEM
 trade_goods = wool
 terrain = coastal_desert
 life_rating = 32

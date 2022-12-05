@@ -1,6 +1,6 @@
-owner = HDJ
-controller = HDJ
-add_core = HDJ
+owner = COP
+controller = COP
+add_core = COP
 trade_goods = fish
 terrain = coastal_desert
 life_rating = 32

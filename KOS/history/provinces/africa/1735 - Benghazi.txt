@@ -1,6 +1,6 @@
-owner = COP
-controller = COP
-add_core = COP
+owner = ARI
+controller = ARI
+add_core = ARI
 trade_goods = fruit
 life_rating = 35
 terrain = plains

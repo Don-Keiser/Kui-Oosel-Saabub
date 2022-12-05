@@ -1,7 +1,6 @@
-owner = MAJ
-controller = MAJ
-add_core = MAJ
-add_core = GEL
+owner = YEM
+controller = YEM
+add_core = YEM
 add_core = WRL
 trade_goods = wool
 terrain = coastal_desert

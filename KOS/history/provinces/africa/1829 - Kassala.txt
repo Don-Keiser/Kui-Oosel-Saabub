@@ -1,6 +1,7 @@
-owner = ALO
-controller = ALO
-add_core = ALO
+owner = AKS
+controller = AKS
+add_core = AKS
+add_core = ETH
 trade_goods = wool
 terrain = semidesert
 life_rating = 32

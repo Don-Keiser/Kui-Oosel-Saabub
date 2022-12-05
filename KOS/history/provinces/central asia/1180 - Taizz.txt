@@ -1,2 +1,5 @@
+owner = BTY
+controller = BTY
+add_core = BTY
 trade_goods = wool
-life_rating = 20
+life_rating = 32

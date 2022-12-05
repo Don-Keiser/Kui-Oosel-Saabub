@@ -1,5 +1,5 @@
-owner = ALO
-controller = ALO
-add_core = ALO
+owner = MEG
+controller = MEG
+add_core = MEG
 trade_goods = fish
 life_rating = 32

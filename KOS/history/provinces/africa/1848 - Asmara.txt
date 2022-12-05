@@ -1,6 +1,6 @@
-owner = ALO
-controller = ALO
-add_core = ALO
-add_core = TIG
+owner = MEG
+controller = MEG
+add_core = MEG
+add_core = ETH
 trade_goods = fruit
 life_rating = 35

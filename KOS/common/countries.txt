@@ -1018,6 +1018,12 @@ SAY		= "countries/Sayn.txt"
 SLM		= "countries/Salamanca.txt"
 EHI		= "countries/Ediz Hind.txt"
 COA		= "countries/Chola.txt"
+AKS		= "countries/Aksum.txt"
+MEG		= "countries/Megabares.txt"
+ADL		= "countries/Adulis.txt"
+TAY		= "countries/Tayyi.txt"
+BTY		= "countries/Taym.txt"
+
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

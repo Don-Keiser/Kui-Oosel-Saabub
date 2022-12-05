@@ -1,5 +1,6 @@
-owner = AZH
-controller = AZH
+owner = COP
+controller = COP
+add_core = COP
 add_core = AZH
 trade_goods = wool
 life_rating = 20

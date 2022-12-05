@@ -1,7 +1,6 @@
-owner = ALO
-controller = ALO
-add_core = ALO
-add_core = TIG
+owner = MEG
+controller = MEG
+add_core = MEG
 trade_goods = fruit
 terrain = semidesert
 life_rating = 32

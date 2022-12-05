@@ -871,3 +871,33 @@ vassal = {
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
+
+#Egypt
+vassal = {
+    first = COP
+    second = DTW
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = COP
+    second = ALO
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = COP
+    second = MEG
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = COP
+    second = AKS
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+

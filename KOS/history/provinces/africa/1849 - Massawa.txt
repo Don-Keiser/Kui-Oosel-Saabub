@@ -1,7 +1,6 @@
-owner = ALO
-controller = ALO
-add_core = ALO
-add_core = TIG
+owner = ADL
+controller = ADL
+add_core = ADL
 trade_goods = fish
 terrain = semidesert
-life_rating = 32
+life_rating = 35

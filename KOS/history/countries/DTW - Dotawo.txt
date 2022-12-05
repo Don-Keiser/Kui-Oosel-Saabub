@@ -1,10 +1,7 @@
 capital = 1835
-primary_culture = sudanese
-culture = nilotic
-culture = fur
-culture = nuba
+primary_culture = nilotic
 religion = coptic
-government = theocracy
+government = march
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01

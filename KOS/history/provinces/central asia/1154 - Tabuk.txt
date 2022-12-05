@@ -1,6 +1,6 @@
-owner = HDJ
-controller = HDJ
-add_core = HDJ
+owner = COP
+controller = COP
+add_core = COP
 trade_goods = wool
 life_rating = 32
 terrain = semi_desert_mountains
