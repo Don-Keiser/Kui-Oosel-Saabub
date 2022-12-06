@@ -1,0 +1,6 @@
+owner = COP
+controller = COP
+add_core = COP
+trade_goods = wool
+life_rating = 28
+terrain = desert

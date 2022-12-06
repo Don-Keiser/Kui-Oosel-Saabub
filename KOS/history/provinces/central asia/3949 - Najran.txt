@@ -1,0 +1,6 @@
+owner = YEM
+controller = YEM
+add_core = YEM
+trade_goods = coffee
+terrain = semi_desert_mountains
+life_rating = 30

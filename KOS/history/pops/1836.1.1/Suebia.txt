@@ -1,108 +1,126 @@
-#La Coruna (796000/199000 POPS)
+#La Coruna
 474 = {
     aristocrats = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 2200
     }
 
     officers = {
         culture = galetzian
-        religion = roman_catholic
-        size = 450
+        religion = arianism
+        size = 800
     }
 
     bureaucrats = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 650
     }
 
     clergymen = {
         culture = galetzian
-        religion = roman_catholic
-        size = 3000
+        religion = arianism
+        size = 2500
     }
-	
+
     artisans = {
         culture = galetzian
-        religion = roman_catholic
-        size = 720
+        religion = arianism
+        size = 10000
     }
 
     soldiers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 3000
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
-        size = 140350
+        religion = arianism
+        size = 120000
     }
+
+    soldiers = {
+        culture = galetzian
+        religion = arianism
+        size = 3000
+    }
+
+    soldiers = {
+        culture = galetzian
+        religion = arianism
+        size = 3000
+    }
+
 }
-#Vigo (328000/82000 POPS)
+
+#Vigo
 476 = {
     aristocrats = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 700
     }
 
     clergymen = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 800
     }
 
     artisans = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 4000
     }
 
     soldiers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 1100
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 66000
     }
+
 }
+
 #Einheimische
 3559 = {
     aristocrats = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 420
     }
 
     clergymen = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 400
     }
 
     artisans = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 3200
     }
 
     soldiers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 1000
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
-        size = 23200
-	}
+        religion = arianism
+        size = 20200
+    }
+
 }
+

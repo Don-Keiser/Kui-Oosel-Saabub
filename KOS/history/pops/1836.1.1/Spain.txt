@@ -1,5 +1,4 @@
-#Galicia-Asturias Region (1572000)
-#Oviedo (448000/112000 POPS)
+#Oviedo
 475 = {
     aristocrats = {
         culture = galetzian
@@ -16,23 +15,48 @@
     artisans = {
         culture = galetzian
         religion = roman_catholic
-        size = 6000
+        size = 4000
     }
 
     soldiers = {
         culture = galetzian
         religion = roman_catholic
-        size = 1100
+        size = 800
     }
 
     farmers = {
         culture = galetzian
         religion = roman_catholic
-        size = 18850
+        size = 8000
     }
+
+    artisans = {
+        culture = galetzian
+        religion = arianism
+        size = 2100
+    }
+
+    soldiers = {
+        culture = galetzian
+        religion = arianism
+        size = 300
+    }
+
+    farmers = {
+        culture = galetzian
+        religion = arianism
+        size = 11000
+    }
+
+    clergymen = {
+        culture = galetzian
+        religion = arianism
+        size = 400
+    }
+
 }
-#Leon Region (888000)
-#Leon (280000/70000 POPS)
+
+#Leon
 477 = {
     aristocrats = {
         culture = galetzian
@@ -61,7 +85,7 @@
     artisans = {
         culture = galetzian
         religion = roman_catholic
-        size = 3500
+        size = 8000
     }
 
     soldiers = {
@@ -73,10 +97,36 @@
     farmers = {
         culture = galetzian
         religion = roman_catholic
-        size = 50600
+        size = 18000
     }
+
+    clergymen = {
+        culture = galetzian
+        religion = arianism
+        size = 1500
+    }
+
+    artisans = {
+        culture = galetzian
+        religion = arianism
+        size = 3500
+    }
+
+    soldiers = {
+        culture = galetzian
+        religion = arianism
+        size = 200
+    }
+
+    farmers = {
+        culture = galetzian
+        religion = arianism
+        size = 32000
+    }
+
 }
-#Santander (178000/44500) POPS
+
+#Santander
 478 = {
     aristocrats = {
         culture = galetzian
@@ -125,8 +175,10 @@
         religion = roman_catholic
         size = 3900
     }
+
 }
-#Burgos (236000/59000 POPS)
+
+#Burgos
 479 = {
     aristocrats = {
         culture = galetzian
@@ -157,8 +209,8 @@
         religion = roman_catholic
         size = 41000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = toletzianu
         religion = roman_catholic
         size = 8000
@@ -175,8 +227,10 @@
         religion = roman_catholic
         size = 3000
     }
+
 }
-#Valladolid (194000/48500 POPS)
+
+#Valladolid
 480 = {
     aristocrats = {
         culture = galetzian
@@ -209,7 +263,7 @@
     }
 
 }
-#Castilla Vieja Region
+
 #Soria
 481 = {
     aristocrats = {
@@ -253,13 +307,15 @@
         religion = roman_catholic
         size = 22700
     }
-	
-	farmers = {
+
+    farmers = {
         culture = toletzianu
         religion = roman_catholic
         size = 40000
     }
+
 }
+
 #Salamanca
 482 = {
     aristocrats = {
@@ -279,7 +335,7 @@
         religion = roman_catholic
         size = 10000
     }
-	
+
     artisans = {
         culture = toletzianu
         religion = roman_catholic
@@ -297,19 +353,21 @@
         religion = roman_catholic
         size = 72000
     }
-	
+
     farmers = {
-        culture = ispannu
+        culture = galetzian
         religion = roman_catholic
         size = 2800
     }
-	
+
     farmers = {
-        culture = ulisianu
+        culture = ispannu
         religion = roman_catholic
         size = 4200
     }
+
 }
+
 #Avila
 483 = {
     aristocrats = {
@@ -341,15 +399,16 @@
         religion = roman_catholic
         size = 49000
     }
-	
+
     farmers = {
         culture = ispannu
         religion = roman_catholic
         size = 2000
     }
+
 }
-#Extremadura Region (580000)
-#Badajoz (216000/54000 POPS)
+
+#Badajoz
 484 = {
     aristocrats = {
         culture = ispannu
@@ -392,8 +451,10 @@
         religion = roman_catholic
         size = 46650
     }
+
 }
-#Almendralejo (192000/48000 POPS)
+
+#Almendralejo
 485 = {
     aristocrats = {
         culture = toletzianu
@@ -424,14 +485,16 @@
         religion = roman_catholic
         size = 44000
     }
-	
+
     farmers = {
         culture = ispannu
         religion = roman_catholic
         size = 2300
     }
+
 }
-#Caceres (172000/43000 POPS)
+
+#Caceres
 486 = {
     aristocrats = {
         culture = ispannu
@@ -468,9 +531,10 @@
         religion = roman_catholic
         size = 4800
     }
+
 }
-#Castilla Nueva Region (1504000)
-#Madrid (364000/91000 POPS)
+
+#Madrid
 487 = {
     aristocrats = {
         culture = toletzianu
@@ -501,8 +565,10 @@
         religion = roman_catholic
         size = 60000
     }
+
 }
-#Siguenza (204000/51000 POPS)
+
+#Siguenza
 488 = {
     aristocrats = {
         culture = toletzianu
@@ -533,8 +599,10 @@
         religion = roman_catholic
         size = 1800
     }
+
 }
-#Toledo (302000/75500 POPS)
+
+#Toledo
 489 = {
     aristocrats = {
         culture = toletzianu
@@ -565,13 +633,13 @@
         religion = roman_catholic
         size = 10000
     }
-	
+
     artisans = {
         culture = toletzianu
         religion = roman_catholic
         size = 10000
     }
-	
+
     artisans = {
         culture = toletzianu
         religion = roman_catholic
@@ -589,14 +657,16 @@
         religion = roman_catholic
         size = 75000
     }
-	
+
     farmers = {
         culture = ispannu
         religion = roman_catholic
         size = 2500
     }
+
 }
-#Cuenca (346000/86500 POPS)
+
+#Cuenca
 490 = {
     aristocrats = {
         culture = toletzianu
@@ -627,21 +697,23 @@
         religion = roman_catholic
         size = 50000
     }
-	
+
     farmers = {
         culture = ispannu
         religion = roman_catholic
         size = 3000
     }
+
 }
-#Ciudad Real (288000/74000 POPS)
+
+#Ciudad Real
 491 = {
     aristocrats = {
         culture = ispannu
         religion = roman_catholic
         size = 1500
     }
-	
+
     clergymen = {
         culture = ispannu
         religion = roman_catholic
@@ -689,9 +761,10 @@
         religion = roman_catholic
         size = 32000
     }
+
 }
-#Vizcaya-Navarra Region (710000)
-#Bilbao (308000/77000 POPS)
+
+#BIlbao
 492 = {
     aristocrats = {
         culture = basque
@@ -752,8 +825,10 @@
         religion = roman_catholic
         size = 5850
     }
+
 }
-#Pamplona (244000/61000 POPS)
+
+#Pamplona
 493 = {
     aristocrats = {
         culture = tarragones
@@ -838,54 +913,56 @@
         religion = roman_catholic
         size = 14975
     }
+
 }
-#Logrono (158000/39500 POPS)
+
+#Logrono
 494 = {
     aristocrats = {
-        culture = galetzian
+        culture = toletzianu
         religion = roman_catholic
         size = 850
     }
 
     clergymen = {
-        culture = galetzian
+        culture = toletzianu
         religion = roman_catholic
         size = 400
     }
 
     artisans = {
-        culture = galetzian
+        culture = toletzianu
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = galetzian
+        culture = toletzianu
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = galetzian
+        culture = toletzianu
         religion = roman_catholic
         size = 29000
     }
-	
-	soldiers = {
-        culture = toletzianu
+
+    soldiers = {
+        culture = galetzian
         religion = roman_catholic
         size = 300
     }
 
     farmers = {
-        culture = toletzianu
+        culture = galetzian
         religion = roman_catholic
         size = 8000
     }
 
 }
-#Aragon Region (764000)
-#Zaragosa (312000/78000 POPS)
+
+#Zaragoza
 495 = {
     aristocrats = {
         culture = tarragones
@@ -946,8 +1023,10 @@
         religion = roman_catholic
         size = 1950
     }
+
 }
-#Huesca (224000/56000 POPS)
+
+#Huesca
 496 = {
     aristocrats = {
         culture = tarragones
@@ -1008,8 +1087,10 @@
         religion = roman_catholic
         size = 3025
     }
+
 }
-#Teruel (228000/57000 POPS)
+
+#Teruel
 497 = {
     aristocrats = {
         culture = ispannu
@@ -1040,9 +1121,10 @@
         religion = roman_catholic
         size = 52000
     }
+
 }
-#Catalonia Region (1340000)
-#Barcelona (464000/116000 POPS)
+
+#Barcelona
 498 = {
     aristocrats = {
         culture = tarragones
@@ -1103,8 +1185,10 @@
         religion = roman_catholic
         size = 19600
     }
+
 }
-#Gerona (228000/57000 POPS)
+
+#Gerona
 499 = {
     aristocrats = {
         culture = aquitan
@@ -1141,7 +1225,10 @@
         religion = roman_catholic
         size = 3000
     }
+
 }
+
+#Vielha
 3433 = {
     aristocrats = {
         culture = basque
@@ -1172,15 +1259,16 @@
         religion = roman_catholic
         size = 16000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = aquitan
         religion = roman_catholic
         size = 8000
     }
+
 }
 
-#Lerida (164000/41000 POPS)
+#Lerida
 500 = {
     aristocrats = {
         culture = tarragones
@@ -1241,8 +1329,10 @@
         religion = roman_catholic
         size = 5275
     }
+
 }
-#Tarragona (244000/61000 POPS)
+
+#Tarragona
 501 = {
     aristocrats = {
         culture = cartaginesu
@@ -1273,8 +1363,8 @@
         religion = roman_catholic
         size = 5850
     }
-	
-	artisans = {
+
+    artisans = {
         culture = aquitan
         religion = roman_catholic
         size = 2800
@@ -1297,8 +1387,8 @@
         religion = roman_catholic
         size = 10000
     }
-	
-	artisans = {
+
+    artisans = {
         culture = tarragones
         religion = roman_catholic
         size = 6000
@@ -1315,8 +1405,10 @@
         religion = roman_catholic
         size = 72000
     }
+
 }
-#Balearics (240000/60000 POPS)
+
+#Balearic Islands
 502 = {
     aristocrats = {
         culture = cartaginesu
@@ -1379,8 +1471,8 @@
     }
 
 }
-#Valencia Region (1016000)
-#Valencia (420000/105000 POPS)
+
+#Valencia
 503 = {
     aristocrats = {
         culture = cartaginesu
@@ -1435,8 +1527,10 @@
         religion = roman_catholic
         size = 3000
     }
+
 }
-#Castellon (212000/53000 POPS)
+
+#Castellon
 504 = {
     aristocrats = {
         culture = cartaginesu
@@ -1497,8 +1591,10 @@
         religion = roman_catholic
         size = 6000
     }
+
 }
-#Alicante (384000/96000 POPS)
+
+#Alicante
 505 = {
     aristocrats = {
         culture = cartaginesu
@@ -1561,8 +1657,8 @@
     }
 
 }
-#Murcia Region (504000/121000 POPS)
-#Cartagena (212000/53000 POPS)
+
+#Cartagena
 506 = {
     aristocrats = {
         culture = cartaginesu
@@ -1593,14 +1689,14 @@
         religion = roman_catholic
         size = 10000
     }
-	
-	artisans = {
+
+    artisans = {
         culture = cartaginesu
         religion = roman_catholic
         size = 10000
     }
-	
-	artisans = {
+
+    artisans = {
         culture = cartaginesu
         religion = roman_catholic
         size = 8000
@@ -1617,8 +1713,8 @@
         religion = roman_catholic
         size = 95000
     }
-	
-	soldiers = {
+
+    soldiers = {
         culture = ispannu
         religion = roman_catholic
         size = 200
@@ -1629,8 +1725,10 @@
         religion = roman_catholic
         size = 6000
     }
+
 }
-#Murcia (92000/23000 POPS)
+
+#Murcia
 507 = {
     aristocrats = {
         culture = cartaginesu
@@ -1661,14 +1759,16 @@
         religion = roman_catholic
         size = 23000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = ispannu
         religion = roman_catholic
         size = 3500
     }
+
 }
-#Albacete (20000/50000 POPS)
+
+#Albacete
 508 = {
     aristocrats = {
         culture = cartaginesu
@@ -1699,15 +1799,16 @@
         religion = roman_catholic
         size = 54000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = ispannu
         religion = roman_catholic
         size = 2000
     }
+
 }
-#Andalucia Region (1176000)
-#Seville (376000/94000 POPS)
+
+#Seville
 509 = {
     aristocrats = {
         culture = ispannu
@@ -1750,7 +1851,7 @@
         religion = roman_catholic
         size = 10000
     }
-	
+
     artisans = {
         culture = ispannu
         religion = roman_catholic
@@ -1762,13 +1863,13 @@
         religion = roman_catholic
         size = 3000
     }
-	
+
     soldiers = {
         culture = ispannu
         religion = roman_catholic
         size = 3000
     }
-	
+
     soldiers = {
         culture = ispannu
         religion = roman_catholic
@@ -1780,21 +1881,23 @@
         religion = roman_catholic
         size = 99000
     }
+
 }
-#Cordoba (324000/81000 POPS)
+
+#Cordoba
 510 = {
     aristocrats = {
         culture = ispannu
         religion = roman_catholic
         size = 1700
     }
-	
-	bureaucrats = {
+
+    bureaucrats = {
         culture = ispannu
         religion = roman_catholic
         size = 800
     }
-	
+
     officers = {
         culture = ispannu
         religion = roman_catholic
@@ -1812,14 +1915,14 @@
         religion = roman_catholic
         size = 10000
     }
-	
-	artisans = {
+
+    artisans = {
         culture = ispannu
         religion = roman_catholic
         size = 10000
     }
-	
-	artisans = {
+
+    artisans = {
         culture = ispannu
         religion = roman_catholic
         size = 10000
@@ -1836,8 +1939,10 @@
         religion = roman_catholic
         size = 86000
     }
+
 }
-#Huelva (140000/35000 POPS)
+
+#Huelva
 511 = {
     aristocrats = {
         culture = ispannu
@@ -1868,8 +1973,10 @@
         religion = roman_catholic
         size = 31375
     }
+
 }
-#Cadiz (336000/84000 POPS)
+
+#Cadiz
 512 = {
     aristocrats = {
         culture = ispannu
@@ -1906,7 +2013,7 @@
         religion = roman_catholic
         size = 40000
     }
-	
+
     farmers = {
         culture = muretannian
         religion = roman_catholic
@@ -1914,8 +2021,8 @@
     }
 
 }
-#Alpujarras Region (1296000)
-#Granada (382000/95500 POPS)
+
+#Granada
 513 = {
     aristocrats = {
         culture = ispannu
@@ -1964,8 +2071,10 @@
         religion = roman_catholic
         size = 72850
     }
+
 }
-#Malaga (402000/100500 POPS)
+
+#Malaga
 514 = {
     aristocrats = {
         culture = ispannu
@@ -2002,8 +2111,10 @@
         religion = roman_catholic
         size = 78400
     }
+
 }
-#Almeria (242000/60500 POPS)
+
+#Almeria
 515 = {
     aristocrats = {
         culture = ispannu
@@ -2034,14 +2145,16 @@
         religion = roman_catholic
         size = 23000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = cartaginesu
         religion = roman_catholic
         size = 31000
     }
+
 }
-#Jaen (270000/67500 POPS)
+
+#Jaen
 516 = {
     aristocrats = {
         culture = ispannu
@@ -2072,10 +2185,10 @@
         religion = roman_catholic
         size = 60000
     }
+
 }
-#see Morocco.txt for Ceuta-Melilla
-#Canary Islands Region (208000)
-#Canary Islands (208000/52000 POPS)
+
+#Canary Islands
 2136 = {
     aristocrats = {
         culture = guanche
@@ -2118,8 +2231,8 @@
         religion = roman_catholic
         size = 21025
     }
-	
-	aristocrats = {
+
+    aristocrats = {
         culture = muretannian
         religion = roman_catholic
         size = 225
@@ -2208,3 +2321,14 @@
     }
 
 }
+
+#Opidda
+3841 = {
+    aristocrats = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 650
+    }
+
+}
+

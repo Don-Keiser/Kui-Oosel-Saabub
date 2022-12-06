@@ -1,81 +1,84 @@
-#Duoro e Minho Region (1660000)
-#Oporto (768000/192000 POPS)
+#Oporto
 518 = {
     aristocrats = {
         culture = galetzian
-        religion = roman_catholic
-        size = 1500
+        religion = arianism
+        size = 1100
     }
 
     officers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 500
     }
 
     bureaucrats = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 800
     }
 
     clergymen = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 1100
     }
 
     artisans = {
         culture = galetzian
-        religion = roman_catholic
-        size = 10000
+        religion = arianism
+        size = 7000
     }
 
     soldiers = {
         culture = galetzian
-        religion = roman_catholic
-        size = 2500
+        religion = arianism
+        size = 1800
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
-        size = 137200
+        religion = arianism
+        size = 95200
     }
+
 }
-#Vila Real (324000/81000) POPS
+
+#Vila Real
 519 = {
     aristocrats = {
         culture = galetzian
-        religion = roman_catholic
-        size = 1850
+        religion = arianism
+        size = 900
     }
 
     clergymen = {
         culture = galetzian
-        religion = roman_catholic
-        size = 625
+        religion = arianism
+        size = 500
     }
 
     artisans = {
         culture = galetzian
-        religion = roman_catholic
-        size = 3250
+        religion = arianism
+        size = 3200
     }
 
     soldiers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = arianism
         size = 1100
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
-        size = 69275
+        religion = arianism
+        size = 68000
     }
+
 }
-#Covilha (568000/142000 POPS)
+
+#Covilha
 520 = {
     aristocrats = {
         culture = ispannu
@@ -112,9 +115,10 @@
         religion = roman_catholic
         size = 4800
     }
+
 }
-#Beira-Estremadura Region (1060000)
-#Lisbon (348000/87000 POPS)
+
+#Lisbon
 521 = {
     aristocrats = {
         culture = ispannu
@@ -157,14 +161,16 @@
         religion = roman_catholic
         size = 47000
     }
-	
+
     farmers = {
         culture = ispannu
         religion = roman_catholic
         size = 3500
     }
+
 }
-#Coimbra (460000/115000 POPS)
+
+#Coimbra
 522 = {
     aristocrats = {
         culture = ispannu
@@ -201,13 +207,16 @@
         religion = roman_catholic
         size = 69000
     }
-	
+
     farmers = {
         culture = ispannu
         religion = roman_catholic
         size = 2500
     }
+
 }
+
+#Aveiro
 3473 = {
     aristocrats = {
         culture = ispannu
@@ -244,14 +253,16 @@
         religion = roman_catholic
         size = 30000
     }
-	
+
     farmers = {
         culture = ispannu
         religion = roman_catholic
         size = 1000
     }
+
 }
-#Abrantes (140000/35000 POPS)
+
+#Abrantes
 523 = {
     aristocrats = {
         culture = ispannu
@@ -282,14 +293,16 @@
         religion = roman_catholic
         size = 40000
     }
-	
+
     farmers = {
         culture = ispannu
         religion = roman_catholic
         size = 4000
     }
+
 }
-#Setubal (112000/28000 POPS)
+
+#Setubal
 524 = {
     aristocrats = {
         culture = ispannu
@@ -320,15 +333,16 @@
         religion = roman_catholic
         size = 39000
     }
-	
+
     farmers = {
         culture = ulisianu
         religion = roman_catholic
         size = 5000
     }
+
 }
-#Alentejo-Algarve Region (372000)
-#Evora (156000/39000 POPS)
+
+#Evora
 525 = {
     aristocrats = {
         culture = ispannu
@@ -371,14 +385,16 @@
         religion = roman_catholic
         size = 30000
     }
-	
+
     farmers = {
         culture = ulisianu
         religion = roman_catholic
         size = 15000
     }
+
 }
-#Beja (96000/24000 POPS)
+
+#Beja
 526 = {
     aristocrats = {
         culture = ispannu
@@ -409,8 +425,10 @@
         religion = roman_catholic
         size = 45000
     }
+
 }
-#Faro (120000/30000 POPS)
+
+#Faro
 527 = {
     aristocrats = {
         culture = ispannu
@@ -423,8 +441,8 @@
         religion = roman_catholic
         size = 325
     }
-	
-	aristocrats = {
+
+    aristocrats = {
         culture = neo_phoenician
         religion = roman_catholic
         size = 1300
@@ -453,8 +471,8 @@
         religion = roman_catholic
         size = 38025
     }
-	
-	artisans = {
+
+    artisans = {
         culture = ispannu
         religion = roman_catholic
         size = 350
@@ -471,16 +489,16 @@
         religion = roman_catholic
         size = 5025
     }
-	
-	farmers = {
+
+    farmers = {
         culture = neo_phoenician
         religion = roman_catholic
         size = 2420
     }
 
 }
-#Azores & Madeira Region (308000)
-#Azores (204000/51000 POPS)
+
+#Azores
 2134 = {
     aristocrats = {
         culture = ispannu
@@ -523,8 +541,10 @@
         religion = roman_catholic
         size = 45975
     }
+
 }
-#Madeira (104000/26000 POPS)
+
+#Madeira
 2135 = {
     aristocrats = {
         culture = neo_phoenician
@@ -557,3 +577,4 @@
     }
 
 }
+

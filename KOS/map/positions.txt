@@ -136370,3 +136370,31 @@
 3944 = {
     text_scale = 1.4
 }
+
+3945 = {
+    text_scale = 1.4
+}
+
+3946 = {
+    text_scale = 1.4
+}
+
+3947 = {
+    text_scale = 1.4
+}
+
+3948 = {
+    text_scale = 1.4
+}
+
+3949 = {
+    text_scale = 1.4
+}
+
+3950 = {
+    text_scale = 1.4
+}
+
+3951 = {
+    text_scale = 1.4
+}

@@ -5910,3 +5910,11 @@
         size = 85000
     }
 }
+
+3769 = {
+    aristocrats = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 650
+    }
+}

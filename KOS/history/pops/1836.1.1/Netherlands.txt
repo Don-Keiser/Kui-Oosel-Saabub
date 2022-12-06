@@ -567,3 +567,11 @@
         size = 500
     }
 }
+
+3781 = {
+    aristocrats = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 650
+    }
+}
