@@ -2,31 +2,31 @@
 475 = {
     aristocrats = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 1100
     }
 
     clergymen = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 1050
     }
 
     artisans = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 4000
     }
 
     soldiers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 800
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 8000
     }
 
@@ -60,43 +60,43 @@
 477 = {
     aristocrats = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 800
     }
 
     officers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 300
     }
 
     bureaucrats = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 400
     }
 
     clergymen = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 700
     }
 
     artisans = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 8000
     }
 
     soldiers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 700
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 18000
     }
 
@@ -130,32 +130,32 @@
 478 = {
     aristocrats = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     clergymen = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 400
     }
 
     artisans = {
         culture = galetzian
-        religion = roman_catholic
-        size = 3500
+        religion = african_catholic
+        size = 6000
     }
 
     soldiers = {
         culture = galetzian
-        religion = roman_catholic
-        size = 400
+        religion = african_catholic
+        size = 2800
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
-        size = 35700
+        religion = african_catholic
+        size = 29000
     }
 
     clergymen = {
@@ -176,43 +176,55 @@
         size = 3900
     }
 
+    farmers = {
+        culture = galetzian
+        religion = arianism
+        size = 6000
+    }
+
+    artisans = {
+        culture = galetzian
+        religion = arianism
+        size = 1500
+    }
+
 }
 
 #Burgos
 479 = {
     aristocrats = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 650
     }
 
     clergymen = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 575
     }
 
     artisans = {
         culture = galetzian
-        religion = roman_catholic
-        size = 5500
+        religion = african_catholic
+        size = 5000
     }
 
     soldiers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 600
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
-        size = 41000
+        religion = african_catholic
+        size = 39000
     }
 
     farmers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 8000
     }
 
@@ -228,38 +240,62 @@
         size = 3000
     }
 
+    farmers = {
+        culture = galetzian
+        religion = arianism
+        size = 3000
+    }
+
+    artisans = {
+        culture = galetzian
+        religion = arianism
+        size = 800
+    }
+
 }
 
 #Valladolid
 480 = {
     aristocrats = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 600
     }
 
     clergymen = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     artisans = {
         culture = galetzian
-        religion = roman_catholic
-        size = 6000
+        religion = african_catholic
+        size = 5000
     }
 
     soldiers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
-        size = 42900
+        religion = african_catholic
+        size = 36000
+    }
+
+    farmers = {
+        culture = galetzian
+        religion = arianism
+        size = 7000
+    }
+
+    artisans = {
+        culture = galetzian
+        religion = arianism
+        size = 1000
     }
 
 }
@@ -267,51 +303,51 @@
 #Soria
 481 = {
     aristocrats = {
-        culture = galetzian
-        religion = roman_catholic
+        culture = toletzianu
+        religion = african_catholic
         size = 1500
     }
 
     officers = {
-        culture = galetzian
-        religion = roman_catholic
+        culture = toletzianu
+        religion = african_catholic
         size = 250
     }
 
     bureaucrats = {
-        culture = galetzian
-        religion = roman_catholic
+        culture = toletzianu
+        religion = african_catholic
         size = 350
     }
 
     clergymen = {
-        culture = galetzian
-        religion = roman_catholic
+        culture = toletzianu
+        religion = african_catholic
         size = 700
     }
 
     artisans = {
-        culture = galetzian
-        religion = roman_catholic
+        culture = toletzianu
+        religion = african_catholic
         size = 3500
     }
 
     soldiers = {
-        culture = galetzian
-        religion = roman_catholic
+        culture = toletzianu
+        religion = african_catholic
         size = 2000
     }
 
     farmers = {
-        culture = galetzian
-        religion = roman_catholic
-        size = 22700
+        culture = toletzianu
+        religion = african_catholic
+        size = 32000
     }
 
     farmers = {
-        culture = toletzianu
-        religion = roman_catholic
-        size = 40000
+        culture = galetzian
+        religion = african_catholic
+        size = 2000
     }
 
 }
@@ -320,49 +356,49 @@
 482 = {
     aristocrats = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 800
     }
 
     clergymen = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 800
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3500
     }
 
     soldiers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 4800
     }
 
     farmers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 72000
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 2800
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 4200
     }
 
@@ -372,37 +408,37 @@
 483 = {
     aristocrats = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1200
     }
 
     clergymen = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 550
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 4000
     }
 
     soldiers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2000
     }
 
     farmers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 49000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2000
     }
 
@@ -412,43 +448,43 @@
 484 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1250
     }
 
     officers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 200
     }
 
     bureaucrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 250
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 550
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 4500
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 600
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 46650
     }
 
@@ -458,38 +494,62 @@
 485 = {
     aristocrats = {
         culture = toletzianu
-        religion = roman_catholic
-        size = 1050
+        religion = african_catholic
+        size = 100
     }
 
     clergymen = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
-        size = 2250
+        religion = african_catholic
+        size = 3800
     }
 
     soldiers = {
         culture = toletzianu
-        religion = roman_catholic
-        size = 500
+        religion = african_catholic
+        size = 100
     }
 
     farmers = {
         culture = toletzianu
-        religion = roman_catholic
-        size = 44000
+        religion = african_catholic
+        size = 16000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
-        size = 2300
+        religion = african_catholic
+        size = 18000
+    }
+
+    aristocrats = {
+        culture = ispannu
+        religion = african_catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = ispannu
+        religion = african_catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = ispannu
+        religion = african_catholic
+        size = 6200
+    }
+
+    soldiers = {
+        culture = ispannu
+        religion = african_catholic
+        size = 3000
     }
 
 }
@@ -498,37 +558,37 @@
 486 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 900
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 425
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3500
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 450
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 58000
     }
 
     farmers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 4800
     }
 
@@ -538,31 +598,31 @@
 487 = {
     aristocrats = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1550
     }
 
     clergymen = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 750
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 6000
     }
 
     soldiers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3000
     }
 
     farmers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 60000
     }
 
@@ -572,25 +632,25 @@
 488 = {
     aristocrats = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1200
     }
 
     clergymen = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2500
     }
 
     soldiers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 44000
     }
 
@@ -606,62 +666,62 @@
 489 = {
     aristocrats = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2000
     }
 
     officers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     bureaucrats = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 350
     }
 
     clergymen = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1900
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3000
     }
 
     soldiers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 8000
     }
 
     farmers = {
         culture = toletzianu
-        religion = roman_catholic
-        size = 75000
+        religion = african_catholic
+        size = 70000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
-        size = 2500
+        religion = african_catholic
+        size = 7500
     }
 
 }
@@ -670,37 +730,37 @@
 490 = {
     aristocrats = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 700
     }
 
     clergymen = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1075
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2200
     }
 
     soldiers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3800
     }
 
     farmers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 50000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3000
     }
 
@@ -710,56 +770,56 @@
 491 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1500
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
-        size = 2900
+        religion = african_catholic
+        size = 8000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
-        size = 37500
+        religion = african_catholic
+        size = 38000
     }
 
     clergymen = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 100
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
-        size = 1800
+        religion = african_catholic
+        size = 3800
     }
 
     soldiers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 100
     }
 
     farmers = {
         culture = toletzianu
-        religion = roman_catholic
-        size = 32000
+        religion = african_catholic
+        size = 10000
     }
 
 }
@@ -920,43 +980,43 @@
 494 = {
     aristocrats = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 850
     }
 
     clergymen = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 400
     }
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2000
     }
 
     soldiers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 100
     }
 
     farmers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 29000
     }
 
     soldiers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 300
     }
 
     farmers = {
         culture = galetzian
-        religion = roman_catholic
+        religion = african_catholic
         size = 8000
     }
 
@@ -996,7 +1056,7 @@
 
     artisans = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 5000
     }
 
@@ -1014,13 +1074,13 @@
 
     clergymen = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 50
     }
 
     farmers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1950
     }
 
@@ -1094,7 +1154,7 @@
 497 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1200
     }
 
@@ -1336,31 +1396,31 @@
 501 = {
     aristocrats = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 200
     }
 
     clergymen = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 100
     }
 
     artisans = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 800
     }
 
     soldiers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 100
     }
 
     farmers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 5850
     }
 
@@ -1412,31 +1472,31 @@
 502 = {
     aristocrats = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 400
     }
 
     clergymen = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 400
     }
 
     artisans = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 8000
     }
 
     soldiers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 400
     }
 
     farmers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 46300
     }
 
@@ -1476,55 +1536,55 @@
 503 = {
     aristocrats = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1800
     }
 
     officers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 280
     }
 
     bureaucrats = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 550
     }
 
     clergymen = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1300
     }
 
     artisans = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 6200
     }
 
     soldiers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3800
     }
 
     farmers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 70000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3000
     }
 
@@ -1534,31 +1594,31 @@
 504 = {
     aristocrats = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 750
     }
 
     clergymen = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 250
     }
 
     artisans = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2800
     }
 
     soldiers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 250
     }
 
     farmers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 46000
     }
 
@@ -1598,61 +1658,61 @@
 505 = {
     aristocrats = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1100
     }
 
     clergymen = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 525
     }
 
     artisans = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2500
     }
 
     soldiers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 550
     }
 
     farmers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 90000
     }
 
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 400
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 400
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 400
     }
 
     labourers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 4500
     }
 
@@ -1662,67 +1722,67 @@
 506 = {
     aristocrats = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2300
     }
 
     officers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 200
     }
 
     bureaucrats = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 900
     }
 
     clergymen = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1800
     }
 
     artisans = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 8000
     }
 
     soldiers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 8000
     }
 
     farmers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 95000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 200
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 6000
     }
 
@@ -1732,37 +1792,37 @@
 507 = {
     aristocrats = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     clergymen = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 225
     }
 
     artisans = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1100
     }
 
     soldiers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 250
     }
 
     farmers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 23000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3500
     }
 
@@ -1772,37 +1832,37 @@
 508 = {
     aristocrats = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 400
     }
 
     clergymen = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     artisans = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2000
     }
 
     soldiers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1900
     }
 
     farmers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 54000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2000
     }
 
@@ -1812,74 +1872,92 @@
 509 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1800
     }
 
     officers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 550
     }
 
     bureaucrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 450
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3000
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 9000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
-        size = 99000
+        religion = african_catholic
+        size = 90000
+    }
+
+    artisans = {
+        culture = muretannian
+        religion = african_catholic
+        size = 3500
+    }
+
+    farmers = {
+        culture = muretannian
+        religion = african_catholic
+        size = 10000
+    }
+
+    aristocrats = {
+        culture = muretannian
+        religion = african_catholic
+        size = 450
     }
 
 }
@@ -1888,55 +1966,55 @@
 510 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1700
     }
 
     bureaucrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 800
     }
 
     officers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 450
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 800
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 6000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 86000
     }
 
@@ -1946,31 +2024,31 @@
 511 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 750
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 375
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 31375
     }
 
@@ -1980,44 +2058,44 @@
 512 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1100
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 850
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = muretannian
-        religion = roman_catholic
+        religion = african_catholic
         size = 6500
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
-        size = 1100
+        religion = african_catholic
+        size = 3000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
-        size = 40000
+        religion = african_catholic
+        size = 50000
     }
 
     farmers = {
         culture = muretannian
-        religion = roman_catholic
-        size = 25000
+        religion = african_catholic
+        size = 40000
     }
 
 }
@@ -2026,49 +2104,49 @@
 513 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2750
     }
 
     officers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 450
     }
 
     bureaucrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 950
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 5000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 3000
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 72850
     }
 
@@ -2078,38 +2156,38 @@
 514 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 2700
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 900
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 7500
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
-        size = 78400
+        religion = african_catholic
+        size = 65000
     }
 
 }
@@ -2118,37 +2196,37 @@
 515 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1650
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 550
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 5000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 23000
     }
 
     farmers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 31000
     }
 
@@ -2158,31 +2236,31 @@
 516 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1700
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 600
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 6000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 60000
     }
 
@@ -2280,43 +2358,43 @@
 3287 = {
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 600
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 42000
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 600
     }
 
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 6000
     }
 
     bureaucrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 250
     }
 
     officers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 100
     }
 
@@ -2325,9 +2403,63 @@
 #Opidda
 3841 = {
     aristocrats = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 650
+        culture = toletzianu
+        religion = african_catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = toletzianu
+        religion = african_catholic
+        size = 350
+    }
+
+    soldiers = {
+        culture = toletzianu
+        religion = african_catholic
+        size = 2000
+    }
+
+    artisans = {
+        culture = toletzianu
+        religion = african_catholic
+        size = 3500
+    }
+
+    farmers = {
+        culture = toletzianu
+        religion = african_catholic
+        size = 14000
+    }
+
+    aristocrats = {
+        culture = ulisianu
+        religion = african_catholic
+        size = 320
+    }
+
+    clergymen = {
+        culture = ulisianu
+        religion = african_catholic
+        size = 400
+    }
+
+    soldiers = {
+        culture = ulisianu
+        religion = african_catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = ulisianu
+        religion = african_catholic
+        size = 5000
+    }
+
+    farmers = {
+        culture = ulisianu
+        religion = african_catholic
+        size = 18000
     }
 
 }

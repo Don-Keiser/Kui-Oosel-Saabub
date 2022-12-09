@@ -1,6 +1,4 @@
-#Piemonte Region (1610000)
-#under the rule of Sardinia in 1836
-#Turin (916000/229000 POPS)
+#Turin
 720 = {
     aristocrats = {
         culture = ligur
@@ -73,39 +71,48 @@
         religion = roman_catholic
         size = 11600
     }
+
 }
+
+#Balme
 3435 = {
     artisans = {
         culture = ligur
         religion = roman_catholic
         size = 775
     }
-	
+
     farmers = {
         culture = ligur
         religion = roman_catholic
         size = 7500
     }
-	
-	farmers = {
+
+    farmers = {
         culture = burgundisch
         religion = roman_catholic
         size = 3500
     }
+
 }
+
+#Bardonecchia
 3434 = {
     artisans = {
         culture = ligur
         religion = roman_catholic
         size = 775
     }
+
     farmers = {
         culture = ligur
         religion = roman_catholic
         size = 14600
     }
+
 }
-#Aosta (156000/39000 POPS)
+
+#Aosta
 721 = {
     aristocrats = {
         culture = ligur
@@ -166,8 +173,10 @@
         religion = roman_catholic
         size = 25500
     }
+
 }
-#Novara (212000/53000 POPS)
+
+#Novara
 722 = {
     aristocrats = {
         culture = ligur
@@ -198,14 +207,16 @@
         religion = roman_catholic
         size = 44000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = french
         religion = african_catholic
         size = 2000
     }
+
 }
-#Alessandria (326000/79000 POPS)
+
+#Alessandria
 723 = {
     aristocrats = {
         culture = ligur
@@ -236,10 +247,10 @@
         religion = roman_catholic
         size = 65200
     }
+
 }
-#Liguria Region (960000)
-#under the rule of Sardinia in 1836
-#Genoa (644000/161000 POPS)
+
+#Genoa
 724 = {
     aristocrats = {
         culture = ligur
@@ -288,8 +299,10 @@
         religion = roman_catholic
         size = 140000
     }
+
 }
-#Savona (316000/79000 POPS)
+
+#Savona
 725 = {
     aristocrats = {
         culture = ligur
@@ -320,10 +333,10 @@
         religion = roman_catholic
         size = 70700
     }
+
 }
-#Lombardy Region (2512000)
-#under the rule of Austria in 1836
-#Milan (1332000/333000 POPS)
+
+#Milan
 726 = {
     aristocrats = {
         culture = lombard
@@ -348,20 +361,20 @@
         religion = roman_catholic
         size = 3350
     }
-	
+
     artisans = {
         culture = lombard
         religion = roman_catholic
         size = 10000
     }
-	
-	artisans = {
+
+    artisans = {
         culture = lombard
         religion = roman_catholic
         size = 10000
     }
-	
-	artisans = {
+
+    artisans = {
         culture = lombard
         religion = roman_catholic
         size = 10000
@@ -384,8 +397,10 @@
         religion = roman_catholic
         size = 280000
     }
+
 }
-#Bergamo (472000/118000 POPS)
+
+#Bergamo
 727 = {
     aristocrats = {
         culture = lombard
@@ -416,14 +431,16 @@
         religion = roman_catholic
         size = 74000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = romansh
         religion = roman_catholic
         size = 3800
     }
+
 }
-#Brescia (708000/177000 POPS)
+
+#Brescia
 728 = {
     aristocrats = {
         culture = lombard
@@ -454,10 +471,10 @@
         religion = roman_catholic
         size = 161000
     }
+
 }
-#Venetia Region (2060000)
-#under the rule of Austria in 1836
-#Venice (448000/112000 POPS)
+
+#Venice
 729 = {
     aristocrats = {
         culture = lombard
@@ -524,8 +541,10 @@
         religion = roman_catholic
         size = 60925
     }
+
 }
-#Verona (516000/129000 POPS)
+
+#Verona
 730 = {
     aristocrats = {
         culture = lombard
@@ -562,8 +581,10 @@
         religion = roman_catholic
         size = 111050
     }
+
 }
-#Padua (564000/141000 POPS)
+
+#Padua
 731 = {
     aristocrats = {
         culture = lombard
@@ -594,8 +615,10 @@
         religion = roman_catholic
         size = 127775
     }
+
 }
-#Treviso (232000/58000 POPS)
+
+#Treviso
 732 = {
     aristocrats = {
         culture = lombard
@@ -626,8 +649,10 @@
         religion = roman_catholic
         size = 50300
     }
+
 }
-#Udine (300000/75000 POPS)
+
+#Udine
 733 = {
     aristocrats = {
         culture = histri
@@ -658,15 +683,16 @@
         religion = roman_catholic
         size = 44000
     }
+
     farmers = {
         culture = lombard
         religion = roman_catholic
         size = 10000
     }
+
 }
-#Tirol Region (368000) #see Austria.txt for balance of Region
-#under the rule of Austria in 1836
-#Trent (276000/69000 POPS) #now part of Italy
+
+#Trent
 734 = {
     aristocrats = {
         culture = lombard
@@ -727,8 +753,10 @@
         religion = roman_catholic
         size = 10075
     }
+
 }
-#Bozen (92000/23000 POPS) #now part of Italy
+
+#Bozen
 735 = {
     aristocrats = {
         culture = romansh
@@ -739,7 +767,7 @@
     clergymen = {
         culture = romansh
         religion = roman_catholic
-        size =  145
+        size = 145
     }
 
     artisans = {
@@ -763,7 +791,7 @@
     clergymen = {
         culture = lombard
         religion = roman_catholic
-        size =  50
+        size = 50
     }
 
     artisans = {
@@ -783,10 +811,10 @@
         religion = roman_catholic
         size = 3400
     }
+
 }
-#Friuli-Istria Region (292000) #see Croatia.txt for balance of region
-#under the rule of Austria in 1836
-#Trieste (112000/28000 POPS)
+
+#Trieste
 736 = {
     aristocrats = {
         culture = histri
@@ -835,8 +863,10 @@
         religion = roman_catholic
         size = 16000
     }
+
 }
-#Gorizia (180000/45000 POPS)
+
+#Gorizia
 737 = {
     aristocrats = {
         culture = histri
@@ -867,10 +897,10 @@
         religion = roman_catholic
         size = 40800
     }
+
 }
-#Emilia Region (1120000)
-#under the rule of Parma in 1836
-#Parma (472000/118000 POPS)
+
+#Parma
 738 = {
     aristocrats = {
         culture = lombard
@@ -913,15 +943,16 @@
         religion = roman_catholic
         size = 100000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = ligur
         religion = roman_catholic
         size = 4000
     }
+
 }
-#under the rule of Modena in 1836
-#Modena (484000/121000 POPS)
+
+#Modena
 739 = {
     aristocrats = {
         culture = lombard
@@ -964,14 +995,16 @@
         religion = roman_catholic
         size = 100000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = romagnol
         religion = roman_catholic
         size = 8000
     }
+
 }
-#Massa (164000/41000 POPS)
+
+#Massa
 740 = {
     aristocrats = {
         culture = romagnol
@@ -1002,22 +1035,22 @@
         religion = roman_catholic
         size = 25000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = lombard
         religion = roman_catholic
         size = 6000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = ligur
         religion = roman_catholic
         size = 5000
     }
+
 }
-#Romagna Region (844000)
-#under the rule of Papal States in 1836
-#Bologna (416000/104000 POPS)
+
+#Bologna
 741 = {
     aristocrats = {
         culture = lombard
@@ -1066,14 +1099,16 @@
         religion = roman_catholic
         size = 30000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = lombard
         religion = roman_catholic
         size = 50000
     }
+
 }
-#Ferrara (180000/45000 POPS)
+
+#Ferrara
 742 = {
     aristocrats = {
         culture = lombard
@@ -1104,14 +1139,16 @@
         religion = roman_catholic
         size = 34000
     }
-	
+
     farmers = {
         culture = romagnol
         religion = roman_catholic
         size = 3000
     }
+
 }
-#Ravenna (248000/62000 POPS)
+
+#Ravenna
 743 = {
     aristocrats = {
         culture = lombard
@@ -1142,16 +1179,16 @@
         religion = roman_catholic
         size = 24000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = romagnol
         religion = roman_catholic
         size = 30000
     }
+
 }
-#Tuscany Region (1808000)
-#under the rule of Tuscany in 1836
-#Florence (716000/179000 POPS)
+
+#Florence
 744 = {
     aristocrats = {
         culture = ligur
@@ -1182,8 +1219,8 @@
         religion = roman_catholic
         size = 10000
     }
-	
-	artisans = {
+
+    artisans = {
         culture = romagnol
         religion = roman_catholic
         size = 6000
@@ -1206,14 +1243,16 @@
         religion = roman_catholic
         size = 148000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = ligur
         religion = roman_catholic
         size = 2000
     }
+
 }
-#Livorno (380000/95000 POPS)
+
+#Leghorn
 745 = {
     aristocrats = {
         culture = romagnol
@@ -1250,7 +1289,10 @@
         religion = roman_catholic
         size = 85000
     }
+
 }
+
+#Elba
 3396 = {
     aristocrats = {
         culture = romagnol
@@ -1305,7 +1347,10 @@
         religion = roman_catholic
         size = 500
     }
+
 }
+
+#Pontecorvo
 3397 = {
     aristocrats = {
         culture = romagnol
@@ -1348,7 +1393,7 @@
         religion = thessalonian_orthodox
         size = 1000
     }
-	
+
     soldiers = {
         culture = griko
         religion = thessalonian_orthodox
@@ -1360,7 +1405,10 @@
         religion = thessalonian_orthodox
         size = 2000
     }
+
 }
+
+#Benevento
 3398 = {
     aristocrats = {
         culture = griko
@@ -1409,8 +1457,10 @@
         religion = roman_catholic
         size = 5200
     }
+
 }
-#Siena (380000/95000 POPS)
+
+#Siena
 747 = {
     aristocrats = {
         culture = romagnol
@@ -1441,8 +1491,10 @@
         religion = roman_catholic
         size = 85000
     }
+
 }
-#Grosseto (184000/46000 POPS)
+
+#Grosetto
 748 = {
     aristocrats = {
         culture = romagnol
@@ -1473,9 +1525,10 @@
         religion = roman_catholic
         size = 41225
     }
+
 }
-#under the rule of Lucca in 1836
-#Lucca (148000/37000 POPS)
+
+#Lucca
 746 = {
     aristocrats = {
         culture = ligur
@@ -1524,16 +1577,16 @@
         religion = roman_catholic
         size = 18500
     }
-	
-	farmers = {
+
+    farmers = {
         culture = ligur
         religion = roman_catholic
         size = 4500
     }
+
 }
-#Latium Region (1272000)
-#under the rule of Papal States in 1836
-#Rome (1092000/273000 POPS)
+
+#Rome
 749 = {
     aristocrats = {
         culture = romagnol
@@ -1594,8 +1647,10 @@
         religion = roman_catholic
         size = 230750
     }
+
 }
-#Viterbo (180000/45000 POPS)
+
+#Viterbo
 750 = {
     aristocrats = {
         culture = romagnol
@@ -1626,10 +1681,10 @@
         religion = roman_catholic
         size = 40150
     }
+
 }
-#Umbria-Abruzzi Region (1056000)
-#under the rule of Papal States in 1836
-#Perugia (376000/94000 POPS)
+
+#Perugia
 751 = {
     aristocrats = {
         culture = romagnol
@@ -1672,8 +1727,10 @@
         religion = roman_catholic
         size = 94750
     }
+
 }
-#Ancona (180000/45000 POPS)
+
+#Ancona
 752 = {
     aristocrats = {
         culture = romagnol
@@ -1704,9 +1761,10 @@
         religion = roman_catholic
         size = 35025
     }
+
 }
-#under the rule of Two Sicilies in 1836
-#Aquila (500000/125000 POPS)
+
+#Aquila
 753 = {
     aristocrats = {
         culture = romagnol
@@ -1751,9 +1809,8 @@
     }
 
 }
-#Campania Region (2312000)
-#under the rule of Two Sicilies in 1836
-#Naples (1304000/326000 POPS)
+
+#Naples
 754 = {
     aristocrats = {
         culture = griko
@@ -1832,14 +1889,16 @@
         religion = roman_catholic
         size = 65000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = griko
         religion = thessalonian_orthodox
         size = 126000
     }
+
 }
-#Salerno (572000/143000 POPS)
+
+#Salerno
 755 = {
     aristocrats = {
         culture = romagnol
@@ -1870,14 +1929,16 @@
         religion = roman_catholic
         size = 42000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = griko
         religion = thessalonian_orthodox
         size = 36000
     }
+
 }
-#Gaeta (436000/109000 POPS)
+
+#Gaeta
 2567 = {
     aristocrats = {
         culture = romagnol
@@ -1908,10 +1969,10 @@
         religion = roman_catholic
         size = 90000
     }
+
 }
-#Apulia Region (1424000)
-#under the rule of Two Sicilies in 1836
-#Bari (572000/143000 POPS)
+
+#Bari
 756 = {
     aristocrats = {
         culture = griko
@@ -1960,8 +2021,10 @@
         religion = roman_catholic
         size = 8000
     }
+
 }
-#Foggia (572000/143000 POPS)
+
+#Foggia
 757 = {
     aristocrats = {
         culture = griko
@@ -1992,86 +2055,88 @@
         religion = thessalonian_orthodox
         size = 90000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = romagnol
         religion = roman_catholic
         size = 38000
     }
+
 }
-#Brindisi (280000/70000 POPS)
+
+#Brindisi
 758 = {
     aristocrats = {
         culture = griko
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 1800
     }
 
     clergymen = {
         culture = griko
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 700
     }
 
     artisans = {
         culture = griko
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 3500
     }
 
     soldiers = {
         culture = griko
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 1100
     }
 
     farmers = {
         culture = griko
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 51000
     }
+
 }
-#Calabria-Basilicata Region (1488000)
-#under the rule of Two Sicilies in 1836
-#Reggio (572000/143000 POPS)
+
+#Reggio di Calabria
 759 = {
     aristocrats = {
         culture = griko
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 3500
     }
 
     bureaucrats = {
         culture = griko
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 475
     }
 
     officers = {
         culture = griko
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 375
     }
 
     clergymen = {
         culture = griko
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 1450
     }
 
     artisans = {
         culture = griko
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 7500
     }
 
     soldiers = {
         culture = griko
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 2000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = griko
         religion = thessalonian_orthodox
         size = 57000
@@ -2079,11 +2144,13 @@
 
     farmers = {
         culture = sicilian
-        religion = thessalonian_orthodox
+        religion = roman_catholic
         size = 70700
     }
+
 }
-#Catanzaro (344000/86000 POPS)
+
+#Catanzaro
 760 = {
     aristocrats = {
         culture = griko
@@ -2114,8 +2181,10 @@
         religion = thessalonian_orthodox
         size = 78000
     }
+
 }
-#Potenza (572000/143000 POPS)
+
+#Potenza
 761 = {
     aristocrats = {
         culture = griko
@@ -2146,24 +2215,24 @@
         religion = thessalonian_orthodox
         size = 123000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = romagnol
         religion = roman_catholic
         size = 5000
     }
+
 }
-#Sicily Region (1816000)
-#under the rule of Two Sicilies in 1836
-#Palermo (744000/186000 POPS)
+
+#Palermo
 762 = {
     aristocrats = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 3200
     }
-	
-	aristocrats = {
+
+    aristocrats = {
         culture = sicilian
         religion = roman_catholic
         size = 2000
@@ -2171,13 +2240,13 @@
 
     bureaucrats = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 825
     }
 
     officers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 500
     }
 
@@ -2201,7 +2270,7 @@
 
     artisans = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 8000
     }
 
@@ -2219,11 +2288,13 @@
 
     farmers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 8000
     }
+
 }
-#Messina (352000/88000 POPS)
+
+#Messina
 763 = {
     aristocrats = {
         culture = sicilian
@@ -2257,16 +2328,17 @@
 
     farmers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 4500
     }
 
 }
-#Catania (720000/180000 POPS)
+
+#Catania
 764 = {
     aristocrats = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 5000
     }
 
@@ -2290,7 +2362,7 @@
 
     artisans = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 1100
     }
 
@@ -2308,13 +2380,13 @@
 
     farmers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 14000
     }
+
 }
-#Sardinia Region (524000)
-#under the rule of Sardinia in 1836
-#Cagliari (336000/84000 POPS)
+
+#Cagliari
 765 = {
     aristocrats = {
         culture = sardinian
@@ -2357,8 +2429,10 @@
         religion = roman_catholic
         size = 70895
     }
+
 }
-#Sassari (188000/47000 POPS)
+
+#Sassari
 766 = {
     aristocrats = {
         culture = sardinian
@@ -2389,9 +2463,10 @@
         religion = roman_catholic
         size = 48000
     }
+
 }
 
-#Pescara - (4000/1000 POPS)
+#Pescara
 3261 = {
     clergymen = {
         culture = romagnol
@@ -2416,9 +2491,10 @@
         religion = roman_catholic
         size = 63000
     }
+
 }
 
-#Belluno - (4000/1000 POPS)
+#Belluno
 3262 = {
     clergymen = {
         culture = lombard
@@ -2452,7 +2528,7 @@
 
 }
 
-#Sondrio - former Amga (6000/1500 POPS)
+#Majja
 2669 = {
     clergymen = {
         culture = romansh
@@ -2484,31 +2560,31 @@
 3706 = {
     aristocrats = {
         culture = african_romance
-        religion = thessalonian_orthodox
+        religion = african_catholic
         size = 920
     }
 
     clergymen = {
         culture = african_romance
-        religion = thessalonian_orthodox
+        religion = african_catholic
         size = 255
     }
 
     artisans = {
         culture = african_romance
-        religion = thessalonian_orthodox
+        religion = african_catholic
         size = 2370
     }
 
     soldiers = {
         culture = african_romance
-        religion = thessalonian_orthodox
+        religion = african_catholic
         size = 1050
     }
 
     farmers = {
         culture = african_romance
-        religion = thessalonian_orthodox
+        religion = african_catholic
         size = 9000
     }
 
@@ -2554,12 +2630,13 @@
 
     farmers = {
         culture = greek
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 4000
     }
+
 }
 
-#Campagna
+#Callipolis
 3708 = {
     aristocrats = {
         culture = romagnol
@@ -2578,8 +2655,8 @@
         religion = roman_catholic
         size = 10000
     }
-	
-	artisans = {
+
+    artisans = {
         culture = romagnol
         religion = roman_catholic
         size = 4000
@@ -2679,10 +2756,13 @@
 
 }
 
+#Pavie
 3840 = {
     aristocrats = {
         culture = aquitan
         religion = roman_catholic
         size = 650
     }
+
 }
+

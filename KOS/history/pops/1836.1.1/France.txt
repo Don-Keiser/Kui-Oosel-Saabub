@@ -5404,6 +5404,15 @@
 
 }
 
+3770 = {
+    aristocrats = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 650
+    }
+
+}
+
 #Rouen
 3771 = {
     aristocrats = {

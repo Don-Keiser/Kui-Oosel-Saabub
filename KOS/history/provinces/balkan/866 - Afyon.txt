@@ -1,5 +1,5 @@
-owner = LWI
-controller = LWI
-add_core = LWI
+owner = PHR
+controller = PHR
+add_core = PHR
 trade_goods = opium
 life_rating = 35

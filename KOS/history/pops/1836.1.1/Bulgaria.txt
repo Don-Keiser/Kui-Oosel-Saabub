@@ -1,6 +1,4 @@
-#Macedonia Region (192000) #see Greece.txt and Macedonia.txt for balance of region
-#under the rule of Ottoman Empire in 1836
-#Petrich (192000/48000 POPS) #now part of Bulgaria
+#Petrich
 808 = {
     aristocrats = {
         culture = rughan
@@ -55,17 +53,17 @@
         religion = zalmoxis
         size = 49000
     }
+
 }
-#Bulgaria Region (1132000)
-#under the rule of Ottoman Empire in 1836
-#Sofia (260000/65000 POPS)
+
+#Sofia
 809 = {
     aristocrats = {
         culture = rughan
         religion = zalmoxis
         size = 1300
     }
-	
+
     bureaucrats = {
         culture = rughan
         religion = zalmoxis
@@ -131,42 +129,44 @@
         religion = zalmoxis
         size = 38100
     }
+
 }
-#Vidin (124000/31000 POPS)
+
+#Vidin
 810 = {
     aristocrats = {
         culture = kunsag
-        religion = african_catholic
+        religion = thessalonian_orthodox
         size = 650
     }
 
     clergymen = {
         culture = kunsag
-        religion = african_catholic
+        religion = thessalonian_orthodox
         size = 110
     }
 
     artisans = {
         culture = kunsag
-        religion = african_catholic
+        religion = thessalonian_orthodox
         size = 800
     }
 
     soldiers = {
         culture = kunsag
-        religion = african_catholic
+        religion = thessalonian_orthodox
         size = 500
     }
 
     farmers = {
         culture = kunsag
-        religion = african_catholic
+        religion = thessalonian_orthodox
         size = 1125
     }
-	
+
     aristocrats = {
         culture = rughan
-        religion = african_catholic
+        religion = zalmoxis
         size = 1300
     }
 
@@ -193,8 +193,10 @@
         religion = zalmoxis
         size = 57000
     }
+
 }
-#Ruse (188000/47000 POPS)
+
+#Ruse
 811 = {
     aristocrats = {
         culture = rughan
@@ -225,8 +227,10 @@
         religion = zalmoxis
         size = 52000
     }
+
 }
-#Pleven (196000/49000 POPS)
+
+#Pleven
 812 = {
     aristocrats = {
         culture = rughan
@@ -257,8 +261,10 @@
         religion = zalmoxis
         size = 53000
     }
+
 }
-#Shumen (144000/36000 POPS)
+
+#Shumen
 813 = {
     aristocrats = {
         culture = rughan
@@ -313,8 +319,10 @@
         religion = zalmoxis
         size = 12000
     }
+
 }
-#Varna (220000/55000 POPS)
+
+#Varna
 814 = {
     aristocrats = {
         culture = rughan
@@ -369,10 +377,10 @@
         religion = zalmoxis
         size = 41000
     }
+
 }
-#Rumelia Region (396000)
-#under the rule of Ottoman Empire in 1836
-#Plovdiv (120000/30000 POPS)
+
+#Plovdiv
 815 = {
     aristocrats = {
         culture = bulgar_tatar
@@ -415,7 +423,7 @@
         religion = zalmoxis
         size = 50000
     }
-	
+
     aristocrats = {
         culture = rughan
         religion = zalmoxis
@@ -439,8 +447,10 @@
         religion = zalmoxis
         size = 2200
     }
+
 }
-#Stara Zagora (80000/20000 POPS)
+
+#Stara Zagora
 816 = {
     aristocrats = {
         culture = bulgar_tatar
@@ -471,7 +481,7 @@
         religion = zalmoxis
         size = 43000
     }
-	
+
     aristocrats = {
         culture = rughan
         religion = zalmoxis
@@ -501,7 +511,10 @@
         religion = zalmoxis
         size = 12000
     }
+
 }
+
+#Stara Zagora
 3373 = {
     aristocrats = {
         culture = rughan
@@ -532,7 +545,7 @@
         religion = zalmoxis
         size = 18000
     }
-	
+
     clergymen = {
         culture = red_croat
         religion = zalmoxis
@@ -556,15 +569,17 @@
         religion = zalmoxis
         size = 22000
     }
+
 }
-#Burgas (196000/49000 POPS)
+
+#Burgas
 817 = {
     aristocrats = {
         culture = bulgar_tatar
         religion = zalmoxis
         size = 1500
     }
-	
+
     officers = {
         culture = bulgar_tatar
         religion = zalmoxis
@@ -594,7 +609,7 @@
         religion = zalmoxis
         size = 57000
     }
-	
+
     artisans = {
         culture = rughan
         religion = zalmoxis
@@ -612,14 +627,17 @@
         religion = zalmoxis
         size = 8000
     }
+
 }
+
+#Tsarevo
 3303 = {
     aristocrats = {
         culture = bulgar_tatar
         religion = zalmoxis
         size = 800
     }
-	
+
     officers = {
         culture = bulgar_tatar
         religion = zalmoxis
@@ -649,10 +667,10 @@
         religion = zalmoxis
         size = 15000
     }
+
 }
-#Dobruja Region (84000) #see Romania.txt for balance of Region
-#under the rule of the Ottoman Empire in 1836
-#Silistre (84000/21000 POPS) #now part of Bulgaria
+
+#Silistre
 818 = {
     aristocrats = {
         culture = rughan
@@ -683,6 +701,7 @@
         religion = zalmoxis
         size = 54000
     }
+
 }
 
 #Strumica
@@ -692,7 +711,7 @@
         religion = roman_catholic
         size = 2800
     }
-	
+
     soldiers = {
         culture = rughan
         religion = zalmoxis
@@ -710,7 +729,7 @@
         religion = zalmoxis
         size = 10000
     }
-	
+
     artisans = {
         culture = rughan
         religion = zalmoxis
@@ -734,7 +753,7 @@
         religion = roman_catholic
         size = 1000
     }
-	
+
     artisans = {
         culture = red_croat
         religion = roman_catholic
@@ -746,7 +765,7 @@
         religion = roman_catholic
         size = 1500
     }
-	
+
     artisans = {
         culture = bulgar_tatar
         religion = roman_catholic
@@ -758,4 +777,6 @@
         religion = roman_catholic
         size = 2000
     }
+
 }
+

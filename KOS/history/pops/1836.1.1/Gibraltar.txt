@@ -1,46 +1,46 @@
-#Gibraltar : 16394
-#Ruled by Britain 1836
-#Gibraltar (16394/4100 POPS)
+#Gibraltar
 517 = {
     officers = {
         culture = muretannian
-        religion = roman_catholic
+        religion = african_catholic
         size = 5
     }
 
     bureaucrats = {
         culture = muretannian
-        religion = roman_catholic
+        religion = african_catholic
         size = 5
     }
 
     soldiers = {
         culture = muretannian
-        religion = roman_catholic
+        religion = african_catholic
         size = 674
     }
 
     artisans = {
         culture = muretannian
-        religion = roman_catholic
+        religion = african_catholic
         size = 138
     }
 
     farmers = {
         culture = muretannian
-        religion = roman_catholic
+        religion = african_catholic
         size = 1069
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 5
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 1302
     }
+
 }
+

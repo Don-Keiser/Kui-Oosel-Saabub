@@ -1,48 +1,50 @@
-#
+#Tomelloso
 3702 = {
     aristocrats = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 100
     }
 
     clergymen = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 250
     }
 
     artisans = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 300
     }
 
     soldiers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 75
     }
 
     farmers = {
         culture = ispannu
-        religion = roman_catholic
+        religion = african_catholic
         size = 49000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = cartaginesu
-        religion = roman_catholic
+        religion = african_catholic
         size = 4000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = toletzianu
-        religion = roman_catholic
+        religion = african_catholic
         size = 4000
     }
+
 }
 
+#Bingen
 3704 = {
     aristocrats = {
         culture = ostrisch
@@ -73,8 +75,10 @@
         religion = roman_catholic
         size = 25475
     }
+
 }
 
+#Simmern
 3711 = {
     aristocrats = {
         culture = ostrisch
@@ -105,21 +109,23 @@
         religion = roman_catholic
         size = 32000
     }
+
 }
 
+#Kronberg
 3705 = {
     aristocrats = {
         culture = boarisch
         religion = roman_catholic
         size = 100
     }
-	
+
     soldiers = {
         culture = boarisch
         religion = roman_catholic
         size = 2000
     }
-	
+
     farmers = {
         culture = boarisch
         religion = roman_catholic
@@ -143,8 +149,10 @@
         religion = roman_catholic
         size = 29000
     }
+
 }
 
+#Julich
 3712 = {
     aristocrats = {
         culture = ostrisch
@@ -175,21 +183,22 @@
         religion = roman_catholic
         size = 46000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = gruttfrysk
         religion = roman_catholic
         size = 2200
     }
-	
-	farmers = {
+
+    farmers = {
         culture = saksysk
         religion = roman_catholic
         size = 5600
     }
+
 }
 
-
+#Nemiscau
 3701 = {
     aristocrats = {
         culture = cree
@@ -220,8 +229,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Les Marmottes
 3700 = {
     aristocrats = {
         culture = cree
@@ -252,8 +263,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Fort Saint Louis
 3699 = {
     aristocrats = {
         culture = cree
@@ -284,8 +297,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Fort des Lacs
 3698 = {
     aristocrats = {
         culture = cree
@@ -316,8 +331,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Fort Espoir
 3697 = {
     aristocrats = {
         culture = cree
@@ -348,8 +365,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Nouvelle Auvergne
 3696 = {
     aristocrats = {
         culture = cree
@@ -380,8 +399,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Fort Blanc
 3695 = {
     aristocrats = {
         culture = cree
@@ -412,8 +433,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Petits Rapides
 3694 = {
     aristocrats = {
         culture = cree
@@ -444,8 +467,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Flin Flon
 3693 = {
     aristocrats = {
         culture = cree
@@ -476,8 +501,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Fort Boreal
 3692 = {
     aristocrats = {
         culture = native_american_minor
@@ -508,8 +535,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Plaines Boreales
 3691 = {
     aristocrats = {
         culture = native_american_minor
@@ -540,8 +569,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Fond-du-Lac
 3690 = {
     aristocrats = {
         culture = native_american_minor
@@ -572,8 +603,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Lac de la Biche
 3689 = {
     aristocrats = {
         culture = native_american_minor
@@ -604,8 +637,10 @@
         religion = animist
         size = 15475
     }
+
 }
 
+#Athabasca
 3688 = {
     aristocrats = {
         culture = native_american_minor
@@ -636,4 +671,6 @@
         religion = animist
         size = 15475
     }
+
 }
+

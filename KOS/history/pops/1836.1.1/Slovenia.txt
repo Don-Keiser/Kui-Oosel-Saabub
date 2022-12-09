@@ -1,145 +1,145 @@
-#Carinthia-Styria Region (204000) #see Austria.txt for balance of Region
-#under the rule of Austria in 1836
-#Maribor (204000/51000 POPS) #Part of Slovenia Today
+#Maribor
 767 = {
-	aristocrats = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 750 
-	}
-	
-	bureaucrats = {
-		culture = histri
-		religion = roman_catholic
-		size = 250
-	}
+    aristocrats = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 750
+    }
 
-	clergymen = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 50 
-	}
+    bureaucrats = {
+        culture = histri
+        religion = roman_catholic
+        size = 250
+    }
 
-	artisans = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 2100
-	}
+    clergymen = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 50
+    }
 
-	soldiers = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 50 
-	}
+    artisans = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 2100
+    }
 
-	farmers = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 12000
-	}
+    soldiers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 50
+    }
 
-	clergymen = {
-		culture = histri
-		religion = roman_catholic
-		size = 450
-	}
+    farmers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 12000
+    }
 
-	artisans = {
-		culture = histri
-		religion = roman_catholic
-		size = 4200
-	}
+    clergymen = {
+        culture = histri
+        religion = roman_catholic
+        size = 450
+    }
 
-	soldiers = {
-		culture = histri
-		religion = roman_catholic
-		size = 450 
-	}
+    artisans = {
+        culture = histri
+        religion = roman_catholic
+        size = 4200
+    }
 
-	farmers = {
-		culture = histri
-		religion = roman_catholic
-		size = 39000
-	}
+    soldiers = {
+        culture = histri
+        religion = roman_catholic
+        size = 450
+    }
+
+    farmers = {
+        culture = histri
+        religion = roman_catholic
+        size = 39000
+    }
+
 }
-#Carniola Region (460000)
-#under the rule of Austria in 1836
-#Ljubljana (280000/70000 POPS)
-#Ljubljana (280000/70000 POPS) 
+
+#Ljubljana
 768 = {
-	bureaucrats = {
-		culture = histri
-		religion = roman_catholic
-		size = 225
-	}
-	
-	officers = {
-		culture = histri
-		religion = roman_catholic
-		size = 100
-	}
-	
-	aristocrats = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 825
-	}
+    bureaucrats = {
+        culture = histri
+        religion = roman_catholic
+        size = 225
+    }
 
-	clergymen = {
-		culture = histri
-		religion = roman_catholic
-		size = 700
-	}
+    officers = {
+        culture = histri
+        religion = roman_catholic
+        size = 100
+    }
 
-	artisans = {
-		culture = histri
-		religion = roman_catholic
-		size = 4000
-	}
+    aristocrats = {
+        culture = hungarian
+        religion = roman_catholic
+        size = 825
+    }
 
-	soldiers = {
-		culture = histri
-		religion = roman_catholic
-		size = 1100
-	}
+    clergymen = {
+        culture = histri
+        religion = roman_catholic
+        size = 700
+    }
 
-	farmers = {
-		culture = histri
-		religion = roman_catholic
-		size = 74000
-	}
+    artisans = {
+        culture = histri
+        religion = roman_catholic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = histri
+        religion = roman_catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = histri
+        religion = roman_catholic
+        size = 74000
+    }
+
 }
-#Postojna (180000/45000 POPS) 
+
+#Postojna
 769 = {
-	aristocrats = {
-		culture = histri
-		religion = roman_catholic
-		size = 500
-	}
+    aristocrats = {
+        culture = histri
+        religion = roman_catholic
+        size = 500
+    }
 
-	clergymen = {
-		culture = histri
-		religion = roman_catholic
-		size = 500
-	}
+    clergymen = {
+        culture = histri
+        religion = roman_catholic
+        size = 500
+    }
 
-	artisans = {
-		culture = histri
-		religion = roman_catholic
-		size = 2100
-	}
+    artisans = {
+        culture = histri
+        religion = roman_catholic
+        size = 2100
+    }
 
-	soldiers = {
-		culture = histri
-		religion = roman_catholic
-		size = 425
-	}
+    soldiers = {
+        culture = histri
+        religion = roman_catholic
+        size = 425
+    }
 
-	farmers = {
-		culture = histri
-		religion = roman_catholic
-		size = 41000
-	}
+    farmers = {
+        culture = histri
+        religion = roman_catholic
+        size = 41000
+    }
+
 }
 
 #Murska Sobota
@@ -173,135 +173,140 @@
         religion = roman_catholic
         size = 18000
     }
+
     farmers = {
         culture = histri
         religion = roman_catholic
         size = 4000
     }
+
 }
 
 #Drava
 3569 = {
-	aristocrats = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 750 
-	}
-	
-	bureaucrats = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 250
-	}
+    aristocrats = {
+        culture = hungarian
+        religion = roman_catholic
+        size = 750
+    }
 
-	clergymen = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 50 
-	}
+    bureaucrats = {
+        culture = hungarian
+        religion = roman_catholic
+        size = 250
+    }
 
-	artisans = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 2100
-	}
+    clergymen = {
+        culture = hungarian
+        religion = roman_catholic
+        size = 50
+    }
 
-	soldiers = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 50 
-	}
+    artisans = {
+        culture = hungarian
+        religion = roman_catholic
+        size = 2100
+    }
 
-	farmers = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 6150
-	}
+    soldiers = {
+        culture = hungarian
+        religion = roman_catholic
+        size = 50
+    }
 
-	clergymen = {
-		culture = histri
-		religion = roman_catholic
-		size = 450
-	}
+    farmers = {
+        culture = hungarian
+        religion = roman_catholic
+        size = 6150
+    }
 
-	artisans = {
-		culture = histri
-		religion = roman_catholic
-		size = 1200
-	}
+    clergymen = {
+        culture = histri
+        religion = roman_catholic
+        size = 450
+    }
 
-	soldiers = {
-		culture = histri
-		religion = roman_catholic
-		size = 450 
-	}
+    artisans = {
+        culture = histri
+        religion = roman_catholic
+        size = 1200
+    }
 
-	farmers = {
-		culture = histri
-		religion = roman_catholic
-		size = 6500
-	}
+    soldiers = {
+        culture = histri
+        religion = roman_catholic
+        size = 450
+    }
+
+    farmers = {
+        culture = histri
+        religion = roman_catholic
+        size = 6500
+    }
+
 }
 
 #Lucfenykuny
 3570 = {
-	aristocrats = {
-		culture = histri
-		religion = roman_catholic
-		size = 750 
-	}
-	
-	bureaucrats = {
-		culture = histri
-		religion = roman_catholic
-		size = 250
-	}
+    aristocrats = {
+        culture = histri
+        religion = roman_catholic
+        size = 750
+    }
 
-	clergymen = {
-		culture = histri
-		religion = roman_catholic
-		size = 200
-	}
+    bureaucrats = {
+        culture = histri
+        religion = roman_catholic
+        size = 250
+    }
 
-	artisans = {
-		culture = histri
-		religion = roman_catholic
-		size = 2800
-	}
+    clergymen = {
+        culture = histri
+        religion = roman_catholic
+        size = 200
+    }
 
-	soldiers = {
-		culture = histri
-		religion = roman_catholic
-		size = 1100 
-	}
+    artisans = {
+        culture = histri
+        religion = roman_catholic
+        size = 2800
+    }
 
-	farmers = {
-		culture = histri
-		religion = roman_catholic
-		size = 17150
-	}
+    soldiers = {
+        culture = histri
+        religion = roman_catholic
+        size = 1100
+    }
 
-	clergymen = {
-		culture = travesz
-		religion = roman_catholic
-		size = 450
-	}
+    farmers = {
+        culture = histri
+        religion = roman_catholic
+        size = 17150
+    }
 
-	artisans = {
-		culture = travesz
-		religion = roman_catholic
-		size = 1700
-	}
+    clergymen = {
+        culture = travesz
+        religion = roman_catholic
+        size = 450
+    }
 
-	soldiers = {
-		culture = travesz
-		religion = roman_catholic
-		size = 450 
-	}
+    artisans = {
+        culture = travesz
+        religion = roman_catholic
+        size = 1700
+    }
 
-	farmers = {
-		culture = travesz
-		religion = roman_catholic
-		size = 11000
-	}
+    soldiers = {
+        culture = travesz
+        religion = roman_catholic
+        size = 450
+    }
+
+    farmers = {
+        culture = travesz
+        religion = roman_catholic
+        size = 11000
+    }
+
 }
+

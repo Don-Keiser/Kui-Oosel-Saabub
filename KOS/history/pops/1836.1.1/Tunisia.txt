@@ -4,37 +4,37 @@
 1725 = {
     aristocrats = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 2200
     }
 
     bureaucrats = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 350
     }
 
     officers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 325
     }
 
     clergymen = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 3000
     }
 
     artisans = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
     artisans = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 10000
     }
 
@@ -46,7 +46,7 @@
 
     soldiers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 3000
     }
 
@@ -58,13 +58,13 @@
 
     farmers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 92000
     }
 
     artisans = {
         culture = sicilian
-        religion = roman_catholic
+        religion = african_catholic
         size = 4500
     }
 }
@@ -72,13 +72,13 @@
 1726 = {
     aristocrats = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 600
     }
 
     clergymen = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 800
     }
 	
@@ -90,13 +90,13 @@
 
     soldiers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 2200
     }
 
     farmers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 62000
     }
 }
@@ -104,31 +104,31 @@
 1727 = {
     aristocrats = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 450
     }
 
     clergymen = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 400
     }
 
     artisans = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 2600
     }
 
     soldiers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 1200
     }
 
     farmers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 21000
     }
 }
@@ -136,31 +136,31 @@
 1728 = {
     aristocrats = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 450
     }
 
     clergymen = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 890
     }
 
     artisans = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 4230
     }
 
     soldiers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 2200
     }
 
     farmers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 52000
     }
 }
@@ -168,37 +168,37 @@
 1729 = {
     aristocrats = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 120
     }
 
     clergymen = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 250
     }
 
     artisans = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 1450
     }
 
     soldiers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 1100
     }
 
     farmers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 16000
     }
 	
 	farmers = {
         culture = iznaten
-        religion = roman_catholic
+        religion = african_catholic
         size = 3800
     }
 }
@@ -206,31 +206,31 @@
 1730 = {
     aristocrats = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 300
     }
 
     clergymen = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 600
     }
 
     artisans = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 2800
     }
 
     soldiers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 1700
     }
 
     farmers = {
         culture = african_romance
-        religion = roman_catholic
+        religion = african_catholic
         size = 41000
     }
 }
