@@ -1,5 +1,4 @@
-#Tayside-Highlands Region : 864000
-#Aberdeen (172000/43000 POPS)
+#Aberdeen
 266 = {
     aristocrats = {
         culture = gaidhlig
@@ -36,8 +35,10 @@
         religion = alexandrian_orthodox
         size = 2000
     }
+
 }
-#Inverness (328000/82000 POPS)
+
+#Inverness
 267 = {
     aristocrats = {
         culture = gaidhlig
@@ -68,8 +69,10 @@
         religion = alexandrian_orthodox
         size = 48090
     }
+
 }
-#Highlands (XXX/XXX POPS)
+
+#Highlands
 3478 = {
     aristocrats = {
         culture = gaidhlig
@@ -100,16 +103,17 @@
         religion = alexandrian_orthodox
         size = 18090
     }
-	
-	farmers = {
+
+    farmers = {
         culture = gaidhlig
         religion = alexandrian_orthodox
         size = 10090
     }
-}
-#Shetland - former Orkeny & Shetland former Tamanrasset
-1724 = {
 
+}
+
+#Tamanrasset
+1724 = {
     aristocrats = {
         culture = norse_gaelic
         religion = alexandrian_orthodox
@@ -141,9 +145,9 @@
     }
 
 }
-#Orkney - former Orkeny & Shetland former Tamanrasset
-3477 = {
 
+#Orkney
+3477 = {
     aristocrats = {
         culture = norse_gaelic
         religion = alexandrian_orthodox
@@ -175,7 +179,8 @@
     }
 
 }
-#Hebrides - former Orkeny & Shetland former Tamanrasset
+
+#Hebrides
 3479 = {
     aristocrats = {
         culture = norse_gaelic
@@ -208,6 +213,8 @@
     }
 
 }
+
+#Ayr
 3609 = {
     aristocrats = {
         culture = norse_gaelic
@@ -238,15 +245,16 @@
         religion = alexandrian_orthodox
         size = 14860
     }
-	
-	farmers = {
+
+    farmers = {
         culture = gaidhlig
         religion = alexandrian_orthodox
         size = 16860
     }
 
 }
-#Dundee (364000/91000 POPS)
+
+#Dundee
 268 = {
     aristocrats = {
         culture = gaidhlig
@@ -279,8 +287,8 @@
     }
 
 }
-#Strathclyde-Lothian Region : 1632000
-#Edinburgh (480000/120000 POPS)
+
+#Edinburgh
 269 = {
     aristocrats = {
         culture = gaidhlig
@@ -365,8 +373,10 @@
         religion = roman_catholic
         size = 1100
     }
+
 }
-#Stirling (364000/91000 POPS)
+
+#Stirling
 270 = {
     aristocrats = {
         culture = gaidhlig
@@ -403,8 +413,10 @@
         religion = alexandrian_orthodox
         size = 4000
     }
+
 }
-#Glasgow (620000/155000 POPS)
+
+#Glasgow
 271 = {
     aristocrats = {
         culture = gaidhlig
@@ -477,8 +489,10 @@
         religion = roman_catholic
         size = 10000
     }
+
 }
-#Dumfries (168000/42000 POPS)
+
+#Dumfries
 272 = {
     aristocrats = {
         culture = gaidhlig
@@ -511,8 +525,8 @@
     }
 
 }
-# Wales Region : 970000
-#Cardiff (380000/95000 POPS)
+
+#Cardiff
 273 = {
     aristocrats = {
         culture = welsh
@@ -531,8 +545,8 @@
         religion = roman_catholic
         size = 61000
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 5000
@@ -585,8 +599,10 @@
         religion = alexandrian_orthodox
         size = 30000
     }
+
 }
-#Cardigan (168000/42000 POPS)
+
+#Cardigan
 274 = {
     aristocrats = {
         culture = welsh
@@ -617,14 +633,16 @@
         religion = roman_catholic
         size = 34625
     }
-	
-	farmers = {
+
+    farmers = {
         culture = norse_gaelic
         religion = alexandrian_orthodox
         size = 4625
     }
+
 }
-#Llandrindod (182000/45500 POPS)
+
+#Llandrindod
 275 = {
     aristocrats = {
         culture = welsh
@@ -667,8 +685,10 @@
         religion = roman_catholic
         size = 40250
     }
+
 }
-#Holyhead (240000/60000 POPS)
+
+#Holyhead
 276 = {
     aristocrats = {
         culture = welsh
@@ -714,8 +734,7 @@
 
 }
 
-#Lancashire Region : 1896000
-#Liverpool (936000/234000 POPS)
+#Liverpool
 277 = {
     aristocrats = {
         culture = cumbric
@@ -830,8 +849,10 @@
         religion = roman_catholic
         size = 37875
     }
+
 }
-#Manchester (744000/186000 POPS)
+
+#Manchester
 278 = {
     aristocrats = {
         culture = brythonic
@@ -904,8 +925,10 @@
         religion = roman_catholic
         size = 17075
     }
+
 }
-#Carlisle (216000/54000 POPS)
+
+#Carlisle
 279 = {
     aristocrats = {
         culture = cumbric
@@ -942,8 +965,8 @@
         religion = alexandrian_orthodox
         size = 2000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = gaidhlig
         religion = alexandrian_orthodox
         size = 13100
@@ -956,8 +979,8 @@
     }
 
 }
-#Yorkshire-Northumbria Region : 2190000
-#Newcastle-upon-Tyne (552000/138000 POPS)
+
+#Newcastle On Tyne
 280 = {
     aristocrats = {
         culture = cumbric
@@ -976,6 +999,7 @@
         religion = alexandrian_orthodox
         size = 30000
     }
+
     artisans = {
         culture = cumbric
         religion = alexandrian_orthodox
@@ -1005,14 +1029,16 @@
         religion = alexandrian_orthodox
         size = 23000
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 15000
     }
+
 }
-#Hull (512000/128000 POPS)
+
+#Hull
 281 = {
     aristocrats = {
         culture = brythonic
@@ -1055,8 +1081,10 @@
         religion = alexandrian_orthodox
         size = 45000
     }
+
 }
-#Leeds (468000/117000 POPS)
+
+#Leeds
 282 = {
     aristocrats = {
         culture = brythonic
@@ -1069,7 +1097,6 @@
         religion = roman_catholic
         size = 625
     }
-
 
     artisans = {
         culture = brythonic
@@ -1100,8 +1127,10 @@
         religion = roman_catholic
         size = 18000
     }
+
 }
-#Sheffield (658000/164500 POPS)
+
+#Sheffield
 283 = {
     aristocrats = {
         culture = brythonic
@@ -1120,11 +1149,13 @@
         religion = roman_catholic
         size = 2150
     }
+
     craftsmen = {
         culture = brythonic
         religion = roman_catholic
         size = 25000
     }
+
     officers = {
         culture = brythonic
         religion = roman_catholic
@@ -1168,8 +1199,8 @@
     }
 
 }
-#West Midlands Region : 1760000
-#Birmingham (644000/161000 POPS)
+
+#Birmingham
 284 = {
     aristocrats = {
         culture = brythonic
@@ -1248,8 +1279,10 @@
         religion = roman_catholic
         size = 21000
     }
+
 }
-#Chester (368000/92000 POPS)
+
+#Chester
 285 = {
     aristocrats = {
         culture = brythonic
@@ -1268,8 +1301,8 @@
         religion = roman_catholic
         size = 2000
     }
-	
-	artisans = {
+
+    artisans = {
         culture = brythonic
         religion = roman_catholic
         size = 3000
@@ -1292,8 +1325,8 @@
         religion = roman_catholic
         size = 39100
     }
-	
-	farmers = {
+
+    farmers = {
         culture = welsh
         religion = roman_catholic
         size = 6100
@@ -1304,8 +1337,10 @@
         religion = roman_catholic
         size = 1100
     }
+
 }
-#Shrewsbury (316000/79000 POPS)
+
+#Shrewesbury
 286 = {
     aristocrats = {
         culture = welsh
@@ -1336,20 +1371,22 @@
         religion = roman_catholic
         size = 48875
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 12875
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 8875
     }
+
 }
-#Coventry (432000/108000 POPS)
+
+#Coventry
 287 = {
     aristocrats = {
         culture = brythonic
@@ -1392,16 +1429,16 @@
         religion = roman_catholic
         size = 75000
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 20000
     }
 
 }
-#East Midlands Region : 1224000
-#Nottingham (484000/121000 POPS)
+
+#Nottingham
 288 = {
     aristocrats = {
         culture = brythonic
@@ -1468,8 +1505,10 @@
         religion = roman_catholic
         size = 10000
     }
+
 }
-#Leicester (404000/101000 POPS)
+
+#Leicester
 289 = {
     aristocrats = {
         culture = brythonic
@@ -1500,14 +1539,16 @@
         religion = roman_catholic
         size = 65375
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 25375
     }
+
 }
-#Lincoln (336000/84000 POPS)
+
+#Lincoln
 290 = {
     aristocrats = {
         culture = brythonic
@@ -1532,28 +1573,28 @@
         religion = roman_catholic
         size = 1100
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 40500
     }
-	
-	labourers = {
+
+    labourers = {
         culture = norse_gaelic
         religion = alexandrian_orthodox
         size = 25500
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 10500
     }
 
 }
-#East Anglia Region : 1260000
-#Cambridge (308000/77000 POPS)
+
+#Cambridge
 291 = {
     aristocrats = {
         culture = brythonic
@@ -1596,14 +1637,16 @@
         religion = roman_catholic
         size = 53500
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 15500
     }
+
 }
-#Ipswich (676000/169000 POPS)
+
+#Ipswich
 292 = {
     aristocrats = {
         culture = brythonic
@@ -1634,20 +1677,22 @@
         religion = roman_catholic
         size = 148500
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 8500
     }
-	
-	labourers = {
+
+    labourers = {
         culture = norse_gaelic
         religion = alexandrian_orthodox
         size = 12500
     }
+
 }
-#Chelmsford (276000/69000 POPS)
+
+#Chelmsford
 293 = {
     aristocrats = {
         culture = brythonic
@@ -1680,8 +1725,8 @@
     }
 
 }
-#Oxfordshire/Buckinghamshire Region : 616000
-#294 : Oxford (304000/76000 POPS)
+
+#Oxford
 294 = {
     aristocrats = {
         culture = brythonic
@@ -1724,14 +1769,16 @@
         religion = roman_catholic
         size = 58625
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 8625
     }
+
 }
-#St. Albans (312000/78000 POPS)
+
+#St Albans
 295 = {
     aristocrats = {
         culture = brythonic
@@ -1762,16 +1809,16 @@
         religion = roman_catholic
         size = 62750
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 9750
     }
 
 }
-#Cornwall-Dorset Region : 2032000
-#Bristol (404000/101000 POPS)
+
+#Bristol
 296 = {
     aristocrats = {
         culture = brythonic
@@ -1832,8 +1879,8 @@
         religion = roman_catholic
         size = 45275
     }
-	
-	labourers = {
+
+    labourers = {
         culture = brythonic
         religion = roman_catholic
         size = 12275
@@ -1844,8 +1891,10 @@
         religion = roman_catholic
         size = 7000
     }
+
 }
-#Salisbury (408000/102000 POPS)
+
+#Salisbury
 297 = {
     aristocrats = {
         culture = brythonic
@@ -1882,14 +1931,16 @@
         religion = roman_catholic
         size = 74375
     }
-	
-	labourers = {
+
+    labourers = {
         culture = cornish
         religion = roman_catholic
         size = 8375
     }
+
 }
-#Bath (408000/102000 POPS)
+
+#Bath
 298 = {
     aristocrats = {
         culture = brythonic
@@ -1914,6 +1965,7 @@
         religion = roman_catholic
         size = 1100
     }
+
     craftsmen = {
         culture = brythonic
         religion = roman_catholic
@@ -1925,14 +1977,16 @@
         religion = roman_catholic
         size = 35625
     }
-	
-	labourers = {
+
+    labourers = {
         culture = cornish
         religion = roman_catholic
         size = 39625
     }
+
 }
-#Plymouth (812000/203000 POPS)
+
+#Plymouth
 299 = {
     aristocrats = {
         culture = brythonic
@@ -1970,9 +2024,9 @@
         size = 7100
     }
 
-
 }
-#Exeter (812000/203000 POPS)
+
+#Exeter
 3268 = {
     clergymen = {
         culture = cornish
@@ -1997,16 +2051,16 @@
         religion = roman_catholic
         size = 28000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = brythonic
         religion = roman_catholic
         size = 12000
     }
+
 }
 
-# Metro London Region - 2052000
-#London (2052000/513000 POPS)
+#London
 300 = {
     aristocrats = {
         culture = brythonic
@@ -2109,8 +2163,8 @@
         religion = roman_catholic
         size = 10000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = norse_gaelic
         religion = alexandrian_orthodox
         size = 7000
@@ -2147,8 +2201,8 @@
     }
 
 }
-#Sussex-Kent Region : 1212000
-#Canterbury (476000/98000 POPS)
+
+#Canterbury
 301 = {
     aristocrats = {
         culture = brythonic
@@ -2179,8 +2233,10 @@
         religion = roman_catholic
         size = 88625
     }
+
 }
-#Brighton (404000/101000 POPS)
+
+#Brighton
 302 = {
     aristocrats = {
         culture = brythonic
@@ -2217,7 +2273,9 @@
         religion = roman_catholic
         size = 75500
     }
+
 }
+
 #Portsmouth
 3269 = {
     clergymen = {
@@ -2243,9 +2301,10 @@
         religion = roman_catholic
         size = 23000
     }
+
 }
 
-#Southampton (332000/83000 POPS)
+#Southampton
 303 = {
     officers = {
         culture = brythonic
@@ -2276,9 +2335,10 @@
         religion = roman_catholic
         size = 68000
     }
+
 }
-#Isle Of Man Region - 46000
-#Douglas (46000/11500 POPS)
+
+#Isle of Man
 304 = {
     aristocrats = {
         culture = norse_gaelic
@@ -2323,58 +2383,60 @@
     }
 
 }
-#Normandie Region
-#Channel Islands (72000/18000 POPS)
+
+#Channel Islands
 419 = {
-	aristocrats = {
-		culture = breton
-		religion = african_catholic
-		size = 100
-	}
+    aristocrats = {
+        culture = breton
+        religion = roman_catholic
+        size = 800
+    }
 
-	bureaucrats = {
-		culture = breton
-		religion = african_catholic
-		size = 50
-	}
+    bureaucrats = {
+        culture = breton
+        religion = roman_catholic
+        size = 100
+    }
 
-	clergymen = {
-		culture = breton
-		religion = african_catholic
-		size = 125
-	}
+    clergymen = {
+        culture = breton
+        religion = roman_catholic
+        size = 600
+    }
 
-	soldiers = {
-		culture = breton
-		religion = african_catholic
-		size = 250
-	}
+    soldiers = {
+        culture = breton
+        religion = roman_catholic
+        size = 1000
+    }
 
-	farmers = {
-		culture = breton
-		religion = african_catholic
-		size = 2075
-	}
-	
-	artisans = {
-		culture = breton
-		religion = african_catholic
-		size = 400
-	}
-	
-	artisans = {
-		culture = neustrien
-		religion = roman_catholic
-		size = 3000
-	}
-	
-	farmers = {
-		culture = neustrien
-		religion = roman_catholic
-		size = 12000
-	}
+    farmers = {
+        culture = breton
+        religion = roman_catholic
+        size = 2000
+    }
+
+    artisans = {
+        culture = breton
+        religion = roman_catholic
+        size = 3000
+    }
+
+    officers = {
+        culture = breton
+        religion = roman_catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = breton
+        religion = roman_catholic
+        size = 11000
+    }
+
 }
-#Isles of Scilly (XXX/XXX POPS)
+
+#Isles of Scilly
 3480 = {
     aristocrats = {
         culture = cornish
@@ -2411,4 +2473,6 @@
         religion = roman_catholic
         size = 30
     }
+
 }
+

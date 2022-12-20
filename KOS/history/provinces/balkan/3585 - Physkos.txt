@@ -1,5 +1,5 @@
-owner = TBA
-controller = TBA
-add_core = TBA
+owner = TKM
+controller = TKM
+add_core = TKM
 trade_goods = grain
 life_rating = 35

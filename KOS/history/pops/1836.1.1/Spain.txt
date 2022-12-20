@@ -347,7 +347,13 @@
     farmers = {
         culture = galetzian
         religion = african_catholic
-        size = 2000
+        size = 1200
+    }
+
+    farmers = {
+        culture = tarragones
+        religion = african_catholic
+        size = 2800
     }
 
 }
@@ -829,16 +835,70 @@
     aristocrats = {
         culture = basque
         religion = roman_catholic
-        size = 600
+        size = 2200
     }
 
     clergymen = {
         culture = basque
         religion = roman_catholic
-        size = 550
+        size = 2000
     }
 
     artisans = {
+        culture = basque
+        religion = roman_catholic
+        size = 10000
+    }
+
+    soldiers = {
+        culture = basque
+        religion = roman_catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = basque
+        religion = roman_catholic
+        size = 85000
+    }
+
+    aristocrats = {
+        culture = neustrien
+        religion = roman_catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = neustrien
+        religion = roman_catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = neustrien
+        religion = roman_catholic
+        size = 800
+    }
+
+    soldiers = {
+        culture = neustrien
+        religion = roman_catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = neustrien
+        religion = roman_catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = basque
+        religion = roman_catholic
+        size = 4000
+    }
+
+    soldiers = {
         culture = basque
         religion = roman_catholic
         size = 3000
@@ -847,43 +907,19 @@
     soldiers = {
         culture = basque
         religion = roman_catholic
-        size = 550
+        size = 3000
     }
 
-    farmers = {
+    bureaucrats = {
         culture = basque
         religion = roman_catholic
-        size = 64800
+        size = 1000
     }
 
-    aristocrats = {
-        culture = aquitan
+    officers = {
+        culture = basque
         religion = roman_catholic
-        size = 150
-    }
-
-    clergymen = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 5850
+        size = 600
     }
 
 }
@@ -917,7 +953,7 @@
     artisans = {
         culture = tarragones
         religion = roman_catholic
-        size = 1750
+        size = 6800
     }
 
     soldiers = {
@@ -926,10 +962,10 @@
         size = 400
     }
 
-    labourers = {
+    farmers = {
         culture = tarragones
         religion = roman_catholic
-        size = 42025
+        size = 40000
     }
 
     aristocrats = {
@@ -959,7 +995,7 @@
     artisans = {
         culture = basque
         religion = roman_catholic
-        size = 1250
+        size = 1300
     }
 
     soldiers = {
@@ -971,7 +1007,7 @@
     farmers = {
         culture = basque
         religion = roman_catholic
-        size = 14975
+        size = 15000
     }
 
 }
@@ -1115,7 +1151,7 @@
     farmers = {
         culture = tarragones
         religion = roman_catholic
-        size = 48450
+        size = 48500
     }
 
     aristocrats = {
@@ -1145,7 +1181,7 @@
     labourers = {
         culture = basque
         religion = roman_catholic
-        size = 3025
+        size = 3100
     }
 
 }
@@ -1201,19 +1237,19 @@
     artisans = {
         culture = tarragones
         religion = roman_catholic
-        size = 3750
+        size = 3800
     }
 
     soldiers = {
         culture = tarragones
         religion = roman_catholic
-        size = 1350
+        size = 1300
     }
 
     farmers = {
         culture = tarragones
         religion = roman_catholic
-        size = 23300
+        size = 25000
     }
 
     aristocrats = {
@@ -1231,19 +1267,19 @@
     artisans = {
         culture = aquitan
         religion = roman_catholic
-        size = 1100
+        size = 4800
     }
 
     soldiers = {
         culture = aquitan
         religion = roman_catholic
-        size = 250
+        size = 500
     }
 
     farmers = {
         culture = aquitan
         religion = roman_catholic
-        size = 19600
+        size = 20000
     }
 
 }
@@ -1299,7 +1335,7 @@
     clergymen = {
         culture = basque
         religion = roman_catholic
-        size = 300
+        size = 400
     }
 
     artisans = {
@@ -1311,19 +1347,19 @@
     soldiers = {
         culture = basque
         religion = roman_catholic
-        size = 800
+        size = 1600
     }
 
     farmers = {
         culture = basque
         religion = roman_catholic
-        size = 16000
+        size = 18000
     }
 
     farmers = {
         culture = aquitan
         religion = roman_catholic
-        size = 8000
+        size = 4000
     }
 
 }
@@ -1357,7 +1393,7 @@
     farmers = {
         culture = tarragones
         religion = roman_catholic
-        size = 30150
+        size = 33000
     }
 
     aristocrats = {
@@ -1387,7 +1423,7 @@
     farmers = {
         culture = aquitan
         religion = roman_catholic
-        size = 5275
+        size = 2500
     }
 
 }
@@ -1607,7 +1643,7 @@
     artisans = {
         culture = cartaginesu
         religion = african_catholic
-        size = 2800
+        size = 5800
     }
 
     soldiers = {
@@ -1619,7 +1655,7 @@
     farmers = {
         culture = cartaginesu
         religion = african_catholic
-        size = 46000
+        size = 56000
     }
 
     aristocrats = {
@@ -1683,7 +1719,7 @@
     farmers = {
         culture = cartaginesu
         religion = african_catholic
-        size = 90000
+        size = 72000
     }
 
     aristocrats = {
@@ -1713,7 +1749,7 @@
     labourers = {
         culture = ispannu
         religion = african_catholic
-        size = 4500
+        size = 2500
     }
 
 }
@@ -1857,7 +1893,7 @@
     farmers = {
         culture = cartaginesu
         religion = african_catholic
-        size = 54000
+        size = 34000
     }
 
     farmers = {
@@ -2187,7 +2223,31 @@
     farmers = {
         culture = ispannu
         religion = african_catholic
-        size = 65000
+        size = 45000
+    }
+
+    artisans = {
+        culture = muretannian
+        religion = african_catholic
+        size = 4000
+    }
+
+    aristocrats = {
+        culture = muretannian
+        religion = african_catholic
+        size = 850
+    }
+
+    soldiers = {
+        culture = muretannian
+        religion = african_catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = muretannian
+        religion = african_catholic
+        size = 22000
     }
 
 }
@@ -2460,6 +2520,144 @@
         culture = ulisianu
         religion = african_catholic
         size = 18000
+    }
+
+}
+
+#Logrono
+3952 = {
+    aristocrats = {
+        culture = basque
+        religion = roman_catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = basque
+        religion = roman_catholic
+        size = 450
+    }
+
+    artisans = {
+        culture = basque
+        religion = roman_catholic
+        size = 4800
+    }
+
+    soldiers = {
+        culture = basque
+        religion = roman_catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = basque
+        religion = roman_catholic
+        size = 38000
+    }
+
+}
+
+#Urgel
+3953 = {
+    aristocrats = {
+        culture = tarragones
+        religion = roman_catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = tarragones
+        religion = roman_catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = tarragones
+        religion = roman_catholic
+        size = 3200
+    }
+
+    soldiers = {
+        culture = tarragones
+        religion = roman_catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = tarragones
+        religion = roman_catholic
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 2400
+    }
+
+    soldiers = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 650
+    }
+
+    farmers = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 8000
+    }
+
+}
+
+#Jaka
+3954 = {
+    aristocrats = {
+        culture = basque
+        religion = roman_catholic
+        size = 500
+    }
+
+    clergymen = {
+        culture = basque
+        religion = roman_catholic
+        size = 350
+    }
+
+    artisans = {
+        culture = basque
+        religion = roman_catholic
+        size = 3500
+    }
+
+    soldiers = {
+        culture = basque
+        religion = roman_catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = basque
+        religion = roman_catholic
+        size = 16000
+    }
+
+    farmers = {
+        culture = tarragones
+        religion = roman_catholic
+        size = 2200
     }
 
 }

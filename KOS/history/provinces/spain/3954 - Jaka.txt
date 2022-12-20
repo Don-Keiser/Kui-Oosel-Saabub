@@ -1,0 +1,5 @@
+owner = BSQ
+controller = BSQ
+add_core = BSQ
+trade_goods = wool
+life_rating = 35

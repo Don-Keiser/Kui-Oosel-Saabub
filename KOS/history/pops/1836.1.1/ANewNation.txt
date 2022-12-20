@@ -1,94 +1,115 @@
-#Monaco (170800/22700 POPS)
+#Monaco
 3251 = {
     bureaucrats = {
-        culture = neustrien
+        culture = burgundisch
+        religion = roman_catholic
+        size = 100
+    }
+
+    aristocrats = {
+        culture = burgundisch
         religion = roman_catholic
         size = 400
     }
 
-    aristocrats = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 1300
-    }
-
     clergymen = {
-        culture = neustrien
+        culture = burgundisch
         religion = roman_catholic
-        size = 1500
+        size = 200
     }
 
     artisans = {
         culture = ligur
         religion = roman_catholic
-        size = 6500
+        size = 1000
     }
 
     soldiers = {
         culture = ligur
         religion = roman_catholic
-        size= 6000
+        size = 500
     }
 
     farmers = {
         culture = ligur
         religion = roman_catholic
-        size = 38000
+        size = 3000
+    }
+
+    clergymen = {
+        culture = ligur
+        religion = roman_catholic
+        size = 100
     }
 
     farmers = {
-        culture = lombard
+        culture = burgundisch
         religion = roman_catholic
-        size = 18000
+        size = 800
     }
-	
-	farmers = {
-        culture = neustrien
+
+    artisans = {
+        culture = burgundisch
         religion = roman_catholic
-        size = 5000
+        size = 1200
     }
+
 }
 
-#Andorra (228000/37000 POPS)
+#Andorra
 3252 = {
     aristocrats = {
         culture = aquitan
         religion = roman_catholic
-        size = 200
+        size = 700
     }
+
     bureaucrats = {
         culture = aquitan
         religion = roman_catholic
-        size = 10
+        size = 150
     }
 
     artisans = {
         culture = aquitan
         religion = roman_catholic
-        size = 600
+        size = 5800
     }
 
     farmers = {
         culture = aquitan
         religion = roman_catholic
-        size = 11000
+        size = 48000
     }
+
+    soldiers = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 1500
+    }
+
+    clergymen = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 400
+    }
+
 }
 
-#Rimini
+#San Marino
 3266 = {
     aristocrats = {
         culture = romagnol
         religion = roman_catholic
         size = 1200
     }
-	
+
     bureaucrats = {
         culture = romagnol
         religion = roman_catholic
         size = 100
     }
-	
+
     clergymen = {
         culture = romagnol
         religion = roman_catholic
@@ -104,7 +125,7 @@
     soldiers = {
         culture = romagnol
         religion = roman_catholic
-        size= 1500
+        size = 1500
     }
 
     farmers = {
@@ -118,4 +139,6 @@
         religion = roman_catholic
         size = 3000
     }
+
 }
+

@@ -75,7 +75,7 @@ christian = {
 muslim = {
     sunni = {
         icon = 5
-        color = { 0 0.6 0 }
+        color = { 0 0.8 0.8 }
     }
 
     shiite = {
@@ -187,7 +187,7 @@ modern_pagan = {
 		icon = 29
 		color = { 0.1 0.0 0.3 }
 	}
-	kemetic = {
+	sol_invictus = {
 		icon = 32
 		color = { 0.7 0.7 0 }
 	}
@@ -198,5 +198,4 @@ modern_pagan = {
 	zalmoxis = {
 		icon = 35
 		color = { 0.3 0 0.1 }
-	}
 }

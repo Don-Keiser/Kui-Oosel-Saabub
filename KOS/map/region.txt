@@ -236,7 +236,7 @@ FRA_455 = { 455 456 450 } #Toulouse
 
 FRA_458 = { 458 457 459 3400 3751 3757 3759 3764 3766 } #Aquitaine
 
-FRA_463 = { 463 464 498 499 3252 } #Gothalaunia
+FRA_463 = { 463 464 498 499 3252 3953 } #Gothalaunia
 
 FRA_461 = { 461 449 462 3763 3765 } #Languedoc
 
@@ -255,7 +255,7 @@ SPA_484 = { 485 491 516 3702 } #Extremadura
 
 SPA_487 = { 487 481 488 489 490 } #Castilla la Nueva
 
-SPA_492 = { 492 460 3433 3471 3472 3761 } #Vasconia-Arag�n
+SPA_492 = { 492 460 3433 3471 3472 3761 3952 3954 } #Vasconia-Arag�n
 
 SPA_498 = { 501 493 495 496 497 500 } #Tarragona
 

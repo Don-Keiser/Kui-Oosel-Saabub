@@ -1,5 +1,4 @@
-#Schweiz Region (1388000)
-#Zurich (560000/140000 POPS)
+#Zurich
 603 = {
     aristocrats = {
         culture = burgundisch
@@ -48,8 +47,8 @@
         religion = roman_catholic
         size = 95000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = burgundisch
         religion = roman_catholic
         size = 15000
@@ -60,8 +59,10 @@
         religion = african_catholic
         size = 6000
     }
+
 }
-#Basel (272000/68000 POPS)
+
+#Basel
 604 = {
     aristocrats = {
         culture = burgundisch
@@ -146,8 +147,10 @@
         religion = roman_catholic
         size = 14550
     }
+
 }
-#Bern (352000/88000 POPS)
+
+#Bern
 605 = {
     aristocrats = {
         culture = burgundisch
@@ -208,8 +211,10 @@
         religion = roman_catholic
         size = 81000
     }
+
 }
-#Lucerne (204000/51000 POPS)
+
+#Lucern
 606 = {
     aristocrats = {
         culture = burgundisch
@@ -240,94 +245,80 @@
         religion = roman_catholic
         size = 33000
     }
+
 }
-#Vaud & Valais Region (444000)
-#Geneva (316000/79000 POPS)
+
+#Geneva
 607 = {
     aristocrats = {
+        culture = burgundisch
+        religion = roman_catholic
+        size = 800
+    }
+
+    bureaucrats = {
         culture = burgundisch
         religion = roman_catholic
         size = 200
     }
 
-    bureaucrats = {
-        culture = burgundisch
-        religion = roman_catholic
-        size = 120
-    }
-
     officers = {
-        culture = burgundisch
-        religion = roman_catholic
-        size = 60
-    }
-
-    clergymen = {
         culture = burgundisch
         religion = roman_catholic
         size = 300
     }
 
+    clergymen = {
+        culture = burgundisch
+        religion = roman_catholic
+        size = 700
+    }
+
     artisans = {
         culture = burgundisch
         religion = roman_catholic
-        size = 4000
+        size = 4600
     }
 
     soldiers = {
         culture = burgundisch
         religion = roman_catholic
-        size = 1100
+        size = 2000
     }
 
     farmers = {
         culture = burgundisch
         religion = roman_catholic
-        size = 73320
-    }
-
-    aristocrats = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 300
-    }
-
-    bureaucrats = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 80
-    }
-
-    officers = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 50
+        size = 25000
     }
 
     clergymen = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 350
+        culture = maghrebi
+        religion = sunni
+        size = 150
     }
 
     artisans = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 3000
+        culture = maghrebi
+        religion = sunni
+        size = 1800
     }
 
     soldiers = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 1100
+        culture = maghrebi
+        religion = sunni
+        size = 200
     }
 
     farmers = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 6230
+        culture = maghrebi
+        religion = sunni
+        size = 600
     }
+
 }
+
+#Lausanne
 3317 = {
     aristocrats = {
         culture = burgundisch
@@ -370,21 +361,23 @@
         religion = roman_catholic
         size = 67000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = neustrien
         religion = roman_catholic
         size = 2000
     }
+
 }
-#Neuchatel (56000/14000 POPS)
+
+#Neuchatel
 608 = {
     aristocrats = {
         culture = burgundisch
         religion = roman_catholic
         size = 100
     }
-	
+
     aristocrats = {
         culture = neustrien
         religion = roman_catholic
@@ -414,8 +407,10 @@
         religion = roman_catholic
         size = 10625
     }
+
 }
-#Sitten (72000/18000) POPS
+
+#Sitten
 609 = {
     aristocrats = {
         culture = burgundisch
@@ -446,15 +441,16 @@
         religion = roman_catholic
         size = 16000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = ligur
         religion = roman_catholic
         size = 1000
     }
+
 }
-#Ticino & Grisons Region (188000)
-#Lugano (108000/27000 POPS)
+
+#Lugano
 2568 = {
     aristocrats = {
         culture = burgundisch
@@ -503,8 +499,10 @@
         religion = roman_catholic
         size = 22400
     }
+
 }
-#Chur (80000/20000 POPS)
+
+#Chur
 611 = {
     aristocrats = {
         culture = romansh
@@ -535,59 +533,62 @@
         religion = alexandrian_orthodox
         size = 18125
     }
+
 }
+
 #Fribourg
 3250 = {
     aristocrats = {
         culture = burgundisch
         religion = roman_catholic
-        size = 800
+        size = 1000
     }
 
     bureaucrats = {
         culture = burgundisch
         religion = roman_catholic
-        size = 600
+        size = 400
     }
 
     officers = {
         culture = burgundisch
         religion = roman_catholic
-        size = 110
+        size = 300
     }
 
     clergymen = {
         culture = burgundisch
         religion = roman_catholic
-        size = 1000
+        size = 900
     }
 
     artisans = {
         culture = burgundisch
         religion = roman_catholic
-        size = 5000
+        size = 9000
     }
 
     soldiers = {
         culture = burgundisch
         religion = roman_catholic
-        size = 1100
+        size = 2000
     }
 
     farmers = {
         culture = burgundisch
         religion = roman_catholic
-        size = 52000
+        size = 54000
     }
-	
-	farmers = {
+
+    farmers = {
         culture = neustrien
         religion = roman_catholic
-        size = 8600
+        size = 9000
     }
+
 }
 
-#Jura (POPS Taken from Basel)
+#Jura
 3271 = {
     aristocrats = {
         culture = burgundisch
@@ -648,9 +649,10 @@
         religion = roman_catholic
         size = 1550
     }
+
 }
 
-#Brig (POPS taken from Sitten)
+#Brig
 3272 = {
     aristocrats = {
         culture = burgundisch
@@ -681,12 +683,13 @@
         religion = roman_catholic
         size = 10035
     }
-	
-	farmers = {
+
+    farmers = {
         culture = ligur
         religion = roman_catholic
         size = 2500
     }
+
 }
 
 #Schaffhausen
@@ -720,8 +723,8 @@
         religion = roman_catholic
         size = 4500
     }
-	
-	soldiers = {
+
+    soldiers = {
         culture = ostrisch
         religion = roman_catholic
         size = 1500
@@ -732,4 +735,6 @@
         religion = roman_catholic
         size = 24000
     }
+
 }
+

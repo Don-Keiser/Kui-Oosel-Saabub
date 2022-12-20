@@ -357,9 +357,9 @@ PRU = {
 
 # France
 FRA = {
-    color1= { 63 125 214  }
-    color2= { 129 177 125  }
-    color3= { 121 162 109  }
+    color1= { 76 65 130 }
+    color2= { 178 5 5  }
+    color3= { 228 192 29  }
 }
 
 # Anhalt FIXED

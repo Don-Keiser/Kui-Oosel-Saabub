@@ -1173,25 +1173,25 @@
 
     bureaucrats = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 15
     }
 
     clergymen = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 150
     }
 
     artisans = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 900
     }
 
     farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 20935
     }
 }
@@ -1229,19 +1229,19 @@
 
     clergymen = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 50
     }
 
     artisans = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 150
     }
 
     farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 2800
     }
 }
@@ -1285,19 +1285,19 @@
 
     clergymen = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 50
     }
 
     artisans = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 250
     }
 
     farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 4800
     }
 }
@@ -1355,31 +1355,31 @@
 2559 = {
     aristocrats = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 400
     }
 
     clergymen = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 225
     }
 
     artisans = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 1100
     }
 
     soldiers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 250
     }
 
     farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 19025
     }
 
@@ -1413,43 +1413,43 @@
 1766 = {
     aristocrats = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 175
     }
 
     bureaucrats = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 45
     }
 
     officers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 75
     }
 
     clergymen = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 100
     }
 
     artisans = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 500
     }
 
     soldiers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 125
     }
 
     farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 8000
     }
 
@@ -1487,31 +1487,31 @@
 1767 = {
     aristocrats = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 225
     }
 
     clergymen = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 125
     }
 
     artisans = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 600
     }
 
     soldiers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 175
     }
 
     farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 9875
     }
 
@@ -1543,31 +1543,31 @@
 1768 = {
     aristocrats = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 300
     }
 
     clergymen = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 175
     }
 
     artisans = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 850
     }
 
     soldiers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 200
     }
 
     farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 15475
     }
 
@@ -1593,13 +1593,13 @@
 1769 = {
     aristocrats = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 200
     }
 
     clergymen = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 100
     }
 
@@ -1611,13 +1611,13 @@
 
     soldiers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 150
     }
 
     farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 10000
     }
 
@@ -1645,31 +1645,31 @@
 1770 = {
     aristocrats = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 50
     }
 
     clergymen = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 75
     }
 
     artisans = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 150
     }
 
     soldiers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 25
     }
 
     farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 2700
     }
 farmers = {
@@ -1682,61 +1682,61 @@ farmers = {
 1771 = {
     aristocrats = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 15
     }
 
     clergymen = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 25
     }
 
     artisans = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 50
     }
 
     soldiers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 10
     }
 
     farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 900
     }
 
     aristocrats = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 50
     }
 
     clergymen = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 50
     }
 
     artisans = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 200
     }
 
     soldiers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 50
     }
 
     farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 3650
     }
  farmers = {
@@ -1778,7 +1778,7 @@ farmers = {
     }
 farmers = {
         culture = kushite
-        religion = kemetic
+        religion = coptic
         size = 150
     }
 }

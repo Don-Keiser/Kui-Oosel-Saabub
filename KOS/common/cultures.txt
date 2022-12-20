@@ -1351,121 +1351,6 @@ samoyedic = {
 	  } 
 	  
 }
-
-illyro_thracian = {
-	liburni = {
-		color = {172 168 45}
-		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
-		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
-		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
-		Milan Mladen Odilo Pino Rado Radovan Rudolf Slavko Slavoj Stane
-		Stanko Tomasz Toncka Tone Viktor Vilko Vladimir Vladko Vojko Zeljko
-		}
-
-		last_names = { Arnic Avbelj Avsenik Bajuk Bitenc Cankar Cec Cernigoj Czipott Dolar
-		Drolc Duletic Globocnik Gobec Godina Golob Haus Hladnik Ivanek Kantuser
-		Kidric Komar Kopitar Kraigher Lipovsek Lipuscek Macek Maister Marinko Miklosic
-		Mravlajk Pengov Pesek Peterle Pirec Plecnik Rozman Rupnik Sarh Srebrnic
-		Tomazic Tomsic Urbancic Vega "Von Windisch-Grätz" Zagar Zerjal Zizke Zornada Zupancic
-		}
-	}
-	dalmatae = {
-		color = {181 177 86}
-		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
-		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
-		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
-		Milan Mladen Odilo Pino Rado Radovan Rudolf Slavko Slavoj Stane
-		Stanko Tomasz Toncka Tone Viktor Vilko Vladimir Vladko Vojko Zeljko
-		}
-
-		last_names = { Arnic Avbelj Avsenik Bajuk Bitenc Cankar Cec Cernigoj Czipott Dolar
-		Drolc Duletic Globocnik Gobec Godina Golob Haus Hladnik Ivanek Kantuser
-		Kidric Komar Kopitar Kraigher Lipovsek Lipuscek Macek Maister Marinko Miklosic
-		Mravlajk Pengov Pesek Peterle Pirec Plecnik Rozman Rupnik Sarh Srebrnic
-		Tomazic Tomsic Urbancic Vega "Von Windisch-Grätz" Zagar Zerjal Zizke Zornada Zupancic
-		}
-	}
-	paeonian = {
-		color = {212 207 57}
-		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
-		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
-		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
-		Milan Mladen Odilo Pino Rado Radovan Rudolf Slavko Slavoj Stane
-		Stanko Tomasz Toncka Tone Viktor Vilko Vladimir Vladko Vojko Zeljko
-		}
-
-		last_names = { Arnic Avbelj Avsenik Bajuk Bitenc Cankar Cec Cernigoj Czipott Dolar
-		Drolc Duletic Globocnik Gobec Godina Golob Haus Hladnik Ivanek Kantuser
-		Kidric Komar Kopitar Kraigher Lipovsek Lipuscek Macek Maister Marinko Miklosic
-		Mravlajk Pengov Pesek Peterle Pirec Plecnik Rozman Rupnik Sarh Srebrnic
-		Tomazic Tomsic Urbancic Vega "Von Windisch-Grätz" Zagar Zerjal Zizke Zornada Zupancic
-		}
-	}
-	dardani = {
-		color = {208 192 52}
-		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
-		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
-		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
-		Milan Mladen Odilo Pino Rado Radovan Rudolf Slavko Slavoj Stane
-		Stanko Tomasz Toncka Tone Viktor Vilko Vladimir Vladko Vojko Zeljko
-		}
-
-		last_names = { Arnic Avbelj Avsenik Bajuk Bitenc Cankar Cec Cernigoj Czipott Dolar
-		Drolc Duletic Globocnik Gobec Godina Golob Haus Hladnik Ivanek Kantuser
-		Kidric Komar Kopitar Kraigher Lipovsek Lipuscek Macek Maister Marinko Miklosic
-		Mravlajk Pengov Pesek Peterle Pirec Plecnik Rozman Rupnik Sarh Srebrnic
-		Tomazic Tomsic Urbancic Vega "Von Windisch-Grätz" Zagar Zerjal Zizke Zornada Zupancic
-		}
-	}
-	autariatai = {
-		color = {179 165 34}
-		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
-		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
-		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
-		Milan Mladen Odilo Pino Rado Radovan Rudolf Slavko Slavoj Stane
-		Stanko Tomasz Toncka Tone Viktor Vilko Vladimir Vladko Vojko Zeljko
-		}
-
-		last_names = { Arnic Avbelj Avsenik Bajuk Bitenc Cankar Cec Cernigoj Czipott Dolar
-		Drolc Duletic Globocnik Gobec Godina Golob Haus Hladnik Ivanek Kantuser
-		Kidric Komar Kopitar Kraigher Lipovsek Lipuscek Macek Maister Marinko Miklosic
-		Mravlajk Pengov Pesek Peterle Pirec Plecnik Rozman Rupnik Sarh Srebrnic
-		Tomazic Tomsic Urbancic Vega "Von Windisch-Grätz" Zagar Zerjal Zizke Zornada Zupancic
-		}
-	}
-	thracian = {
-		color = {201 187 71}
-		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris
-		Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan
-		Ivo Janez Jernej Joze Jurij Karpo Lado Leon Lojze Miha
-		Milan Mladen Odilo Pino Rado Radovan Rudolf Slavko Slavoj Stane
-		Stanko Tomasz Toncka Tone Viktor Vilko Vladimir Vladko Vojko Zeljko
-		}
-
-		last_names = { Arnic Avbelj Avsenik Bajuk Bitenc Cankar Cec Cernigoj Czipott Dolar
-		Drolc Duletic Globocnik Gobec Godina Golob Haus Hladnik Ivanek Kantuser
-		Kidric Komar Kopitar Kraigher Lipovsek Lipuscek Macek Maister Marinko Miklosic
-		Mravlajk Pengov Pesek Peterle Pirec Plecnik Rozman Rupnik Sarh Srebrnic
-		Tomazic Tomsic Urbancic Vega "Von Windisch-Grätz" Zagar Zerjal Zizke Zornada Zupancic
-		}
-	}
-	bithynian = {
-		color = { 176 166 77 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
-		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
-		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
-}
 british = {
     leader = european
     unit = BritishGC
@@ -1528,25 +1413,6 @@ celtic = {
     }
 	gaidhlig = {
         color = { 63 174 23 }
-        first_names = { Rory Donald Seumas Hamish Ian Alastair Alexander Archibald Rabairt Michael
-        George Glenn Grant Henry Brian Thomas Norman Robert }
-	
-        last_names = { MacDonald McAlastair MacDougall McKell Fraser Stuart Brown Cameron Cambell
-        Canmore Lewis McCloud Duncan McIver MacIntosh Ogilvie Clegg Kenmore Marshall Wallace Scott Wilson}
-    }
-	norse_gaelic = { 
-		color = { 23 174 108}
-		radicalism = 5
-		first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond Éamon
-		Edward Ernes Fionán Frank George Harry Jack James John Joseph
-		Kevin Liam Michael Patrick Peter Richard Robert Séan Thomas William }
-		
-		last_names = { Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly
-		FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness
-		Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
-	}
-    highlander = {
-        color = { 96 196 126 }
         first_names = { Rory Donald Seumas Hamish Ian Alastair Alexander Archibald Rabairt Michael
         George Glenn Grant Henry Brian Thomas Norman Robert }
 	
@@ -1708,21 +1574,6 @@ latino_venetic = {
         Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
         Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
     }
-	
-	chaotic_latin = {
-        color = { 156 70 102 }
-        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
-        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
-        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
-        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
-        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
-
-        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
-        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
-        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
-        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
-        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
-    }
 }
 
 iberian = {
@@ -1775,42 +1626,6 @@ iberian = {
     }
     portuguese = {
         color = {160 220 30}
-        first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro André António Aquilino
-        Artur Augusto Bartolomeu Bernardo Bruno Caetano Cândido Carlos Christovão Cláudio
-        Damião Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugénio Fernando
-        Filipe Francisco "Francisco Xavier" Gastão Hermenegildo Ignácio Jerônimo João Joaquim Jorge
-        José Julio Leopoldo Luís Manuel Mário Miguel Nicolau Nuno Orlando
-        Oscar Pascoal Paulo Pedro Rafael Raul Roberto Rodrigo Rui Santiago
-        Sebastião Teodoro Teófilo Tiago Tomé Urbano Vasco Vicente Vitorino Vitório }
-
-        last_names = { Amaral Barreto Bleck Braga Cabral Capelo Carmona Coelho Correia Coutinho
-        "da Costa" "da Cunha" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de Bragança" "de Bragança-Coburgo" "de Carvalho"
-        "de Castro" "de Gusmão" "de Lacerda" "de Mesquita" "de Moura" "de Noronha" "de Oliveira" "de Paiva" "de Sousa" "de Vasconcelos"
-        Dias "dos Reis" "dos Santos" Fernandes Ferreira Figueira "Freire de Andrade" Gago Gil Gomes
-        Herculano Ivens Keil Lopes Machado Magalhães Mendes Moniz Mouzinho Nogueira
-        Nunes Ortigão Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
-        Ribeiro Rodrigues Salazar Sampaio Sérgio Silveira Tavares Teixeira Vidigal Vieira }
-    }
-	toledano = {
-        color = {179 163 20}
-        first_names = { Agustín Alberto Alejandro Alfonso Álvaro Antonio "Antonio María" Arsenio Augusto Baldomero
-        Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dámaso
-        Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Félix Fernando Francisco
-        "Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-        Joaquín José "José Antonio" "José Manuel" "José María" Juan "Juan Bautista" Julio Leopoldo Lorenzo
-        Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolás Pablo Pascual
-        Pedro Rafael Raimundo Ramón Ricardo Santiago Sebastián Segismundo Valeriano Vicente }
-
-        last_names = { Acuña Aguirre Alcalá-Zamora Allendesalazar Alonso Álvarez "Álvarez de Toledo" Aranda Argüelles-Meres Asensio
-        Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbón"
-        "de Carvajal" "de la Fuente" "de Orleans" Díaz Espartero Fernández "Fernández de Córdoba" "Fitz-James Stuart" Franco
-        García "García de la Noceda" González Heredia Hernández Herrera Hevia "Hidalgo de Cisneros" Linares López
-        Maroto Márquez Martínez-Campos Maura Menéndez Miaja Millán-Astray Mina Mola Muñoz
-        Narváez O'Donnell Ortega Pavía Pérez "Primo de Rivera" "Queipo de Llano" Rodríguez Rojo Ruiz
-        Sanjurjo Serrano Silvestre Topete Valdés Varela Villapol Villar Weyler Yagüe }
-    }
-	lusitanian = {
-        color = {144 161 61}
         first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Álvaro André António Aquilino
         Artur Augusto Bartolomeu Bernardo Bruno Caetano Cândido Carlos Christovão Cláudio
         Damião Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugénio Fernando
@@ -1914,7 +1729,7 @@ occitan_group = {
         last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
     }
 	aquitan = {
-        color = {90 110 150}
+        color = {70 90 140}
         first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
 
         last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
@@ -1926,7 +1741,7 @@ occitan_group = {
         last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
     }
 	tarragones = {
-		color = {70 90 140}
+		color = {90 110 150}
 		first_names = { Albert Alexandre Alfons Alfonso Andrés Andreu Antoni Bernat Carles Cassià Chulián Dalmau 
 		David Eduard Enric Enrique Federico Felip Fernando Ferran Francí Gaspar 
 		Gerard Isaac Jacint Jaume Joan Jordi Josep Juan Llorenç
@@ -2582,38 +2397,6 @@ anatolian = {
 		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
 		}
 	}
-	pamphylian = {
-		color = { 189 49 49 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
-		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
-		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
-	carian = {
-		color = { 171 9 9 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
-		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
-		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
 	lydian = {
 		color = { 142 47 47 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
@@ -2646,70 +2429,6 @@ anatolian = {
 		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
 		}
 	}
-	pisidian = {
-		color = { 215 58 58 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
-		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
-		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
-	milyan = {
-		color = { 255 27 27 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
-		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
-		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
-	mysian = {
-		color = { 162 48 48 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
-		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
-		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
-	paphlagonian = {
-		color = { 186 22 22 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
-		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
-		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
 	cappadocian = {
 		color = { 161 15 15 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
@@ -2726,56 +2445,8 @@ anatolian = {
 		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
 		}
 	}
-	isaurian = {
+	luwian = {
 		color = { 165 44 44 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
-		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
-		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
-	cataonian = {
-		color = { 203 43 25 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
-		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
-		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
-	trojan = {
-		color = { 178 52 38 }
-		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
-		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
-		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
-		}
-
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
-	lycaonian = {
-		color = { 219 48 29 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Andra Antonios Aristidis Athanasios Augustinos Arbehan Bazile Benizelos Bram Charalambos
 		Charilaos Dalpheusse Dimitrios Diomidis Eleftherios Elyie Emmanouil Epameinontas Evripidis Freton Gennaios Georgios Ilias
 		Ionnis Kitsos Klovis Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
@@ -4063,10 +3734,9 @@ peninsular_arabic = {
 
 arab = {
     leader = arab
-
     unit = MoroccoGC
     maghrebi = {
-        color = {24 103 22}
+        color = {25 127 127}
         first_names = {
             "Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali
             Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid Mahmud

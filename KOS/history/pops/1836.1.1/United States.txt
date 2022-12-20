@@ -5013,67 +5013,67 @@
 139 = {
     aristocrats = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 925
     }
 
     clergymen = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 125
     }
 
     artisans = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 4650
     }
 
     soldiers = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 1250
     }
 
     farmers = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 48250
     }
 
     aristocrats = {
         culture = caddeus
-        religion = animist
+        religion = sol_invictus
         size = 100
     }
 
     clergymen = {
         culture = caddeus
-        religion = animist
+        religion = sol_invictus
         size = 275
     }
 
     artisans = {
         culture = caddeus
-        religion = animist
+        religion = sol_invictus
         size = 200
     }
 
     soldiers = {
         culture = caddeus
-        religion = animist
+        religion = sol_invictus
         size = 175
     }
 
     farmers = {
         culture = caddeus
-        religion = animist
+        religion = sol_invictus
         size = 18150
     }
 	
 	farmers = {
         culture = satae
-        religion = animist
+        religion = sol_invictus
         size = 3580
     }
 
@@ -5082,61 +5082,61 @@
 3685 = {
     aristocrats = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 125
     }
 
     clergymen = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 125
     }
 
     artisans = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 650
     }
 
     soldiers = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 250
     }
 
     farmers = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 18250
     }
 
     aristocrats = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 100
     }
 
     clergymen = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 275
     }
 
     artisans = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 200
     }
 
     soldiers = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 175
     }
 
     farmers = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 5550
     }
 
@@ -5145,73 +5145,73 @@
 140 = {
     aristocrats = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 250
     }
 
     bureaucrats = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 50
     }
 
     officers = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 45
     }
 
     clergymen = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 50
     }
 
     artisans = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 175
     }
 
     soldiers = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 100
     }
 
     farmers = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 22430
     }
 
     clergymen = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 75
     }
 
     artisans = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 150
     }
 
     soldiers = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 100
     }
 
     farmers = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 7470
     }
 	
 	farmers = {
         culture = satae
-        religion = roman_catholic
+        religion = sol_invictus
         size = 3470
     }
 
@@ -5220,55 +5220,55 @@
 141 = {
     aristocrats = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 150
     }
 
     clergymen = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 50
     }
 
     artisans = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 175
     }
 
     soldiers = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 100
     }
 
     farmers = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 14025
     }
 
     clergymen = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 50
     }
 
     artisans = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 55
     }
 
     soldiers = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 100
     }
 
     farmers = {
         culture = caddeus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 5225
     }
 
@@ -5277,67 +5277,67 @@
 142 = {
     aristocrats = {
         culture = novus_romanus
-        religion = african_catholic
+        religion = sol_invictus
         size = 150
     }
 
     clergymen = {
         culture = caddeus
-        religion = african_catholic
+        religion = sol_invictus
         size = 100
     }
 
     artisans = {
         culture = caddeus
-        religion = african_catholic
+        religion = sol_invictus
         size = 200
     }
 
     soldiers = {
         culture = caddeus
-        religion = african_catholic
+        religion = sol_invictus
         size = 525
     }
 
     farmers = {
         culture = caddeus
-        religion = african_catholic
+        religion = sol_invictus
         size = 13050
     }
 
     clergymen = {
         culture = novus_romanus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 75
     }
 
     farmers = {
         culture = novus_romanus
-        religion = roman_catholic
+        religion = sol_invictus
         size = 4550
     }
 
     clergymen = {
         culture = satae
-        religion = african_catholic
+        religion = sol_invictus
         size = 100
     }
 
     artisans = {
         culture = satae
-        religion = african_catholic
+        religion = sol_invictus
         size = 100
     }
 
     farmers = {
         culture = satae
-        religion = african_catholic
+        religion = sol_invictus
         size = 100
     }
 
     farmers = {
         culture = satae
-        religion = african_catholic
+        religion = sol_invictus
         size = 2875
     }
 }

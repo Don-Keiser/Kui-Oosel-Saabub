@@ -1,4 +1,4 @@
-color = { 73 89 44 }
+color = { 114 30 19 }
 proletarian_dictatorship = { 200 29 17 }
 graphical_culture = MiddleEasternGC
 
