@@ -1,6 +1,6 @@
-owner = SEV
-controller = SEV
-add_core = SEV
+owner = ISP
+controller = ISP
+add_core = ISP
 trade_goods = iron
 life_rating = 40
 terrain = dry_mountains

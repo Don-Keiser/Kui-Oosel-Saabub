@@ -1,5 +1,5 @@
-owner = TAR
-controller = TAR
-add_core = TAR
+owner = MUR
+controller = MUR
+add_core = MUR
 trade_goods = grain
 life_rating = 35

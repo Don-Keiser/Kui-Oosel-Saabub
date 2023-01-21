@@ -1,5 +1,6 @@
-owner = LEV
-controller = LEV
+owner = VAA
+controller = VAA
+add_core = VAA
 add_core = LEV
 trade_goods = grain
 life_rating = 35

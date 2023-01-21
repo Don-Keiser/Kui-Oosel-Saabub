@@ -1,5 +1,5 @@
-owner = VEP
-controller = VEP
-add_core = VEP
+owner = MUR
+controller = MUR
+add_core = MUR
 trade_goods = timber
 life_rating = 35

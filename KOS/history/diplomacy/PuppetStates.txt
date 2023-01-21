@@ -631,14 +631,14 @@ vassal = {
 
 #Ispannia
 substate = {
-    first = SEV
+    first = ISP
     second = MTN
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
 
 vassal = {
-    first = SEV
+    first = ISP
     second = MSL
     start_date = 1814.11.1
     end_date = 1936.1.1
@@ -827,7 +827,7 @@ vassal = {
 
 vassal = {
     first = POL
-    second = BRN
+    second = STD
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
@@ -858,7 +858,7 @@ vassal = {
 
 #Africa
 vassal = {
-    first = TUN
+    first = RAF
     second = SRD
     start_date = 1814.11.1
     end_date = 1936.1.1
@@ -897,6 +897,14 @@ vassal = {
 vassal = {
     first = COP
     second = AKS
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Chola
+vassal = {
+    first = COA
+    second = TRA
     start_date = 1814.11.1
     end_date = 1936.1.1
 }

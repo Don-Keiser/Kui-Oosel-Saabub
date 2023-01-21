@@ -1,5 +1,5 @@
-owner = TUN
-controller = TUN
-add_core = TUN
+owner = RAF
+controller = RAF
+add_core = RAF
 trade_goods = wool
 life_rating = 32

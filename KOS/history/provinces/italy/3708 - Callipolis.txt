@@ -1,6 +1,6 @@
-owner = TUN
-controller = TUN
-add_core = TUN
+owner = RAF
+controller = RAF
+add_core = RAF
 add_core = ITA
 trade_goods = fish
 naval_base = 1

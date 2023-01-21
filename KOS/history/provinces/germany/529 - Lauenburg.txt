@@ -1,6 +1,6 @@
-owner = BRN
-controller = BRN
-add_core = BRN
+owner = STD
+controller = STD
+add_core = STD
 trade_goods = grain
 life_rating = 35
 

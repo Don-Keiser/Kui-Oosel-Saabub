@@ -1,6 +1,6 @@
-owner = SEV
-controller = SEV
-add_core = SEV
+owner = ISP
+controller = ISP
+add_core = ISP
 trade_goods = fruit
 terrain = plains
 life_rating = 35

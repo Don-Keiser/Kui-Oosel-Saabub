@@ -1,7 +1,6 @@
-owner = MYS
-controller = MYS
-add_core = MYS
-add_core = HND
+owner = TRA
+controller = TRA
+add_core = TRA
 trade_goods = silk
 terrain = jungle_hills
 life_rating = 32

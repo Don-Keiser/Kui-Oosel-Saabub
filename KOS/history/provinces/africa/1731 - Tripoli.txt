@@ -1,6 +1,6 @@
-owner = TUN
-controller = TUN
-add_core = TUN
+owner = RAF
+controller = RAF
+add_core = RAF
 trade_goods = fruit
 life_rating = 40
 terrain = tripoli
