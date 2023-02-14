@@ -1,6 +1,6 @@
-owner = TPW
-controller = TPW
-add_core = TPW
+owner = TIB
+controller = TIB
 add_core = TIB
+add_core = TPW
 trade_goods = cattle
 life_rating = 32

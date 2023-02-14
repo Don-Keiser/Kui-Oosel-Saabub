@@ -1,5 +1,6 @@
-owner = THR
-controller = THR
+owner = TIB
+controller = TIB
+add_core = TIB
 add_core = THR
 trade_goods = cattle
 life_rating = 30

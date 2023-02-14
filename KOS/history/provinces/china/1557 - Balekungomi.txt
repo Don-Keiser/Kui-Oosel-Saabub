@@ -1,7 +1,5 @@
-owner = SHN
-controller = SHN
-add_core = CHI
-add_core = SHN
-add_core = XBI
+owner = TIB
+controller = TIB
+add_core = TIB
 trade_goods = coal
 life_rating = 32

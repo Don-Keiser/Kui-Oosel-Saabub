@@ -1,7 +1,7 @@
 capital = 1251
 primary_culture = bengali
 religion = hindu
-government = absolute_monarchy
+government = march
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.1

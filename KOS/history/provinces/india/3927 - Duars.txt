@@ -1,5 +1,6 @@
-owner = BHU
-controller = BHU
+owner = TIB
+controller = TIB
+add_core = TIB
 add_core = BHU
 trade_goods = cattle
 life_rating = 32

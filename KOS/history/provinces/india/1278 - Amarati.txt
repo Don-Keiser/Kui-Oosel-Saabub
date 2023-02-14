@@ -1,8 +1,6 @@
-owner = HYD
-controller = HYD
-add_core = HYD
-add_core = NAG
-add_core = HND
+owner = EHI
+controller = EHI
+add_core = EHI
 trade_goods = cattle
 life_rating = 32
 terrain = dryhills

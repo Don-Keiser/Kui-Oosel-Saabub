@@ -1,6 +1,6 @@
-owner = COA
-controller = COA
-add_core = COA
+owner = HYD
+controller = HYD
+add_core = HYD
 trade_goods = grain
 life_rating = 32
 terrain = pondicherry

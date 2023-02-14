@@ -1,6 +1,6 @@
-owner = SIK
-controller = SIK
-add_core = SIK
+owner = BNG
+controller = BNG
+add_core = BNG
 trade_goods = opium
 life_rating = 32
 terrain = jungle_farmland

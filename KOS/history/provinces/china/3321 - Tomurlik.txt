@@ -1,6 +1,5 @@
-owner = KHU
-controller = KHU
-add_core = KHU
+owner = TIB
+controller = TIB
 add_core = TIB
 trade_goods = cotton
 life_rating = 32

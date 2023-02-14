@@ -3,11 +3,12 @@ primary_culture = u_tsang
 culture = kham
 culture = amdo
 religion = mahayana
-government = colonial_company
+government = absolute_empire
 plurality = 0.0
 nationalvalue = nv_tradition
-literacy = 0.01
+literacy = 0.02
 non_state_culture_literacy = 0.01
+prestige = 10
 
 # Political reforms
 slavery = no_slavery

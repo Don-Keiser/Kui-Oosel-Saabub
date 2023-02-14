@@ -1,6 +1,6 @@
-owner = MYS
-controller = MYS
-add_core = MYS
+owner = HYD
+controller = HYD
+add_core = HYD
 trade_goods = fruit
 life_rating = 32
 terrain = dryhills

@@ -318,7 +318,7 @@ SWI_607 = { 605 609 3272 3317 } #R�gion L�manique
 
 SWI_2568 = { 445 447 3777 } #Limousin
 
-PRU_682 = { 682 683 3336 3337 3418 } #Lower Silesia
+PRU_682 = { 682 683 684 3336 3337 3418 } #Silesia
 
 PRU_690 = { 690 691 3469 } #Westpreu�en
 
@@ -357,11 +357,11 @@ AUS_654 = { 654 661 2533 660 } #Northern Transylvania
 
 AUS_657 = { 657 659 655 656 3568 3569 3644 } #Southern Transylvania
 
-AUS_702 = { 703 704 705 714 2584 3324 } #Galicia-Lodomeria
+AUS_702 = { 714 704 705 2584 3324 } #Galicia-Lodomeria
 
 AUS_662 = { 702 662 951 952 953} #East Galicia
 
-RUS_715 = { 715 711 713 716  } #West Galicia
+RUS_715 = { 706 715 711 713 716  } #West Galicia
 
 AUS_726 = { 726 727 728 3840 } #Lombardia
 
@@ -584,7 +584,7 @@ RUS_360 = { 360 361 362 363 364 365 698 3366 } #Lithuania
 
 RUS_339 = { 984 995 988 2587 983 982 } #Karelia
 
-RUS_706 = { 706 684 685 710 717 712 3363 } #Masovia
+RUS_706 = { 703 685 710 717 712 3363 } #Masovia
 
 RUS_707 = { 936 707 709 719 937 } #Br�st
 

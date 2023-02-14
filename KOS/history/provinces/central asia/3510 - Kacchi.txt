@@ -1,8 +1,6 @@
-owner = KAL
-controller = KAL
-add_core = KAL
-add_core = BLC
-add_core = HND
+owner = SHH
+controller = SHH
+add_core = SHH
 trade_goods = cattle
 terrain = dryhills
 life_rating = 35

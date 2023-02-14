@@ -1,6 +1,6 @@
-owner = MYS
-controller = MYS
-add_core = MYS
+owner = MNL
+controller = MNL
+add_core = MNL
 trade_goods = coffee
 life_rating = 32
 terrain = jungle_hills

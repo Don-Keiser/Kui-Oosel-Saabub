@@ -1,6 +1,6 @@
-owner = SRI
-controller = SRI
-add_core = SRI
+owner = TRR
+controller = TRR
+add_core = TRR
 trade_goods = coffee
 life_rating = 33
 terrain = jungle_hills

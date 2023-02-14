@@ -1027,6 +1027,13 @@ ISP		= "countries/Ispannia.txt"
 STD		= "countries/Stodoranie.txt"
 MER		= "countries/Merya.txt"
 MUR		= "countries/Muroma.txt"
+TRG		= "countries/Turgesh.txt"
+SRT		= "countries/Saurashtra.txt"
+MNL		= "countries/Mangalore.txt"
+CDA		= "countries/Chodas.txt"
+BRS		= "countries/Burusho.txt"
+ODS		= "countries/Odins Synir.txt"
+TRR		= "countries/Thrumurrodrar.txt"
 
 
 ##HoD Dominions

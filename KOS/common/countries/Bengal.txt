@@ -1,4 +1,5 @@
 color = { 0 153 0 }
+march = { 224 166 49 }
 graphical_culture = IndianGC
 
 party = {

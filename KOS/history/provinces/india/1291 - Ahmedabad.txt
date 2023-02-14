@@ -1,7 +1,6 @@
-owner = BER
-controller = BER
-add_core = BER
-add_core = HND
+owner = SRT
+controller = SRT
+add_core = SRT
 trade_goods = tobacco
 life_rating = 32
 naval_base = 2

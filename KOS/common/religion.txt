@@ -198,4 +198,5 @@ modern_pagan = {
 	zalmoxis = {
 		icon = 35
 		color = { 0.3 0 0.1 }
+	}
 }

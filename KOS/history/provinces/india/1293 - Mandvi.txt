@@ -1,6 +1,5 @@
-owner = KUT
-controller = KUT
-add_core = KUT
-add_core = HND
+owner = SRT
+controller = SRT
+add_core = SRT
 trade_goods = cotton
 life_rating = 32

@@ -1,6 +1,6 @@
-owner = NEP
-controller = NEP
-add_core = NEP
+owner = SIK
+controller = SIK
+add_core = SIK
 trade_goods = timber
 life_rating = 32
 terrain = montane_forest

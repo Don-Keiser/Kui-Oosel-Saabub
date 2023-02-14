@@ -1,7 +1,6 @@
-owner = BER
-controller = BER
-add_core = BER
-add_core = HND
+owner = EHI
+controller = EHI
+add_core = EHI
 trade_goods = cotton
 life_rating = 32
 terrain = steppe

@@ -1,4 +1,5 @@
 color = { 137  183  124 }
+march = { 78  132  101 }
 graphical_culture = AsianGC
 
 party = {

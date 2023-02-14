@@ -1,6 +1,6 @@
-owner = XIN
-controller = XIN
-add_core = XIN
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = sulphur
 life_rating = 32
 terrain = semi_desert_mountains

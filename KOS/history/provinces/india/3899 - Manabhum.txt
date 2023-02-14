@@ -1,5 +1,5 @@
-owner = BIH
-controller = BIH
-add_core = BIH
+owner = BNG
+controller = BNG
+add_core = BNG
 trade_goods = opium
 life_rating = 32

@@ -1,5 +1,5 @@
 color = { 139  138  160 }
-colonial_company = { 93  180  76 }
+march = { 224 166 49 }
 graphical_culture = IndianGC
 
 party = {

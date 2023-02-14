@@ -1,5 +1,5 @@
-owner = SIN
-controller = SIN
-add_core = SIN
+owner = SHH
+controller = SHH
+add_core = SHH
 trade_goods = cattle
 life_rating = 35

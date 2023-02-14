@@ -1,6 +1,5 @@
-owner = XBI
-controller = XBI
-add_core = XBI
-add_core = TIB
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = wool
 life_rating = 32

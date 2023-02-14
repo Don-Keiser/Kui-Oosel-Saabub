@@ -1,5 +1,5 @@
-owner = NEP
-controller = NEP
-add_core = NEP
+owner = SIK
+controller = SIK
+add_core = SIK
 trade_goods = fruit
 life_rating = 32

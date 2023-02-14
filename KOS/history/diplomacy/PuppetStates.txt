@@ -188,13 +188,6 @@ vassal = {
 	end_date = 1937.1.1
 }
 
-vassal = {
-	first = SHN
-	second = TIB
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
 #Mongol Empire
 vassal = {
 	first = MGL
@@ -353,21 +346,6 @@ vassal = {
 vassal = {
 	first = MGL
 	second = ASB
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-#Nepal
-substate = {
-	first = NEP
-	second = SIK
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = NEP
-	second = BHU
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
@@ -908,4 +886,29 @@ vassal = {
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
+
+#Tibet
+vassal = {
+    first = TIB
+    second = BNG
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = TIB
+    second = SIK
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Ediz Hind
+vassal = {
+    first = EHI
+    second = NEP
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+
 

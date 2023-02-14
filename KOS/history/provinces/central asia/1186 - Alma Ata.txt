@@ -1,6 +1,6 @@
-owner = KAZ
-controller = KAZ
-add_core = KAZ
+owner = WHU
+controller = WHU
+add_core = WHU
 trade_goods = grain
 life_rating = 30
 terrain = semi_desert_mountains

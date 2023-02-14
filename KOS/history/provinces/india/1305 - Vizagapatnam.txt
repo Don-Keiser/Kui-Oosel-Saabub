@@ -1,6 +1,6 @@
-owner = BAS
-controller = BAS
-add_core = BAS
+owner = ODS
+controller = ODS
+add_core = ODS
 trade_goods = timber
 life_rating = 32
 terrain = floodplain_farmland
