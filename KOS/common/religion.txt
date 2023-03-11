@@ -3,7 +3,6 @@
 # Uses all 'modifiers' possible thats exported as a Modifier.
 
 christian = {
-
     roman_catholic = {
         icon = 1
         color = { 0.7 0.8 0.5 }
@@ -32,50 +31,43 @@ christian = {
     thessalonian_orthodox = {
         icon = 3
         color = { 0.7 0.6 0.7 }
-
     }
 	
     coptic = {
         icon = 4
         color = { 0.8 0.3 0.6 }
-
     }
 	
     taiping = {
         icon = 20
         color = { 0.5 0.5 0 }
-
     }
 	
     syriac = {
         icon = 21
         color = { 0.2 0.5 0.7 }
-
     }
 	
 	arianism = {
         icon = 30
         color = { 0.2 0.2 0.1 }
-
     }
 	
 	manichaean = {
         icon = 31
         color = { 0.4 0.1 0.1 }
-
     }
 	
 	vulgar = {
         icon = 33
         color = { 0.4 0.5 0.6 }
-
     }
 }
 
 muslim = {
     sunni = {
         icon = 5
-        color = { 0 0.8 0.8 }
+        color = { 0.1 0.8 0.8 }
     }
 
     shiite = {
@@ -148,7 +140,7 @@ eastern = {
     }
     jain = {
         color = { 0 0.1 0 }
-        icon =  23
+        icon = 23
     }
     confucian = {
         color = { 0.8 0.8 0 }
@@ -165,7 +157,7 @@ pagan = {
     }
     fetishist = {
         icon = 25
-        color = { 0.419 0.247 0.627 }
+        color = { 0.4 0.2 0.6 }
         pagan = yes
     }
     tengri = {

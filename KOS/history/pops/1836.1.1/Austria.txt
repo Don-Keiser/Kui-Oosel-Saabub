@@ -346,37 +346,6 @@
 		size = 1675 
 	}
 }
-3370 = {
-    aristocrats = {
-        culture = histri
-        religion = roman_catholic
-        size = 200
-    }
-	
-    clergymen = {
-        culture = histri
-        religion = roman_catholic
-        size = 300
-    }
-	
-    soldiers = {
-        culture = histri
-        religion = roman_catholic
-        size = 500
-    }
-	
-    artisans = {
-        culture = histri
-        religion = roman_catholic
-        size = 1500
-    }
-	
-	farmers = {
-        culture = histri
-        religion = roman_catholic
-        size = 13000
-    }
-}
 #Austria Region (2000000)
 #under the rule of Austria in 1836
 #Vienna (1084000/271000 POPS)

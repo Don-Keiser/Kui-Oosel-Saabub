@@ -2680,3 +2680,36 @@
 
 }
 
+#Maramos
+3370 = {
+    aristocrats = {
+        culture = hungarian
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = catholic
+        size = 3000
+    }
+}
+

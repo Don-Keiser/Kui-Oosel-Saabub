@@ -1,4 +1,4 @@
-color = { 90  40  120 }
+color = { 12  109  57 }
 graphical_culture = IndianGC
 
 
