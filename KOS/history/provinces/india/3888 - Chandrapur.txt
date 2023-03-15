@@ -1,5 +1,5 @@
-owner = NAG
-controller = NAG
-add_core = NAG
+owner = HYD
+controller = HYD
+add_core = HYD
 trade_goods = fruit
 life_rating = 32
