@@ -1,3 +1,6 @@
+owner = OYO
+controller = OYO
+add_core = OYO
 trade_goods = cattle
 terrain = hills
 life_rating = 30

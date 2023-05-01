@@ -1,3 +1,6 @@
+owner = OYO
+controller = OYO
+add_core = OYO
 terrain = montane_forest
 trade_goods = coffee
 life_rating = 35
