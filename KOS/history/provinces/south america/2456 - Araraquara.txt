@@ -1,2 +1,5 @@
+owner = GRI
+controller = GRI
+add_core = GRI
 trade_goods = coffee
 life_rating = 35

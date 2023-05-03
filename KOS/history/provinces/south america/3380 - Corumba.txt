@@ -1,2 +1,5 @@
+owner = JEC
+controller = JEC
+add_core = JEC
 trade_goods = tropical_wood
-life_rating = 31
+life_rating = 32

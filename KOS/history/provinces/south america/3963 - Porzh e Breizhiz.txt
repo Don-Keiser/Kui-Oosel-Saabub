@@ -1,0 +1,6 @@
+owner = SML
+controller = SML
+add_core = SML
+trade_goods = fish
+terrain = steppe
+life_rating = 35

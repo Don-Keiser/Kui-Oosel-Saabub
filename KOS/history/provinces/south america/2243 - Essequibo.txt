@@ -1,4 +1,6 @@
+owner = HUN
+controller = HUN
+add_core = HUN
 trade_goods = fruit
 terrain = new_world_jungle
 life_rating = 35
-colonial = 2

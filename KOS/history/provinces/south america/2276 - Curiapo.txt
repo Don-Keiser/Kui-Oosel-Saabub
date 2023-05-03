@@ -1,2 +1,5 @@
+owner = FWK
+controller = FWK
+add_core = FWK
 trade_goods = fish
 life_rating = 33

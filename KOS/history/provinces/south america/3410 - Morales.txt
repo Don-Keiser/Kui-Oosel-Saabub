@@ -1,6 +1,6 @@
-owner = GUA
-controller = GUA
-add_core = GUA
+owner = JAM
+controller = JAM
+add_core = JAM
 trade_goods = fruit
 terrain = farmlands
 life_rating = 35

@@ -1,8 +1,6 @@
-owner = UCA
-controller = UCA
-add_core = UCA
-add_core = HON
+owner = JAM
+controller = JAM
+add_core = JAM
 trade_goods = fish
-colonial = 2
 terrain = small_island
-life_rating = 30
+life_rating = 35

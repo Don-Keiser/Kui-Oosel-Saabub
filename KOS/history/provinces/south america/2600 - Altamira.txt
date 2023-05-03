@@ -1,2 +1,5 @@
+owner = MUD
+controller = MUD
+add_core = MUD
 trade_goods = tropical_wood
-life_rating = 20
+life_rating = 30

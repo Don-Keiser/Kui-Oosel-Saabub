@@ -1,3 +1,6 @@
+owner = CDU
+controller = CDU
+add_core = CDU
 trade_goods = timber
 terrain = marsh
 life_rating = 35

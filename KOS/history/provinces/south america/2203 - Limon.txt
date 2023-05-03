@@ -1,3 +1,6 @@
+owner = SCN
+controller = SCN
+add_core = SCN
 trade_goods = coffee
 terrain = jungle_farmland
-life_rating = 33
+life_rating = 35

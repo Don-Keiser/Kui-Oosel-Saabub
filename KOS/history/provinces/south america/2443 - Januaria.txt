@@ -1,3 +1,6 @@
+owner = TUP
+controller = TUP
+add_core = TUP
 trade_goods = fruit
 terrain = dryhills
 life_rating = 35

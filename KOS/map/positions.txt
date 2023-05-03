@@ -136426,3 +136426,27 @@
 3958 = {
     text_scale = 1.4
 }
+
+3959 = {
+    text_scale = 1.4
+}
+
+3960 = {
+    text_scale = 1.4
+}
+
+3961 = {
+    text_scale = 1.4
+}
+
+3962 = {
+    text_scale = 1.4
+}
+
+3963 = {
+    text_scale = 1.4
+}
+
+3964 = {
+    text_scale = 1.4
+}

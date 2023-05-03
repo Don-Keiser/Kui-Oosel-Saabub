@@ -1,2 +1,5 @@
+owner = CDU
+controller = CDU
+add_core = CDU
 trade_goods = grain
 life_rating = 35

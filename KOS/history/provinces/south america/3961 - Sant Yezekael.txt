@@ -1,0 +1,6 @@
+owner = SML
+controller = SML
+add_core = SML
+trade_goods = precious_metal
+terrain = steppe
+life_rating = 35

@@ -1,2 +1,5 @@
+owner = GRI
+controller = GRI
+add_core = GRI
 trade_goods = cattle
-life_rating = 39
+life_rating = 35

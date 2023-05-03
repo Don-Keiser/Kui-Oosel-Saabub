@@ -1,2 +1,5 @@
+owner = STM
+controller = STM
+add_core = STM
 trade_goods = tropical_wood
-life_rating = 34
+life_rating = 35

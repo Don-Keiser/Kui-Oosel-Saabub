@@ -1,2 +1,5 @@
+owner = SCN
+controller = SCN
+add_core = SCN
 trade_goods = coffee
-life_rating = 39
+life_rating = 35

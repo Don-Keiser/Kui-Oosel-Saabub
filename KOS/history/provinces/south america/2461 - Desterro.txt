@@ -1,3 +1,6 @@
+owner = GRI
+controller = GRI
+add_core = GRI
 trade_goods = grain
 terrain = jungle_farmland
 life_rating = 35

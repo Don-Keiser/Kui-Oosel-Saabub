@@ -1307,7 +1307,7 @@ CHL_2322 = { 2324 2322 2323 2326 2325 } #Santiago
 
 CHL_2327 = { 2329 2327 2330 2331 2328 } #Los Rios
 
-CHL_2332 = { 2332 2333 2334 2335 2336 } #Araucania
+CHL_2332 = { 2332 2333 2336 } #Araucania
 
 ARG_2355 = { 2348  2353 2354 2350 2351 2352 2349 3782 3783 3784 } #Buenos Aires
 
@@ -1325,11 +1325,11 @@ ARG_2384 = { 2384 2383 2382 2379 2381 2380 } #C�rdoba de Argentina
 
 ARG_2387 = { 2373 2376 2377 2378 } #Tucum�n
 
-ARG_2391 = { 2391 2392 2394 2396 2397 } #Patagonia Septentrional
+ARG_2391 = { 2391 2392 2394 2396 2397 3964 } #Patagonia Septentrional
 
 ARG_2393 = { 2393 2395 2390 2389 2355 } #La Pampa
 
-ARG_2398 = { 2131 2398 2399 2400 } #Patagonia Meridional
+ARG_2398 = { 2131 2334 2335 2398 2399 2400 3959 3960 3961 3962 3963 } #Patagonia Meridional
 
 
 ### Australia & New Zealand

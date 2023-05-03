@@ -1,3 +1,6 @@
+owner = CDU
+controller = CDU
+add_core = CDU
 trade_goods = cattle
 terrain = savanna
-life_rating = 15
+life_rating = 30

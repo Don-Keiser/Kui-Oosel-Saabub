@@ -1,3 +1,6 @@
+owner = ISP
+controller = ISP
+add_core = ISP
 trade_goods = coffee
 terrain = montane_forest
 life_rating = 35

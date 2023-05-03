@@ -1,3 +1,6 @@
+owner = GRI
+controller = GRI
+add_core = GRI
 terrain = jungle_hills
 trade_goods = cotton
 life_rating = 35

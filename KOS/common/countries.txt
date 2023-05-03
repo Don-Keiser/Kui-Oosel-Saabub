@@ -1033,6 +1033,18 @@ CDA		= "countries/Chodas.txt"
 BRS		= "countries/Burusho.txt"
 ODS		= "countries/Odins Synir.txt"
 TRR		= "countries/Thrumurrodrar.txt"
+GRI		= "countries/Tehoka.txt"
+CDU		= "countries/Chandules.txt"
+MUD		= "countries/Mundurukania.txt"
+CDU		= "countries/Chandules.txt"
+STM		= "countries/Satere-Mawe.txt"
+MRN		= "countries/Mirana.txt"
+YNM		= "countries/Yanomani.txt"
+PEM		= "countries/Pemon.txt"
+SML		= "countries/Sant-Malou.txt"
+CRR		= "countries/Charrua.txt"
+TUP		= "countries/Tupi.txt"
+JEC		= "countries/Je Confederation.txt"
 
 
 ##HoD Dominions

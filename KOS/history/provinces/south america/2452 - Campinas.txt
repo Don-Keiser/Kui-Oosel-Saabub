@@ -1,3 +1,6 @@
+owner = GRI
+controller = GRI
+add_core = GRI
 terrain = forest
 trade_goods = coffee
 life_rating = 35

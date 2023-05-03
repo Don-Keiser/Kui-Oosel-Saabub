@@ -1,2 +1,5 @@
+owner = ISP
+controller = ISP
+add_core = ISP
 trade_goods = cattle
 life_rating = 35

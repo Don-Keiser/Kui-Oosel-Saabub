@@ -1,0 +1,6 @@
+owner = FWK
+controller = FWK
+add_core = FWK
+trade_goods = fish
+terrain = steppe
+life_rating = 35

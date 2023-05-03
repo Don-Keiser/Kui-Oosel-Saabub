@@ -1,2 +1,5 @@
+owner = TUP
+controller = TUP
+add_core = TUP
 trade_goods = tobacco
 life_rating = 35
