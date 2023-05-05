@@ -1,3 +1,6 @@
+owner = TWC
+controller = TWC
+add_core = TWC
 trade_goods = coffee
 terrain = montane_forest
 life_rating = 33

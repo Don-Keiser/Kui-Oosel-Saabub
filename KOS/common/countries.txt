@@ -1045,6 +1045,15 @@ SML		= "countries/Sant-Malou.txt"
 CRR		= "countries/Charrua.txt"
 TUP		= "countries/Tupi.txt"
 JEC		= "countries/Je Confederation.txt"
+ALJ		= "countries/Alf Jazira.txt"
+NAR		= "countries/Nea Arta.txt"
+AGO		= "countries/Agio Oros.txt"
+EHK		= "countries/Emek HaKochavim.txt"
+TKK		= "countries/Takarinkua.txt"
+TWC		= "countries/Al-Ra'san.txt"
+MUI		= "countries/Muisca.txt"
+MTB		= "countries/Marta' el-Boland.txt"
+WIT		= "countries/Huitoto.txt"
 
 
 ##HoD Dominions

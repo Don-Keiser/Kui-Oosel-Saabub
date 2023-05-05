@@ -1,6 +1,6 @@
 owner = MLI
 controller = MLI
 add_core = MLI
-trade_goods = fish
+trade_goods = fruit
 terrain = savanna
 life_rating = 35

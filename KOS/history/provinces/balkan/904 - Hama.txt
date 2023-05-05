@@ -1,3 +1,6 @@
+owner = MUI
+controller = MUI
+add_core = MUI
 trade_goods = tropical_wood
 terrain = jungle
-life_rating = 31
+life_rating = 32

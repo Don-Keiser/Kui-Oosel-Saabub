@@ -1,6 +1,6 @@
 capital = 749
 primary_culture = latin
-religion = roman_catholic
+religion = sol_invictus
 government = colonial_company
 plurality = 0.12
 nationalvalue = nv_order

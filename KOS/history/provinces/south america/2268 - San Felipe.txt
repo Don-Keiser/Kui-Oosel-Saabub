@@ -1,2 +1,5 @@
+owner = TKK
+controller = TKK
+add_core = TKK
 trade_goods = wool
 life_rating = 35

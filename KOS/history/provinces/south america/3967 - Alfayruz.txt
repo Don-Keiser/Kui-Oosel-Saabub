@@ -1,0 +1,5 @@
+owner = ALJ
+controller = ALJ
+add_core = ALJ
+trade_goods = fish
+life_rating = 35

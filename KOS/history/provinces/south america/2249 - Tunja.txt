@@ -1,2 +1,5 @@
+owner = MUI
+controller = MUI
+add_core = MUI
 trade_goods = grain
 life_rating = 35

@@ -1,3 +1,6 @@
+owner = CDU
+controller = CDU
+add_core = CDU
 trade_goods = fruit
 terrain = dryhills
 life_rating = 35

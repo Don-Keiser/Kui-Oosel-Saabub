@@ -1,2 +1,5 @@
+owner = TWC
+controller = TWC
+add_core = TWC
 trade_goods = cattle
 life_rating = 35

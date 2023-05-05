@@ -1,2 +1,5 @@
+owner = AGO
+controller = AGO
+add_core = AGO
 trade_goods = coffee
 life_rating = 35

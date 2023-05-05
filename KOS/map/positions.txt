@@ -136450,3 +136450,19 @@
 3964 = {
     text_scale = 1.4
 }
+
+3965 = {
+    text_scale = 1.4
+}
+
+3966 = {
+    text_scale = 1.4
+}
+
+3967 = {
+    text_scale = 1.4
+}
+
+3968 = {
+    text_scale = 1.4
+}

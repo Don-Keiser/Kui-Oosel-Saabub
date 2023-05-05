@@ -1,2 +1,5 @@
+owner = NAR
+controller = NAR
+add_core = NAR
 trade_goods = coffee
 life_rating = 35

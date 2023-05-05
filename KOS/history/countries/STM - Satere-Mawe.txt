@@ -1,14 +1,12 @@
 capital = 2431
 primary_culture = afro_french
-religion = roman_catholic
+religion = vulgar
 government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_order
 literacy = 0.15
 
 set_country_flag = new_world_nation
-set_country_flag = roman_catholic_country
-religion = roman_catholic
 
 # Political reforms
 slavery = yes_slavery
