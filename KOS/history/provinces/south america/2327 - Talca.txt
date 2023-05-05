@@ -1,3 +1,6 @@
+owner = PKM
+controller = PKM
+add_core = PKM
 trade_goods = grain
 terrain = montane_forest
 life_rating = 35

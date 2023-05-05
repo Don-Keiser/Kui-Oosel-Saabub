@@ -1,3 +1,6 @@
+owner = CPN
+controller = CPN
+add_core = CPN
 trade_goods = fruit
 terrain = dryhills
 life_rating = 35

@@ -1,3 +1,6 @@
+owner = LGI
+controller = LGI
+add_core = LGI	
 trade_goods = wool
 terrain = santacruz
-life_rating = 15
+life_rating = 35

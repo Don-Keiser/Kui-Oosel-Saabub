@@ -1,4 +1,7 @@
+owner = KZA
+controller = KZA
+add_core = KZA
 trade_goods = sulphur
 terrain = coastal_desert
-life_rating = 15
+life_rating = 35
 naval_base = 1

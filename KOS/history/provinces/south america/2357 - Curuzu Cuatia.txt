@@ -1,5 +1,5 @@
-owner = CDU
-controller = CDU
-add_core = CDU
+owner = QUI
+controller = QUI
+add_core = QUI
 trade_goods = cotton
 life_rating = 35

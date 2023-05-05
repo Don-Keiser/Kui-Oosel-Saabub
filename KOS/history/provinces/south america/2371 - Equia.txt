@@ -1,2 +1,5 @@
+owner = CUU
+controller = CUU
+add_core = CUU
 trade_goods = wool
-life_rating = 31
+life_rating = 35

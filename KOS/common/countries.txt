@@ -1054,6 +1054,16 @@ TWC		= "countries/Al-Ra'san.txt"
 MUI		= "countries/Muisca.txt"
 MTB		= "countries/Marta' el-Boland.txt"
 WIT		= "countries/Huitoto.txt"
+THN		= "countries/Tahiri Nui.txt"
+LGI		= "countries/Land of Giants.txt"
+PKM		= "countries/Pikun Mapu.txt"
+WRP		= "countries/Warpe.txt"
+HEN		= "countries/Henia.txt"
+CPN		= "countries/Cayapan.txt"
+QUI		= "countries/Quiluacu.txt"
+KZA		= "countries/Kunza.txt"
+CUU		= "countries/Churumata.txt"
+KIL		= "countries/Kilme.txt"
 
 
 ##HoD Dominions

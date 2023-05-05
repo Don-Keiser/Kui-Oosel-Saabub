@@ -1,3 +1,6 @@
+owner = THN
+controller = THN
+add_core = THN	
 trade_goods = fish
 terrain = montane_forest
 life_rating = 35

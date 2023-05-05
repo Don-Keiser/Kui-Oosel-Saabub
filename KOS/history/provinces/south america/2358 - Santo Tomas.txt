@@ -1,6 +1,6 @@
-owner = CDU
-controller = CDU
-add_core = CDU
+owner = QUI
+controller = QUI
+add_core = QUI
 trade_goods = tobacco
 life_rating = 35
 terrain = marsh

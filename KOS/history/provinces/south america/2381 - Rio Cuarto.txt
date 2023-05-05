@@ -1,2 +1,5 @@
+owner = HEN
+controller = HEN
+add_core = HEN
 trade_goods = cattle
 life_rating = 35

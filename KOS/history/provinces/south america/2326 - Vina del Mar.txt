@@ -1,2 +1,5 @@
+owner = CPN
+controller = CPN
+add_core = CPN
 trade_goods = cattle
 life_rating = 35

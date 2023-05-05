@@ -61,7 +61,7 @@ border_policy = quota_immigration
 centralization = federalism
 colonial_policy = no_colonies
 
-set_country_flag = african_roman_catholic_country
+set_country_flag = african_catholic_country
 set_country_flag = exempt_from_vassal_contribution
 
 ruling_party = CAN_conservative

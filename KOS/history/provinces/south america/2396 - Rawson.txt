@@ -1,3 +1,6 @@
+owner = LGI
+controller = LGI
+add_core = LGI	
 trade_goods = wool
 terrain = steppe
-life_rating = 15
+life_rating = 32

@@ -1,2 +1,5 @@
+owner = PKM
+controller = PKM
+add_core = PKM
 trade_goods = iron
 life_rating = 35

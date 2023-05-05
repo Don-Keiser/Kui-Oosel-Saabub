@@ -1,3 +1,6 @@
+owner = THN
+controller = THN
+add_core = THN	
 trade_goods = wool
 terrain = new_world_montane_tundra
-life_rating = 15
+life_rating = 32
