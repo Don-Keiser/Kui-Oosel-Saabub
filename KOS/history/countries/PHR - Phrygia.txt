@@ -1,6 +1,5 @@
 capital = 863
 primary_culture = phrygian
-culture = mysian
 religion = thessalonian_orthodox
 government = absolute_monarchy
 plurality = 30.0

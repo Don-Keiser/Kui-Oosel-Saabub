@@ -1,7 +1,6 @@
 owner = ETL
 controller = ETL
 add_core = ETL
-add_core = SOO
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

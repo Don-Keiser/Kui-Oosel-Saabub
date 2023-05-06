@@ -1,6 +1,5 @@
 capital = 875
 primary_culture = lycian
-culture = lycaonian
 religion = thessalonian_orthodox
 government = absolute_monarchy
 plurality = 30.0
