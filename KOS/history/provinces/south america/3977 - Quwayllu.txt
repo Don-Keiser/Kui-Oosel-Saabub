@@ -1,0 +1,6 @@
+owner = MTI
+controller = MTI
+add_core = MTI
+terrain = dryhills
+trade_goods = sulphur
+life_rating = 40

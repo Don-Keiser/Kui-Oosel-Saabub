@@ -1,0 +1,5 @@
+owner = CAK
+controller = CAK
+add_core = CAK
+trade_goods = iron
+life_rating = 35

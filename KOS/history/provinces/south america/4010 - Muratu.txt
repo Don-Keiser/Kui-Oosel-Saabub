@@ -1,0 +1,5 @@
+owner = KIY
+controller = KIY
+add_core = KIY
+trade_goods = iron
+life_rating = 35

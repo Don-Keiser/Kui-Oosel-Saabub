@@ -135307,26 +135307,7 @@
 }
 
 3788 = {
-    text_position = {
-        x = 1568.300000
-        y = 881.100000
-    }
-
-    text_rotation = 0.258344
-    text_scale = 2.7
-    unit = {
-        x = 1564.200000
-        y = 882.000000
-    }
-
-    building_position = {
-        fort = {
-            x = 1573.400000
-            y = 878.150000
-        }
-
-    }
-
+    text_scale = 1.4
 }
 
 3789 = {
@@ -136464,5 +136445,185 @@
 }
 
 3968 = {
+    text_scale = 1.4
+}
+
+3969 = {
+    text_scale = 1.4
+}
+
+3970 = {
+    text_scale = 1.4
+}
+
+3971 = {
+    text_scale = 1.4
+}
+
+3972 = {
+    text_scale = 1.4
+}
+
+3973 = {
+    text_scale = 1.4
+}
+
+3974 = {
+    text_scale = 1.4
+}
+
+3975 = {
+    text_scale = 1.4
+}
+
+3976 = {
+    text_scale = 1.4
+}
+
+3977 = {
+    text_scale = 1.4
+}
+
+3978 = {
+    text_scale = 1.4
+}
+
+3979 = {
+    text_scale = 1.4
+}
+
+3980 = {
+    text_scale = 1.4
+}
+
+3981 = {
+    text_scale = 1.4
+}
+
+3982 = {
+    text_scale = 1.4
+}
+
+3983 = {
+    text_scale = 1.4
+}
+
+3984 = {
+    text_scale = 1.4
+}
+
+3985 = {
+    text_scale = 1.4
+}
+
+3986 = {
+    text_scale = 1.4
+}
+
+3987 = {
+    text_scale = 1.4
+}
+
+3988 = {
+    text_scale = 1.4
+}
+
+3989 = {
+    text_scale = 1.4
+}
+
+3990 = {
+    text_scale = 1.4
+}
+
+3991 = {
+    text_scale = 1.4
+}
+
+3992 = {
+    text_scale = 1.4
+}
+
+3993 = {
+    text_scale = 1.4
+}
+
+3994 = {
+    text_scale = 1.4
+}
+
+3995 = {
+    text_scale = 1.4
+}
+
+3996 = {
+    text_scale = 1.4
+}
+
+3997 = {
+    text_scale = 1.4
+}
+
+3998 = {
+    text_scale = 1.4
+}
+
+3999 = {
+    text_scale = 1.4
+}
+
+4000 = {
+    text_scale = 1.4
+}
+
+4001 = {
+    text_scale = 1.4
+}
+
+4002 = {
+    text_scale = 1.4
+}
+
+4003 = {
+    text_scale = 1.4
+}
+
+4004 = {
+    text_scale = 1.4
+}
+
+4005 = {
+    text_scale = 1.4
+}
+
+4006 = {
+    text_scale = 1.4
+}
+
+4007 = {
+    text_scale = 1.4
+}
+
+4008 = {
+    text_scale = 1.4
+}
+
+4009 = {
+    text_scale = 1.4
+}
+
+4010 = {
+    text_scale = 1.4
+}
+
+4011 = {
+    text_scale = 1.4
+}
+
+4012 = {
+    text_scale = 1.4
+}
+
+4013 = {
     text_scale = 1.4
 }
