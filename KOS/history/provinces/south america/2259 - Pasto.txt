@@ -1,6 +1,6 @@
-owner = PEU
-controller = PEU
-add_core = PEU
+owner = KRK
+controller = KRK
+add_core = KRK
 trade_goods = cattle
 terrain = montane_forest
 life_rating = 35

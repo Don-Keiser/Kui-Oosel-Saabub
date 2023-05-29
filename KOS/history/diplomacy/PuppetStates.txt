@@ -911,5 +911,20 @@ vassal = {
     end_date = 1936.1.1
 }
 
+#Manitikipatsi
+vassal = {
+    first = MTI
+    second = CIO
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = MTI
+    second = KRK
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
 
 

@@ -1,3 +1,6 @@
+owner = MTI
+controller = MTI
+add_core = MTI
 trade_goods = cattle
-life_rating = 39
+life_rating = 40
 terrain = lapaz

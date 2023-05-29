@@ -1,6 +1,6 @@
-owner = PEU
-controller = PEU
-add_core = PEU
+owner = MTI
+controller = MTI
+add_core = MTI
 trade_goods = grain
 life_rating = 35
 naval_base = 1

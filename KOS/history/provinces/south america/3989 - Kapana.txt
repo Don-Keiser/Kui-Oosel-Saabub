@@ -1,5 +1,5 @@
-owner = MTI
-controller = MTI
-add_core = MTI
+owner = CBY
+controller = CBY
+add_core = CBY
 trade_goods = wool
 life_rating = 35

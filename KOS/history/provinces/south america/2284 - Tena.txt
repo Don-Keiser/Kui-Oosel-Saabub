@@ -1,3 +1,6 @@
+owner = JIB
+controller = JIB
+add_core = JIB
 trade_goods = tropical_wood
 terrain = montane_forest
-life_rating = 33
+life_rating = 35

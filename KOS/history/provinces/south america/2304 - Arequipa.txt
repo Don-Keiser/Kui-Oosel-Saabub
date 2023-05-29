@@ -1,6 +1,6 @@
-owner = PEU
-controller = PEU
-add_core = PEU
+owner = CBY
+controller = CBY
+add_core = CBY
 trade_goods = sulphur
 terrain = coastal_desert
-life_rating = 31
+life_rating = 35

@@ -1,3 +1,6 @@
+owner = MTI
+controller = MTI
+add_core = MTI
 trade_goods = tropical_wood
 terrain = montane_forest
-life_rating = 33
+life_rating = 32

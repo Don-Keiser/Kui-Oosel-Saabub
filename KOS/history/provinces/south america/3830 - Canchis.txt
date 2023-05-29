@@ -1,2 +1,5 @@
+owner = MTI
+controller = MTI
+add_core = MTI
 trade_goods = cattle
-life_rating = 32
+life_rating = 35

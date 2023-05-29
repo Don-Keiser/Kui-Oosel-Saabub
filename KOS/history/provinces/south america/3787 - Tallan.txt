@@ -1,6 +1,6 @@
-owner = PEU
-controller = PEU
-add_core = PEU
+owner = CIO
+controller = CIO
+add_core = CIO
 trade_goods = fish
 terrain = new_world_semidesert
-life_rating = 32
+life_rating = 35

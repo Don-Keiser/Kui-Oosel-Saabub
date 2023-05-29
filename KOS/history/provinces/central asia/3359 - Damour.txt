@@ -1,2 +1,5 @@
+owner = OMG
+controller = OMG
+add_core = OMG
 trade_goods = tropical_wood
-life_rating = 15
+life_rating = 32

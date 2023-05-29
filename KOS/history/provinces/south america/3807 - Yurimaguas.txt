@@ -1,2 +1,5 @@
+owner = PKO
+controller = PKO
+add_core = PKO
 trade_goods = tropical_wood
-life_rating = 33
+life_rating = 35

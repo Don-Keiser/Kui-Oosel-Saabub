@@ -1,2 +1,5 @@
+owner = MTI
+controller = MTI
+add_core = MTI
 trade_goods = wool
-life_rating = 37
+life_rating = 35

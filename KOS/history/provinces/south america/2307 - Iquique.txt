@@ -1,3 +1,6 @@
+owner = CKL
+controller = CKL
+add_core = CKL
 trade_goods = sulphur
 terrain = coastal_desert
-life_rating = 31
+life_rating = 35

@@ -1,2 +1,5 @@
+owner = KIY
+controller = KIY
+add_core = KIY
 trade_goods = wool
 life_rating = 35
