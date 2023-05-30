@@ -1,3 +1,6 @@
+owner = CLS
+controller = CLS
+add_core = CLS
 trade_goods = fruit
 terrain = plains
 life_rating = 35

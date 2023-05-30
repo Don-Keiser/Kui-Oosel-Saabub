@@ -1,5 +1,5 @@
-owner = JAM
-controller = JAM
-add_core = JAM
+owner = AKD
+controller = AKD
+add_core = AKD
 trade_goods = fruit
 life_rating = 35

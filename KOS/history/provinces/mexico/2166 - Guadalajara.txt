@@ -1,5 +1,5 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = TRS
+controller = TRS
+add_core = TRS
 trade_goods = timber
 life_rating = 35

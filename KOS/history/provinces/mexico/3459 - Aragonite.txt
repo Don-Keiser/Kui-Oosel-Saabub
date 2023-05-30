@@ -1,3 +1,6 @@
+owner = STE
+controller = STE
+add_core = STE
 trade_goods = coal
 terrain = new_world_semidesert
 life_rating = 35

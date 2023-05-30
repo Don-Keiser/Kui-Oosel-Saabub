@@ -1058,6 +1058,13 @@ PKO		= "countries/Prakamoros.txt"
 OMG		= "countries/Omagwa.txt"
 KRK		= "countries/Karanki-Kito.txt"
 JIB		= "countries/Jibara.txt"
+ALY     = "countries/Alniyli.txt"
+AKD     = "countries/'Akhdar.txt"
+BYH     = "countries/Bayt al-Bahr.txt"
+RIK     = "countries/Rikahe.txt"
+KLF     = "countries/Kaleufu.txt"
+FRW     = "countries/Forowe.txt"
+CRD     = "countries/Carandai.txt"
 
 
 ##HoD Dominions

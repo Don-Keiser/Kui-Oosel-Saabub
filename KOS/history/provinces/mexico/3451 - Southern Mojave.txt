@@ -1,3 +1,6 @@
+owner = CLS
+controller = CLS
+add_core = CLS
 trade_goods = fruit
 terrain = new_world_semidesert
 life_rating = 31

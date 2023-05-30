@@ -1,6 +1,3 @@
-owner = CLS
-controller = CLS
-add_core = CLS
 terrain = hills
 trade_goods = fish
 life_rating = 32

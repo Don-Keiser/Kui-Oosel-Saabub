@@ -1,3 +1,6 @@
+owner = CLS
+controller = CLS
+add_core = CLS
 trade_goods = cattle
 life_rating = 35
 terrain = new_world_semidesert

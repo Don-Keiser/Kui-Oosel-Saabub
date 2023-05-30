@@ -1,5 +1,5 @@
-owner = MGF
-controller = MGF
-add_core = MGF
+owner = STE
+controller = STE
+add_core = STE
 trade_goods = coal
 life_rating = 35

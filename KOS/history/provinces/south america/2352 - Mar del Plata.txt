@@ -1,3 +1,6 @@
+owner = CRD
+controller = CRD
+add_core = CRD
 trade_goods = cattle
 terrain = farmlands
 life_rating = 35

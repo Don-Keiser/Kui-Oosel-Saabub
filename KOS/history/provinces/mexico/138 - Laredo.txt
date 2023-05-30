@@ -1,6 +1,6 @@
-owner = NRE
-controller = NRE
-add_core = NRE
+owner = MGF
+controller = MGF
+add_core = MGF
 terrain = new_world_semidesert
 trade_goods = cattle
 life_rating = 35

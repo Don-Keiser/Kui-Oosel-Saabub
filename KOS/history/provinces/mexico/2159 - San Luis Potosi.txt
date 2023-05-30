@@ -1,6 +1,5 @@
-owner = ZAC
-controller = ZAC
-add_core = ZAC
-add_core = MEX
+owner = RGR
+controller = RGR
+add_core = RGR
 trade_goods = grain
 life_rating = 35

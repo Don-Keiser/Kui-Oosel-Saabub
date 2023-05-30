@@ -1,3 +1,6 @@
+owner = THN
+controller = THN
+add_core = THN	
 trade_goods = precious_metal
 terrain = steppe
-life_rating = 15
+life_rating = 32

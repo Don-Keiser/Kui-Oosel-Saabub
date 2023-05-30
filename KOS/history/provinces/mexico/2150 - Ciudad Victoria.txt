@@ -1,6 +1,5 @@
-owner = ZAC
-controller = ZAC
-add_core = ZAC
-add_core = MEX
+owner = MGF
+controller = MGF
+add_core = MGF
 trade_goods = cattle
 life_rating = 35

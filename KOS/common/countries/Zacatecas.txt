@@ -1,6 +1,6 @@
 ## /common/countries/country.txt ##
 
-color = { 47 147 47 }
+color = { 110 110 45 }
 graphical_culture = SouthAmericanGC
 
 # Facción Radical / Radical Faction (No Organized Party)

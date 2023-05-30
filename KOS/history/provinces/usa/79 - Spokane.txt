@@ -1,3 +1,6 @@
+owner = CLS
+controller = CLS
+add_core = CLS
 trade_goods = timber
 terrain = forest
 life_rating = 35

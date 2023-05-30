@@ -1,6 +1,6 @@
-owner = GUA
-controller = GUA
-add_core = GUA
+owner = MEX
+controller = MEX
+add_core = MEX
 trade_goods = grain
 terrain = hills
-life_rating = 34
+life_rating = 35

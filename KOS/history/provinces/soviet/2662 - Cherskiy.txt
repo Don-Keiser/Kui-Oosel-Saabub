@@ -1,8 +1,6 @@
-owner = ZAC
-controller = ZAC
-add_core = ZAC
-add_core = MEX
+owner = MGF
+controller = MGF
+add_core = MGF
 trade_goods = grain
-life_rating = 30
+life_rating = 32
 terrain = new_world_semidesert
-colonial = 2

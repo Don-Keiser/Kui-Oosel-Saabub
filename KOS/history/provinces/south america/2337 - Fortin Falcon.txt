@@ -1,3 +1,6 @@
+owner = RIK
+controller = RIK
+add_core = RIK
 trade_goods = timber
 terrain = savanna
-life_rating = 15
+life_rating = 35

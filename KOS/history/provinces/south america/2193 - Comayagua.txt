@@ -1,5 +1,2 @@
-owner = GUA
-controller = GUA
-add_core = GUA
 trade_goods = fruit
 life_rating = 39

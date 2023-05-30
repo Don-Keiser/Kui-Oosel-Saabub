@@ -3,4 +3,4 @@ controller = MGF
 add_core = MGF
 terrain = new_world_semidesert
 trade_goods = cattle
-life_rating = 31
+life_rating = 32

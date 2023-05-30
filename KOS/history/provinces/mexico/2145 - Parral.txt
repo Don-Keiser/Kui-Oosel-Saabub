@@ -1,7 +1,6 @@
-owner = ZAC
-controller = ZAC
-add_core = ZAC
-add_core = MEX
+owner = OAX
+controller = OAX
+add_core = OAX
 trade_goods = cattle
 terrain = montane_forest
 life_rating = 35

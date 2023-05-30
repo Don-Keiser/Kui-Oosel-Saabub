@@ -1,6 +1,6 @@
-owner = JAM
-controller = JAM
-add_core = JAM
+owner = ALY
+controller = ALY
+add_core = ALY
 trade_goods = fruit
 life_rating = 35
 terrain = jungle_mountains

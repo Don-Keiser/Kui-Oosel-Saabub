@@ -1,2 +1,5 @@
+owner = CRD
+controller = CRD
+add_core = CRD
 trade_goods = wool
 life_rating = 35

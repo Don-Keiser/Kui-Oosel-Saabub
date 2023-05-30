@@ -1,5 +1,5 @@
-owner = GUA
-controller = GUA
-add_core = GUA
+owner = ELS
+controller = ELS
+add_core = ELS
 trade_goods = grain
 life_rating = 35

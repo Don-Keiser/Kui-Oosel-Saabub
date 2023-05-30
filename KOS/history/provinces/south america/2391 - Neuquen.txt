@@ -1,3 +1,6 @@
+owner = KLF
+controller = KLF
+add_core = KLF
 trade_goods = cattle
 terrain = dryhills
-life_rating = 15
+life_rating = 35
