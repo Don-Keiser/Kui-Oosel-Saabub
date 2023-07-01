@@ -63,7 +63,7 @@
     farmers = {
         culture = ligur
         religion = roman_catholic
-        size = 130000
+        size = 121000
     }
 
     farmers = {
@@ -107,6 +107,13 @@
         religion = roman_catholic
         size = 2000
     }
+	
+    farmers = {
+        culture = daufinenc
+        religion = roman_catholic
+        size = 9000
+    }
+
 
 }
 
@@ -157,41 +164,54 @@
     farmers = {
         culture = ligur
         religion = roman_catholic
-        size = 15000
+        size = 12200
     }
+	
+    farmers = {
+        culture = daufinenc
+        religion = roman_catholic
+        size = 2800
+    }
+
 
 }
 
 #Bardonecchia
 3434 = {
-    artisans = {
-        culture = ligur
-        religion = roman_catholic
-        size = 1200
-    }
-
-    farmers = {
-        culture = ligur
-        religion = roman_catholic
-        size = 5000
-    }
-
     aristocrats = {
-        culture = ligur
+        culture = daufinenc
         religion = roman_catholic
         size = 300
     }
 
     clergymen = {
-        culture = ligur
+        culture = daufinenc
         religion = roman_catholic
         size = 300
     }
 
     soldiers = {
-        culture = ligur
+        culture = daufinenc
         religion = roman_catholic
         size = 400
+    }
+	
+    artisans = {
+        culture = daufinenc
+        religion = roman_catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = daufinenc
+        religion = roman_catholic
+        size = 4000
+    }
+	
+    farmers = {
+        culture = ligur
+        religion = roman_catholic
+        size = 1000
     }
 
     farmers = {

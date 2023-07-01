@@ -110,7 +110,7 @@
     }
 	
 	labourers = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 3000
     }
@@ -234,7 +234,7 @@
     }
 	
 	farmers = {
-        culture = neustrien
+        culture = picard
         religion = roman_catholic
         size = 28525
     }
@@ -278,7 +278,7 @@
     }
 	
 	farmers = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 4000
     }
@@ -379,33 +379,45 @@
 #Hasselt (272000/68000 POPS)
 391 = {
     aristocrats = {
-        culture = gruttfrysk
+        culture = flaamsk
         religion = roman_catholic
         size = 650
     }
 
     clergymen = {
-        culture = gruttfrysk
+        culture = flaamsk
         religion = roman_catholic
         size = 475
     }
 
     artisans = {
-        culture = gruttfrysk
+        culture = flaamsk
         religion = roman_catholic
         size = 3700
     }
 
     soldiers = {
-        culture = gruttfrysk
+        culture = flaamsk
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
+        culture = flaamsk
+        religion = roman_catholic
+        size = 40000
+    }
+	
+    artisans = {
         culture = gruttfrysk
         religion = roman_catholic
-        size = 62175
+        size = 2000
+    }
+	
+    farmers = {
+        culture = gruttfrysk
+        religion = roman_catholic
+        size = 20000
     }
 
 }
@@ -451,111 +463,123 @@
 #Namur (388000/97000 POPS)
 392 = {
     aristocrats = {
-        culture = ostrisch
+        culture = flaamsk
         religion = roman_catholic
         size = 850
     }
 
     officers = {
-        culture = ostrisch
+        culture = flaamsk
         religion = roman_catholic
         size = 350
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = flaamsk
         religion = roman_catholic
         size = 500
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = flaamsk
         religion = roman_catholic
         size = 550
     }
 
     capitalists = {
-        culture = ostrisch
+        culture = flaamsk
         religion = roman_catholic
         size = 150
     }
 
     clerks = {
-        culture = ostrisch
+        culture = flaamsk
         religion = roman_catholic
         size = 2000
     }
 
     craftsmen = {
-        culture = ostrisch
+        culture = flaamsk
         religion = roman_catholic
         size = 14000
     }
 
     artisans = {
-        culture = ostrisch
+        culture = flaamsk
         religion = roman_catholic
-        size = 1300
+        size = 5500
     }
 
     soldiers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 4000
-    }
-
-    labourers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 54200
-    }
-
-    clergymen = {
-        culture = flaamsk
-        religion = roman_catholic
-        size = 225
-    }
-
-    artisans = {
         culture = flaamsk
         religion = roman_catholic
         size = 3000
     }
 
-    soldiers = {
-        culture = flaamsk
-        religion = roman_catholic
-        size = 125
-    }
-
     labourers = {
         culture = flaamsk
         religion = roman_catholic
+        size = 30000
+    }
+
+    clergymen = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 225
+    }
+
+    artisans = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 1100
+    }
+
+    labourers = {
+        culture = ostrisch
+        religion = roman_catholic
         size = 10000
+    }
+	
+    artisans = {
+        culture = picard
+        religion = roman_catholic
+        size = 3000
+    }
+
+    labourers = {
+        culture = picard
+        religion = roman_catholic
+        size = 20000
     }
 }
 #Tournai (292000/73000 POPS)
 393 = {
     clergymen = {
-        culture = neustrien
+        culture = picard
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = neustrien
+        culture = picard
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = neustrien
+        culture = picard
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = neustrien
+        culture = picard
         religion = roman_catholic
         size = 14800
     }
@@ -597,7 +621,7 @@
     }
 
     craftsmen = {
-        culture = neustrien
+        culture = picard
         religion = roman_catholic
         size = 3000
     }
@@ -631,53 +655,95 @@
     farmers = {
         culture = flaamsk
         religion = roman_catholic
-        size = 20275
+        size = 33275
     }
 
     aristocrats = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 900
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 575
     }
 
     artisans = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 3800
     }
 
     craftsmen = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 16000
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
-        size = 50000
+        size = 37000
     }
 	
 	farmers = {
-        culture = neustrien
+        culture = ostrisch
         religion = roman_catholic
         size = 5500
     }
 }
 #Liege (212000/53000 POPS)
 395 = {
+    aristocrats = {
+        culture = flaamsk
+        religion = roman_catholic
+        size = 750
+    }
+
+    clergymen = {
+        culture = flaamsk
+        religion = roman_catholic
+        size = 500
+    }
+
+    clerks = {
+        culture = flaamsk
+        religion = roman_catholic
+        size = 1100
+    }
+
+    craftsmen = {
+        culture = flaamsk
+        religion = roman_catholic
+        size = 5000
+    }
+
+    artisans = {
+        culture = flaamsk
+        religion = roman_catholic
+        size = 5600
+    }
+
+    soldiers = {
+        culture = flaamsk
+        religion = roman_catholic
+        size = 3100
+    }
+
+    farmers = {
+        culture = flaamsk
+        religion = roman_catholic
+        size = 20000
+    }
+	
     aristocrats = {
         culture = ostrisch
         religion = roman_catholic
@@ -689,41 +755,23 @@
         religion = roman_catholic
         size = 500
     }
-
-    clerks = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 1100
-    }
-
-    craftsmen = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 5000
-    }
-
+	
     artisans = {
         culture = ostrisch
         religion = roman_catholic
-        size = 1200
+        size = 2800
     }
 
     soldiers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 3100
+        size = 600
     }
 
     farmers = {
-        culture = ostrisch
+        culture = ostrisch	
         religion = roman_catholic
-        size = 28800
-    }
-
-    farmers = {
-        culture = neustrien	
-        religion = roman_catholic
-        size = 2250
+        size = 16000
     }
 }
 #Spa - Eupen-Malmedy (144000/36000 POPS)
@@ -811,13 +859,13 @@
     }
 
     artisans = {
-        culture = neustrien
+        culture = picard
         religion = roman_catholic
         size = 600
     }
 
     farmers = {
-        culture = neustrien
+        culture = picard
         religion = roman_catholic
         size = 1500
     }
@@ -827,7 +875,7 @@
     farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 22800
+        size = 18800
     }
 
     artisans = {
@@ -837,46 +885,46 @@
     }
 
     farmers = {
-        culture = neustrien
+        culture = flaamsk
         religion = roman_catholic
-        size = 600
+        size = 4600
     }
 }
 
 #Bouillon
 3639 = {
     aristocrats = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 180
     }
 
     artisans = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 2850
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 800
     }
 
     farmers = {
-        culture = ostrisch
+        culture = picard
         religion = roman_catholic
         size = 14500
     }
 
     farmers = {
-        culture = neustrien
+        culture = ostrisch
         religion = roman_catholic
         size = 5200
     }

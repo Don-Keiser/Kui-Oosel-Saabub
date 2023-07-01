@@ -1225,103 +1225,65 @@
     aristocrats = {
         culture = tarragones
         religion = roman_catholic
-        size = 850
-    }
-
-    clergymen = {
-        culture = tarragones
-        religion = roman_catholic
-        size = 450
-    }
-
-    artisans = {
-        culture = tarragones
-        religion = roman_catholic
-        size = 3800
-    }
-
-    soldiers = {
-        culture = tarragones
-        religion = roman_catholic
         size = 1300
     }
 
-    farmers = {
+    clergymen = {
         culture = tarragones
         religion = roman_catholic
-        size = 25000
-    }
-
-    aristocrats = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 450
-    }
-
-    clergymen = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 200
+        size = 650
     }
 
     artisans = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
-        size = 4800
+        size = 8600
     }
 
     soldiers = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
-        size = 500
+        size = 1800
     }
 
     farmers = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
-        size = 20000
+        size = 45000
     }
-
 }
 
 #Gerona
 499 = {
     aristocrats = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
         size = 1050
     }
 
     clergymen = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
         size = 850
     }
 
     artisans = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
         size = 4550
     }
 
     soldiers = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
         size = 850
     }
 
     farmers = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 48300
-    }
-
-    farmers = {
         culture = tarragones
         religion = roman_catholic
-        size = 3000
+        size = 51300
     }
-
 }
 
 #Vielha
@@ -1369,63 +1331,32 @@
     aristocrats = {
         culture = tarragones
         religion = roman_catholic
-        size = 550
+        size = 750
     }
 
     clergymen = {
         culture = tarragones
         religion = roman_catholic
-        size = 250
+        size = 400
     }
 
     artisans = {
         culture = tarragones
         religion = roman_catholic
-        size = 2750
+        size = 4000
     }
 
     soldiers = {
         culture = tarragones
         religion = roman_catholic
-        size = 275
+        size = 500
     }
 
     farmers = {
         culture = tarragones
         religion = roman_catholic
-        size = 33000
+        size = 36000
     }
-
-    aristocrats = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 200
-    }
-
-    clergymen = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 125
-    }
-
-    artisans = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 1250
-    }
-
-    soldiers = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 2500
-    }
-
 }
 
 #Tarragona
@@ -1461,7 +1392,7 @@
     }
 
     artisans = {
-        culture = aquitan
+        culture = tarragones
         religion = roman_catholic
         size = 2800
     }
@@ -2563,61 +2494,61 @@
     aristocrats = {
         culture = tarragones
         religion = roman_catholic
-        size = 500
+        size = 700
     }
 
     clergymen = {
         culture = tarragones
-        religion = roman_catholic
-        size = 500
-    }
-
-    artisans = {
-        culture = tarragones
-        religion = roman_catholic
-        size = 3200
-    }
-
-    soldiers = {
-        culture = tarragones
-        religion = roman_catholic
-        size = 1200
-    }
-
-    farmers = {
-        culture = tarragones
-        religion = roman_catholic
-        size = 12000
-    }
-
-    aristocrats = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 300
-    }
-
-    clergymen = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 300
-    }
-
-    artisans = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 2400
-    }
-
-    soldiers = {
-        culture = aquitan
         religion = roman_catholic
         size = 650
     }
 
-    farmers = {
-        culture = aquitan
+    artisans = {
+        culture = tarragones
         religion = roman_catholic
-        size = 8000
+        size = 4200
+    }
+
+    soldiers = {
+        culture = tarragones
+        religion = roman_catholic
+        size = 1700
+    }
+
+    farmers = {
+        culture = tarragones
+        religion = roman_catholic
+        size = 15500
+    }
+
+    aristocrats = {
+        culture = tolosan
+        religion = roman_catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = tolosan
+        religion = roman_catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = tolosan
+        religion = roman_catholic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = tolosan
+        religion = roman_catholic
+        size = 150
+    }
+
+    farmers = {
+        culture = tolosan
+        religion = roman_catholic
+        size = 4500
     }
 
 }

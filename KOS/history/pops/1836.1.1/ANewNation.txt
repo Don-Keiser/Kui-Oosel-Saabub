@@ -59,39 +59,57 @@
 #Andorra
 3252 = {
     aristocrats = {
-        culture = aquitan
+        culture = tolosan
         religion = roman_catholic
         size = 700
     }
 
     bureaucrats = {
-        culture = aquitan
+        culture = tolosan
         religion = roman_catholic
         size = 150
     }
-
-    artisans = {
-        culture = aquitan
+	
+    clergymen = {
+        culture = tolosan
         religion = roman_catholic
-        size = 5800
+        size = 400
     }
 
-    farmers = {
-        culture = aquitan
+    artisans = {
+        culture = tolosan
         religion = roman_catholic
-        size = 48000
+        size = 4800
     }
 
     soldiers = {
-        culture = aquitan
+        culture = tolosan
         religion = roman_catholic
-        size = 1500
+        size = 1300
+    }
+	
+    farmers = {
+        culture = tolosan
+        religion = roman_catholic
+        size = 40000
+    }
+	
+    artisans = {
+        culture = tarragones
+        religion = roman_catholic
+        size = 1000
     }
 
-    clergymen = {
-        culture = aquitan
+    soldiers = {
+        culture = tarragones
         religion = roman_catholic
-        size = 400
+        size = 200
+    }
+	
+    farmers = {
+        culture = tarragones
+        religion = roman_catholic
+        size = 8000
     }
 
 }

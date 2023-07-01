@@ -3017,19 +3017,25 @@
     farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 85600
+        size = 84000
+    }
+	
+    aristocrats = {
+        culture = neustrien
+        religion = roman_catholic
+        size = 400
     }
 
     clergymen = {
         culture = neustrien
         religion = roman_catholic
-        size = 10
+        size = 210
     }
 
     farmers = {
         culture = neustrien
         religion = roman_catholic
-        size = 1600
+        size = 2600
     }
 	
 	artisans = {
