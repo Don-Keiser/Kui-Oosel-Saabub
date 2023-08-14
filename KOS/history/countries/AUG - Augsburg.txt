@@ -1,5 +1,6 @@
 capital = 592
-primary_culture = south_german
+primary_culture = boarisch
+culture = alamannisch
 religion = roman_catholic
 government = theocracy
 plurality = 0

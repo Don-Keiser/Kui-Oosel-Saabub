@@ -1,4 +1,4 @@
-capital = 558
+capital = 534
 primary_culture = saksysk
 religion = african_catholic
 government = absolute_monarchy

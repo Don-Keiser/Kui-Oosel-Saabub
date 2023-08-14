@@ -62,11 +62,11 @@ colonial_policy = no_colonies
 
 set_country_flag = roman_catholic_country
 
-ruling_party = FRA_liberal
+ruling_party = FRA_conservative
 upper_house = {
     fascist = 0
-    liberal = 30
-    conservative = 55
+    liberal = 20
+    conservative = 65
     reactionary = 15
     radical = 0
     socialist = 0

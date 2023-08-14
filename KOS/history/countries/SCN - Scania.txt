@@ -1,5 +1,5 @@
 capital = 334
-primary_culture = swedish
+primary_culture = skansk
 religion = vulgar
 government = absolute_monarchy
 plurality = 10

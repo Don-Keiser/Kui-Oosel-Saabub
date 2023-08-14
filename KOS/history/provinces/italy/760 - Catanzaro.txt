@@ -1,5 +1,6 @@
-owner = KLV
-controller = KLV
+owner = BYZ
+controller = BYZ
+add_core = BYZ
 add_core = KLV
 add_core = ITA
 trade_goods = fish

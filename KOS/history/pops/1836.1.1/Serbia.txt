@@ -3,49 +3,49 @@
 #Mitrovica (108000/27000 POPS) #part of Serbia today
 791 = {
     clergymen = {
-        culture = tiszai
+        culture = hungarian
         religion = roman_catholic
         size = 150
     }
 
     artisans = {
-        culture = tiszai
+        culture = hungarian
         religion = roman_catholic
         size = 750
     }
 
     soldiers = {
-        culture = tiszai
+        culture = hungarian
         religion = roman_catholic
         size = 250
     }
 
     farmers = {
-        culture = tiszai
+        culture = hungarian
         religion = roman_catholic
         size = 7000
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 1200
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 800
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 13000
     }
@@ -86,256 +86,224 @@
         size = 5225
     }
 }
-#Pancevo (268000/67000 POPS) #part of Serbia today
+#Melymocsarak
 792 = {
-    clergymen = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 300
-    }
-
-    farmers = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 9325
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 10000
-    }
-
-    farmers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 3000
-    }
-	
-	farmers = {
-        culture = szekely
-        religion = roman_catholic
-        size = 1000
-    }
-}
-3331 = {
     aristocrats = {
         culture = hungarian
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 600
     }
 
     clergymen = {
         culture = hungarian
-        religion = roman_catholic
-        size = 200
+        religion = thessalonian_orthodox
+        size = 400
     }
 
     artisans = {
         culture = hungarian
-        religion = roman_catholic
-        size = 1000
+        religion = thessalonian_orthodox
+        size = 4600
     }
 
     soldiers = {
         culture = hungarian
-        religion = roman_catholic
-        size = 200
+        religion = thessalonian_orthodox
+        size = 3000
     }
 
     farmers = {
         culture = hungarian
-        religion = roman_catholic
-        size = 12000
+        religion = thessalonian_orthodox
+        size = 37000
     }
 
     farmers = {
+        culture = aranydeli
+        religion = thessalonian_orthodox
+        size = 6000
+    }
+	
+	farmers = {
         culture = szekely
-        religion = roman_catholic
-        size = 5000
-    }
-
-    aristocrats = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 1100
-    }
-
-    clergymen = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 200
-    }
-
-    artisans = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 19600
+        religion = thessalonian_orthodox
+        size = 3000
     }
 }
-#Novi Sad (384000/96000 POPS) #part of Serbia today
-2538 = {
-    officers = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 75
-    }
 
-    clergymen = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 275
-    }
-
-    artisans = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 1250
-    }
-
-    soldiers = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 300
-    }
-
-    farmers = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 16000
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 4000
-    }
-
-    farmers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 4000
-    }
-
-    farmers = {
-        culture = szekely
-        religion = roman_catholic
-        size = 1000
-    }
-}
-3330 = {
+#Kikinda
+3331 = {
     aristocrats = {
         culture = hungarian
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 1400
     }
 
     clergymen = {
         culture = hungarian
-        religion = roman_catholic
-        size = 300
+        religion = thessalonian_orthodox
+        size = 400
     }
 
     artisans = {
         culture = hungarian
-        religion = roman_catholic
-        size = 1500
+        religion = thessalonian_orthodox
+        size = 3200
     }
 
     soldiers = {
         culture = hungarian
-        religion = roman_catholic
-        size = 300
+        religion = thessalonian_orthodox
+        size = 600
     }
 
     farmers = {
         culture = hungarian
-        religion = roman_catholic
-        size = 29000
+        religion = thessalonian_orthodox
+        size = 28000
+    }
+
+    farmers = {
+        culture = szekely
+        religion = thessalonian_orthodox
+        size = 5000
     }
 
     farmers = {
         culture = jassic
-        religion = african_catholic
-        size = 1500
+        religion = thessalonian_orthodox
+        size = 4000
+    }
+}
+#Novi Sad (384000/96000 POPS) #part of Serbia today
+2538 = {
+    aristocrats = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 900
+    }
+
+    officers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 120
     }
 
     clergymen = {
-        culture = travesz
-        religion = roman_catholic
-        size = 100
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 500
     }
 
     artisans = {
-        culture = travesz
-        religion = roman_catholic
-        size = 250
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 5200
     }
 
     soldiers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 100
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 2000
     }
 
     farmers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 11000
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 60000
+    }
+
+    farmers = {
+        culture = aranydeli
+        religion = thessalonian_orthodox
+        size = 14000
+    }
+
+    farmers = {
+        culture = szekely
+        religion = thessalonian_orthodox
+        size = 4000
     }
 	
-	aristocrats = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 1100
+    farmers = {
+        culture = jassic
+        religion = thessalonian_orthodox
+        size = 3200
+    }
+}
+
+#Szabatka
+3330 = {
+    aristocrats = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 1400
     }
 
     clergymen = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 330
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 600
     }
 
     artisans = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 1600
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 5400
     }
 
     soldiers = {
-        culture = tiszai
-        religion = roman_catholic
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 52000
+    }
+	
+    artisans = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 1200
+    }
+
+    farmers = {
+        culture = jassic
+        religion = thessalonian_orthodox
+        size = 8000
+    }
+	
+	aristocrats = {
+        culture = aranydeli
+        religion = thessalonian_orthodox
+        size = 600
+    }
+
+    clergymen = {
+        culture = aranydeli
+        religion = thessalonian_orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = aranydeli
+        religion = thessalonian_orthodox
+        size = 2200
+    }
+
+    soldiers = {
+        culture = aranydeli
+        religion = thessalonian_orthodox
         size = 400
     }
 
     farmers = {
-        culture = tiszai
-        religion = roman_catholic
-        size = 30000
+        culture = aranydeli
+        religion = thessalonian_orthodox
+        size = 11000
     }
 }
 #Serbia Region (180310) - 721.240 people
@@ -385,7 +353,7 @@
     }
 
     farmers = {
-        culture = tiszai
+        culture = hungarian
         religion = roman_catholic
         size = 9000
     }
@@ -634,7 +602,7 @@
     }
 	
 	farmers = {
-        culture = tiszai
+        culture = hungarian
         religion = roman_catholic
         size = 5500
     }

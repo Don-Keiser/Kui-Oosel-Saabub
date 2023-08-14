@@ -1,7 +1,5 @@
 owner = WUR
 controller = WUR
 add_core = WUR
-add_core = NEB
 trade_goods = fruit
 life_rating = 35
-1861.1.1 = { railroad = 3 }

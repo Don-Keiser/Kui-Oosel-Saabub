@@ -591,35 +591,41 @@
         religion = roman_catholic
         size = 3000
     }
+	
+    soldiers = {
+        culture = lombard
+        religion = roman_catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lombard
+        religion = roman_catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = lombard
+        religion = roman_catholic
+        size = 3000
+    }
 
     farmers = {
         culture = lombard
         religion = roman_catholic
-        size = 320000
+        size = 310000
     }
 
     farmers = {
         culture = ligur
         religion = roman_catholic
-        size = 15000
+        size = 17000
     }
-
-    soldiers = {
-        culture = lombard
+	
+    farmers = {
+        culture = romansh
         religion = roman_catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = lombard
-        religion = roman_catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = lombard
-        religion = roman_catholic
-        size = 3000
+        size = 8000
     }
 
 }
@@ -643,6 +649,30 @@
         religion = roman_catholic
         size = 10000
     }
+	
+    artisans = {
+        culture = lombard
+        religion = roman_catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = lombard
+        religion = roman_catholic
+        size = 10000
+    }
+
+    soldiers = {
+        culture = lombard
+        religion = roman_catholic
+        size = 3000
+    }
+	
+    soldiers = {
+        culture = lombard
+        religion = roman_catholic
+        size = 3000
+    }
 
     soldiers = {
         culture = lombard
@@ -653,37 +683,13 @@
     farmers = {
         culture = lombard
         religion = roman_catholic
-        size = 220000
+        size = 212000
     }
 
     farmers = {
         culture = romansh
         religion = roman_catholic
-        size = 3800
-    }
-
-    artisans = {
-        culture = lombard
-        religion = roman_catholic
-        size = 10000
-    }
-
-    soldiers = {
-        culture = lombard
-        religion = roman_catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = lombard
-        religion = roman_catholic
-        size = 3000
-    }
-
-    artisans = {
-        culture = lombard
-        religion = roman_catholic
-        size = 10000
+        size = 11800
     }
 
 }
@@ -947,13 +953,13 @@
     farmers = {
         culture = histri
         religion = roman_catholic
-        size = 44000
+        size = 34000
     }
 
     farmers = {
         culture = lombard
         religion = roman_catholic
-        size = 10000
+        size = 20000
     }
 
 }
@@ -961,61 +967,61 @@
 #Trent
 734 = {
     aristocrats = {
-        culture = lombard
+        culture = romansh
         religion = roman_catholic
         size = 60
     }
 
     clergymen = {
-        culture = lombard
+        culture = romansh
         religion = roman_catholic
         size = 600
     }
 
     bureaucrats = {
-        culture = lombard
+        culture = romansh
         religion = roman_catholic
         size = 800
     }
 
     artisans = {
-        culture = lombard
+        culture = romansh
         religion = roman_catholic
         size = 2200
     }
 
     soldiers = {
-        culture = lombard
+        culture = romansh
         religion = roman_catholic
         size = 800
     }
 
     farmers = {
-        culture = lombard
+        culture = romansh
         religion = roman_catholic
         size = 54410
     }
 
     clergymen = {
-        culture = romansh
+        culture = lombard
         religion = roman_catholic
         size = 175
     }
 
     artisans = {
-        culture = romansh
+        culture = lombard
         religion = roman_catholic
         size = 800
     }
 
     soldiers = {
-        culture = romansh
+        culture = lombard
         religion = roman_catholic
         size = 150
     }
 
     farmers = {
-        culture = romansh
+        culture = lombard
         religion = roman_catholic
         size = 10075
     }
@@ -2235,13 +2241,13 @@
     farmers = {
         culture = romagnol
         religion = roman_catholic
-        size = 42000
+        size = 72000
     }
 
     farmers = {
         culture = griko
         religion = thessalonian_orthodox
-        size = 36000
+        size = 6000
     }
 
 }
@@ -2335,39 +2341,39 @@
 #Foggia
 757 = {
     aristocrats = {
-        culture = griko
+        culture = romagnol
         religion = thessalonian_orthodox
         size = 3750
     }
 
     clergymen = {
-        culture = griko
+        culture = romagnol
         religion = thessalonian_orthodox
         size = 1450
     }
 
     artisans = {
-        culture = griko
+        culture = romagnol
         religion = thessalonian_orthodox
         size = 7000
     }
 
     soldiers = {
-        culture = griko
+        culture = romagnol
         religion = thessalonian_orthodox
         size = 2000
     }
 
     farmers = {
-        culture = griko
+        culture = romagnol
         religion = thessalonian_orthodox
-        size = 90000
+        size = 100000
     }
 
     farmers = {
-        culture = romagnol
+        culture = griko
         religion = roman_catholic
-        size = 38000
+        size = 28000
     }
 
 }
@@ -2979,13 +2985,13 @@
     farmers = {
         culture = romagnol
         religion = roman_catholic
-        size = 78000
+        size = 58000
     }
 
     farmers = {
         culture = griko
         religion = thessalonian_orthodox
-        size = 35000
+        size = 55000
     }
 
 }

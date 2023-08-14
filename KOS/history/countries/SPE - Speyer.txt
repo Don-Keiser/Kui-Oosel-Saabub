@@ -1,5 +1,5 @@
 capital = 2560
-primary_culture = ostrisch
+primary_culture = alamannisch
 religion = roman_catholic
 government = democracy
 plurality = 25.0

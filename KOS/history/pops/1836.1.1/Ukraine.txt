@@ -108,144 +108,103 @@
 #under the rule of Austria in 1836
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
+    aristocrats = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 1200
+    }
+
     clergymen = {
         culture = hungarian
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 850
     }
 
     artisans = {
         culture = hungarian
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 4600
     }
 
     soldiers = {
         culture = hungarian
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 900
     }
-
+	
+	farmers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 48000
+    }
+	
     farmers = {
         culture = vizselyi
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 30000
     }
 	
 	farmers = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 41000
-    }
-	
-	farmers = {
         culture = szekely
-        religion = roman_catholic
-        size = 17000
+        religion = thessalonian_orthodox
+        size = 10000
     }
 }
 3332 = {
-    clergymen = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 150
-    }
-
-    artisans = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 850
-    }
-
-    soldiers = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 175
-    }
-
-    farmers = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 15825
-    }
-
     aristocrats = {
         culture = hungarian
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 4250
     }
 
     clergymen = {
         culture = hungarian
-        religion = roman_catholic
-        size = 825
+        religion = thessalonian_orthodox
+        size = 1200
     }
 
     artisans = {
         culture = hungarian
-        religion = roman_catholic
-        size = 4400
+        religion = thessalonian_orthodox
+        size = 6200
     }
 
     soldiers = {
         culture = hungarian
-        religion = roman_catholic
-        size = 850
+        religion = thessalonian_orthodox
+        size = 2000
     }
 
     farmers = {
         culture = hungarian
-        religion = roman_catholic
-        size = 68000
+        religion = thessalonian_orthodox
+        size = 90000
     }
 
     clergymen = {
         culture = szekely
-        religion = roman_catholic
-        size = 100
+        religion = thessalonian_orthodox
+        size = 250
     }
 
     artisans = {
         culture = szekely
-        religion = roman_catholic
-        size = 100
+        religion = thessalonian_orthodox
+        size = 2800
     }
 
     soldiers = {
         culture = szekely
-        religion = roman_catholic
-        size = 100
+        religion = thessalonian_orthodox
+        size = 600
     }
 
     farmers = {
         culture = szekely
-        religion = roman_catholic
-        size = 6875
+        religion = thessalonian_orthodox
+        size = 20000
     }
 
-    clergymen = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 125
-    }
-
-    artisans = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 750
-    }
-
-    soldiers = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 13975
-    }
 }
 #Galicia Region (2576000) #see Poland.txt for balance of region
 #under the rule of Austria in 1836

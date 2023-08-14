@@ -3057,62 +3057,6 @@
     }
 }
 
-#Wadowice
-3285 = {
-    aristocrats = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 1000
-    }
-
-    clergymen = {
-        culture = slovak
-        religion = roman_catholic
-        size = 600
-    }
-
-    artisans = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 2800
-    }
-
-    soldiers = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 1500
-    }
-
-    farmers = {
-        culture = vizselyi
-        religion = roman_catholic
-        size = 58000
-    }
-
-    clergymen = {
-        culture = black_serb
-        religion = roman_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = black_serb
-        religion = roman_catholic
-        size = 1100
-    }
-
-    soldiers = {
-        culture = black_serb
-        religion = roman_catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = black_serb
-        religion = roman_catholic
-        size = 8000
-    }
-}
 3318 = {
     clergymen = {
         culture = hungarian

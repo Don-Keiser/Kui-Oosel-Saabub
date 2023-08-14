@@ -1,5 +1,6 @@
 capital = 570
 primary_culture = ostrisch
+culture = alamannisch
 culture = south_german
 religion = african_catholic
 government = theocracy

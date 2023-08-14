@@ -1,5 +1,6 @@
-capital = 726
+capital = 752
 primary_culture = romagnol
+culture = lombard
 religion = roman_catholic
 government = absolute_monarchy
 plurality = 0

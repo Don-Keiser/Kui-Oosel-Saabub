@@ -3,7 +3,7 @@ primary_culture = flaamsk
 religion = roman_catholic
 government = imperial_duchy
 plurality = 0.05
-nationalvalue = nv_liberty
+nationalvalue = nv_order
 literacy = 0.28
 civilized = yes
 

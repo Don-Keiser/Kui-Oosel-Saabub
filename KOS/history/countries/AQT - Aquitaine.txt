@@ -1,5 +1,7 @@
 capital = 458
 primary_culture = aquitan
+culture = auvergnat
+culture = tolosan
 religion = roman_catholic
 government = imperial_duchy
 plurality = 0.1

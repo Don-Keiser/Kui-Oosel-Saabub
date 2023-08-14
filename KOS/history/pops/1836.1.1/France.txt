@@ -745,51 +745,57 @@
 #Strasbourg
 409 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1000
     }
 
     officers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 200
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 600
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1200
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 10000
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 8000
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 3800
     }
 
     farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 70000
+    }
+	
+    farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 105000
+        size = 35000
     }
 
 }
@@ -797,33 +803,45 @@
 #Colmar
 410 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 900
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1000
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 5500
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1500
     }
 
     farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 50000
+    }
+	
+    farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 86520
+        size = 20000
+    }
+	
+    farmers = {
+        culture = burgundisch
+        religion = roman_catholic
+        size = 17000
     }
 
 }
@@ -1028,70 +1046,6 @@
         culture = neustrien
         religion = roman_catholic
         size = 2500
-    }
-
-}
-
-#Sarre-Union
-3703 = {
-    aristocrats = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 15
-    }
-
-    clergymen = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 240
-    }
-
-    soldiers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 45
-    }
-
-    farmers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 3260
-    }
-
-    aristocrats = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 5
-    }
-
-    clergymen = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 8
-    }
-
-    artisans = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 112
-    }
-
-    soldiers = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 10
-    }
-
-    farmers = {
-        culture = neustrien
-        religion = roman_catholic
-        size = 250
     }
 
 }
@@ -3135,7 +3089,7 @@
     farmers = {
         culture = neustrien
         religion = roman_catholic
-        size = 36000
+        size = 30000
     }
 
     aristocrats = {
@@ -3165,7 +3119,7 @@
     farmers = {
         culture = rochelaes
         religion = roman_catholic
-        size = 28800
+        size = 34800
     }
 
     clergymen = {
@@ -6024,6 +5978,58 @@
 
 }
 
+#Hagenau
+3665 = {
+    aristocrats = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 1750
+    }
+
+    bureaucrats = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 105
+    }
+
+    officers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 4500
+    }
+
+    soldiers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 16000
+    }
+	
+    farmers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 8000
+    }
+
+}
+
 #Saintonge
 3750 = {
     aristocrats = {
@@ -6516,46 +6522,6 @@
         culture = tolosan
         religion = roman_catholic
         size = 2000
-    }
-
-}
-
-#Bergerac
-3760 = {
-    aristocrats = {
-        culture = tolosan
-        religion = roman_catholic
-        size = 450
-    }
-
-    clergymen = {
-        culture = tolosan
-        religion = roman_catholic
-        size = 600
-    }
-
-    artisans = {
-        culture = tolosan
-        religion = roman_catholic
-        size = 1800
-    }
-
-    soldiers = {
-        culture = tolosan
-        religion = roman_catholic
-        size = 700
-    }
-
-    farmers = {
-        culture = tolosan
-        religion = roman_catholic
-        size = 35000
-    }
-
-    farmers = {
-        culture = aquitan
-        religion = roman_catholic
-        size = 4800
     }
 
 }

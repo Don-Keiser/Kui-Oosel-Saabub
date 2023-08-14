@@ -1,5 +1,5 @@
 capital = 395
-primary_culture = neustrien
+primary_culture = flaamsk
 religion = roman_catholic
 government = theocracy
 plurality = 0.05

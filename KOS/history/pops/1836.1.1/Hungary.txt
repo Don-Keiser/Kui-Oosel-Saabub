@@ -43,25 +43,25 @@
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 60
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 500
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 200
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 1500
     }
@@ -131,25 +131,25 @@
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 50
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 350
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 75
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 25525
     }
@@ -162,60 +162,36 @@
 
 }
 
-#Szombathely
+#Heves
 3286 = {
     aristocrats = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 350
+        size = 800
     }
 
     clergymen = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 250
+        size = 400
     }
 
     artisans = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 1200
+        size = 3800
     }
 
     soldiers = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 1000
+        size = 2000
     }
 
     farmers = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 21000
-    }
-
-    clergymen = {
-        culture = travesz
-        religion = thessalonian_orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = travesz
-        religion = thessalonian_orthodox
-        size = 450
-    }
-
-    soldiers = {
-        culture = travesz
-        religion = thessalonian_orthodox
-        size = 125
-    }
-
-    farmers = {
-        culture = travesz
-        religion = thessalonian_orthodox
-        size = 1800
+        size = 42000
     }
 
 }
@@ -265,73 +241,73 @@
     }
 
     aristocrats = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 500
     }
 
     bureaucrats = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 75
     }
 
     officers = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 100
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 175
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 1100
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 250
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 13545
     }
 
     officers = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 100
     }
 
     clergymen = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 400
     }
 
     soldiers = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 100
     }
 
     farmers = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 7435
     }
@@ -367,31 +343,31 @@
     bureaucrats = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 600
+        size = 1000
     }
 
     officers = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 325
+        size = 600
     }
 
     clergymen = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 1300
+        size = 1600
     }
 
     clerks = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 12000
+        size = 1200
     }
 
     craftsmen = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 116000
+        size = 16000
     }
 
     artisans = {
@@ -400,6 +376,12 @@
         size = 10000
     }
 
+    artisans = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 10000
+    }
+	
     artisans = {
         culture = hungarian
         religion = thessalonian_orthodox
@@ -415,13 +397,19 @@
     soldiers = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 5600
+        size = 3000
+    }
+	
+    soldiers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 3000
     }
 
     farmers = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 40050
+        size = 200000
     }
 
     aristocrats = {
@@ -438,80 +426,50 @@
 
     artisans = {
         culture = jassic
+        religion = thessalonian_orthodox
+        size = 6000
+    }
+
+    soldiers = {
+        culture = jassic
+        religion = thessalonian_orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = jassic
+        religion = thessalonian_orthodox
+        size = 8000
+    }
+
+    bureaucrats = {
+        culture = szekely
+        religion = thessalonian_orthodox
+        size = 100
+    }
+	
+    artisans = {
+        culture = szekely
+        religion = thessalonian_orthodox
+        size = 6000
+    }
+
+    farmers = {
+        culture = szekely
+        religion = thessalonian_orthodox
+        size = 10000
+    }
+
+    artisans = {
+        culture = makedones
         religion = thessalonian_orthodox
         size = 5000
     }
-
-    soldiers = {
-        culture = jassic
-        religion = thessalonian_orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = jassic
-        religion = thessalonian_orthodox
-        size = 875
-    }
-
-    aristocrats = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 800
-    }
-
-    bureaucrats = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 200
-    }
-
-    officers = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 175
-    }
-
-    clergymen = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 250
-    }
-
+	
     artisans = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 6500
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 275
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 15500
-    }
-
-    bureaucrats = {
-        culture = szekely
-        religion = thessalonian_orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = szekely
-        religion = thessalonian_orthodox
-        size = 8000
-    }
-
-    farmers = {
-        culture = tiszai
-        religion = thessalonian_orthodox
-        size = 8000
+        culture = rochelaes
+        religion = roman_catholic
+        size = 4500
     }
 
 }
@@ -527,73 +485,31 @@
     clergymen = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 675
+        size = 1100
     }
 
     artisans = {
         culture = hungarian
         religion = thessalonian_orthodox
-        size = 3100
+        size = 3800
     }
 
     soldiers = {
         culture = hungarian
-        religion = thessalonian_orthodox
-        size = 4200
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 62000
-    }
-
-    clergymen = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 100
-    }
-
-    artisans = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 150
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 100
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = thessalonian_orthodox
-        size = 9800
-    }
-
-    clergymen = {
-        culture = slovak
-        religion = thessalonian_orthodox
-        size = 275
-    }
-
-    artisans = {
-        culture = slovak
-        religion = thessalonian_orthodox
-        size = 500
-    }
-
-    soldiers = {
-        culture = slovak
         religion = thessalonian_orthodox
         size = 300
     }
+	
+    soldiers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 1600
+    }
 
     farmers = {
-        culture = slovak
+        culture = hungarian
         religion = thessalonian_orthodox
-        size = 1925
+        size = 74000
     }
 
 }
@@ -749,25 +665,25 @@
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 350
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 100
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 6525
     }
@@ -807,25 +723,25 @@
     }
 
     clergymen = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 200
     }
 
     artisans = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 1900
     }
 
     soldiers = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 200
     }
 
     farmers = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 9000
     }
@@ -1071,25 +987,25 @@
     }
 
     clergymen = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 500
     }
 
     soldiers = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 100
     }
 
     farmers = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 10375
     }
@@ -1135,29 +1051,63 @@
     }
 
     clergymen = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 250
     }
 
     soldiers = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 100
     }
 
     farmers = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 4675
     }
 
+}
+
+#Nyiregyhaza
+3285 = {
+    aristocrats = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 3400
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 700
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 2800
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 1800
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 58000
+    }
+	
 }
 
 #Jaszbereny
@@ -1275,25 +1225,25 @@
     }
 
     clergymen = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 25
     }
 
     artisans = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 1500
     }
 
     soldiers = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 15
     }
 
     farmers = {
-        culture = tiszai
+        culture = hungarian
         religion = thessalonian_orthodox
         size = 3425
     }
@@ -1363,25 +1313,25 @@
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 250
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 2100
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 25
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = thessalonian_orthodox
         size = 2825
     }
@@ -1412,3 +1362,110 @@
 
 }
 
+#Kovaros (116000/29000 POPS)
+3572 = {
+    aristocrats = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 400
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 250
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 1800
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 400
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 12000
+    }
+
+    farmers = {
+        culture = szekely
+        religion = thessalonian_orthodox
+        size = 6600
+    }
+}
+
+#Epitenujra
+3289 = {
+    aristocrats = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 1200
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 5800
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 3000
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 38000
+    }
+
+    clergymen = {
+        culture = szekely
+        religion = thessalonian_orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = szekely
+        religion = thessalonian_orthodox
+        size = 2800
+    }
+
+    soldiers = {
+        culture = szekely
+        religion = thessalonian_orthodox
+        size = 800
+    }
+
+    farmers = {
+        culture = szekely
+        religion = thessalonian_orthodox
+        size = 21000
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 1800
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = thessalonian_orthodox
+        size = 12000
+    }
+}

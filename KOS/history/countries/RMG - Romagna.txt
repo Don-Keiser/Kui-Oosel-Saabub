@@ -1,5 +1,6 @@
 capital = 741
 primary_culture = romagnol
+culture = lombard
 religion = roman_catholic
 government = march
 plurality = 0.0

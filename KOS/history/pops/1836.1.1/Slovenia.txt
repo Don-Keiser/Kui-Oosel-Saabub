@@ -285,25 +285,25 @@
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 450
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 1700
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 450
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 11000
     }

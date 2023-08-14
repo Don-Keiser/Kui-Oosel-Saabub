@@ -5,55 +5,43 @@
 	aristocrats = {
 		culture = romansh
 		religion = roman_catholic
-		size = 750 
-	}
-
-	bureaucrats = {
-		culture = romansh
-		religion = roman_catholic
-		size = 1375 
-	}
-
-	officers = {
-		culture = romansh
-		religion = roman_catholic
-		size = 1250 
+		size = 700 
 	}
 
 	clergymen = {
-		culture = romansh
+		culture = boarisch
 		religion = roman_catholic
-		size = 550
+		size = 300
 	}
 
 	artisans = {
-		culture = romansh
+		culture = boarisch
 		religion = roman_catholic
-		size = 2750
+		size = 2600
 	}
 
 	soldiers = {
-		culture = romansh
+		culture = boarisch
 		religion = roman_catholic
-		size = 3000
+		size = 1000
 	}
 
 	soldiers = {
-		culture = romansh
+		culture = boarisch
 		religion = roman_catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = romansh
+		culture = boarisch
 		religion = roman_catholic
-		size = 49000
+		size = 18000
 	}
 	
 	farmers = {
-		culture = boarisch
+		culture = romansh
 		religion = roman_catholic
-		size = 2000
+		size = 6000
 	}
 }
 #Salzburg (136000/34000 POPS)
@@ -263,13 +251,31 @@
 	soldiers = {
 		culture = hungarian
 		religion = roman_catholic
-		size = 3000
+		size = 1000
 	}
 
 	farmers = {
 		culture = hungarian
 		religion = roman_catholic
-		size = 30000
+		size = 18000
+	}
+	
+	soldiers = {
+		culture = white_serb
+		religion = roman_catholic
+		size = 3000
+	}
+	
+	soldiers = {
+		culture = white_serb
+		religion = roman_catholic
+		size = 3000
+	}
+	
+	farmers = {
+		culture = white_serb
+		religion = roman_catholic
+		size = 12000
 	}
 	
 	farmers = {
@@ -442,12 +448,6 @@
 		size = 1200
 	}
 	
-	farmers = {
-		culture = hungarian
-		religion = roman_catholic
-		size = 22925 
-	}
-	
 	soldiers = {
 		culture = hungarian
 		religion = roman_catholic
@@ -457,17 +457,23 @@
 	farmers = {
 		culture = hungarian
 		religion = roman_catholic
+		size = 23000 
+	}
+	
+	farmers = {
+		culture = hungarian
+		religion = roman_catholic
 		size = 18000 
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = white_serb
 		religion = roman_catholic
 		size = 250 
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = white_serb
 		religion = roman_catholic
 		size = 4000 
 	}
@@ -602,37 +608,37 @@
 624 = {
 	aristocrats = {
 		culture = hungarian
-		religion = roman_catholic
+		religion = thessalonian_orthodox
 		size = 700 
 	}
 
 	clergymen = {
 		culture = hungarian
-		religion = roman_catholic
+		religion = thessalonian_orthodox
 		size = 1075
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = roman_catholic
+		religion = thessalonian_orthodox
 		size = 10450
 	}
 
 	soldiers = {
 		culture = hungarian
-		religion = roman_catholic
+		religion = thessalonian_orthodox
 		size = 2400
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = roman_catholic
+		religion = thessalonian_orthodox
 		size = 25075
 	}
 	
 	farmers = {
 		culture = hungarian
-		religion = roman_catholic
+		religion = thessalonian_orthodox
 		size = 21100
 	}
 
@@ -807,12 +813,12 @@
 	farmers = {
 		culture = histri
 		religion = roman_catholic
-		size = 18000
+		size = 14000
 	}
 	
 	farmers = {
 		culture = boarisch
 		religion = roman_catholic
-		size = 7000
+		size = 11000
 	}
 }

@@ -1,7 +1,6 @@
 color = { 158  31  48 }
 graphical_culture = IndianGC
 
-
 party = {
     name = "KRN_conservative"
     start_date = 1800.1.1

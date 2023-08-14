@@ -1,5 +1,9 @@
-capital = 860
-primary_culture = greek
+capital = 805
+primary_culture = makedones
+culture = moreote
+culture = griko
+culture = aeolic
+culture = dalmatoi
 religion = thessalonian_orthodox
 government = absolute_monarchy
 plurality = 0.0

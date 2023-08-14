@@ -1,5 +1,5 @@
 capital = 599
-primary_culture = south_german
+primary_culture = boarisch
 religion = roman_catholic
 government = absolute_monarchy
 plurality = 15.0

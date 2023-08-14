@@ -1,6 +1,5 @@
 owner = LDM
 controller = LDM
 add_core = LDM
-add_core = HLC
 trade_goods = grain
 life_rating = 35

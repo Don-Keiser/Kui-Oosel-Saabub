@@ -37,13 +37,13 @@
 #Zagreb (224000/56000 POPS)
 771 = {
     aristocrats = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 450
     }
 
     bureaucrats = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 250
     }
@@ -55,31 +55,31 @@
     }
 
     officers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 450
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 2500
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 22000
     }
@@ -141,31 +141,31 @@
 #Sisak (116000/29000 POPS)
 772 = {
     aristocrats = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 350
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 175
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 900
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 175
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 19300
     }
@@ -200,102 +200,35 @@
         size = 8225
     }
 }
-#Kovaros (116000/29000 POPS)
-3572 = {
-    aristocrats = {
-        culture = travesz
-        religion = roman_catholic
-        size = 350
-    }
 
-    clergymen = {
-        culture = travesz
-        religion = roman_catholic
-        size = 175
-    }
-
-    artisans = {
-        culture = travesz
-        religion = roman_catholic
-        size = 900
-    }
-
-    soldiers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 175
-    }
-
-    farmers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 11300
-    }
-
-    farmers = {
-        culture = autariatai
-        religion = roman_catholic
-        size = 1100
-    }
-
-    clergymen = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 550
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 125
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 4225
-    }
-	
-	farmers = {
-        culture = jassic
-        religion = african_catholic
-        size = 1225
-    }
-}
 #Jasztrebarszka (116000/29000 POPS)
 3571 = {
     aristocrats = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 350
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 175
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 900
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 175
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 8300
     }
@@ -339,31 +272,31 @@
 #Karlovac (184000/46000 POPS)
 773 = {
     aristocrats = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 550
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 350
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 1000
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 400
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 14400
     }
@@ -413,31 +346,31 @@
 #Senj (96000/24000 POPS)
 774 = {
     aristocrats = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 275
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 650
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 125
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 13500
     }
@@ -487,31 +420,31 @@
 #Varadzin (68000/17000 POPS)
 775 = {
     aristocrats = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 175
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 850
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 175
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 10600
     }
@@ -549,25 +482,25 @@
 #Bjelovar (52000/13000 POPS)
 776 = {
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 150
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 3075
     }
@@ -647,31 +580,31 @@
 #Pozega (80000/20000 POPS)
 777 = {
     aristocrats = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 225
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 200
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 200
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 10275
     }
@@ -733,25 +666,25 @@
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 250
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 500
     }
@@ -761,86 +694,86 @@
 #Osijek (180000/45000 POPS)
 779 = {
     clergymen = {
-        culture = travesz
-        religion = roman_catholic
+        culture = aranydeli
+        religion = thessalonian_orthodox
         size = 250
     }
 
     artisans = {
-        culture = travesz
-        religion = roman_catholic
+        culture = aranydeli
+        religion = thessalonian_orthodox
         size = 1300
     }
 
     soldiers = {
-        culture = travesz
-        religion = roman_catholic
+        culture = aranydeli
+        religion = thessalonian_orthodox
         size = 275
     }
 
     farmers = {
-        culture = travesz
-        religion = roman_catholic
+        culture = aranydeli
+        religion = thessalonian_orthodox
         size = 29775
     }
 
     farmers = {
         culture = jassic
-        religion = african_catholic
+        religion = thessalonian_orthodox
         size = 800
     }
 
     clergymen = {
         culture = szekely
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 100
     }
 
     artisans = {
         culture = szekely
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 350
     }
 
     soldiers = {
         culture = szekely
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 100
     }
 
     farmers = {
         culture = szekely
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 1500
     }
 
     aristocrats = {
         culture = hungarian
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 900
     }
 
     clergymen = {
         culture = hungarian
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 200
     }
 
     artisans = {
         culture = hungarian
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 700
     }
 
     soldiers = {
         culture = hungarian
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 200
     }
 
     farmers = {
         culture = hungarian
-        religion = roman_catholic
+        religion = thessalonian_orthodox
         size = 4400
     }
 }
@@ -1087,31 +1020,31 @@
 #Vukovar (104000/26000 POPS) #part of Croatia today
 793 = {
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 150
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 800
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 175
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 10775
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 4100
     }
@@ -1141,183 +1074,58 @@
     }
 
     aristocrats = {
-        culture = tiszai
+        culture = hungarian
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = tiszai
+        culture = hungarian
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = tiszai
+        culture = hungarian
         religion = roman_catholic
         size = 100
     }
 
     soldiers = {
-        culture = tiszai
+        culture = hungarian
         religion = roman_catholic
         size = 100
     }
 
     farmers = {
-        culture = tiszai
+        culture = hungarian
         religion = roman_catholic
         size = 1785
-    }
-}
-
-#Baranja
-3283 = {
-    clergymen = {
-        culture = travesz
-        religion = roman_catholic
-        size = 150
-    }
-
-    artisans = {
-        culture = travesz
-        religion = roman_catholic
-        size = 800
-    }
-
-    soldiers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 175
-    }
-
-    farmers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 9575
-    }
-
-    farmers = {
-        culture = szekely
-        religion = roman_catholic
-        size = 1750
-    }
-
-    clergymen = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 115
-    }
-	
-	aristocrats = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 650
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 425
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 8575
-    }
-}
-#Cakovec
-3289 = {
-    clergymen = {
-        culture = travesz
-        religion = roman_catholic
-        size = 150
-    }
-
-    artisans = {
-        culture = travesz
-        religion = roman_catholic
-        size = 800
-    }
-
-    soldiers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 175
-    }
-
-    farmers = {
-        culture = travesz
-        religion = roman_catholic
-        size = 7575
-    }
-
-    clergymen = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 550
-    }
-
-    soldiers = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 400
-    }
-
-    farmers = {
-        culture = hungarian
-        religion = roman_catholic
-        size = 2000
-    }
-
-    aristocrats = {
-        culture = jassic
-        religion = african_catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = jassic
-        religion = african_catholic
-        size = 800
     }
 }
 
 #Cakovec
 3568 = {
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 150
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 800
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 175
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 1575
     }

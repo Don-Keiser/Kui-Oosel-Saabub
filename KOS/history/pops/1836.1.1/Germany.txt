@@ -1518,27 +1518,33 @@
     }
 
     clergymen = {
-        culture = saksysk
+        culture = dieringisch
         religion = african_catholic
         size = 250
     }
 
     artisans = {
-        culture = saksysk
+        culture = dieringisch
         religion = african_catholic
         size = 1750
     }
 
     soldiers = {
-        culture = saksysk
+        culture = dieringisch
         religion = african_catholic
         size = 250
     }
 
     farmers = {
-        culture = saksysk
+        culture = dieringisch
         religion = african_catholic
-        size = 22750
+        size = 18000
+    }
+	
+    farmers = {
+        culture = stodoranie
+        religion = vulgar
+        size = 5000
     }
 }
 #Erfurt (220800/55200 POPS)
@@ -1694,7 +1700,13 @@
     farmers = {
         culture = saksysk
         religion = african_catholic
-        size = 31575
+        size = 28000
+    }
+	
+    farmers = {
+        culture = polish
+        religion = vulgar
+        size = 4000
     }
 }
 #under the rule of Anhalt 1836
@@ -1744,7 +1756,7 @@
 	
     farmers = {
         culture = polish
-        religion = roman_catholic
+        religion = vulgar
         size = 13000
     }
 }
@@ -2279,51 +2291,57 @@
 #Frankfurt-am-Main (44000/16000 POPS)
 564 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 2000
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 135
     }
 
     officers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1500
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 10000
     }
 	
 	artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 6000
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1475
     }
 
     farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 101000
+    }
+	
+    farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 131000
+        size = 30000
     }
 }
 #under the rule of Nassau 1836
@@ -2368,62 +2386,68 @@
     farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 80000
+        size = 65000
     }
 	
 	farmers = {
         culture = saksysk
-        religion = african_catholic
-        size = 3000
+        religion = roman_catholic
+        size = 10000
+    }
+	
+	farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 8000
     }
 }
 #under the rule of Hesse-Kassel 1836
 #Kassel (445200/111300 POPS)
 566 = {
     aristocrats = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
         size = 875
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
         size = 325
     }
 
     officers = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
         size = 875
     }
 
     artisans = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
         size = 4500
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
         size = 1000
     }
 
     farmers = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
         size = 58225
     }
@@ -2449,165 +2473,195 @@
     farmers = {
         culture = saksysk
         religion = african_catholic
-        size = 27800
-    }
-	
-    farmers = {
-        culture = dieringisch
-        religion = roman_catholic
-        size = 15000
+        size = 42800
     }
 }
+
 #Fulda (248000/62000 POPS)
 568 = {
     aristocrats = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
-        size = 500
+        size = 1000
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
-        size = 500
+        size = 600
     }
 
     artisans = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
-        size = 2600
+        size = 4200
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
-        size = 950
+        size = 1000
     }
 
     farmers = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
-        size = 45000
+        size = 53000
     }
 	
-    clergymen = {
-        culture = dieringisch
-        religion = roman_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = dieringisch
-        religion = roman_catholic
-        size = 500
-    }
-
-    soldiers = {
-        culture = dieringisch
-        religion = roman_catholic
-        size = 100
-    }
-
     farmers = {
-        culture = dieringisch
+        culture = saksysk
         religion = roman_catholic
-        size = 14000
+        size = 2000
     }
 }
 #under the rule of Hesse-Darmstadt 1836
 #Giessen (200000/50000 POPS)
 567 = {
     aristocrats = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 500
+        size = 800
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 500
-    }
-
-
-    craftsmen = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 100
+        size = 460
     }
 
     artisans = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 2000
+        size = 5400
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 500
-    }
-
-    craftsmen = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 500
+        size = 1200
     }
 
     farmers = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 44000
+        size = 28000
     }
 	
-	 farmers = {
-        culture = saksysk
-        religion = african_catholic
-        size = 2000
-    }
-}
-#Darmstadt (360000/90000 POPS)
-2560 = {
     aristocrats = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 500
-    }
-
-    bureaucrats = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
         size = 400
     }
 
-    officers = {
-        culture = ostrisch
+    clergymen = {
+        culture = dieringisch
         religion = roman_catholic
         size = 200
+    }
+
+    artisans = {
+        culture = dieringisch
+        religion = roman_catholic
+        size = 2100
+    }
+
+    soldiers = {
+        culture = dieringisch
+        religion = roman_catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = dieringisch
+        religion = roman_catholic
+        size = 27000
+    }
+	
+    aristocrats = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 300
     }
 
     clergymen = {
         culture = ostrisch
         religion = roman_catholic
-        size = 1000
+        size = 180
     }
 
     artisans = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 6000
-    }
-
-    soldiers = {
         culture = ostrisch
         religion = roman_catholic
         size = 1400
     }
 
+    soldiers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 170
+    }
+
     farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 81000
+        size = 12500
+    }
+}
+#Darmstadt (360000/90000 POPS)
+2560 = {
+    aristocrats = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 400
+    }
+
+    officers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 1000
+    }
+
+    artisans = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 1400
+    }
+
+    farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 60000
+    }
+	
+    farmers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 17000
+    }
+	
+    farmers = {
+        culture = dieringisch
+        religion = roman_catholic
+        size = 4500
     }
 }
 #Palatinate-Moselle Region (1815200)
@@ -2615,71 +2669,77 @@
 #Mannheim (261000/65250 POPS)
 569 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 600
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 3500
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 850
     }
 
     farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 40000
+    }
+	
+    farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 47560
+        size = 8000
     }
 }
 #Mosbach
 3481 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 600
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 4100
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 800
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
-        size = 28000
+        size = 22000
     }
 
     farmers = {
         culture = dieringisch
         religion = roman_catholic
-        size = 1000
+        size = 8000
     }
 }
 #under the rule of Hesse-Darmstadt 1836
@@ -2712,40 +2772,52 @@
     farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 52000
+        size = 30000
+    }
+	
+    farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 22000
     }
 }
 #under the rule of Bavaria 1836
 #Kaiserslautern (556000/139000 POPS)
 571 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 650
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1400
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 7000
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1800
     }
 
     farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 100000
+    }
+	
+    farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 118000
+        size = 18000
     }
 }
 #under the rule of Prussia 1836
@@ -3219,37 +3291,31 @@
     aristocrats = {
         culture = ostrisch
         religion = roman_catholic
-        size = 450
+        size = 350
     }
 
     clergymen = {
         culture = ostrisch
         religion = roman_catholic
-        size = 450
+        size = 300
     }
 
     artisans = {
         culture = ostrisch
         religion = roman_catholic
-        size = 2350
+        size = 2400
     }
 
     soldiers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 500
+        size = 450
     }
 
     farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 26000
-    }
-	
-	farmers = {
-        culture = saksysk
-        religion = african_catholic
-        size = 23000
+        size = 15000
     }
 }
 #Siegburg (104000/26000 POPS)
@@ -3467,31 +3533,31 @@
     }
 
     aristocrats = {
-        culture = dieringisch
+        culture = thuringia_gothic
         religion = roman_catholic
         size = 200
     }
 
     clergymen = {
-        culture = dieringisch
+        culture = thuringia_gothic
         religion = roman_catholic
         size = 200
     }
 
     artisans = {
-        culture = dieringisch
+        culture = thuringia_gothic
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = dieringisch
+        culture = thuringia_gothic
         religion = roman_catholic
         size = 800
     }
 
     farmers = {
-        culture = dieringisch
+        culture = thuringia_gothic
         religion = roman_catholic
         size = 11600
     }
@@ -3511,63 +3577,63 @@
 #Siegen (104000/26000 POPS)
 583 = {
     aristocrats = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 150
+        size = 800
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 125
+        size = 300
     }
 
     artisans = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 1100
+        size = 6000
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 150
+        size = 800
     }
 
     farmers = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 10000
+        size = 20000
     }
 
     aristocrats = {
-        culture = saksysk
+        culture = ostrisch
         religion = african_catholic
         size = 100
     }
 
     clergymen = {
-        culture = saksysk
+        culture = ostrisch
         religion = african_catholic
         size = 125
     }
 
     artisans = {
-        culture = saksysk
+        culture = ostrisch
         religion = african_catholic
         size = 900
     }
 
     soldiers = {
-        culture = saksysk
+        culture = ostrisch
         religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = saksysk
+        culture = ostrisch
         religion = african_catholic
-        size = 14000
+        size = 4000
     }
 }
 #Korbach (128000/32000 POPS)
@@ -3694,43 +3760,43 @@
 #Karlsruhe (632000/158000 POPS)
 586 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1600
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 700
     }
 
     officers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 350
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1600
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 8000
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1800
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 145000
     }
@@ -3738,61 +3804,61 @@
 #Freiburg (244000/61000 POPS)
 587 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 600
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 575
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 2850
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1000
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 41975
     }
 	
 	craftsmen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 10000
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = burgundisch
         religion = roman_catholic
         size = 75
     }
 
     artisans = {
-        culture = ostrisch
+        culture = burgundisch
         religion = roman_catholic
         size = 200
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = burgundisch
         religion = roman_catholic
-        size = 25
+        size = 50
     }
 
     farmers = {
-        culture = ostrisch
+        culture = burgundisch
         religion = roman_catholic
         size = 3700
     }
@@ -3800,39 +3866,39 @@
 #Konstanz (164000/41000 POPS)
 588 = {
     aristocrats = {
-        culture = romansh
+        culture = alamannisch
         religion = roman_catholic
         size = 1350
     }
 
     clergymen = {
-        culture = romansh
+        culture = alamannisch
         religion = roman_catholic
         size = 1450
     }
 
     artisans = {
-        culture = romansh
+        culture = alamannisch
         religion = roman_catholic
         size = 8200
     }
 
     soldiers = {
-        culture = romansh
+        culture = alamannisch
         religion = roman_catholic
         size = 4600
     }
 
     farmers = {
-        culture = romansh
+        culture = alamannisch
         religion = roman_catholic
-        size = 68000
+        size = 40000
     }
 	
 	farmers = {
-        culture = ostrisch
+        culture = burgundisch
         religion = roman_catholic
-        size = 3800
+        size = 4800
     }
 }
 #Wurttemburg Region (1308000)
@@ -3840,61 +3906,61 @@
 #Stuttgart (676000/169000 POPS)
 589 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1500
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 850
     }
 
     officers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 450
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1700
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 10000
     }
 	
 	artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 2000
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 3000
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1400
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 147000
     }
@@ -3902,31 +3968,31 @@
 #Heilbronn (340000/85000 POPS)
 590 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 850
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 825
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 4250
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 850
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 77225
     }
@@ -3941,31 +4007,31 @@
 #Tubingen (292000/73000 POPS)
 591 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 400
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 800
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 3900
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 800
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 78000
     }
@@ -3975,31 +4041,31 @@
 #Augsburg (364000/91000 POPS)
 592 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1100
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1050
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 10000
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1000
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 30000
     }
@@ -4014,31 +4080,31 @@
 #Ulm (408000/102000 POPS)
 593 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 900
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 925
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 4550
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 3200
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 98000
     }
@@ -4065,43 +4131,43 @@
 #Sigmaringen (61000/15250 POPS)
 594 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 150
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 20
     }
 
     officers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 15
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 150
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 4775
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1000
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 53000
     }
@@ -4153,31 +4219,31 @@
     }
 
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1450
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1375
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 5500
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1500
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 65000
     }
@@ -4191,39 +4257,39 @@
 #Aschaffenburg (136000/34000 POPS)
 596 = {
     aristocrats = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
-        size = 350
+        size = 800
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
-        size = 350
+        size = 400
     }
 
     artisans = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
-        size = 1750
+        size = 5600
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
-        size = 350
+        size = 800
     }
 
     farmers = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
-        size = 25000
+        size = 17000
     }
 	
 	farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
-        size = 6000
+        size = 14000
     }
 }
 #Wurzburg (300000/75000 POPS)
@@ -4259,7 +4325,7 @@
     }
 	
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 14000
     }
@@ -4933,51 +4999,51 @@
 #Waldeck (208000/52000 POPS)
 3257 = {
     aristocrats = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
         size = 270
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
         size = 60
     }
 
     officers = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
         size = 25
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
         size = 150
     }
 
     artisans = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
         size = 2600
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
         size= 650
     }
 	
     farmers = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 4500
+        size = 12500
     }
 
     farmers = {
-        culture = saksysk
+        culture = ostrisch
         religion = african_catholic
-        size = 9000
+        size = 1000
     }
 }
 
@@ -5047,145 +5113,115 @@
 #Bielefield (216000/54000 POPS)
 3267 = {
     aristocrats = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 300
-    }
-
-    clergymen = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 375
-    }
-
-    artisans = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 1700
-    }
-
-    soldiers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 1000
-    }
-
-    farmers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 8025
-    }
-
-    aristocrats = {
         culture = saksysk
         religion = african_catholic
-        size = 200
+        size = 1500
     }
 
     clergymen = {
         culture = saksysk
         religion = african_catholic
-        size = 200
+        size = 575
     }
 
     artisans = {
         culture = saksysk
         religion = african_catholic
-        size = 1100
+        size = 7800
     }
 
     soldiers = {
         culture = saksysk
         religion = african_catholic
-        size = 1000
+        size = 2000
     }
 
     farmers = {
         culture = saksysk
         religion = african_catholic
-        size = 40600
+        size = 40000
     }
 }
 
 #Wetzlar
 3270 = {
     aristocrats = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 75
+        size = 750
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 75
+        size = 150
     }
 
     officers = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 75
+        size = 350
     }
 
     artisans = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 1000
+        size = 4200
     }
 
     farmers = {
-        culture = ostrisch
+        culture = saksysk
         religion = roman_catholic
-        size = 15500
+        size = 24600
     }
 }
 
 #Rothenburg
 3649 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 175
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 105
     }
 
     officers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 125
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 4800
     }
 	
 	soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1200
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 23000
     }
@@ -5200,88 +5236,94 @@
 #Speyer
 3651 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 175
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 105
     }
 
     officers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 450
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 4300
     }
 	
 	soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1500
     }
 
     farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 30000
+    }
+	
+    farmers = {
         culture = ostrisch
         religion = roman_catholic
-        size = 36000
+        size = 6000
     }
 }
 
 #Ansbach
 3653 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 600
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 105
     }
 
     officers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 425
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 5800
     }
 	
 	soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 2100
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 42000
     }
@@ -5398,43 +5440,43 @@
 #Meimmingen
 3663 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 600
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 105
     }
 
     officers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 425
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 4900
     }
 	
 	soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1950
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 38000
     }
@@ -5449,94 +5491,100 @@
 #Kempten
 3664 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 600
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 105
     }
 
     officers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 425
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 6200
     }
 	
 	soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 2650
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
-        size = 25000
+        size = 23000
     }
 	
 	farmers = {
         culture = boarisch
         religion = roman_catholic
-        size = 40000
+        size = 38000
+    }
+	
+	farmers = {
+        culture = romansh
+        religion = roman_catholic
+        size = 4000
     }
 }
 
 #Neuburg
 3667 = {
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 600
     }
 
     bureaucrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 105
     }
 
     officers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 425
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 4200
     }
 	
 	soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1800
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 24000
     }
@@ -5845,7 +5893,7 @@
     }
 	
     farmers = {
-        culture = ostrisch
+        culture = dieringisch
         religion = roman_catholic
         size = 3600
     }
@@ -5917,10 +5965,155 @@
     }
 }
 
+#Sayn
+3703 = {
+    aristocrats = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 1800
+    }
+
+    soldiers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 8000
+    }
+
+    farmers = {
+        culture = saksysk
+        religion = roman_catholic
+        size = 1000
+    }
+
+}
+
+#Worms
+3704 = {
+    aristocrats = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 3300
+    }
+
+    soldiers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 13000
+    }
+	
+    farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 10000
+    }
+
+}
+
+#Firschtebärg
 3769 = {
     aristocrats = {
-        culture = aquitan
+        culture = alamannisch
         religion = roman_catholic
-        size = 650
+        size = 1200
+    }
+
+    clergymen = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 800
+    }
+
+    artisans = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 7800
+    }
+
+    soldiers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = alamannisch
+        religion = roman_catholic
+        size = 64000
+    }
+	
+	farmers = {
+        culture = burgundisch
+        religion = roman_catholic
+        size = 4500
+    }
+	
+}
+	
+#Bergerac
+3760 = {
+    aristocrats = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 300
+    }
+
+    clergymen = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 260
+    }
+
+    artisans = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 1200
+    }
+
+    soldiers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = ostrisch
+        religion = roman_catholic
+        size = 7200
     }
 }

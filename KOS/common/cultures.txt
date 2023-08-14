@@ -757,8 +757,22 @@ finnougric = {
         Lichtenstein Liszt Mikszáth Molnár Nagy-Sándor Österreicher Ottinger Perczel Poeltenberg Reményi
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
-	dunaszoreny = {
+	ezusteszak = {
         color = { 91 112 182 }
+        first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
+        Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
+        György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
+        Károly Katalin Kelemen Krisztian Lajos László Manó Mihály Mór Myklós
+        Ödön Ottó Péter Rafael Sándor Simon Tivadar Vilmos Virág Zsigmond }
+
+        last_names = { Andrássy Apponyi Aulich Bacher Baross Batthyány Beöthy Bothmer Damjanich Dessewffy
+        Egressy "Erényi Ullmann" Farkas "Frakasházi Fischer" Goldziher Gungl Hauszmann Heller Horthy Izsó
+        Joseffy Katona Kaufman Kéler Kiss Knezich Kogutowicz Lahner Lázár Leiningen-Westerburg
+        Lichtenstein Liszt Mikszáth Molnár Nagy-Sándor Österreicher Ottinger Perczel Poeltenberg Reményi
+        Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
+    }
+	aranydeli = {
+        color = { 57 98 134 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -827,20 +841,6 @@ finnougric = {
         Lichtenstein Liszt Mikszáth Molnár Nagy-Sándor Österreicher Ottinger Perczel Poeltenberg Reményi
         Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
     }
-	ugorok = {
-        color = { 57 126 134 }
-        first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
-        Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
-        György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
-        Károly Katalin Kelemen Krisztian Lajos László Manó Mihály Mór Myklós
-        Ödön Ottó Péter Rafael Sándor Simon Tivadar Vilmos Virág Zsigmond }
-
-        last_names = { Andrássy Apponyi Aulich Bacher Baross Batthyány Beöthy Bothmer Damjanich Dessewffy
-        Egressy "Erényi Ullmann" Farkas "Frakasházi Fischer" Goldziher Gungl Hauszmann Heller Horthy Izsó
-        Joseffy Katona Kaufman Kéler Kiss Knezich Kogutowicz Lahner Lázár Leiningen-Westerburg
-        Lichtenstein Liszt Mikszáth Molnár Nagy-Sándor Österreicher Ottinger Perczel Poeltenberg Reményi
-        Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
-    }
 	volgmyi = {
         color = { 19 91 100 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
@@ -885,20 +885,6 @@ finnougric = {
     }
 	kummagyar = {
         color = { 37 127 137 }
-        first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
-        Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
-        György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
-        Károly Katalin Kelemen Krisztian Lajos László Manó Mihály Mór Myklós
-        Ödön Ottó Péter Rafael Sándor Simon Tivadar Vilmos Virág Zsigmond }
-
-        last_names = { Andrássy Apponyi Aulich Bacher Baross Batthyány Beöthy Bothmer Damjanich Dessewffy
-        Egressy "Erényi Ullmann" Farkas "Frakasházi Fischer" Goldziher Gungl Hauszmann Heller Horthy Izsó
-        Joseffy Katona Kaufman Kéler Kiss Knezich Kogutowicz Lahner Lázár Leiningen-Westerburg
-        Lichtenstein Liszt Mikszáth Molnár Nagy-Sándor Österreicher Ottinger Perczel Poeltenberg Reményi
-        Rohr Schweidel Széchenyi Szemere Szlávic Tersztyansky Török Varga Vécsey "von Benedek" }
-    }
-	regymagyar = {
-        color = { 96 94 138 }
         first_names = { Alajos Albert Álmos Anasztáz András Arisztid Aurél Béla Benedek Béni
         Bertalan Dániel Dávid Edvárd Éliás Erno Ferencz Gábor Gábriel Gáspár
         György Gyula Ignác Imre István Izidor János József "József Manes" Kálmán
@@ -981,54 +967,6 @@ finnougric = {
         Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
         }
     }
-	voro = {
-        color = {173 206 160}
-        first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
-        Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
-        Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
-        Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent
-        Ragnar Siiri Sven Tarmo Tõnis Toomas Uno Valmar Villwm Voldemar
-        }
-
-        last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhöhe Eenpalu Hint Hurt Jaakson
-        Kangro Kint Klaasen Koern Kõiv Kotli Kumari Kupine Kuusik Leppik
-        Lipping Lohk Mäe Männil Moora Natus Nurkse Nurmekund Õkva Öpik
-        Orkivu Päts Perna Piiper Poska Puusepp Ränk Rei Reinman Siinmaa
-        Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
-        }
-    }
-	seto = {
-        color = {176 228 158}
-        first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
-        Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
-        Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
-        Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent
-        Ragnar Siiri Sven Tarmo Tõnis Toomas Uno Valmar Villwm Voldemar
-        }
-
-        last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhöhe Eenpalu Hint Hurt Jaakson
-        Kangro Kint Klaasen Koern Kõiv Kotli Kumari Kupine Kuusik Leppik
-        Lipping Lohk Mäe Männil Moora Natus Nurkse Nurmekund Õkva Öpik
-        Orkivu Päts Perna Piiper Poska Puusepp Ränk Rei Reinman Siinmaa
-        Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
-        }
-    }
-	vaala = {
-        color = {225 221 169}
-        first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
-        Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
-        Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
-        Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent
-        Ragnar Siiri Sven Tarmo Tõnis Toomas Uno Valmar Villwm Voldemar
-        }
-
-        last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhöhe Eenpalu Hint Hurt Jaakson
-        Kangro Kint Klaasen Koern Kõiv Kotli Kumari Kupine Kuusik Leppik
-        Lipping Lohk Mäe Männil Moora Natus Nurkse Nurmekund Õkva Öpik
-        Orkivu Päts Perna Piiper Poska Puusepp Ränk Rei Reinman Siinmaa
-        Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
-        }
-    }
 	ingrian = { 
 		color = {169 225 176}
 		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
@@ -1070,38 +1008,6 @@ finnougric = {
 	}
 	ohitsemid = {
         color = {196 208 209}
-        first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
-        Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
-        Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
-        Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent
-        Ragnar Siiri Sven Tarmo Tõnis Toomas Uno Valmar Villwm Voldemar
-        }
-
-        last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhöhe Eenpalu Hint Hurt Jaakson
-        Kangro Kint Klaasen Koern Kõiv Kotli Kumari Kupine Kuusik Leppik
-        Lipping Lohk Mäe Männil Moora Natus Nurkse Nurmekund Õkva Öpik
-        Orkivu Päts Perna Piiper Poska Puusepp Ränk Rei Reinman Siinmaa
-        Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
-        }
-    }
-	west_krevin = {
-        color = {178 181 208}
-        first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
-        Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
-        Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
-        Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent
-        Ragnar Siiri Sven Tarmo Tõnis Toomas Uno Valmar Villwm Voldemar
-        }
-
-        last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhöhe Eenpalu Hint Hurt Jaakson
-        Kangro Kint Klaasen Koern Kõiv Kotli Kumari Kupine Kuusik Leppik
-        Lipping Lohk Mäe Männil Moora Natus Nurkse Nurmekund Õkva Öpik
-        Orkivu Päts Perna Piiper Poska Puusepp Ränk Rei Reinman Siinmaa
-        Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
-        }
-    }
-	east_krevin = {
-        color = {160 165 209}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
         Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
         Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
@@ -1164,63 +1070,6 @@ finnougric = {
         Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
         }
     }
-	finogorii = {
-        color = {223 196 187}
-        first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
-        Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
-        Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
-        Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent
-        Ragnar Siiri Sven Tarmo Tõnis Toomas Uno Valmar Villwm Voldemar
-        }
-
-        last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhöhe Eenpalu Hint Hurt Jaakson
-        Kangro Kint Klaasen Koern Kõiv Kotli Kumari Kupine Kuusik Leppik
-        Lipping Lohk Mäe Männil Moora Natus Nurkse Nurmekund Õkva Öpik
-        Orkivu Päts Perna Piiper Poska Puusepp Ränk Rei Reinman Siinmaa
-        Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
-        }
-    }
-	vienapsi = { 
-		color = { 174 146 138}
-		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
-		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
-		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
-		
-		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Järnefält
-		Linder Mannerheim Multamäki Nenonen Oesch Öquist Österman Paasikivi Raappana Ramsay
-		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
-		radicalism = 5
-	}
-	luudic = { 
-		color = { 198 166 156}
-		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
-		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
-		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
-		
-		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Järnefält
-		Linder Mannerheim Multamäki Nenonen Oesch Öquist Österman Paasikivi Raappana Ramsay
-		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
-	}
-	northern_luudic = { 
-		color = { 203 150 133}
-		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
-		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
-		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
-		
-		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Järnefält
-		Linder Mannerheim Multamäki Nenonen Oesch Öquist Österman Paasikivi Raappana Ramsay
-		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
-	}
-	kudarv_luudic = { 
-		color = { 243 169 142}
-		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
-		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
-		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
-		
-		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Järnefält
-		Linder Mannerheim Multamäki Nenonen Oesch Öquist Österman Paasikivi Raappana Ramsay
-		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
-	}
     mordvin = {
         color = {209 145 125}
         first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik

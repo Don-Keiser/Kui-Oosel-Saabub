@@ -1,5 +1,7 @@
 capital = 425
 primary_culture = neustrien
+culture = ostrisch
+culture = picard
 religion = roman_catholic
 government = absolute_empire
 plurality = 25

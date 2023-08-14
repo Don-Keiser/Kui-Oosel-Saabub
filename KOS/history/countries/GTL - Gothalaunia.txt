@@ -1,10 +1,10 @@
 capital = 463
-primary_culture = aquitan
+primary_culture = tarragones
 religion = roman_catholic
 government = march
 plurality = 0.1
-nationalvalue = nv_equality
-literacy = 0.48
+nationalvalue = nv_order
+literacy = 0.25
 civilized = yes
 
 
@@ -62,11 +62,11 @@ colonial_policy = no_colonies
 
 set_country_flag = roman_catholic_country
 
-ruling_party = OCC_liberal
+ruling_party = OCC_conservative
 upper_house = {
-    fascist = 1
-    liberal = 49
-    conservative = 39
+    fascist = 0
+    liberal = 20
+    conservative = 68
     reactionary = 12
     radical = 0
     socialist = 0

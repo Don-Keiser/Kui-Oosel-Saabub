@@ -1,5 +1,6 @@
 capital = 3649
-primary_culture = south_german
+primary_culture = alamannisch
+culture = dieringisch
 religion = roman_catholic
 government = democracy
 plurality = 0

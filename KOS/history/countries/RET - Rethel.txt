@@ -1,5 +1,5 @@
 capital = 405
-primary_culture = neustrien
+primary_culture = picard
 religion = roman_catholic
 government = imperial_county
 plurality = 0

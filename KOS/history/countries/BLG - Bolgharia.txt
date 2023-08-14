@@ -1,5 +1,6 @@
 capital = 674
-primary_culture = bulgar_tatar
+primary_culture = rughan
+culture = bulgar_tatar
 religion = zalmoxis
 government = absolute_monarchy
 plurality = 0.08

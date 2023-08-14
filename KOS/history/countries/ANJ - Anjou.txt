@@ -1,5 +1,6 @@
 capital = 435
-primary_culture = neustrien
+primary_culture = rochelaes
+culture = gallo
 religion = roman_catholic
 government = imperial_duchy
 plurality = 0

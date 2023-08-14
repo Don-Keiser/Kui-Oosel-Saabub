@@ -372,28 +372,6 @@ substate = {
 	end_date = 1937.1.1
 }
 
-#Greece
-vassal = {
-	first = GRE
-	second = MCD
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = GRE
-	second = CRE
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-substate = {
-	first = GRE
-	second = CYR
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
 #Albania
 substate = {
 	first = ALB

@@ -1,12 +1,14 @@
 capital = 564
-primary_culture = ostrisch
+primary_culture = alamannisch
+culture = dieringisch
+culture = saksysk
 religion = roman_catholic
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.8
 civilized = yes
-prestige = 5
+prestige = 2
 
 # Political reforms
 slavery = no_slavery

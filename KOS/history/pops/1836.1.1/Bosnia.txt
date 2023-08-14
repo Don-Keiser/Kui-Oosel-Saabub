@@ -53,31 +53,31 @@
 #Bihac (100000/25000 POPS)
 784 = {
     aristocrats = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 400
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 300
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 200
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 1200
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 25000
     }
@@ -163,25 +163,25 @@
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 100
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 100
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 500
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 18300
     }
@@ -342,31 +342,31 @@
 #Daesitia (116000/29000 POPS)
 3591 = {
     aristocrats = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 500
     }
 
     soldiers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 1200
     }
 
     clergymen = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 200
     }
 
     artisans = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 1300
     }
 
     farmers = {
-        culture = travesz
+        culture = aranydeli
         religion = roman_catholic
         size = 20000
     }

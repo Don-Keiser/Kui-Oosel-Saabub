@@ -44,40 +44,6 @@
 
 }
 
-#Bingen
-3704 = {
-    aristocrats = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 300
-    }
-
-    soldiers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 75
-    }
-
-    farmers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 25475
-    }
-
-}
-
 #Simmern
 3711 = {
     aristocrats = {
@@ -115,21 +81,21 @@
 #Kronberg
 3705 = {
     aristocrats = {
-        culture = boarisch
+        culture = dieringisch
         religion = roman_catholic
         size = 100
     }
 
     soldiers = {
-        culture = boarisch
+        culture = dieringisch
         religion = roman_catholic
         size = 2000
     }
 
     farmers = {
-        culture = boarisch
+        culture = dieringisch
         religion = roman_catholic
-        size = 6500
+        size = 4500
     }
 
     clergymen = {
@@ -147,7 +113,7 @@
     farmers = {
         culture = thuringia_gothic
         religion = roman_catholic
-        size = 29000
+        size = 31000
     }
 
 }

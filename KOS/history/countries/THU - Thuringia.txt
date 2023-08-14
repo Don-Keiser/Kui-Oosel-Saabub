@@ -1,5 +1,5 @@
 capital = 554
-primary_culture = north_german
+primary_culture = dieringisch
 religion = roman_catholic
 government = absolute_monarchy
 plurality = 15.0
@@ -37,7 +37,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies
 
-ruling_party = SAX_reactionary
+ruling_party = SAX_conservative
 upper_house =
 {
     fascist = 0

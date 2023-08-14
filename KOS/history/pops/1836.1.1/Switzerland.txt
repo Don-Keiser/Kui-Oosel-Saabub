@@ -107,43 +107,43 @@
     }
 
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 150
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 250
     }
 
     clerks = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 100
     }
 
     craftsmen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 600
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1900
     }
 
     soldiers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1100
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 14550
     }
@@ -455,7 +455,7 @@
     aristocrats = {
         culture = burgundisch
         religion = roman_catholic
-        size = 250
+        size = 600
     }
 
     bureaucrats = {
@@ -473,13 +473,13 @@
     clergymen = {
         culture = burgundisch
         religion = roman_catholic
-        size = 275
+        size = 300
     }
 
     artisans = {
         culture = burgundisch
         religion = roman_catholic
-        size = 1250
+        size = 4500
     }
 
     soldiers = {
@@ -491,13 +491,13 @@
     farmers = {
         culture = burgundisch
         religion = roman_catholic
-        size = 10675
+        size = 17000
     }
 
     farmers = {
         culture = romansh
         religion = roman_catholic
-        size = 22400
+        size = 13000
     }
 
 }
@@ -621,31 +621,31 @@
     }
 
     aristocrats = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 75
     }
 
     clergymen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 125
     }
 
     craftsmen = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 300
     }
 
     artisans = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 925
     }
 
     farmers = {
-        culture = ostrisch
+        culture = alamannisch
         religion = roman_catholic
         size = 1550
     }
@@ -688,52 +688,6 @@
         culture = ligur
         religion = roman_catholic
         size = 2500
-    }
-
-}
-
-#Schaffhausen
-3665 = {
-    aristocrats = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 1750
-    }
-
-    bureaucrats = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 105
-    }
-
-    officers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 300
-    }
-
-    artisans = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 4500
-    }
-
-    soldiers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 1500
-    }
-
-    farmers = {
-        culture = ostrisch
-        religion = roman_catholic
-        size = 24000
     }
 
 }
