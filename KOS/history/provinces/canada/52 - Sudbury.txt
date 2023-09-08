@@ -1,5 +1,5 @@
-owner = IRO
-controller = IRO
-add_core = IRO
+owner = NVF
+controller = NVF
+add_core = NVF
 trade_goods = iron
-life_rating = 31
+life_rating = 35

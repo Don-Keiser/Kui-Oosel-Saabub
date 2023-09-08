@@ -1,5 +1,5 @@
-owner = IOW
-controller = IOW
-add_core = IOW
+owner = PEO
+controller = PEO
+add_core = PEO
 trade_goods = cattle
 life_rating = 35

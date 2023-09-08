@@ -1,5 +1,5 @@
-owner = SEL
-controller = SEL
-add_core = SEL
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = cattle
 life_rating = 35

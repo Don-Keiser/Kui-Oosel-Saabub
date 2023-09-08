@@ -1,6 +1,5 @@
-owner = NVF
-controller = NVF
-add_core = NVF
-add_core = QUE
+owner = ALQ
+controller = ALQ
+add_core = ALQ
 trade_goods = cattle
-life_rating = 30
+life_rating = 35

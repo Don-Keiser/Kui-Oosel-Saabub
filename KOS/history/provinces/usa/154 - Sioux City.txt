@@ -1,5 +1,5 @@
-owner = MGL
-controller = MGL
-add_core = MGL
+owner = IOW
+controller = IOW
+add_core = IOW
 trade_goods = grain
 life_rating = 35

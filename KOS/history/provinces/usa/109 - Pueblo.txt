@@ -1,5 +1,5 @@
-owner = STE
-controller = STE
-add_core = STE
+owner = NAH
+controller = NAH
+add_core = NAH
 trade_goods = cattle
 life_rating = 35

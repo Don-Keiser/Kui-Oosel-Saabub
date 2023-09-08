@@ -1,5 +1,5 @@
-owner = QUA
-controller = QUA
-add_core = QUA
+owner = NRE
+controller = NRE
+add_core = NRE
 trade_goods = cotton
 life_rating = 35

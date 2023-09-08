@@ -1,5 +1,5 @@
-owner = NVF
-controller = NVF
-add_core = NVF
+owner = GRF
+controller = GRF
+add_core = GRF
 trade_goods = tobacco
 life_rating = 35

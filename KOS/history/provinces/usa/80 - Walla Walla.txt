@@ -1,6 +1,6 @@
-owner = IRO
-controller = IRO
-add_core = IRO
+owner = MOH
+controller = MOH
+add_core = MOH
 trade_goods = timber
 terrain = plains
 life_rating = 35

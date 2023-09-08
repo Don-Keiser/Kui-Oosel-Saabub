@@ -147,6 +147,30 @@ imperial_county = {
     flagType = monarchy
 }
 
+imperial_city = {
+    liberal = yes
+    conservative = yes
+    reactionary = yes
+    socialist = yes
+
+    election = yes
+    duration = 48
+    appoint_ruling_party = no
+    flagType = republic
+}
+
+imperial_republic = {
+    liberal = yes
+    conservative = yes
+    reactionary = yes
+    socialist = yes
+
+    election = yes
+    duration = 48
+    appoint_ruling_party = no
+    flagType = republic
+}
+
 march = {
     liberal = yes
     conservative = yes

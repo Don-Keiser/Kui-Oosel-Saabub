@@ -1,2 +1,5 @@
+owner = SLI
+controller = SLI
+add_core = SLI
 trade_goods = grain
-life_rating = 31
+life_rating = 35

@@ -1,6 +1,6 @@
-owner = IRO
-controller = IRO
-add_core = IRO
+owner = NVF
+controller = NVF
+add_core = NVF
 trade_goods = coal
 life_rating = 35
 terrain = pittsburgh

@@ -1,7 +1,5 @@
-owner = FRA
-controller = FRA
-add_core = NVF
-add_core = QUE
+owner = SCN
+controller = SCN
+add_core = SCN
 trade_goods = timber
-life_rating = 10
-colonial = 2
+life_rating = 30

@@ -1,6 +1,6 @@
-owner = NII
-controller = NII
-add_core = NII
+owner = MGL
+controller = MGL
+add_core = MGL
 terrain = steppe
 trade_goods = grain
 life_rating = 31

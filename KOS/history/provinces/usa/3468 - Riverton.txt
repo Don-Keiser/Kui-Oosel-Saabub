@@ -1,5 +1,5 @@
-owner = KUC
-controller = KUC
-add_core = KUC
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = grain
 life_rating = 35

@@ -1,9 +1,9 @@
 capital = 37
 primary_culture = metis
 religion = tengri
-government = colonial_company
+government = march
 plurality = 5.0
-nationalvalue = nv_liberty
+nationalvalue = nv_order
 literacy = 0.17
 
 

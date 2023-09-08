@@ -1,6 +1,6 @@
-owner = ASB
-controller = ASB
-add_core = ASB
+owner = NVF
+controller = NVF
+add_core = NVF
 trade_goods = grain
 terrain = plains
-life_rating = 31
+life_rating = 35

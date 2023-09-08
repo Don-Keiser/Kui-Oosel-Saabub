@@ -1,6 +1,6 @@
-owner = ATS
-controller = ATS
-add_core = ATS
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = grain
 terrain = steppe
-life_rating = 31
+life_rating = 32

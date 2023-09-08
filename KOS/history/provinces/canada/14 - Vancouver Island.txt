@@ -1,3 +1,5 @@
+owner = SLI
+controller = SLI
+add_core = SLI
 trade_goods = coal
-life_rating = 31
-colonial = 2
+life_rating = 35

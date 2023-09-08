@@ -1,6 +1,6 @@
-owner = CIP
-controller = CIP
-add_core = CIP
+owner = SNT
+controller = SNT
+add_core = SNT
 trade_goods = cattle
 terrain = new_world_boreal
-life_rating = 25
+life_rating = 35

@@ -1,4 +1,4 @@
-color = { 219  193  109 }
+color = { 60  170  155 }
 colonial_company = { 160 64 64 }
 graphical_culture = ItalianGC
 

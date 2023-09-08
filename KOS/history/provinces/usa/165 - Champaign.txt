@@ -1,5 +1,5 @@
-owner = IRO
-controller = IRO
-add_core = IRO
+owner = KSK
+controller = KSK
+add_core = KSK
 trade_goods = coal
 life_rating = 35

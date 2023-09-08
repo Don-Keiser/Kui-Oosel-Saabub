@@ -1,6 +1,6 @@
-add_core = NVF
-add_core = QUE
+owner = GRF
+controller = GRF
+add_core = GRF
 trade_goods = timber
 terrain = new_world_boreal
-life_rating = 20
-colonial = 2
+life_rating = 32

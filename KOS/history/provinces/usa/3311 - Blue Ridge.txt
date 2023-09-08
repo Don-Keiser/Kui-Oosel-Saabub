@@ -1,5 +1,5 @@
-owner = IRO
-controller = IRO
-add_core = IRO
+owner = MOH
+controller = MOH
+add_core = MOH
 trade_goods = tobacco
 life_rating = 35

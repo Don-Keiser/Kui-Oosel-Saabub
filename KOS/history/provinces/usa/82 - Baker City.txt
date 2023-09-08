@@ -1,6 +1,5 @@
-owner = NRE
-controller = NRE
-add_core = NRE
+owner = SLI
+controller = SLI
+add_core = SLI
 trade_goods = timber
-life_rating = 20
-colonial = 2
+life_rating = 35

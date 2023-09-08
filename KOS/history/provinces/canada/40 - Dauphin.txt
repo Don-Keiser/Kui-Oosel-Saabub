@@ -1,6 +1,6 @@
-owner = MGL
-controller = MGL
-add_core = MGL
+owner = WRC
+controller = WRC
+add_core = WRC
 trade_goods = timber
 terrain = new_world_boreal
-life_rating = 31
+life_rating = 35

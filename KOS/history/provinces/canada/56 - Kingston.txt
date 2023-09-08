@@ -1,5 +1,5 @@
-owner = IRO
-controller = IRO
-add_core = IRO
+owner = HUR
+controller = HUR
+add_core = HUR
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = NRE
-controller = NRE
-add_core = NRE
+owner = TJK
+controller = TJK
+add_core = TJK
 trade_goods = tobacco
 terrain = richmond
 life_rating = 35

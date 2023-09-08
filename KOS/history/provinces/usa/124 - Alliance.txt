@@ -1,5 +1,5 @@
-owner = TET
-controller = TET
-add_core = TET
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = grain
 life_rating = 35

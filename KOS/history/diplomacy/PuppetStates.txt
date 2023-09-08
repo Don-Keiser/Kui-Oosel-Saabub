@@ -188,168 +188,6 @@ vassal = {
 	end_date = 1937.1.1
 }
 
-#Mongol Empire
-vassal = {
-	first = MGL
-	second = HPI
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = STE
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = ZNI
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = CCT
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = NBE
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = ISL
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = ACO
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = JMZ
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = JIC
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = ARH
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = KIO
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = NAI
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = QUA
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = OOT
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = IOW
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = CEY
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = KUC
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = TET
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = CRW
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = SEL
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = NII
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = ATS
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
-vassal = {
-	first = MGL
-	second = ASB
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
 #Hungary
 substate = {
 	first = HUN
@@ -396,13 +234,6 @@ substate = {
 }
 
 #France
-substate = {
-	first = FRA
-	second = NVF
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-
 vassal = {
 	first = FRA
 	second = TUS
@@ -879,3 +710,185 @@ vassal = {
     start_date = 1814.11.1
     end_date = 1936.1.1
 }
+
+#Magnum Flumen
+vassal = {
+    first = MGF
+    second = ISL
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = MGF
+    second = ACO
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Navajo
+vassal = {
+    first = NAH
+    second = ZNI
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NAH
+    second = JMZ
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NAH
+    second = CCT
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NAH
+    second = NBE
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Nouvelle France
+vassal = {
+    first = NVF
+    second = IOW
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = INN
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = TDC
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = LCA
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = GRF
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = SNO
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = IRO
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = CIP
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = SNT
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = HUR
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = MIK
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = MOH
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = YAN
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = HOC
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = PEO
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+
+vassal = {
+    first = NVF
+    second = KSK
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+
+vassal = {
+    first = NVF
+    second = MYI
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+
+vassal = {
+    first = NVF
+    second = ALQ
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = NVF
+    second = WRC
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+

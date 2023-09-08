@@ -1,5 +1,5 @@
-owner = CEY
-controller = CEY
-add_core = CEY
+owner = MGL
+controller = MGL
+add_core = MGL
 trade_goods = grain
 life_rating = 35

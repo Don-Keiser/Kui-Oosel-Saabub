@@ -1,7 +1,5 @@
-owner = NVF
-controller = NVF
-add_core = NVF
-add_core = QUE
+owner = ALQ
+controller = ALQ
+add_core = ALQ
 trade_goods = cattle
-life_rating = 38
-terrain = montreal
+life_rating = 35

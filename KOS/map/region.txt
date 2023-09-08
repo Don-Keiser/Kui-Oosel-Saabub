@@ -20,13 +20,13 @@ CAN_46 = { 46 57 55 56 52 53 54 } #Southern Ontario
 
 CAN_50 = { 49 50 51 47 48 2594 3695 3696 3697 3698 3699 3700 } #Northern Ontario
 
-CAN_58 = { 58 65 62 61 63 64 66 67 110 } #Southern Quebec
+CAN_58 = { 58 65 62 61 63 64 66 67 110 4019 4020 } #Southern Quebec
 
-CAN_60 = { 9 59 2593 2626 2592 3701 } #Northern Quebec
+CAN_60 = { 9 59 2593 2626 3701 } #Northern Quebec
 
 ENG_68 = { 68 69 70 71 72 73 3280 } #Maritimes
 
-ENG_74 = { 74 75 76 77 2625 } #Newfoundland
+ENG_74 = { 74 75 76 77 2625 2592 4017 4018 } #Scanian Quebec
 
 ### United States
 
@@ -1159,7 +1159,7 @@ MAD_2121 = { 2121 2115 2120 2119 } #North Madagascar
 
 ### Mexico
 
-MEX_2138 = { 2137 2138 2139 2140 2141 3456 } #Sonora
+MEX_2138 = { 2137 2138 2139 2140 2141 3456 4016 } #Sonora
 
 MEX_2142 = { 2142 2144 } #Chihuahua
 

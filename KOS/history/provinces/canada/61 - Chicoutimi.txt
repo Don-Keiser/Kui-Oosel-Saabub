@@ -1,7 +1,6 @@
-owner = NVF
-controller = NVF
-add_core = NVF
-add_core = QUE
+owner = TDC
+controller = TDC
+add_core = TDC
 trade_goods = grain
 terrain = new_world_boreal
-life_rating = 31
+life_rating = 35

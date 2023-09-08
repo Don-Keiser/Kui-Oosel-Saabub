@@ -1,5 +1,5 @@
-owner = IRO
-controller = IRO
-add_core = IRO
+owner = CIP
+controller = CIP
+add_core = CIP
 trade_goods = cattle
-life_rating = 31
+life_rating = 35

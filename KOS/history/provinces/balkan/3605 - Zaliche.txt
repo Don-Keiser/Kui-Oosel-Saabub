@@ -1,5 +1,5 @@
 owner = CUM
 controller = CUM
 add_core = CUM
-trade_goods = fish
+trade_goods = wool
 life_rating = 35

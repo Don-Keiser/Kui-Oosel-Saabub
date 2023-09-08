@@ -1,6 +1,3 @@
-owner = CLS
-controller = CLS
-add_core = CLS
 trade_goods = fruit
 life_rating = 35
 terrain = sanfrancisco

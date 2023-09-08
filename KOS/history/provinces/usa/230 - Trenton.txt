@@ -1,2 +1,5 @@
+owner = TJK
+controller = TJK
+add_core = TJK
 trade_goods = fish
 life_rating = 35

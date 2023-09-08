@@ -1,4 +1,5 @@
-owner = IRO
-controller = IROadd_core = IRO
+owner = TJK
+controller = TJK
+add_core = TJK
 trade_goods = grain
 life_rating = 35

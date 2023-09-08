@@ -1,6 +1,5 @@
-owner = NRE
-controller = NRE
-add_core = NRE
+owner = SLI
+controller = SLI
+add_core = SLI
 trade_goods = fish
 life_rating = 35
-terrain = new_world_semidesert

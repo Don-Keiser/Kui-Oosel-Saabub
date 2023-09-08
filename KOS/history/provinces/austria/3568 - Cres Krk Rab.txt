@@ -2,5 +2,5 @@ owner = HUN
 controller = HUN
 add_core = HIS
 add_core = HUN
-trade_goods = fish
+trade_goods = cattle
 life_rating = 35

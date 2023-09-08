@@ -1,5 +1,5 @@
-owner = JIC
-controller = JIC
-add_core = JIC
+owner = NRE
+controller = NRE
+add_core = NRE
 trade_goods = sulphur
 life_rating = 35

@@ -1,3 +1,6 @@
+owner = NAH
+controller = NAH
+add_core = NAH
 trade_goods = cattle
 life_rating = 35
 terrain = new_world_semidesert

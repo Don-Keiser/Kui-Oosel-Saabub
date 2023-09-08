@@ -1,6 +1,5 @@
-owner = NVF
-controller = NVF
-add_core = NVF
-add_core = ACA
+owner = MIK
+controller = MIK
+add_core = MIK
 trade_goods = grain
-life_rating = 30
+life_rating = 35

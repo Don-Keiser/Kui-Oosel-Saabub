@@ -1,5 +1,5 @@
-owner = ASB
-controller = ASB
-add_core = ASB
+owner = WRC
+controller = WRC
+add_core = WRC
 trade_goods = grain
-life_rating = 31
+life_rating = 35

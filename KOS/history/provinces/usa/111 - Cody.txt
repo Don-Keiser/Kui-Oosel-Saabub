@@ -1,5 +1,2 @@
-owner = CLS
-controller = CLS
-add_core = CLS
 trade_goods = coal
 life_rating = 35

@@ -7364,6 +7364,20 @@ iroquoian = {
 		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
 		}
 	}
+	wyandot = {
+		color = {25 15 70}
+		first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
+		}
+		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
+		}
+	}
+	mohawk = {
+		color = {40 10 65}
+		first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
+		}
+		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
+		}
+	}
 }
 
 #Algic
@@ -7407,6 +7421,13 @@ algic = {
 	#Central Algonquian
 	cree = {
 		color = {130 245 100}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	montagnais = {
+		color = {145 230 110}
 		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
 		}
 		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
@@ -7601,81 +7622,158 @@ amerindo_roman = {
 	is_overseas = no
 	novus_romanus = {
 		color = {159  8  7}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-	}
+        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+
+        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+    }
 	anidugus = {
 		color = {140 74 82}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-	}
+        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+
+        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+    }
 	timocuanus = {
 		color = {175 146 42}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-	}
+        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+
+        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+    }
 	mescogus = {
 		color = {143 146 143}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-	}
+        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+
+        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+    }
 	semaenoli = {
 		color = {158 56 22}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-	}
+        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+
+        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+    }
 	sanuaci = {
 		color = {140 146 42}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-	}
+        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+
+        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+    }
 	satae = {
 		color = {136 174 140}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-	}
+        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+
+        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+    }
 	sicasae = {
 		color = {173 174 155}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-	}
+        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+
+        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+    }
 	caddeus = {
 		color = {173 121 155}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-	}
+        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+
+        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+    }
 	kiticus = {
 		color = {116 97 27}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-	}
+        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+
+        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+    }
 	niminii = {
 		color = {193 97 27}
-		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
-        }
-        last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-        }
-	}
+        first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo
+        Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando
+        Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo
+        Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero
+        Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+
+        last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello
+        Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia"
+        "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Màrmora" Mambretti
+        Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
+        Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+    }
 }
 
 #Arawakian
@@ -7691,7 +7789,7 @@ arawak_group  = {
 	
 		last_names = { Atapashuna Epieyu Iguana Jayaliyuu Jusayuu Pausayuu Sapuana Tijuana Uliana Uliyuu
 		Uraliyyu Ulewana Walapuana Walepushana }
-	 }
+	}
 	 
 	siboney = {
 		color = {145 145 250}
@@ -7701,7 +7799,7 @@ arawak_group  = {
 	
 		last_names = { Atapashuna Epieyu Iguana Jayaliyuu Jusayuu Pausayuu Sapuana Tijuana Uliana Uliyuu
 		Uraliyyu Ulewana Walapuana Walepushana }
-	 }
+	}
 }
 
 #Caribbean Isolates
@@ -7717,5 +7815,31 @@ caribbean_isolates  = {
 		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
 		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
 		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
+	}
+}
+
+#Salish
+salish_group  = {
+	leader = nativeamerican
+	is_overseas = no
+	#Caribbean
+	xwlemi = {
+		color = {132 158 80}
+		first_names = { Baltasar Bernardo Carlos Celestino Diego Emilio Felipe Fernando Fidel Francisco
+		Gaspar Gregorio Hugo Ignacio José Juan Manuel Marcos Mario Mateo
+		Melchor Narciso Pablo Pedro Ramón Roberto Santiago Sebastián Simón Tomás }
+	
+		last_names = { Atapashuna Epieyu Iguana Jayaliyuu Jusayuu Pausayuu Sapuana Tijuana Uliana Uliyuu
+		Uraliyyu Ulewana Walapuana Walepushana }
+	}
+	 
+	cowichan = {
+		color = {164 196 100}
+		first_names = { Baltasar Bernardo Carlos Celestino Diego Emilio Felipe Fernando Fidel Francisco
+		Gaspar Gregorio Hugo Ignacio José Juan Manuel Marcos Mario Mateo
+		Melchor Narciso Pablo Pedro Ramón Roberto Santiago Sebastián Simón Tomás }
+	
+		last_names = { Atapashuna Epieyu Iguana Jayaliyuu Jusayuu Pausayuu Sapuana Tijuana Uliana Uliyuu
+		Uraliyyu Ulewana Walapuana Walepushana }
 	}
 }

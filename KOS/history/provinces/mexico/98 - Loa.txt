@@ -1,6 +1,6 @@
-owner = STE
-controller = STE
-add_core = STE
+owner = NAH
+controller = NAH
+add_core = NAH
 terrain = new_world_semidesert
 trade_goods = grain
 life_rating = 35

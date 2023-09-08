@@ -2,5 +2,5 @@ owner = RET
 controller = RET
 add_core = RET
 add_core = FRA
-trade_goods = fish
+trade_goods = grain
 life_rating = 35
