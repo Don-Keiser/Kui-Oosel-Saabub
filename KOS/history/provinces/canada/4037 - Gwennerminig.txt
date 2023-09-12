@@ -1,0 +1,5 @@
+owner = GWE
+controller = GWE
+add_core = GWE
+trade_goods = iron
+life_rating = 35

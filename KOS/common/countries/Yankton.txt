@@ -1,5 +1,5 @@
 color = { 90  128  32 }
-imperial_republic = { 142 97 173 }
+imperial_republic = { 126 186 199}
 graphical_culture = Generic
 
 party = {

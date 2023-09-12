@@ -1,0 +1,5 @@
+owner = INZ
+controller = INZ
+add_core = INZ
+trade_goods = timber
+life_rating = 35

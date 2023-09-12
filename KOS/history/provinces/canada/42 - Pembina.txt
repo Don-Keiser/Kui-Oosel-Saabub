@@ -1,6 +1,6 @@
-owner = NVF
-controller = NVF
-add_core = NVF
+owner = OGC
+controller = OGC
+add_core = OGC
 trade_goods = grain
 terrain = plains
 life_rating = 35

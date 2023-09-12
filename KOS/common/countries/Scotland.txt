@@ -1,5 +1,5 @@
 color = { 10  170  144 }
-march = { 49 37 89 }
+march = { 28 21 51 }
 graphical_culture = EuropeanGC
 
 party = {

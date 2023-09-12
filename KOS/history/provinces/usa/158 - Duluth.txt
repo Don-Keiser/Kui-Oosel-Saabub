@@ -1,5 +1,5 @@
-owner = NVF
-controller = NVF
-add_core = NVF
+owner = KSR
+controller = KSR
+add_core = KSR
 trade_goods = fish
 life_rating = 35

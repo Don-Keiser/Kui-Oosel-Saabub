@@ -1,0 +1,6 @@
+owner = XTR
+controller = XTR
+add_core = XTR
+trade_goods = grain
+life_rating = 35
+terrain = toronto

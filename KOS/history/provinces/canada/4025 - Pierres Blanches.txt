@@ -1,0 +1,5 @@
+owner = NVF
+controller = NVF
+add_core = NVF
+trade_goods = timber
+life_rating = 35

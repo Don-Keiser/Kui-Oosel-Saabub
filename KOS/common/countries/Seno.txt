@@ -1,5 +1,5 @@
 color = { 180  190  150 }
-march = { 87 80 125 }
+march = { 159 226 235 }
 graphical_culture = FrenchGC
 
 party = {

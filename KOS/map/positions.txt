@@ -136655,3 +136655,87 @@
 4020 = {
     text_scale = 1.4
 }
+
+4021 = {
+    text_scale = 1.4
+}
+
+4022 = {
+    text_scale = 1.4
+}
+
+4023 = {
+    text_scale = 1.4
+}
+
+4024 = {
+    text_scale = 1.4
+}
+
+4025 = {
+    text_scale = 1.4
+}
+
+4026 = {
+    text_scale = 1.4
+}
+
+4027 = {
+    text_scale = 1.4
+}
+
+4028 = {
+    text_scale = 1.4
+}
+
+4029 = {
+    text_scale = 1.4
+}
+
+4030 = {
+    text_scale = 1.4
+}
+
+4031 = {
+    text_scale = 1.4
+}
+
+4032 = {
+    text_scale = 1.4
+}
+
+4033 = {
+    text_scale = 1.4
+}
+
+4034 = {
+    text_scale = 1.4
+}
+
+4035 = {
+    text_scale = 1.4
+}
+
+4036 = {
+    text_scale = 1.4
+}
+
+4037 = {
+    text_scale = 1.4
+}
+
+4038 = {
+    text_scale = 1.4
+}
+
+4039 = {
+    text_scale = 1.4
+}
+
+4040 = {
+    text_scale = 1.4
+}
+
+4041 = {
+    text_scale = 1.4
+}

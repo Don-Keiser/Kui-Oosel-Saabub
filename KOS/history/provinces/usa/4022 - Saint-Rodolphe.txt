@@ -1,0 +1,6 @@
+owner = SRP
+controller = SRP
+add_core = SRP
+trade_goods = timber
+life_rating = 35
+naval_base = 1

@@ -1,4 +1,4 @@
-color = { 35 26 63 }
+color = { 21 16 38 }
 graphical_culture = SwedishGC
 
 party = {

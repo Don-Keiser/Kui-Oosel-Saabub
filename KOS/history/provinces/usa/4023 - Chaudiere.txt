@@ -1,0 +1,5 @@
+owner = CCD
+controller = CCD
+add_core = CCD
+trade_goods = grain
+life_rating = 35

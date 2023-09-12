@@ -1,5 +1,5 @@
-owner = NVF
-controller = NVF
-add_core = NVF
+owner = LRN
+controller = LRN
+add_core = LRN
 trade_goods = grain
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = NVF
-controller = NVF
-add_core = NVF
+owner = SSC
+controller = SSC
+add_core = SSC
 trade_goods = coal
 life_rating = 35

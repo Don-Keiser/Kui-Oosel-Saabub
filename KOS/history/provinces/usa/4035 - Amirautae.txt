@@ -1,0 +1,5 @@
+owner = AMR
+controller = AMR
+add_core = AMR
+trade_goods = fish
+life_rating = 35

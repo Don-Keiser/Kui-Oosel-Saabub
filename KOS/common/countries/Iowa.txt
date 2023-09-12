@@ -1,5 +1,5 @@
 color = { 160  150  125 }
-imperial_duchy = { 142 97 173 }
+imperial_duchy = { 126 186 199 }
 graphical_culture = AsianGC
 
 party = {

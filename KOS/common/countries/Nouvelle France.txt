@@ -1,4 +1,4 @@
-color = { 76 65 130 }
+color = { 88 142 142 }
 graphical_culture = FrenchGC
 
 party = {

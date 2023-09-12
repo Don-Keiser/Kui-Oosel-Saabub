@@ -1,5 +1,5 @@
-owner = NVF
-controller = NVF
-add_core = NVF
+owner = GRL
+controller = GRL
+add_core = GRL
 trade_goods = timber
 life_rating = 35

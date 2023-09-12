@@ -1,6 +1,6 @@
-owner = NVF
-controller = NVF
-add_core = NVF
+owner = TSD
+controller = TSD
+add_core = TSD
 trade_goods = coal
 life_rating = 35
 terrain = cleveland

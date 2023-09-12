@@ -1,8 +1,7 @@
-owner = NVF
-controller = NVF
-add_core = NVF
-add_core = ACA
+owner = GTR
+controller = GTR
+add_core = GTR
 trade_goods = fish
-life_rating = 31
+life_rating = 35
 naval_base = 1
 fort = 1

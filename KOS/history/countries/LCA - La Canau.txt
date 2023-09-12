@@ -1,4 +1,4 @@
-capital = 4020
+capital = 246
 primary_culture = aquitan
 religion = roman_catholic
 government = imperial_city

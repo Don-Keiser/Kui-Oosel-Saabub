@@ -1,5 +1,5 @@
 color = { 60  160  200 }
-imperial_city = { 65 50 150 }
+imperial_city = { 108 168 176 }
 graphical_culture = EuropeanGC
 
 party = {

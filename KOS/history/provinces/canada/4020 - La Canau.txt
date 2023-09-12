@@ -1,6 +1,6 @@
-owner = LCA
-controller = LCA
-add_core = LCA
+owner = SJH
+controller = SJH
+add_core = SJH
 trade_goods = grain
 terrain = new_world_boreal
 life_rating = 35

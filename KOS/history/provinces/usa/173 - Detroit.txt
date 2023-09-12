@@ -1,6 +1,6 @@
-owner = NVF
-controller = NVF
-add_core = NVF
+owner = LBL
+controller = LBL
+add_core = LBL
 trade_goods = timber
 life_rating = 35
 terrain = detroit

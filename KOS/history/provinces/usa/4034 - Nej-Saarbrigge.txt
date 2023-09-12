@@ -1,0 +1,5 @@
+owner = NJS
+controller = NJS
+add_core = NJS
+trade_goods = grain
+life_rating = 35

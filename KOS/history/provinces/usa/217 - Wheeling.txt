@@ -1,6 +1,6 @@
-owner = NVF
-controller = NVF
-add_core = NVF
+owner = VRB
+controller = VRB
+add_core = VRB
 trade_goods = coal
 life_rating = 35
 terrain = montane_forest

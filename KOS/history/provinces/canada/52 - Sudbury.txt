@@ -1,5 +1,5 @@
-owner = NVF
-controller = NVF
-add_core = NVF
+owner = GDC
+controller = GDC
+add_core = GDC
 trade_goods = iron
 life_rating = 35

@@ -1,0 +1,5 @@
+owner = VRB
+controller = VRB
+add_core = VRB
+trade_goods = grain
+life_rating = 35
