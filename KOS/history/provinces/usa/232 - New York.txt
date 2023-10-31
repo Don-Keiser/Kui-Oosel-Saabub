@@ -1,6 +1,6 @@
-owner = TJK
-controller = TJK
-add_core = TJK
+owner = LEN
+controller = LEN
+add_core = LEN
 trade_goods = grain
 life_rating = 35
 terrain = newyork

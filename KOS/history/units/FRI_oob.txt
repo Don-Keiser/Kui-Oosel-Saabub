@@ -140,35 +140,6 @@ army = {
     }
 }
 
-army = {
-    name = "Nije Wrâld Garnizoen"
-    location = 232
-
-    regiment = {
-        name= "Earste Ynfanterydivyzje"
-        type = infantry
-        home = 219
-    }
-
-    regiment = {
-        name= "Twadde Ynfanterydivyzje"
-        type = infantry
-        home = 219
-    }
-	
-	regiment = {
-        name= "Tredde Ynfanterydivyzje"
-        type = infantry
-        home = 219
-    }
-	
-	regiment = {
-        name= "Earste Kavalerydivyzje"
-        type = hussar
-        home = 213
-    }
-}
-
 navy = {
     name = "Escadre du Nord"
     location = 375
@@ -341,7 +312,7 @@ navy = {
 
 navy = {
     name = "Escadre de Méditerranée"
-    location = 232
+    location = 219
     ship = {
         name= "Triton"
         type = manowar

@@ -1,5 +1,6 @@
 capital = 243
 primary_culture = rochelaes
+culture = creaul
 religion = roman_catholic
 government = imperial_duchy
 plurality = 5.0

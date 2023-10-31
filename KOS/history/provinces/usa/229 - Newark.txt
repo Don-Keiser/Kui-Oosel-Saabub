@@ -1,5 +1,5 @@
-owner = TJK
-controller = TJK
-add_core = TJK
+owner = LEN
+controller = LEN
+add_core = LEN
 trade_goods = iron
 life_rating = 35

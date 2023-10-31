@@ -6314,6 +6314,20 @@ african_diaspora_cultures = {
             Madiou Péralte Pierrot Planchet Price Price-Mars Riché Rigaud Rivière-Hérard Roumain
             Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor }
     }
+    creaul = {
+        color = { 63 32 10 }
+        first_names = { Alexis André Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles
+            Cincinnatus Dantès Demesvar Denys Emmanuel Eugène Fabre Faustin Florvil François
+            Guillaume Hannibal Henri Jacques Jean Jean-Baptiste Jean-Louis Jean-Pierre Jonathas Joseph
+            Léon Louis Louis-Eugène Louis-Joseph Lysius Michel Monpoint Nissage Nord Oreste
+            Philippe Pierre Simon Sténio Sylvain Tandredè Thomas Timoleón Tirésias Vilbrum }
+
+            last_names = { Alexis Ardouin Auguste Bellegarde Boisrond-Canal Bonnet Borno Boyer Brutus Christophe
+            Conzé Dartiguenave Delorme Dessalines Domingue Firmin Geffrad Granville Guerrier Hyppolite
+            Iginac Janvier Jeune Lafontant Laleau Leconte Légitime Legouaze Léon Lhérisson
+            Madiou Péralte Pierrot Planchet Price Price-Mars Riché Rigaud Rivière-Hérard Roumain
+            Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor }
+    }
     griqua = {
         color = {165 105 0}
         first_names = { Sarel Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan Louis Petrus Paul Eugene Joubert
@@ -6351,15 +6365,35 @@ african_diaspora_cultures = {
             Yvel "La Rose" Ignacio Hoost Overeem Manhoef Salome "van Dijk" "van Kallen" Vandenbranden "Van den Branden" Schomburg
         }
     }
-	afro_phoenician = {
-        color = {142 114 0}
-        first_names = { Antonio Armando Arsenio Arturo Bartolomé Carlos Dámaso Enrique Francisco Generoso
-        Guillermo Gumersindo Ignacio Israel Jacinto Jaime "José Celso" Juan Luciano Mario
-        Máximo Nelson Nicolás Orestes Orlando Pedro Pío Ramón Rubén Wifredo }
-
-        last_names = { Albizu Barbosa Barreto Bauzá Díaz Egües Estupiñán Garay González Guillén
-        Gutiérrez Hurtado Jiménez Jorrín Lam Leyva López Maceo Moré Morel
-        Peraza Pérez Piñeiro Pozo Repilado Rodríguez Santamaría Schomburg Valdés Villa }
+    afro_frisian = {
+        color = {114 68 63}
+        first_names = { Sarel Rudolf Andries Piet Racheltjie Dirkie Siener Koos Danie Louis Petrus Eugene Joubert
+            Adolf Adriaan Alexander Andreas Antoon Antonius Abraham
+            Barthout
+            Casimir Constantijn Cornelis Christiaan Christoffel
+            Daniël David Dominicus Daniel Dirk
+            Elias Ernst Erwin Eise
+            Frans Frederik
+            Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
+            Hendrik Hans Hugo
+            Isaac
+            Johan Jurgen Jacob Jeroen Jan Joost
+            Karel Kasper
+            Luuk Lodewijk Laurens
+            Marius Matthijs Maximiliaam Merkus Moritz Maurits
+            Nikolaas
+            Pauwel Paul Pieter
+            Quinten
+            Rafaël Ruben Roeland Rogier Rutger
+            Stefan Simon
+            Thomas
+            Victor Willem Vincent
+            Zacharias
+            José Alberto Manuel Miguel Mauricio Pedro Raul Jacobo
+        }
+        last_names = { Engelbrecht Adams Brandt Grae Lottering Jansen Accord "van Aanholt" Cooman Dijk Eind Eli Faeber Groenhart "de Sa" Valpoort Wijnaldum Zeefuik Zimmerman
+            Yvel "La Rose" Ignacio Hoost Overeem Manhoef Salome "van Dijk" "van Kallen" Vandenbranden "Van den Branden" Schomburg
+        }
     }
 }
 
@@ -7378,6 +7412,13 @@ iroquoian = {
 		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
 		}
 	}
+	andaste = {
+		color = {60 10 65}
+		first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
+		}
+		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
+		}
+	}
 }
 
 #Algic
@@ -7609,6 +7650,13 @@ siouan = {
 	#Eastern Siouan
 	catawban  = {
 		color = {110 65 75}
+		first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
+		}
+		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
+		}
+	}
+	mohacan  = {
+		color = {130 65 75}
 		first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
 		}
 		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja

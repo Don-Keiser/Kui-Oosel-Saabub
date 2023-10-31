@@ -1,0 +1,5 @@
+owner = LRN
+controller = LRN
+add_core = LRN
+trade_goods = tobacco
+life_rating = 35

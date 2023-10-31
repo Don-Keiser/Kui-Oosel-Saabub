@@ -1,5 +1,5 @@
-owner = TJK
-controller = TJK
-add_core = TJK
+owner = ADS
+controller = ADS
+add_core = ADS
 trade_goods = tobacco
 life_rating = 35

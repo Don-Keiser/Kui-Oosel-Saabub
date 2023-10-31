@@ -1,0 +1,818 @@
+#Novele Rochele
+243 = {
+    bureaucrats = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 250
+    }
+	
+    officers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 990
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 10000
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1800
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 42000
+    }
+	
+    clergymen = {
+        culture = creaul
+        religion = roman_catholic
+        size = 440
+    }
+	
+    artisans = {
+        culture = creaul
+        religion = roman_catholic
+        size = 4600
+    }
+
+    soldiers = {
+        culture = creaul
+        religion = roman_catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = creaul
+        religion = roman_catholic
+        size = 16800
+    }
+	
+    clergymen = {
+        culture = massachusett
+        religion = roman_catholic
+        size = 120
+    }
+	
+    artisans = {
+        culture = massachusett
+        religion = roman_catholic
+        size = 1720
+    }
+
+    farmers = {
+        culture = massachusett
+        religion = roman_catholic
+        size = 5000
+    }
+	
+    farmers = {
+        culture = gallo
+        religion = roman_catholic
+        size = 12200
+    }
+	
+    farmers = {
+        culture = creissent
+        religion = roman_catholic
+        size = 2300
+    }
+	
+    farmers = {
+        culture = gruttfrysk
+        religion = african_catholic
+        size = 5000
+    }
+}
+
+#Croesai-lEtoele
+244 = {
+    officers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 165
+    }
+
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 600
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 4815
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 2700
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 33300
+    }
+	
+    clergymen = {
+        culture = creaul
+        religion = roman_catholic
+        size = 170
+    }
+	
+    artisans = {
+        culture = creaul
+        religion = roman_catholic
+        size = 1080
+    }
+
+    farmers = {
+        culture = creaul
+        religion = roman_catholic
+        size = 5310
+    }
+	
+    clergymen = {
+        culture = massachusett
+        religion = roman_catholic
+        size = 220
+    }
+	
+    artisans = {
+        culture = massachusett
+        religion = roman_catholic
+        size = 2470
+    }
+
+    farmers = {
+        culture = massachusett
+        religion = roman_catholic
+        size = 7315
+    }
+	
+    farmers = {
+        culture = gallo
+        religion = roman_catholic
+        size = 7020
+    }
+	
+    farmers = {
+        culture = breton
+        religion = roman_catholic
+        size = 2100
+    }
+}
+
+#Escqetenbae
+241 = {
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 320
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 3500
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 9500
+    }
+	
+    artisans = {
+        culture = creaul
+        religion = roman_catholic
+        size = 660
+    }
+
+    farmers = {
+        culture = creaul
+        religion = roman_catholic
+        size = 2700
+    }
+	
+    clergymen = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 280
+    }
+	
+    artisans = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 3240
+    }
+
+    farmers = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 15800
+    }
+	
+    farmers = {
+        culture = gallo
+        religion = roman_catholic
+        size = 5000
+    }
+}
+
+#Ptitmarae
+242 = {
+    bureaucrats = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 80
+    }
+
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 470
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 4200
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 24320
+    }
+	
+    clergymen = {
+        culture = creaul
+        religion = roman_catholic
+        size = 150
+    }
+	
+    artisans = {
+        culture = creaul
+        religion = roman_catholic
+        size = 1250
+    }
+	
+    clergymen = {
+        culture = narragansett_secatogue
+        religion = roman_catholic
+        size = 230
+    }
+	
+    artisans = {
+        culture = narragansett_secatogue
+        religion = roman_catholic
+        size = 3060
+    }
+
+    farmers = {
+        culture = narragansett_secatogue
+        religion = roman_catholic
+        size = 10500
+    }
+	
+    farmers = {
+        culture = gallo
+        religion = roman_catholic
+        size = 12750
+    }
+	
+    farmers = {
+        culture = breton
+        religion = roman_catholic
+        size = 1600
+    }
+}
+
+#Muscqetie
+247 = {
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 390
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 2300
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 13000
+    }
+	
+    soldiers = {
+        culture = creaul
+        religion = roman_catholic
+        size = 1850
+    }
+	
+    clergymen = {
+        culture = nipmuc
+        religion = roman_catholic
+        size = 470
+    }
+	
+    artisans = {
+        culture = nipmuc
+        religion = roman_catholic
+        size = 3200
+    }
+
+    farmers = {
+        culture = nipmuc
+        religion = roman_catholic
+        size = 23600
+    }
+}
+
+#Sent-Jhenerus
+4042 = {
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 580
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 3600
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 26000
+    }
+	
+    clergymen = {
+        culture = creaul
+        religion = roman_catholic
+        size = 280
+    }
+	
+    artisans = {
+        culture = creaul
+        religion = roman_catholic
+        size = 2700
+    }
+
+    farmers = {
+        culture = creaul
+        religion = roman_catholic
+        size = 9300
+    }
+	
+    clergymen = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 340
+    }
+	
+    artisans = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 3300
+    }
+
+    farmers = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 11300
+    }
+	
+    farmers = {
+        culture = gallo
+        religion = roman_catholic
+        size = 9600
+    }
+	
+    farmers = {
+        culture = creissent
+        religion = roman_catholic
+        size = 4800
+    }
+}
+
+#Nipnete
+4043 = {
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 190
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1700
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 8500
+    }
+
+    soldiers = {
+        culture = creaul
+        religion = roman_catholic
+        size = 1000
+    }
+	
+    clergymen = {
+        culture = nipmuc
+        religion = roman_catholic
+        size = 220
+    }
+	
+    artisans = {
+        culture = nipmuc
+        religion = roman_catholic
+        size = 2900
+    }
+
+    farmers = {
+        culture = nipmuc
+        religion = roman_catholic
+        size = 18000
+    }
+}
+
+#Burevile
+4044 = {
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 450
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 5350
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1500
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 19500
+    }
+	
+    clergymen = {
+        culture = creaul
+        religion = roman_catholic
+        size = 440
+    }
+	
+    artisans = {
+        culture = creaul
+        religion = roman_catholic
+        size = 5800
+    }
+	
+    soldiers = {
+        culture = creaul
+        religion = roman_catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = creaul
+        religion = roman_catholic
+        size = 22000
+    }
+	
+    clergymen = {
+        culture = massachusett
+        religion = roman_catholic
+        size = 260
+    }
+	
+    artisans = {
+        culture = massachusett
+        religion = roman_catholic
+        size = 2200
+    }
+
+    farmers = {
+        culture = massachusett
+        religion = roman_catholic
+        size = 10500
+    }
+	
+    farmers = {
+        culture = gallo
+        religion = roman_catholic
+        size = 2000
+    }
+}
+
+#Pichaetoche
+4045 = {
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 100
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1800
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 9000
+    }
+	
+    clergymen = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 180
+    }
+	
+    artisans = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 2600
+    }
+
+    farmers = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 16000
+    }
+	
+    farmers = {
+        culture = gallo
+        religion = roman_catholic
+        size = 1000
+    }
+	
+    farmers = {
+        culture = lenape
+        religion = african_catholic
+        size = 2000
+    }
+}
+
+#Fort Fribu
+4046 = {
+    officers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 80
+    }
+
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 150
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 2800
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 14000
+    }
+	
+    clergymen = {
+        culture = creaul
+        religion = roman_catholic
+        size = 80
+    }
+	
+    artisans = {
+        culture = creaul
+        religion = roman_catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = creaul
+        religion = roman_catholic
+        size = 1500
+    }
+	
+    clergymen = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 100
+    }
+	
+    artisans = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 2200
+    }
+
+    farmers = {
+        culture = quiripi
+        religion = roman_catholic
+        size = 9000
+    }
+	
+    farmers = {
+        culture = lenape
+        religion = african_catholic
+        size = 3300
+    }
+	
+    farmers = {
+        culture = gallo
+        religion = roman_catholic
+        size = 1400
+    }
+	
+    artisans = {
+        culture = gruttfrysk
+        religion = african_catholic
+        size = 1400
+    }
+
+    soldiers = {
+        culture = gruttfrysk
+        religion = african_catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = gruttfrysk
+        religion = african_catholic
+        size = 2000
+    }
+}
+
+#Ile Tallebur
+233 = {
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 175
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 2400
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 10000
+    }
+	
+    clergymen = {
+        culture = creaul
+        religion = roman_catholic
+        size = 100
+    }
+	
+    artisans = {
+        culture = creaul
+        religion = roman_catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = creaul
+        religion = roman_catholic
+        size = 2800
+    }
+	
+    clergymen = {
+        culture = narragansett_secatogue
+        religion = roman_catholic
+        size = 120
+    }
+	
+    artisans = {
+        culture = narragansett_secatogue
+        religion = roman_catholic
+        size = 1400
+    }
+
+    farmers = {
+        culture = narragansett_secatogue
+        religion = roman_catholic
+        size = 5000
+    }
+	
+    farmers = {
+        culture = lenape
+        religion = african_catholic
+        size = 4500
+    }
+	
+    farmers = {
+        culture = gallo
+        religion = roman_catholic
+        size = 2500
+    }
+	
+    artisans = {
+        culture = gruttfrysk
+        religion = african_catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = gruttfrysk
+        religion = african_catholic
+        size = 2100
+    }
+}

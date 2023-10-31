@@ -1,5 +1,5 @@
 owner = LRN
 controller = LRN
 add_core = LRN
-trade_goods = fish
+trade_goods = grain
 life_rating = 35

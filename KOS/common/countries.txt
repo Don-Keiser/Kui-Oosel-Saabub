@@ -1110,6 +1110,9 @@ KSR     = "countries/Kustenring.txt"
 NBZ     = "countries/Neu-Bisanz.txt"
 EBL     = "countries/Ebenenland.txt"
 OGC     = "countries/Orgochid.txt"
+MOC     = "countries/Monacan.txt"
+LEN     = "countries/Lenape.txt"
+ADS     = "countries/Andaste.txt"
 
 
 ##HoD Dominions
