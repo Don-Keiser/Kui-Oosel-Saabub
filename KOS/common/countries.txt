@@ -1113,6 +1113,7 @@ OGC     = "countries/Orgochid.txt"
 MOC     = "countries/Monacan.txt"
 LEN     = "countries/Lenape.txt"
 ADS     = "countries/Andaste.txt"
+NWG		= "countries/Nowa Gdanszcz.txt"
 
 
 ##HoD Dominions

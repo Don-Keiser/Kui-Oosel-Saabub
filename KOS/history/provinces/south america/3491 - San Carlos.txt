@@ -1,3 +1,6 @@
+owner = NWG
+controller = NWG
+add_core = NWG
 trade_goods = coffee
-life_rating = 39
+life_rating = 38
 terrain = jungle_mountains
