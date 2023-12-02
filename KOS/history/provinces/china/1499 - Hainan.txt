@@ -1,6 +1,6 @@
-owner = KAU
-controller = KAU
-add_core = KAU
+owner = SHN
+controller = SHN
+add_core = SHN
 trade_goods = fish
 life_rating = 40
 terrain = hainan

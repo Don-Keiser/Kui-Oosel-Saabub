@@ -1,7 +1,6 @@
-owner = KAU
-controller = KAU
-add_core = KAU
-add_core = DAI
+owner = CAM
+controller = CAM
+add_core = CAM
 trade_goods = cattle
 life_rating = 38
 naval_base = 1

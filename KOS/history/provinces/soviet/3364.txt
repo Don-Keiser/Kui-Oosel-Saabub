@@ -1,5 +1,5 @@
-owner = KAU
-controller = KAU
+owner = SHN
+controller = SHN
 add_core = CHI
 add_core = SHN
 trade_goods = tea

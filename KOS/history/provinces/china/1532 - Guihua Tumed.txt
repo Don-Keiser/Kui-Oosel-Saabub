@@ -1,7 +1,6 @@
-owner = SHN
-controller = SHN
-add_core = CHI
-add_core = SHN
+owner = BRY
+controller = BRY
+add_core = BRY
 trade_goods = iron
 life_rating = 32
 terrain = semi_desert_mountains
