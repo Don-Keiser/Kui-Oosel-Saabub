@@ -1,6 +1,7 @@
-owner = BRY
-controller = BRY
-add_core = BRY
+owner = XQN
+controller = XQN
+add_core = XQN
+add_core = CHI
 trade_goods = iron
 life_rating = 32
 terrain = semi_desert_mountains

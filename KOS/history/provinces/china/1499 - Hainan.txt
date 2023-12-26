@@ -1,6 +1,7 @@
-owner = SHN
-controller = SHN
-add_core = SHN
+owner = XMI
+controller = XMI
+add_core = XMI
+add_core = CHI
 trade_goods = fish
 life_rating = 40
 terrain = hainan

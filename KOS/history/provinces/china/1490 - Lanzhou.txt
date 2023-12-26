@@ -1,7 +1,6 @@
-owner = SHN
-controller = SHN
+owner = XQN
+controller = XQN
+add_core = XQN
 add_core = CHI
-add_core = SHN
-add_core = XBI
 trade_goods = timber
 life_rating = 32

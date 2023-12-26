@@ -1114,6 +1114,15 @@ MOC     = "countries/Monacan.txt"
 LEN     = "countries/Lenape.txt"
 ADS     = "countries/Andaste.txt"
 NWG		= "countries/Nowa Gdanszcz.txt"
+XYA     = "countries/Yan.txt"
+XQN     = "countries/Qin.txt"
+XQI     = "countries/Qi.txt"
+XLU     = "countries/Lu.txt"
+XEE     = "countries/E State.txt"
+XWU     = "countries/Wu.txt"
+XCH     = "countries/Changsha.txt"
+XHU     = "countries/Huainan.txt"
+XMI     = "countries/Min.txt"
 
 
 ##HoD Dominions

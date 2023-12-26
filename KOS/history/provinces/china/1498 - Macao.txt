@@ -1,8 +1,7 @@
-owner = SHN
-controller = SHN
+owner = XMI
+controller = XMI
+add_core = XMI
 add_core = CHI
-add_core = SHN
-add_core = GNG
 trade_goods = precious_goods
 life_rating = 35
 terrain = macao

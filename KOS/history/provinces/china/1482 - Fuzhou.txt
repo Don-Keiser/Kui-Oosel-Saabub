@@ -1,7 +1,6 @@
-owner = SHN
-controller = SHN
+owner = XMI
+controller = XMI
+add_core = XMI
 add_core = CHI
-add_core = SHN
-add_core = FJN
 trade_goods = tea
 life_rating = 35 

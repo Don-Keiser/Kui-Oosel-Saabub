@@ -1,7 +1,7 @@
-owner = SHN
-controller = SHN
+owner = XYA
+controller = XYA
+add_core = XYA
 add_core = CHI
-add_core = SHN
 trade_goods = tea
 life_rating = 32
 terrain = peking

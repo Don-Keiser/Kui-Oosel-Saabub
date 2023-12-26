@@ -1,7 +1,7 @@
-owner = SHN
-controller = SHN
+owner = XQI
+controller = XQI
+add_core = XQI
 add_core = CHI
-add_core = SHN
 trade_goods = fruit
 life_rating = 32
 terrain = qingdao

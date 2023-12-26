@@ -1052,4 +1052,55 @@ vassal = {
     end_date = 1936.1.1
 }
 
+#Zhou
+vassal = {
+    first = SHN
+    second = XYA
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = SHN
+    second = XQN
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = SHN
+    second = XEE
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = SHN
+    second = XWU
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = SHN
+    second = XCH
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = SHN
+    second = XHU
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
+#Qi
+vassal = {
+    first = XQI
+    second = XLU
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+
 

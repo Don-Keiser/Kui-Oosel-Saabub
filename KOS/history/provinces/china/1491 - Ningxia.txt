@@ -1,6 +1,6 @@
-owner = SHN
-controller = SHN
+owner = XQN
+controller = XQN
+add_core = XQN
 add_core = CHI
-add_core = SHN
 trade_goods = grain
 life_rating = 32
