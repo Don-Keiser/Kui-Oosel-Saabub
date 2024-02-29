@@ -1,0 +1,5 @@
+owner = SOO
+controller = SOO
+add_core = SOO
+trade_goods = coal
+life_rating = 38

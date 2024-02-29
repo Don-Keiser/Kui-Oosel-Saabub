@@ -1123,6 +1123,10 @@ XWU     = "countries/Wu.txt"
 XCH     = "countries/Changsha.txt"
 XHU     = "countries/Huainan.txt"
 XMI     = "countries/Min.txt"
+URQ     = "countries/Urqi.txt"
+AAP     = "countries/Ataropouli.txt"
+ODC     = "countries/Ordo dezu Crutze.txt"
+SOO     = "countries/Soor.txt"
 
 
 ##HoD Dominions

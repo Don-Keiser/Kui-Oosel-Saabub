@@ -105,6 +105,13 @@ alliance = {
     start_date = 1835.1.1
     end_date = 1861.1.1
 }
+#Ispannia/Muretannia
+alliance = {
+    first = ISP
+    second = MTN
+    start_date = 1835.1.1
+    end_date = 1861.1.1
+}
 #China/Lanfang
  alliance = {
      first = QNG

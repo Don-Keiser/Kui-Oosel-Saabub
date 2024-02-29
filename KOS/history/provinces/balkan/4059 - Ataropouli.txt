@@ -1,0 +1,5 @@
+owner = AAP
+controller = AAP
+add_core = AAP
+trade_goods = fruit
+life_rating = 35

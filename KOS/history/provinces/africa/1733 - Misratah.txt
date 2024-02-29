@@ -1,6 +1,6 @@
-owner = RAF
-controller = RAF
-add_core = RAF
+owner = ODC
+controller = ODC
+add_core = ODC
 trade_goods = fruit
 life_rating = 35
 terrain = plains

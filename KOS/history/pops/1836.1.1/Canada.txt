@@ -65,50 +65,43 @@
     }
 }
 
-#Northwest Territories & Keewatin Regions - 28000
-#uncolonized in 1836
-#Fort Simpson (2400/600 POPS)
+
+#Matimekosh
 9 = {
     aristocrats = {
-        culture = cree
-        religion = animist
-        size = 15
+        culture = montagnais
+        religion = roman_catholic
+        size = 150
     }
 
     clergymen = {
-        culture = cree
-        religion = animist
-        size = 20
+        culture = montagnais
+        religion = roman_catholic
+        size = 100
     }
 
     artisans = {
-        culture = cree
-        religion = animist
-        size = 25
+        culture = montagnais
+        religion = roman_catholic
+        size = 500
     }
 
     soldiers = {
-        culture = cree
-        religion = animist
-        size = 15
+        culture = montagnais
+        religion = roman_catholic
+        size = 100
     }
 
     farmers = {
-        culture = cree
-        religion = animist
-        size = 520
-    }
-
-    soldiers = {
-        culture = inuit
-        religion = animist
-        size = 30
+        culture = montagnais
+        religion = roman_catholic
+        size = 1350
     }
 
     farmers = {
         culture = inuit
         religion = animist
-        size = 720
+        size = 200
     }
 }
 
@@ -1595,39 +1588,52 @@
         size = 700
     }
 }
-#Fort Albany (6400/1600 POPS)
+
+#Fort Sainte-Anne
 48 = {
+    aristocrats = {
+        culture = east_metif
+        religion = roman_catholic
+        size = 100
+    }
 
     clergymen = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 3
+        culture = east_metif
+        religion = roman_catholic
+        size = 75
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 3
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 3
+        culture = east_metif
+        religion = roman_catholic
+        size = 300
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 10
+        culture = east_metif
+        religion = roman_catholic
+        size = 2000
     }
-
+	
+    soldiers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 200
+    }
+	
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 100
+    }
+	
     farmers = {
         culture = cree
-        religion = animist
-        size = 1600
+        religion = roman_catholic
+        size = 800
     }
 }
+
 #Dryden (12000/3000 POPS)
 49 = {
 
@@ -2029,157 +2035,163 @@
         size = 1700
     }
 }
-#Ottawa (44000/11000 POPS)
+
+#Odawag
 57 = {
+    aristocrats = {
+        culture = algonquin
+        religion = roman_catholic
+        size = 900
+    }
+	
     clergymen = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 50
+        culture = algonquin
+        religion = roman_catholic
+        size = 500
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = african_catholic
+        culture = algonquin
+        religion = roman_catholic
+        size = 8200
+    }
+
+    soldiers = {
+        culture = algonquin
+        religion = roman_catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = algonquin
+        religion = roman_catholic
+        size = 21000
+    }
+	
+    aristocrats = {
+        culture = franciquin
+        religion = roman_catholic
         size = 300
     }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 6000
-    }
-
-    farmers = {
-        culture = british
-        religion = anglican
-        size = 550
-    }
-
+	
     clergymen = {
-        culture = french_canadian
-        religion = african_catholic
-        size = 50
+        culture = franciquin
+        religion = roman_catholic
+        size = 150
     }
 
     artisans = {
-        culture = french_canadian
+        culture = franciquin
         religion = roman_catholic
-        size = 200
+        size = 3100
     }
 
     soldiers = {
-        culture = french_canadian
-        religion = african_catholic
-        size = 50
+        culture = franciquin
+        religion = roman_catholic
+        size = 800
     }
 
     farmers = {
-        culture = french_canadian
+        culture = franciquin
         religion = roman_catholic
-        size = 3700
+        size = 10100
+    }
+	
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 1200
+    }
+	
+    farmers = {
+        culture = wyandot
+        religion = roman_catholic
+        size = 3400
     }
 
 }
-#Quebec Region : 676000
-#uncolonized in 1836
-#Nitchequon (2800/700 POPS)
+
+#Mistissini
 59 = {
     aristocrats = {
         culture = cree
-        religion = animist
+        religion = roman_catholic
         size = 15
     }
 
     clergymen = {
         culture = cree
-        religion = animist
+        religion = roman_catholic
         size = 25
     }
 
     artisans = {
         culture = cree
-        religion = animist
+        religion = roman_catholic
         size = 60
     }
 
     soldiers = {
         culture = cree
-        religion = animist
+        religion = roman_catholic
         size = 15
     }
 
     farmers = {
         culture = cree
-        religion = animist
-        size = 1075
+        religion = roman_catholic
+        size = 900
+    }
+	
+    farmers = {
+        culture = east_metif
+        religion = roman_catholic
+        size = 200
     }
 
 }
+
 #Erik Cove (2400/600 POPS)
 2592 = {
-
     aristocrats = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 5
-    }
-
-    aristocrats = {
-        culture = cree
-        religion = roman_catholic
-        size = 20
-    }
-
-    aristocrats = {
-        culture = inuit
-        religion = roman_catholic
-        size = 20
+        culture = vinlandic
+        religion = vulgar
+        size = 40
     }
 
     clergymen = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 5
+        culture = vinlandic
+        religion = vulgar
+        size = 45
     }
 
     artisans = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 5
+        culture = vinlandic
+        religion = vulgar
+        size = 190
     }
 
     soldiers = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 5
+        culture = vinlandic
+        religion = vulgar
+        size = 150
     }
 
     farmers = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 15
+        culture = vinlandic
+        religion = vulgar
+        size = 950
     }
 
     farmers = {
         culture = inuit
         religion = animist
-        size = 800
+        size = 1300
     }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 400
-    }
-
 }
-#Port Harrison (2400/600 POPS)
+
+#Sakami
 2626 = {
     aristocrats = {
         culture = inuit
@@ -2213,671 +2225,930 @@
 
     aristocrats = {
         culture = cree
-        religion = animist
+        religion = roman_catholic
         size = 10
     }
 
     clergymen = {
         culture = cree
-        religion = animist
+        religion = roman_catholic
         size = 20
     }
 
     artisans = {
         culture = cree
-        religion = animist
+        religion = roman_catholic
         size = 25
     }
 
     soldiers = {
         culture = cree
-        religion = animist
+        religion = roman_catholic
         size = 10
     }
 
     farmers = {
         culture = cree
-        religion = animist
+        religion = roman_catholic
         size = 500
     }
 }
 
-#Fort George (1600/400 POPS)
+#Kuujjuarapik
 2593 = {
-
-    clergymen = {
-        culture = french_canadian
+    aristocrats = {
+        culture = quebecois
         religion = roman_catholic
-        size = 5
+        size = 10
+    }
+	
+    clergymen = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 10
     }
 
     artisans = {
-        culture = french_canadian
+        culture = quebecois
         religion = roman_catholic
-        size = 5
+        size = 20
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = quebecois
         religion = roman_catholic
-        size = 5
+        size = 20
     }
 
     farmers = {
-        culture = french_canadian
+        culture = quebecois
         religion = roman_catholic
-        size = 15
+        size = 50
     }
 
     farmers = {
         culture = cree
-        religion = animist
-        size = 560
+        religion = roman_catholic
+        size = 570
+    }
+	
+    farmers = {
+        culture = east_metif
+        religion = roman_catholic
+        size = 220
     }
 
     farmers = {
         culture = inuit
         religion = animist
-        size = 390
+        size = 550
     }
 }
-#ruled by Britain in 1836
-#58 - Montreal (248000/62000 POPS)
+
+#Kitchisipi
 58 = {
     aristocrats = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 30
+        culture = algonquin
+        religion = roman_catholic
+        size = 450
     }
-
-    bureaucrats = {
-        culture = anglo_canadian
-        religion = african_catholic
+	
+    clergymen = {
+        culture = algonquin
+        religion = roman_catholic
         size = 200
     }
 
-    clergymen = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 125
-    }
-
     artisans = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 5000
+        culture = algonquin
+        religion = roman_catholic
+        size = 2400
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 250
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 13425
-    }
-
-    aristocrats = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 30
-    }
-
-    bureaucrats = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = french_canadian
+        culture = algonquin
         religion = roman_catholic
         size = 500
     }
 
-    artisans = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 6000
-    }
-
-    soldiers = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 400
-    }
-
     farmers = {
-        culture = french_canadian
+        culture = algonquin
         religion = roman_catholic
-        size = 36000
+        size = 6200
     }
-}
-#Chicoutimi (11200/2800 POPS)
-61 = {
+
     aristocrats = {
-        culture = cree
-        religion = animist
-        size = 15
-    }
-
-    clergymen = {
-        culture = cree
-        religion = animist
-        size = 20
-    }
-
-    artisans = {
-        culture = cree
-        religion = animist
-        size = 40
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 10
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 715
-    }
-
-    clergymen = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = french_canadian
+        culture = franciquin
         religion = roman_catholic
         size = 100
     }
 
-    soldiers = {
-        culture = french_canadian
+    clergymen = {
+        culture = franciquin
         religion = roman_catholic
-        size = 25
+        size = 100
+    }
+
+    artisans = {
+        culture = franciquin
+        religion = roman_catholic
+        size = 800
+    }
+
+    soldiers = {
+        culture = franciquin
+        religion = roman_catholic
+        size = 100
     }
 
     farmers = {
-        culture = french_canadian
+        culture = franciquin
         religion = roman_catholic
-        size = 1825
+        size = 5200
+    }
+	
+    farmers = {
+        culture = east_metif
+        religion = roman_catholic
+        size = 1600
     }
 }
-#Sept-Iles (8000/2000 POPS)
-62 = {
+
+#Rochefortin
+61 = {
     aristocrats = {
-        culture = cree
-        religion = animist
-        size = 10
+        culture = quebecois
+        religion = roman_catholic
+        size = 200
     }
 
     clergymen = {
-        culture = cree
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = cree
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 15
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 900
-    }
-
-    clergymen = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 10
-    }
-
-    farmers = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 915
-    }
-}
-#Temiscaming (16000/4000 POPS)
-63 = {
-    aristocrats = {
-        culture = cree
-        religion = animist
-        size = 10
-    }
-
-    clergymen = {
-        culture = cree
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = cree
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 15
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 900
-    }
-
-    clergymen = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 75
-    }
-
-    artisans = {
-        culture = french_canadian
+        culture = quebecois
         religion = roman_catholic
         size = 150
     }
 
+    artisans = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 1400
+    }
+
     soldiers = {
-        culture = french_canadian
+        culture = quebecois
+        religion = roman_catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 5200
+    }
+
+    clergymen = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 2600
+    }
+	
+    farmers = {
+        culture = east_metif
+        religion = roman_catholic
+        size = 400
+    }
+}
+
+#Natashquan
+62 = {
+    aristocrats = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 200
+    }
+
+    clergymen = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 800
+    }
+
+    soldiers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 2900
+    }
+
+    clergymen = {
+        culture = quebecois
         religion = roman_catholic
         size = 25
     }
 
-    farmers = {
-        culture = french_canadian
+    artisans = {
+        culture = quebecois
         religion = roman_catholic
-        size = 2750
+        size = 100
+    }
+
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 600
     }
 }
-#Trois-Rivieres (68000/17000 POPS)
-64 = {
-    clergymen = {
-        culture = french_canadian
+
+#Temiskami
+63 = {
+    aristocrats = {
+        culture = algonquin
         religion = roman_catholic
-        size = 175
+        size = 500
+    }
+
+    clergymen = {
+        culture = algonquin
+        religion = roman_catholic
+        size = 200
     }
 
     artisans = {
-        culture = french_canadian
+        culture = algonquin
+        religion = roman_catholic
+        size = 2900
+    }
+
+    soldiers = {
+        culture = algonquin
+        religion = roman_catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = algonquin
+        religion = roman_catholic
+        size = 11500
+    }
+
+    clergymen = {
+        culture = franciquin
+        religion = roman_catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = franciquin
         religion = roman_catholic
         size = 1100
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = franciquin
         religion = roman_catholic
-        size = 150
-    }
-
-    labourers = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 15675
-    }
-}
-#Quebec City (188000/47000 POPS)
-65 = {
-    clergymen = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 500
-    }
-
-    artisans = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 5000
-    }
-
-    soldiers = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 500
-    }
-
-    farmers = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 41000
-    }
-}
-#Sherbrooke (68000/17000 POPS)
-66 = {
-    clergymen = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 400
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = african_catholic
         size = 100
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 4450
-    }
-
-    clergymen = {
-        culture = french_canadian
+        culture = franciquin
         religion = roman_catholic
-        size = 250
-    }
-
-    artisans = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 700
-    }
-
-    soldiers = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 10900
+        size = 4100
     }
 }
-#Riviere du Loup (56000/14000 POPS)
-67 = {
-    clergymen = {
-        culture = french_canadian
+
+#Lanaudiere
+64 = {
+    aristocrats = {
+        culture = quebecois
         religion = roman_catholic
         size = 150
+    }
+	
+    clergymen = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 100
     }
 
     artisans = {
-        culture = french_canadian
+        culture = quebecois
         religion = roman_catholic
-        size = 750
+        size = 650
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = quebecois
         religion = roman_catholic
-        size = 150
+        size = 200
     }
 
     labourers = {
-        culture = french_canadian
+        culture = quebecois
         religion = roman_catholic
-        size = 4500
+        size = 4200
     }
-
-}
-#New Brunswick Region : 148000
-#Ruled by Britain 1836
-#Fredericton (84000/21000 POPS)
-68 = {
-    bureaucrats = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 75
+	
+    aristocrats = {
+        culture = franciquin
+        religion = roman_catholic
+        size = 400
     }
-
+	
     clergymen = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 275
+        culture = franciquin
+        religion = roman_catholic
+        size = 200
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 750
+        culture = franciquin
+        religion = roman_catholic
+        size = 1900
+    }
+
+    labourers = {
+        culture = franciquin
+        religion = roman_catholic
+        size = 8700
+    }
+	
+    labourers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 500
+    }
+}
+
+#Quebec
+65 = {
+    aristocrats = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 1800
+    }
+	
+    clergymen = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 600
+    }
+
+    artisans = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 9600
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 150
+        culture = quebecois
+        religion = roman_catholic
+        size = 3000
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 17000
+        culture = quebecois
+        religion = roman_catholic
+        size = 51000
     }
-
-    clergymen = {
+	
+    artisans = {
         culture = acadian
         religion = roman_catholic
-        size = 150
+        size = 1800
+    }
+
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 6600
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 3000
+    }
+	
+    farmers = {
+        culture = gruttfrysk
+        religion = roman_catholic
+        size = 800
+    }
+	
+    farmers = {
+        culture = abenaki
+        religion = roman_catholic
+        size = 4100
+    }
+	
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 5600
+    }
+	
+    farmers = {
+        culture = franciquin
+        religion = roman_catholic
+        size = 5900
+    }
+	
+    artisans = {
+        culture = wolof
+        religion = roman_catholic
+        size = 600
+    }
+
+    soldiers = {
+        culture = wolof
+        religion = roman_catholic
+        size = 400
+    }
+}
+
+#Trois-Rivieres
+66 = {
+    aristocrats = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 600
+    }
+	
+    clergymen = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 300
     }
 
     artisans = {
-        culture = acadian
+        culture = quebecois
+        religion = roman_catholic
+        size = 3400
+    }
+
+    soldiers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 9600
+    }
+	
+    artisans = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 550
+    }
+
+    farmers = {
+        culture = aquitan
+        religion = roman_catholic
+        size = 3200
+    }
+
+    artisans = {
+        culture = franciquin
+        religion = roman_catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = franciquin
+        religion = roman_catholic
+        size = 5400
+    }
+	
+    artisans = {
+        culture = mohawk
+        religion = roman_catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = mohawk
+        religion = roman_catholic
+        size = 2400
+    }
+	
+    artisans = {
+        culture = abenaki
+        religion = roman_catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = abenaki
+        religion = roman_catholic
+        size = 1600
+    }
+}
+
+#Peskowetk
+67 = {
+    aristocrats = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 700
+    }
+	
+    clergymen = {
+        culture = mikmaq
         religion = roman_catholic
         size = 350
     }
 
+    artisans = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 3400
+    }
+
     soldiers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 1200
+    }
+
+    labourers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 13600
+    }
+	
+    clergymen = {
         culture = acadian
         religion = roman_catholic
         size = 100
     }
 
-    farmers = {
+    artisans = {
         culture = acadian
         religion = roman_catholic
-        size = 10650
+        size = 550
     }
-}
-#Bathurst (64000/16000 POPS)
-69 = {
 
-    artisans = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 491
-    }
-    artisans = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 63
-    }
-    clergymen = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 30
-
-    }
-    farmers = {
+    labourers = {
         culture = acadian
         religion = roman_catholic
-        size = 4660
+        size = 3100
     }
-    farmers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 1053
-
+	
+    labourers = {
+        culture = basque
+        religion = roman_catholic
+        size = 1800
     }
-    farmers = {
-        culture = yankee
-        religion = african_catholic
-        size = 2501
-    }
-
 }
-#Prince Edward Island Region : 32000
-#Ruled by Britain 1836
-#Prince Edward Island (32000/8000 POPS)
-70 = {
+
+#Fort Saint-Jean
+68 = {
+    bureaucrats = {
+        culture = acadian
+        religion = roman_catholic
+        size = 150
+    }
+	
+    aristocrats = {
+        culture = acadian
+        religion = roman_catholic
+        size = 800
+    }
+
     clergymen = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 50
+        culture = acadian
+        religion = roman_catholic
+        size = 400
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = african_catholic
+        culture = acadian
+        religion = roman_catholic
+        size = 4600
+    }
+
+    soldiers = {
+        culture = acadian
+        religion = roman_catholic
         size = 1500
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 100
-    }
-
     farmers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 6350
-    }
-}
-#Canada - Nova Scotia Region : 147000
-#Ruled by Britain 1836
-#Halifax (83000/20750 POPS)
-71 = {
-    bureaucrats = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 100
-    }
-
-    clergymen = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 4000
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 200
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 14600
-    }
-
-    labourers = {
         culture = acadian
         religion = roman_catholic
-        size = 1100
+        size = 15200
     }
 
-    labourers = {
-        culture = afro_american
-        religion = african_catholic
-        size = 750
-    }
-}
-#Truro (44000/11000 POPS)
-72 = {
     clergymen = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 50
+        culture = maliseet
+        religion = roman_catholic
+        size = 150
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 750
+        culture = maliseet
+        religion = roman_catholic
+        size = 1800
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = african_catholic
+    farmers = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 7800
+    }
+	
+    clergymen = {
+        culture = mikmaq
+        religion = roman_catholic
         size = 125
     }
 
+    artisans = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 1500
+    }
+
     farmers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 9075
+        culture = mikmaq
+        religion = roman_catholic
+        size = 6200
+    }
+}
+
+#Sainte-Croix
+69 = {
+    aristocrats = {
+        culture = acadian
+        religion = roman_catholic
+        size = 500
+    }
+	
+    clergymen = {
+        culture = acadian
+        religion = roman_catholic
+        size = 300
+
+    }
+	
+    artisans = {
+        culture = acadian
+        religion = roman_catholic
+        size = 3800
+    }
+
+    soldiers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 1000
+    }
+	
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 12800
+    }
+	
+    clergymen = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 150
+    }
+	
+    artisans = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 1400
+    }
+	
+    farmers = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 6200
+    }
+}
+
+#Isle Saint-Jean
+70 = {
+    aristocrats = {
+        culture = acadian
+        religion = roman_catholic
+        size = 600
+    }
+
+    clergymen = {
+        culture = acadian
+        religion = roman_catholic
+        size = 300
+    }
+
+    artisans = {
+        culture = acadian
+        religion = roman_catholic
+        size = 2400
+    }
+
+    soldiers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 16600
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1800
+    }
+	
+    farmers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 2300
+    }
+}
+
+#Sent-Martin
+71 = {
+    bureaucrats = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 100
+    }
+	
+    officers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 100
+    }
+	
+    aristocrats = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1200
+    }
+
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 4800
+    }
+
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 14800
     }
 
     labourers = {
         culture = acadian
         religion = roman_catholic
-        size = 1100
+        size = 3800
+    }
+	
+    labourers = {
+        culture = gallo
+        religion = roman_catholic
+        size = 2700
+    }
+
+    labourers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 2800
     }
 }
-#Cape Breton Island (20000/5000 POPS)
-73 = {
+
+#Beaubassin
+72 = {
+    aristocrats = {
+        culture = acadian
+        religion = roman_catholic
+        size = 400
+    }
+	
     clergymen = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 50
+        culture = acadian
+        religion = roman_catholic
+        size = 220
     }
 
     artisans = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 250
+        culture = acadian
+        religion = roman_catholic
+        size = 1800
     }
 
     soldiers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 50
+        culture = acadian
+        religion = roman_catholic
+        size = 500
     }
 
     farmers = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 4650
+        culture = acadian
+        religion = roman_catholic
+        size = 9600
+    }
+
+    farmers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 1200
+    }
+}
+
+#Isle-Royale
+73 = {
+    aristocrats = {
+        culture = acadian
+        religion = roman_catholic
+        size = 500
+    }
+	
+    clergymen = {
+        culture = acadian
+        religion = roman_catholic
+        size = 200
+    }
+
+    artisans = {
+        culture = acadian
+        religion = roman_catholic
+        size = 1800
+    }
+
+    soldiers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 9100
+    }
+	
+    artisans = {
+        culture = breton
+        religion = roman_catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = breton
+        religion = roman_catholic
+        size = 1800
+    }
+
+    farmers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 1300
     }
 
 }
@@ -3037,86 +3308,97 @@
         size = 2050
     }
 }
-#Hopedale (2000/500 POPS)
+
+#Cadoc
 76 = {
-
-    clergymen = {
+    aristocrats = {
         culture = vinlandic
-        religion = african_catholic
-        size = 5
-    }
-
-    artisans = {
-        culture = vinlandic
-        religion = african_catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = vinlandic
-        religion = african_catholic
-        size = 5
-    }
-
-    farmers = {
-        culture = vinlandic
-        religion = african_catholic
-        size = 2315
-    }
-
-    farmers = {
-        culture = danish
-        religion = african_catholic
-        size = 700
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 450
-    }
-}
-#Cartwright (6000/1500 POPS)
-2625 = {
-
-    clergymen = {
-        culture = vinlandic
-        religion = african_catholic
-        size = 5
-    }
-
-    artisans = {
-        culture = vinlandic
-        religion = african_catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = vinlandic
-        religion = african_catholic
-        size = 5
-    }
-
-    farmers = {
-        culture = vinlandic
-        religion = african_catholic
-        size = 2015
+        religion = vulgar
+        size = 50
     }
 	
-	farmers = {
-        culture = danish
-        religion = african_catholic
-        size = 215
+    clergymen = {
+        culture = vinlandic
+        religion = vulgar
+        size = 50
+    }
+
+    artisans = {
+        culture = vinlandic
+        religion = vulgar
+        size = 350
+    }
+
+    soldiers = {
+        culture = vinlandic
+        religion = vulgar
+        size = 200
     }
 
     farmers = {
-        culture = cree
+        culture = vinlandic
+        religion = vulgar
+        size = 1800
+    }
+
+    farmers = {
+        culture = inuit
         religion = animist
-        size = 1070
+        size = 800
     }
 }
-#St Pierre & Miquelon (2000)
-#Ruled by France 1836
+
+#Caribou 
+250 = {
+    aristocrats = {
+        culture = acadian
+        religion = roman_catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = acadian
+        religion = roman_catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = acadian
+        religion = roman_catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 4700
+    }
+	
+    clergymen = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 5000
+    }
+}
+
 #Saint Pierre (2000/500 POPS)
 77 = {
     clergymen = {
@@ -3151,39 +3433,1058 @@
 
 }
 
-#Edmundston
-3280 = {
-    artisans = {
-        culture = anglo_canadian
-        religion = african_catholic
+#La Tuque
+110 = {
+    aristocrats = {
+        culture = quebecois
+        religion = roman_catholic
         size = 400
     }
-    artisans = {
-        culture = french_canadian
-        religion = roman_catholic
-        size = 70
-    }
-    clergymen = {
-        culture = anglo_canadian
-        religion = african_catholic
-        size = 30
 
-    }
-    farmers = {
-        culture = french_canadian
+    clergymen = {
+        culture = quebecois
         religion = roman_catholic
-        size = 3350
+        size = 150
     }
+
+    artisans = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 1200
+    }
+
+    soldiers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 200
+    }
+
     farmers = {
-        culture = anglo_canadian
-        religion = african_catholic
+        culture = quebecois
+        religion = roman_catholic
+        size = 7900
+    }
+	
+    clergymen = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 100
+    }
+
+    artisans = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 700
+    }
+
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 3200
+    }
+	
+    artisans = {
+        culture = franciquin
+        religion = roman_catholic
+        size = 300
+    }
+
+    farmers = {
+        culture = franciquin
+        religion = roman_catholic
+        size = 1200
+    }
+}
+
+#Asgerkoloni
+2625 = {
+    aristocrats = {
+        culture = vinlandic
+        religion = vulgar
+        size = 50
+    }
+	
+    clergymen = {
+        culture = vinlandic
+        religion = vulgar
+        size = 75
+    }
+
+    artisans = {
+        culture = vinlandic
+        religion = vulgar
+        size = 400
+    }
+
+    soldiers = {
+        culture = vinlandic
+        religion = vulgar
+        size = 200
+    }
+
+    farmers = {
+        culture = vinlandic
+        religion = vulgar
+        size = 1700
+    }
+
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 1050
+    }
+	
+    farmers = {
+        culture = inuit
+        religion = animist
+        size = 200
+    }
+}
+
+#Sigenigteoag
+3280 = {
+    aristocrats = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 800
+    }
+	
+    clergymen = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 400
+    }
+	
+    soldiers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 1000
+    }
+	
+    artisans = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 3200
+    }
+
+    farmers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 17500
+    }
+	
+    artisans = {
+        culture = acadian
+        religion = roman_catholic
+        size = 900
+    }
+	
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 4800
+    }
+}
+
+#Hrimthursarland
+4017 = {
+    aristocrats = {
+        culture = vinlandic
+        religion = vulgar
+        size = 25
+    }
+	
+    clergymen = {
+        culture = vinlandic
+        religion = vulgar
+        size = 35
+    }
+	
+    artisans = {
+        culture = vinlandic
+        religion = vulgar
+        size = 75
+    }
+
+    soldiers = {
+        culture = vinlandic
+        religion = vulgar
+        size = 50
+    }
+	
+    farmers = {
+        culture = vinlandic
+        religion = vulgar
+        size = 300
+    }
+	
+    farmers = {
+        culture = inuit
+        religion = animist
+        size = 1000
+    }
+}
+
+#Isskogr
+4018 = {
+    aristocrats = {
+        culture = vinlandic
+        religion = vulgar
+        size = 75
+    }
+	
+    clergymen = {
+        culture = vinlandic
+        religion = vulgar
+        size = 75
+    }
+	
+    artisans = {
+        culture = vinlandic
+        religion = vulgar
+        size = 200
+    }
+
+    soldiers = {
+        culture = vinlandic
+        religion = vulgar
+        size = 100
+    }
+	
+    farmers = {
+        culture = vinlandic
+        religion = vulgar
+        size = 850
+    }
+	
+    farmers = {
+        culture = inuit
+        religion = animist
+        size = 1600
+    }
+	
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 250
+    }
+}
+
+#Uashat
+4019 = {
+    aristocrats = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 300
+    }
+	
+    clergymen = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 150
+    }
+	
+    artisans = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 200
+    }
+	
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 2200
+    }
+	
+    artisans = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 100
+    }
+	
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 300
+    }
+}
+
+#Sent-Jhan
+4020 = {
+    aristocrats = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 600
+    }
+	
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
         size = 500
 
     }
-    farmers = {
-        culture = yankee
-        religion = african_catholic
-        size = 2350
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 2700
     }
 
+    soldiers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 600
+    }
+	
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 9700
+    }
+	
+    artisans = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 700
+    }
+	
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 4300
+    }
+	
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 1200
+    }
 }
+
+#Chaudière
+4023 = {
+    aristocrats = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 600
+    }
+	
+    clergymen = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 300
+
+    }
+	
+    artisans = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 2500
+    }
+
+    soldiers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 500
+    }
+	
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 12400
+    }
+	
+    artisans = {
+        culture = abenaki
+        religion = roman_catholic
+        size = 1400
+    }
+	
+    farmers = {
+        culture = abenaki
+        religion = roman_catholic
+        size = 5000
+    }
+}
+
+#Bas-du-Fleuve
+4024 = {
+    aristocrats = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 600
+    }
+	
+    clergymen = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 300
+    }
+	
+    artisans = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 3200
+    }
+
+    soldiers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 400
+    }
+	
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 15600
+    }
+	
+    farmers = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 3600
+    }
+	
+    farmers = {
+        culture = abenaki
+        religion = roman_catholic
+        size = 3400
+    }
+	
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 2200
+    }
+}
+
+#Pierres Blanches
+4025 = {
+    aristocrats = {
+        culture = acadian
+        religion = roman_catholic
+        size = 300
+    }
+	
+    clergymen = {
+        culture = acadian
+        religion = roman_catholic
+        size = 150
+    }
+	
+    artisans = {
+        culture = acadian
+        religion = roman_catholic
+        size = 1800
+    }
+
+    soldiers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 200
+    }
+	
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 4200
+    }
+	
+    clergymen = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 200
+    }
+	
+    artisans = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 1600
+    }
+	
+    farmers = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 6400
+    }
+}
+
+#Donibane
+4026 = {
+    aristocrats = {
+        culture = basque
+        religion = roman_catholic
+        size = 800
+    }
+	
+    clergymen = {
+        culture = basque
+        religion = roman_catholic
+        size = 200
+    }
+	
+    artisans = {
+        culture = basque
+        religion = roman_catholic
+        size = 3200
+    }
+
+    soldiers = {
+        culture = basque
+        religion = roman_catholic
+        size = 1000
+    }
+	
+    farmers = {
+        culture = basque
+        religion = roman_catholic
+        size = 12000
+    }
+	
+    artisans = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 600
+    }
+	
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 1400
+    }
+	
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 800
+    }
+	
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 900
+    }
+}
+
+#San Ignasio
+4027 = {
+    aristocrats = {
+        culture = basque
+        religion = roman_catholic
+        size = 400
+    }
+	
+    clergymen = {
+        culture = basque
+        religion = roman_catholic
+        size = 200
+    }
+	
+    artisans = {
+        culture = basque
+        religion = roman_catholic
+        size = 1800
+    }
+
+    soldiers = {
+        culture = basque
+        religion = roman_catholic
+        size = 400
+    }
+	
+    farmers = {
+        culture = basque
+        religion = roman_catholic
+        size = 3200
+    }
+	
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 800
+    }
+}
+
+#Erregen Portu
+4028 = {
+    aristocrats = {
+        culture = basque
+        religion = roman_catholic
+        size = 200
+    }
+	
+    clergymen = {
+        culture = basque
+        religion = roman_catholic
+        size = 150
+    }
+	
+    artisans = {
+        culture = basque
+        religion = roman_catholic
+        size = 2200
+    }
+
+    soldiers = {
+        culture = basque
+        religion = roman_catholic
+        size = 600
+    }
+	
+    farmers = {
+        culture = basque
+        religion = roman_catholic
+        size = 2400
+    }
+	
+    farmers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 800
+    }
+}
+
+#Portu Tzicia
+4029 = {
+    aristocrats = {
+        culture = basque
+        religion = roman_catholic
+        size = 200
+    }
+	
+    clergymen = {
+        culture = basque
+        religion = roman_catholic
+        size = 150
+    }
+	
+    artisans = {
+        culture = basque
+        religion = roman_catholic
+        size = 1000
+    }
+
+    soldiers = {
+        culture = basque
+        religion = roman_catholic
+        size = 200
+    }
+	
+    farmers = {
+        culture = basque
+        religion = roman_catholic
+        size = 1700
+    }
+	
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 400
+    }
+}
+
+#Jasocunde Uharta
+4030 = {
+    aristocrats = {
+        culture = basque
+        religion = roman_catholic
+        size = 80
+    }
+	
+    clergymen = {
+        culture = basque
+        religion = roman_catholic
+        size = 50
+    }
+	
+    artisans = {
+        culture = basque
+        religion = roman_catholic
+        size = 400
+    }
+
+    soldiers = {
+        culture = basque
+        religion = roman_catholic
+        size = 100
+    }
+	
+    farmers = {
+        culture = basque
+        religion = roman_catholic
+        size = 700
+    }
+	
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 100
+    }
+}
+
+#Balea Portu
+4031 = {
+    aristocrats = {
+        culture = basque
+        religion = roman_catholic
+        size = 125
+    }
+	
+    clergymen = {
+        culture = basque
+        religion = roman_catholic
+        size = 75
+    }
+	
+    artisans = {
+        culture = basque
+        religion = roman_catholic
+        size = 900
+    }
+
+    soldiers = {
+        culture = basque
+        religion = roman_catholic
+        size = 150
+    }
+	
+    farmers = {
+        culture = basque
+        religion = roman_catholic
+        size = 900
+    }
+	
+    farmers = {
+        culture = montagnais
+        religion = roman_catholic
+        size = 500
+    }
+}
+
+#Port Roge
+4032 = {
+    aristocrats = {
+        culture = ligur
+        religion = roman_catholic
+        size = 400
+    }
+	
+    clergymen = {
+        culture = ligur
+        religion = roman_catholic
+        size = 200
+    }
+	
+    artisans = {
+        culture = ligur
+        religion = roman_catholic
+        size = 3400
+    }
+
+    soldiers = {
+        culture = ligur
+        religion = roman_catholic
+        size = 800
+    }
+	
+    farmers = {
+        culture = ligur
+        religion = roman_catholic
+        size = 14800
+    }
+	
+    farmers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 1200
+    }
+}
+
+#Fort Impérial
+4033 = {
+    aristocrats = {
+        culture = west_metif
+        religion = roman_catholic
+        size = 200
+    }
+	
+    clergymen = {
+        culture = west_metif
+        religion = roman_catholic
+        size = 100
+    }
+	
+    artisans = {
+        culture = west_metif
+        religion = roman_catholic
+        size = 800
+    }
+	
+    farmers = {
+        culture = west_metif
+        religion = roman_catholic
+        size = 2100
+    }
+	
+    soldiers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 600
+    }
+	
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 200
+    }
+	
+    farmers = {
+        culture = cree
+        religion = roman_catholic
+        size = 1000
+    }
+}
+
+#Pentagouets
+4054 = {
+    aristocrats = {
+        culture = acadian
+        religion = roman_catholic
+        size = 200
+    }
+	
+    clergymen = {
+        culture = acadian
+        religion = roman_catholic
+        size = 100
+    }
+	
+    artisans = {
+        culture = acadian
+        religion = roman_catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 3800
+    }
+	
+    clergymen = {
+        culture = abenaki
+        religion = roman_catholic
+        size = 250
+    }
+	
+    artisans = {
+        culture = abenaki
+        religion = roman_catholic
+        size = 1800
+    }
+	
+    farmers = {
+        culture = abenaki
+        religion = roman_catholic
+        size = 6600
+    }
+}
+
+#Voulastoue
+4055 = {
+    aristocrats = {
+        culture = acadian
+        religion = roman_catholic
+        size = 100
+    }
+	
+    clergymen = {
+        culture = acadian
+        religion = roman_catholic
+        size = 100
+    }
+	
+    artisans = {
+        culture = acadian
+        religion = roman_catholic
+        size = 800
+    }
+
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 3800
+    }
+	
+    clergymen = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 100
+    }
+	
+    artisans = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 600
+    }
+	
+    farmers = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 4100
+    }
+}
+
+#Cqespucqie
+4056 = {
+    aristocrats = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 400
+    }
+	
+    clergymen = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 200
+    }
+	
+    artisans = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 1200
+    }
+
+    farmers = {
+        culture = rochelaes
+        religion = roman_catholic
+        size = 6400
+    }
+	
+    clergymen = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 100
+    }
+	
+    artisans = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 800
+    }
+	
+    farmers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 2600
+    }
+}
+
+#Mawiomiwikuom
+4057 = {
+    aristocrats = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 350
+    }
+	
+    clergymen = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 150
+    }
+	
+    artisans = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 5900
+    }
+	
+    clergymen = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 75
+    }
+	
+    artisans = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 600
+    }
+	
+    farmers = {
+        culture = maliseet
+        religion = roman_catholic
+        size = 3200
+    }
+	
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 1300
+    }
+}
+
+#Gespegeoag
+4058 = {
+    aristocrats = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 1000
+    }
+	
+    clergymen = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 500
+    }
+	
+    artisans = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 4200
+    }
+
+    farmers = {
+        culture = mikmaq
+        religion = roman_catholic
+        size = 18500
+    }
+	
+    clergymen = {
+        culture = acadian
+        religion = roman_catholic
+        size = 150
+    }
+	
+    artisans = {
+        culture = acadian
+        religion = roman_catholic
+        size = 700
+    }
+	
+    farmers = {
+        culture = acadian
+        religion = roman_catholic
+        size = 2200
+    }
+	
+    farmers = {
+        culture = basque
+        religion = roman_catholic
+        size = 800
+    }
+}
+

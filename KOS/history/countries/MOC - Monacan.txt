@@ -1,4 +1,4 @@
-capital = 213
+capital = 212
 primary_culture = mohacan
 religion = african_catholic
 government = absolute_monarchy

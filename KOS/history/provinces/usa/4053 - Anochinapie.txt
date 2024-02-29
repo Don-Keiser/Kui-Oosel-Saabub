@@ -1,0 +1,5 @@
+owner = SLT
+controller = SLT
+add_core = SLT
+trade_goods = grain
+life_rating = 35

@@ -1,5 +1,6 @@
 capital = 57
-primary_culture = ojibwe
+primary_culture = algonquin
+culture = franciquin
 religion = roman_catholic
 government = imperial_duchy
 plurality = 5.0

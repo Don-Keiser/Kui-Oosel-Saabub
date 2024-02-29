@@ -167,67 +167,96 @@
 #Nemiscau
 3701 = {
     aristocrats = {
-        culture = cree
-        religion = animist
-        size = 100
+        culture = east_metif
+        religion = roman_catholic
+        size = 400
     }
 
     clergymen = {
-        culture = cree
-        religion = animist
-        size = 250
+        culture = east_metif
+        religion = roman_catholic
+        size = 200
     }
 
     artisans = {
-        culture = cree
-        religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 75
+        culture = east_metif
+        religion = roman_catholic
+        size = 800
     }
 
     farmers = {
-        culture = cree
-        religion = animist
-        size = 15475
+        culture = east_metif
+        religion = roman_catholic
+        size = 6400
     }
 
+    soldiers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = quebecois
+        religion = roman_catholic
+        size = 1000
+    }
+	
+    farmers = {
+        culture = cree
+        religion = roman_catholic
+        size = 2200
+    }
 }
 
 #Les Marmottes
 3700 = {
     aristocrats = {
-        culture = cree
-        religion = animist
+        culture = east_metif
+        religion = roman_catholic
+        size = 150
+    }
+
+    clergymen = {
+        culture = east_metif
+        religion = roman_catholic
         size = 100
+    }
+
+    artisans = {
+        culture = east_metif
+        religion = roman_catholic
+        size = 650
+    }
+
+    soldiers = {
+        culture = east_metif
+        religion = roman_catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = east_metif
+        religion = roman_catholic
+        size = 2400
     }
 
     clergymen = {
         culture = cree
         religion = animist
-        size = 250
+        size = 100
     }
 
     artisans = {
         culture = cree
         religion = animist
-        size = 300
-    }
-
-    soldiers = {
-        culture = cree
-        religion = animist
-        size = 75
+        size = 400
     }
 
     farmers = {
         culture = cree
         religion = animist
-        size = 15475
+        size = 1600
     }
 
 }

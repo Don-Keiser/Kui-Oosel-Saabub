@@ -1628,6 +1628,47 @@ franco_romance = {
     }
 }
 
+new_world_franco_romance = {
+    leader = european
+    unit = FrenchGC
+	quebecois = {
+        color = {96 115 155}
+        first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
+        Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
+        François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+        Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
+        Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
+
+        last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+        Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
+        "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
+        Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+        Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
+    }
+    french_canadian = {
+        color = {168 195 255}
+        first_names = { Narcisse René Èdouard Luc Letellier Théodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugéne Èssioff Huguel Jean-Pierre Gilles
+        }
+        last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau
+        }
+        radicalism = 10
+    }
+    acadian = {
+        color = {90 140 155}
+        first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
+        Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
+        François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+        Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
+        Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
+
+        last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+        Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle"
+        "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
+        Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+        Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
+    }
+}
+
 occitan_group = {
     leader = european
     unit = FrenchGC
@@ -2952,28 +2993,6 @@ oghuz = {
 			Bey Pasha Hoca Efendi
 		}
 	}
-	rumi = {
-		color = {140 60 140}
-		first_names = { 
-			Abdullah Abdulhamid Abdulkerim Abdulrahim Ahmet Akif Ali Arif 
-			Bahaeddin Bekir Cemal Cevad Celaleddin Cevdet Daud Edhem Emin Enver 
-			Fahri Fevzi Ferid Fuat Hafiz Hamza Halil Halim Hasan Hayrullah Husrev
-			Ibrahim Iskender Ismet Izzet Kamil Kazim Kemal Lutfi
-			Mahmut Mehmet Mithat Muhtar Murat Musa Mustafa 
-			Namik Nazim Nurettin Nuri Numan Omar Osman 
-			Pertev Rauf Receb Reshad Refet Rifat Riza 
-			Sabaheddin Said Selim Shevket Shukru Suleyman 
-			Talat Tevfik Vefik Yusuf Yunus Ziya Ziyauddin
-		}
-		
-		last_names = { 
-			Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		    Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		    Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		    Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		    Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
-		}
-	}
 	meskheti = {
 		color = {200 140 90}
 		first_names = { 
@@ -3591,8 +3610,48 @@ arab = {
             "ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid"
             "ibn Muhammad" "ibn Mustafa" "ibn Salim"
             "ibn Umar" "ibn Uthman" "ibn Yusuf"
-            }
         }
+    }
+    rumi = {
+        color = {50 158 158}
+        first_names = {
+            "Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali
+            Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid Mahmud
+            Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+            Tawfiq Umar Uthman Yahya Yusuf Zafir
+            }
+
+        last_names = {
+            "al-Annabi" "al-Araishi" "al-Asfawi" "al-Binzarti" "al-Fasi" "al-Gharyani"
+            "al-Jaza'iri" "al-Miknasi" "al-Misurati" "al-Murrakushi" "al-Qabisi" "al-Qayrawani" "al-Ribati" "al-Safaqisi"
+            "al-Silawi" "al-Sirti" "al-Susawi" "al-Tilimsani" "al-Tanjawi" "al-Tatwani" "al-Trablusi" "al-Tunusi"
+            "al-Wahrani" "al-Warqali" "al-Wujdi"
+            "ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+            "ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid"
+            "ibn Muhammad" "ibn Mustafa" "ibn Salim"
+            "ibn Umar" "ibn Uthman" "ibn Yusuf"
+        }
+    }
+    bahrini = {
+        color = {80 100 90}
+        first_names = {
+            "Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali
+            Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid Mahmud
+            Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+            Tawfiq Umar Uthman Yahya Yusuf Zafir
+            }
+
+        last_names = {
+            "al-Annabi" "al-Araishi" "al-Asfawi" "al-Binzarti" "al-Fasi" "al-Gharyani"
+            "al-Jaza'iri" "al-Miknasi" "al-Misurati" "al-Murrakushi" "al-Qabisi" "al-Qayrawani" "al-Ribati" "al-Safaqisi"
+            "al-Silawi" "al-Sirti" "al-Susawi" "al-Tilimsani" "al-Tanjawi" "al-Tatwani" "al-Trablusi" "al-Tunusi"
+            "al-Wahrani" "al-Warqali" "al-Wujdi"
+            "ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+            "ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid"
+            "ibn Muhammad" "ibn Mustafa" "ibn Salim"
+            "ibn Umar" "ibn Uthman" "ibn Yusuf"
+        }
+    }
     misri = {
         color = {0 103 43}
         first_names = {
@@ -5725,6 +5784,38 @@ oceanic = {
     #}
 }
 
+native_metis = {
+    leader = nativeamerican
+    metis = {
+        color = {15 68 192}
+        first_names = { Louis John Amroise-Dydime Gabriel Daniel James Jaque William Joel
+        }
+        last_names = { Riel Bruce Lépine Dumont Clarence Martin
+        }
+    }
+    franciquin = {
+        color = {40 100 135}
+        first_names = { Louis John Amroise-Dydime Gabriel Daniel James Jaque William Joel
+        }
+        last_names = { Riel Bruce Lépine Dumont Clarence Martin
+        }
+    }
+    east_metif = {
+        color = {60 115 140}
+        first_names = { Louis John Amroise-Dydime Gabriel Daniel James Jaque William Joel
+        }
+        last_names = { Riel Bruce Lépine Dumont Clarence Martin
+        }
+    }
+    west_metif = {
+        color = {60 115 115}
+        first_names = { Louis John Amroise-Dydime Gabriel Daniel James Jaque William Joel
+        }
+        last_names = { Riel Bruce Lépine Dumont Clarence Martin
+        }
+    }
+}
+
 native_american = {
     leader = nativeamerican
 
@@ -5892,20 +5983,6 @@ native_american = {
 
         last_names = { Caetés Potiguara Tabajara Tamoios Temiminó Tupinambá Tupiniquim     }
     }
-    metis = {
-        color = {15 68 192}
-        first_names = { Louis John Amroise-Dydime Gabriel Daniel James Jaque William Joel
-        }
-        last_names = { Riel Bruce Lépine Dumont Clarence Martin
-        }
-    }
-    dakota = {
-        color = {117 84 13}
-        first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
-        }
-        last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
-        }
-    }
     cherokee = {
         color = {136 114 173}
         first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
@@ -6025,21 +6102,6 @@ neo_european_cultures = {
         first_names = { Charles John Frederick Douglas Patrick Leonard Henry Arthur Alexander Campbell Gilbert Albert Victor Julian Francis James William Andrew Edwin Sam Guy Malcolm Louis David Colin
         }
         last_names = { Grey Elliot Hamilton Gordon Stanley Campbell Ross Windham Young Doyle Hastings Blackwood MacDougall Currie Otter Steele McNaughton Macdonell Alderson Hughes Byng Simonds Mercer Lipsett Watson Mackenzie Crerar
-        }
-    }
-    french_canadian = {
-        color = {168 195 255}
-        first_names = { Narcisse René Èdouard Luc Letellier Théodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugéne Èssioff Huguel Jean-Pierre Gilles
-        }
-        last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau
-        }
-        radicalism = 10
-    }
-    acadian = {
-        color = {168 255 249}
-        first_names = { Narcisse René Èdouard Luc Letellier Théodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugéne Èssioff Huguel Jean-Pierre Gilles
-        }
-        last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau
         }
     }
     alaskan = {
@@ -7461,14 +7523,14 @@ algic = {
 	
 	#Central Algonquian
 	cree = {
-		color = {130 245 100}
+		color = {105 200 80}
 		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
 		}
 		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
 		}
 	}
 	montagnais = {
-		color = {145 230 110}
+		color = {155 195 115}
 		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
 		}
 		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
@@ -7476,6 +7538,13 @@ algic = {
 	}
 	ojibwe = {
 		color = {100 225 70}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	algonquin = {
+		color = {120 225 70}
 		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
 		}
 		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
@@ -7518,7 +7587,7 @@ algic = {
 		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
 		}
 	}
-	absenaki = {
+	abenaki = {
 		color = {210 225 140}
 		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
 		}
@@ -7571,6 +7640,13 @@ algic = {
 	}
 	lenape  = {
 		color = {90 115 50}
+		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
+		}
+		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
+		}
+	}
+	powhatan  = {
+		color = {125 135 60}
 		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
 		}
 		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain

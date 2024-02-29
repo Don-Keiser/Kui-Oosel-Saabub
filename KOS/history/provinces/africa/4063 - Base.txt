@@ -1,0 +1,5 @@
+owner = ODC
+controller = ODC
+add_core = ODC
+trade_goods = wool
+life_rating = 35

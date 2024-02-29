@@ -1,0 +1,5 @@
+owner = LCA
+controller = LCA
+add_core = LCA
+trade_goods = timber
+life_rating = 35

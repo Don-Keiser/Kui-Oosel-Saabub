@@ -1,5 +1,5 @@
-owner = RAF
-controller = RAF
-add_core = RAF
+owner = ODC
+controller = ODC
+add_core = ODC
 life_rating = 32
 trade_goods = wool

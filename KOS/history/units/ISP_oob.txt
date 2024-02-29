@@ -1,0 +1,72 @@
+#Sphere of Influence
+MTN = {
+    value = 165        #relation
+    level = 5        #3=cordial, 4 = friendly, 5 sphere
+    influence_value = 25
+}
+
+#GPs
+
+army = {
+    name = "Garde Royale"
+    location = 509
+    regiment = {
+        name= "1.Gard"
+        type = guard
+        home = 509
+    }
+
+    regiment = {
+        name= "2.Gard"
+        type = guard
+        home = 509
+    }
+
+    regiment = {
+        name= "3.Gard"
+        type = guard
+        home = 509
+    }
+
+    regiment = {
+        name= "4.Gard"
+        type = guard
+        home = 509
+    }
+
+    regiment = {
+        name= "1 Hussard"
+        type = hussar
+        home = 510
+    }
+
+    regiment = {
+        name= "2 Hussard"
+        type = hussar
+        home = 510
+    }
+
+    regiment = {
+        name= "1.1 Artillery"
+        type = artillery
+        home = 513
+    }
+
+    regiment = {
+        name= "2.1 Artillery"
+        type = artillery
+        home = 521
+    }
+
+    regiment = {
+        name= "3.1 Artillery"
+        type = artillery
+        home = 512
+    }
+
+    regiment = {
+        name= "4.1 Artillery"
+        type = artillery
+        home = 491
+    }
+}

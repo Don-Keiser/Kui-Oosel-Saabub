@@ -1,9 +1,9 @@
 capital = 1725
 primary_culture = african_romance
 religion = african_catholic
-government = hms_government
-plurality = 22
-nationalvalue = nv_equality
+government = theocracy
+plurality = 2
+nationalvalue = nv_order
 literacy = 0.30
 civilized = yes
 prestige = 8

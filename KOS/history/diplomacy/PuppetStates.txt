@@ -333,21 +333,6 @@ vassal = {
     end_date = 1936.1.1
 }
 
-#Ispannia
-substate = {
-    first = ISP
-    second = MTN
-    start_date = 1814.11.1
-    end_date = 1936.1.1
-}
-
-vassal = {
-    first = ISP
-    second = MSL
-    start_date = 1814.11.1
-    end_date = 1936.1.1
-}
-
 #Prydain
 vassal = {
     first = PWS
@@ -564,6 +549,12 @@ vassal = {
 vassal = {
     first = RAF
     second = SRD
+    start_date = 1814.11.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = RAF
+    second = ODC
     start_date = 1814.11.1
     end_date = 1936.1.1
 }

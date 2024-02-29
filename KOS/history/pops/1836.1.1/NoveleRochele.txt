@@ -355,21 +355,27 @@
     }
 	
     clergymen = {
-        culture = nipmuc
+        culture = abenaki
         religion = roman_catholic
         size = 470
     }
 	
     artisans = {
-        culture = nipmuc
+        culture = abenaki
         religion = roman_catholic
         size = 3200
     }
 
     farmers = {
+        culture = abenaki
+        religion = roman_catholic
+        size = 20000
+    }
+	
+    farmers = {
         culture = nipmuc
         religion = roman_catholic
-        size = 23600
+        size = 3600
     }
 }
 

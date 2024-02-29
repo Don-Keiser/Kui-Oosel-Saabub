@@ -1,0 +1,6 @@
+owner = RAF
+controller = RAF
+add_core = RAF
+trade_goods = wool
+life_rating = 35
+terrain = dry_mountains

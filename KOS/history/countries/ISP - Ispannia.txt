@@ -81,6 +81,8 @@ basic_chemistry = 1
 #Inventions
 #corvettes = yes
 
+oob = "ISP_oob.txt"
+
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1

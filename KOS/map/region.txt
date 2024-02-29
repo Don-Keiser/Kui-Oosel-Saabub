@@ -16,17 +16,29 @@ ENG_30 = { 32 33 34 3688 3689 3690 } #Saskatchewan
 
 ENG_36 = { 42 31 36 37 38 39 40 41 3310 3693 3694 4033 } #Manitoba
 
-CAN_46 = { 46 51 52 53 54 55 56 57 58 63 4036 4037 4038 4039 } #Southern Ontario
+CAN_46 = { 46 51 52 53 54 55 56 4036 4037 4038 4039 } #Southern Ontario
 
-CAN_50 = { 49 50 47 48 2594 3695 3696 3697 3698 3699 3700 } #Northern Ontario
+CAN_48 = { 48 3700 3701 } #Route des Fourrures
 
-CAN_58 = { 65 62 61 64 66 67 110 4019 4020 4024 4026 4027 4028 4029 4030 4031 } #Southern Quebec
+CAN_50 = { 49 50 47 2594 3695 3696 3697 3698 3699 } #Northern Ontario
 
-CAN_60 = { 9 59 2593 2626 3701 } #Northern Quebec
+CAN_57 = { 57 58 63 } #Algonquie
 
-ENG_68 = { 68 69 70 71 72 73 3280 4032 } #Maritimes
+CAN_58 = { 65 61 64 66 110 4020 4023 4024 4026 } #Southern Quebec
 
-ENG_74 = { 74 75 76 77 2625 2592 4017 4018 } #Scanian Quebec
+CAN_60 = { 59 2593 2626 } #Ungava
+
+CAN_62 = { 62 9 4019 4027 4029 4030 4031 } #Montagnais
+
+CAN_239 = { 239 80 234 240 3311 } #Caniencquie
+
+CAN_4058 = { 4058 67 3280 4028 4057 } #Gaspesie
+
+ENG_68 = { 68 70 71 72 73 4032 4056 } #Haute Acadie
+
+ENG_74 = { 74 75 77 } #Vinland
+
+ENG_76 = { 76 2625 2592 4017 4018 } #Markland
 
 ### United States
 
@@ -102,23 +114,29 @@ USA_201 = { 201 202 2555 } #Georgia
 
 USA_205 = { 205 204 } #South Carolina
 
-USA_2556 = { 60 207 208 210 211 214 } #North Carolina
+USA_2556 = { 207 208 210 211 214 } #North Carolina
 
 USA_211 = { 206 209 216 2556 } #Virginia
 
 USA_218 = { 218 215 217 } #West Virginia
 
-USA_219 = { 2146 212 213 220 219 222 221 } #Maryland
+USA_219 = { 60 2146 212 213 220 219 222 221 4047 4048 4049 } #Maryland
 
-USA_223 = { 223 224 225 226 227 228 2627 4041 } #Pennsylvania
+USA_223 = { 224 225 226 227 4041 } #Pennsylvania
 
-USA_231 = { 229 231 230 } #New Jersey
+USA_231 = { 223 229 230 231 232 4050 } #New Jersey
 
-USA_232 = { 232 80 233 234 235 236 237 238 239 240 3311 } #New York
+USA_232 = { 238 228 235 236 237 2627 } #Six Nations
 
-USA_243 = { 243 241 242 244 245 247 4042 4043 4044 4045 4046 } #Massachusets
+USA_243 = { 243 244 245 247 4043 4044 4051 } #Novele Aunis
 
-USA_247 = { 246 248 249 250 4021 4022 4023 4025 } #New England
+USA_4042 = { 4042 233 241 242 4045 4046 } #Novea Poetu 
+
+USA_246 = { 246 4021 4052 } #Nova Aquitania
+
+USA_247 = { 249 69 250 4025 4054 4055 } #Basse Acadie
+
+USA_248 = { 248 4022 4053 } #Terres des Saints
 
 
 ### United Kingdom
@@ -460,7 +478,7 @@ TUR_868 = { 868 866 870 871 3574 } #Phrygia
 
 TUR_863 = { 863 864 865 3301 } #Mysia
 
-TUR_869 = { 869 872 3601 } #Ionia
+TUR_869 = { 869 872 3601 4059 } #Ionia
 
 TUR_873 = { 873 3576 3583 } #Lycaonia
 
@@ -494,7 +512,7 @@ EGY_1156 = { 910 931 2639 } #Anazzah
 
 #EGY_910 = { } #Transjordan
 
-EGY_915 = { 913 915 912 914 } #Lebanon
+EGY_915 = { 913 915 912 914 4064 } #Lebanon
 
 EGY_921 = { 917 908 909 911 919 918 916 3357 3612 } #Palestine
 
@@ -944,7 +962,7 @@ FRA_1700 = { 1700 1702 1706 1703 1813 } #Algiers
 
 ALD_1704 = { 1704 1705 1707 } #Oran
 
-ALD_1708 = { 1708 1710 1721 1717 } #Constantine
+ALD_1708 = { 1708 1710 1721 1717 4065 4066 } #Constantine
 
 ALD_1713 = { 1713 1701 1709 1715 1712 1720 3747 3748 } #North Central Sahara
 
@@ -954,7 +972,7 @@ ALD_1718 = { 1718 1719 1716 1711 1722 3430 3742 } #Sahara
 
 TUN_1726 = { 1725 1726 1727 1728 1729 1730 } #Tunisia
 
-TRI_1731 = { 1731 1733 1734 1732 1742 1744 1740 1741 3394 3395 3617 } #Tripolitania
+TRI_1731 = { 1731 1733 1734 1732 1742 1744 1740 1741 3394 3395 3617 4060 4061 4062 4063 } #Tripolitania
 
 TRI_1735 = { 1735 1736 1737 1738 1758 2585 3610 3625 3627 } #Cyrenaica
 

@@ -1,0 +1,5 @@
+owner = MIK
+controller = MIK
+add_core = MIK
+trade_goods = grain
+life_rating = 35

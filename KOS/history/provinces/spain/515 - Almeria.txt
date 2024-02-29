@@ -1,7 +1,6 @@
-owner = ISP
-controller = ISP
-add_core = ISP
+owner = URQ
+controller = URQ
+add_core = URQ
 trade_goods = fish
 life_rating = 40
 terrain = dry_mountains
-1861.1.1 = { railroad = 3 }
